@@ -6,3 +6,5 @@ Pizarra digital larga y **estática** (sin animación) de 1080 px de ancho y 7 p
 Cambiar textos y secciones editando el HTML; una pantalla por idea.
 
 **Teclas del visor:** flecha abajo, barra espaciadora o Re Pág pasan **una pantalla** (800 px) con desplazamiento suave; flecha arriba vuelve una; Inicio regresa al comienzo. El trackpad también funciona y se ajusta a cada pantalla.
+
+**Estudio todo en uno (`estudio-pieza1.html`, recomendado):** se abre en Chrome, tiene el guion por pantalla al lado (no se graba), la cámara en la burbuja redonda y un botón de grabar. Pide cámara, micrófono y compartir la pestaña; al detener descarga el video 9:16 con pizarra, cara y voz. Si el recorte de la pestaña no es compatible, graba la pestaña completa y se recorta en CapCut. No requiere instalar nada.
