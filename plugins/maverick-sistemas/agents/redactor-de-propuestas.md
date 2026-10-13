@@ -1,6 +1,6 @@
 ---
 name: redactor-de-propuestas
-description: Redacta propuestas visuales y sin jerga para un piloto de un cuello de botella, prepara el cálculo de cotización con marcadores y responde objeciones, sin fijar precios estándar. Usar cuando exista un diagnóstico y toque preparar la propuesta.
+description: Redacta propuestas visuales y sin jerga para un piloto de un cuello de botella, prepara el cálculo de cotización con marcadores y responde objeciones, con marcadores en precio y plazo (los fija Adrie; ver la skill oferta-servicio-productizado). Usar cuando exista un diagnóstico y toque preparar la propuesta.
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

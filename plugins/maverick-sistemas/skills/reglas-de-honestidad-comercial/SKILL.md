@@ -13,7 +13,7 @@ Que todo lo que Maverick muestra o promete sea verdadero y comprobable, para gan
 2. Medir antes de prometer: se acuerda una línea base con el dueño (por ejemplo, consultas por semana, cotizaciones abiertas, tiempo de respuesta) antes de hablar de mejoras.
 3. La hipótesis se dice como hipótesis: "queremos ver si baja el tiempo de respuesta", no "bajará".
 4. No prometer ventas, agenda llena, posiciones en Google ni conversiones.
-5. Alcance, precio, costos de herramientas, responsables, permisos y qué queda fuera, por escrito en cada propuesta. No fijar plazos ni precios estándar.
+5. Alcance, precio, costos de herramientas, responsables, permisos y qué queda fuera, por escrito en cada propuesta. Plazos y precios: **solo los fija Adrie** (decisión 2026-10-13: servicio productizado con paquetes de alcance, plazo y precio definidos, ver `oferta-servicio-productizado`); ningún asistente los inventa ni los publica sin su confirmación.
 6. Primero entender el problema (visibilidad, atención, cotizaciones, capacidad, seguimiento). Un taller sin mecánicos no necesita más clientes indiscriminados.
 7. No contar como logrado lo no verificado: propuesta preparada no es enviada; interés verbal no es aceptación; mensaje precargado no es entregado.
 8. Decir lo que no se sabe ("no tengo aún ese dato") en vez de inventarlo.

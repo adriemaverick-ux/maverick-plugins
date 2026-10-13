@@ -33,7 +33,7 @@ Obtener un precio defendible y por escrito, sin cifras estándar: cada empresa s
 **Prompt:** "Con estos supuestos de horas y estos costos de herramientas, arma la tabla de cotización con marcadores sin rellenar los que no tengo. Marca cada supuesto como dato verificado o estimación y señala qué falta confirmar."
 
 ## Errores comunes
-- Fijar un precio estándar o copiar cifras en dólares de los videos.
+- Que un asistente fije el precio: **los precios y plazos de los paquetes los define Adrie** (ver `oferta-servicio-productizado`); no copiar cifras en dólares de los videos.
 - Mezclar honorarios con costos de herramientas, o esconder los recurrentes.
 - Regalar el piloto completo sin métrica ni alcance.
 - Olvidar IGV, moneda, comprobante y costos por uso (mensajes, IA).
