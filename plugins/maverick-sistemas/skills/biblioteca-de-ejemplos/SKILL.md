@@ -9,6 +9,7 @@ description: Biblioteca propia de Maverick de hooks, guiones, posts y anuncios q
 Bóveda "Maverick MP": `03 - Go-to-market/Biblioteca de ejemplos/` (índice `00 - Índice y cómo usarla`, `Plantilla de ficha de ejemplo`, `Fuentes y sistemas de contenido`, `Ejemplos/`). **Léela antes de escribir un guion, post o anuncio.** Registra todo en la bóveda (skill `registro-obsidian`).
 
 ## Reglas
+- **En las plantillas y hooks de Maverick no aparece "IA"**: se habla de consultas, cotizaciones, visitas, seguimiento y mantenimiento. Los ejemplos de competidores con IA se estudian como estructura, no como oferta.
 - **Una ficha por ejemplo; se guarda la estructura, no el texto.** Una cita corta (menos de 15 palabras) entre comillas y con fuente como máximo. No reproducir frases, imágenes, guiones ni cifras ajenas.
 - Marcar la evidencia: *observado*, *dato público* (me gusta, vistas, "en circulación desde") o *hipótesis*. Muestra pequeña: son patrones, no leyes.
 - **Nada de cifras de resultados, garantías ni casos de terceros en lo que Maverick publique.** Una cifra o garantía ajena no se copia ni se reutiliza.
@@ -41,7 +42,7 @@ Ver la ficha completa `Ejemplos/Anuncios Meta - Investigación Perú 2026-10-13`
 ## Qué encontró la investigación B2B en Meta Perú (2026-10-13)
 Ficha: `Ejemplos/Anuncios Meta - B2B servicios a empresas Perú 2026-10-13`. Resumen:
 - Hook más común: **pregunta de situación**. El más cercano al tono de Maverick: **mini-historia o frase corta que nombra el dolor, sin cifras** (Despega Creativo). También **objeción previa** ("si ya tuviste una mala experiencia con un ERP…") y "nos adaptamos a tu operación, no al revés".
-- **"Agente de IA + WhatsApp" está saturado**; diferenciarse por rubro y por el seguimiento de lo que ya entró.
+- **"Agente de IA + WhatsApp" está saturado, y Maverick no lo vende** (el producto es software y automatización, sin IA en el mensaje); se diferencia por rubro y por el seguimiento de lo que ya entró.
 - No se usan: miedo/urgencia, garantías, cifras de clientes ni promesas de ingresos.
 - CTA habitual de baja fricción: sesión gratis, "mira cómo funciona".
 

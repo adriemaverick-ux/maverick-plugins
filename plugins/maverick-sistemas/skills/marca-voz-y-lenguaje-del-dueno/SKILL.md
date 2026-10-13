@@ -12,7 +12,7 @@ Que cada pieza de Maverick Sistemas (Adrie sale en cámara) hable como alguien q
 1. Hablar como quien construye y prueba, no como experto en el oficio del cliente. Adrie no es mecánico ni técnico de campo: no darle consejos de taller.
 2. Abrir con una situación que el dueño reconozca (consulta sin respuesta, cotización sin siguiente paso, visita recurrente olvidada) y luego mostrar un paso práctico. Una idea por pieza.
 3. Vocabulario preferido: consultas, cotizaciones, visitas, clientes que regresan, responsable, seguimiento, agenda, próximo mantenimiento. Evitar CRM, pipeline, funnel, workflow, stack, "automatizar con IA" como titular.
-4. Software y automatización son medios; la IA se nombra solo si resuelve una tarea concreta de la pieza.
+4. **Se vende software y automatización; no se menciona IA** en el mensaje (decisión de Adrie, 2026-10-13). Si un cliente pregunta cómo se construye, se responde con honestidad, pero no es el argumento de venta.
 5. Mostrar el proceso antes que herramientas o siglas. Preferir diagramas y ejemplos ficticios claros a pantallas saturadas.
 6. Marca = Maverick; el nombre personal no es el eje de la oferta. En cámara Adrie dice "en Maverick armamos...", no "yo soy el experto en...".
 7. Mensajes en frío: breves, específicos, sin signos de exclamación, claros en que no se busca cotizar una reparación; una sola pregunta de diagnóstico.

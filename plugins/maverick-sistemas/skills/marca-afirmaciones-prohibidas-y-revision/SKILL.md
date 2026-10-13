@@ -9,7 +9,7 @@ description: Usar para revisar cualquier pieza, bio, guion, propuesta o mensaje 
 Evitar que salga una promesa que Maverick no puede respaldar. Maverick no promete ventas, posiciones en Google ni conversiones sin línea base y resultados medidos.
 
 ## Lo que NO se dice
-1. "IA 24/7", "atención con IA todo el día" y similares: la IA no es el producto; entra solo si resuelve una tarea concreta.
+1. "IA 24/7", "agente de IA", "atención con IA todo el día" y cualquier mención de IA como argumento de venta: **el producto es software y automatización, no IA** (decisión de Adrie, 2026-10-13).
 2. "10x", "multiplica tus ventas", "duplica tus clientes" y cualquier multiplicador.
 3. "Cero pérdidas", "no se te escapa ningún cliente", "recupera X clientes".
 4. Cifras de conversión, tiempo de respuesta, ahorro o ingresos sin medición y respaldo.
