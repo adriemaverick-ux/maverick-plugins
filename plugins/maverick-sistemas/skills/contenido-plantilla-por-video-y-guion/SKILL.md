@@ -11,6 +11,9 @@ Producir guiones cortos, en lenguaje de dueño de taller, saneamiento o mantenim
 ## Formato por defecto (2026-10-13)
 **Los guiones de Maverick se escriben para el Formato C: voz de Adrie con su cara en una burbuja redonda chica y una pizarra digital animada como protagonista** (ver `produccion-overlays-hyperframes-claude-motion`). No se escriben como "hablar a cámara con una animación de apoyo". Cada guion lleva **tabla de escenas**: frase hablada, segundo, qué se ve en la pizarra, elemento que entra, movimiento y texto en pantalla. Leer antes la bóveda: `Plan de contenido - Servicios recurrentes`, `Estudio de Reels - 5 cuentas` y `Sistema de diseño Maverick`.
 
+## Esqueleto de 9 bloques (plantilla de Franco Aguilar, pasada por Adrie, 2026-10-13)
+**Gancho, punto de "no retorno", bloque 1, gancho 2, bloque 2, gancho 3, bloque 3 (opcional si el video es corto), cierre, llamado a la acción con recurso gratis.** La pizarra se llena bloque por bloque al decirlo. Los guiones de Maverick siguen este esqueleto con el **hook de Adrie: pregunta que llama al ICP con su rubro** ("Tu empresa de mantenimiento de [rubro], ¿sabe cuántas cotizaciones tiene abiertas en este momento?"), y el punto de no retorno **hace que el dueño se lo note** (autodiagnóstico). Ficha completa en la bóveda: `Biblioteca de ejemplos/Ejemplos/Reel - Franco Aguilar - Plantilla de guion de 9 bloques`. Sin cifras ni pruebas ajenas; CTA con palabra clave solo si el recurso existe.
+
 ## Estructura de las piezas de proceso (Adrie, 2026-10-13)
 1. **Hook que llama al ICP:** nombra a la empresa que opera el espectador ("si tu empresa da servicio a cocinas y hoteles…"), no solo la situación.
 2. **Mostrar el dolor** en la pizarra, con ejemplo ficticio rotulado.
