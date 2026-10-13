@@ -1,10 +1,11 @@
 ---
-description: Prepara el fondo real del set para grabar (objetos, luz, encuadre y checklist) con la estética de Maverick
+description: Prepara el fondo de los videos (imagen de IA fija + grabación para recorte limpio + integración en CapCut) con la estética de Maverick
 ---
-Usa la skill `produccion-fondo-real-del-set` y la nota de la bóveda `Sistema de diseño Maverick`.
-1. Pregunta a Adrie qué rincón o cuarto tiene, qué objetos reales tiene a mano y qué luz hay (ventana, lámparas).
-2. Propón el set: zonas, 5 a 8 objetos con sentido, luz principal, contorno azul y lámpara ámbar, encuadre 9:16 con zonas seguras.
-3. Entrega el checklist de 2 minutos y qué foto de referencia tomar.
-4. No compres ni instales nada: lista lo que falta y espera su aprobación.
-5. Registra en la bóveda (skill `registro-obsidian`).
+Usa la skill `produccion-fondo-del-video` y la nota de la bóveda `Sistema de diseño Maverick`.
+1. Revisa si ya existe un fondo aprobado (`fondo-maverick-v1.png`) y su prompt; si no, prepara el prompt base y las variantes para que Adrie genere opciones.
+2. Si Adrie sube opciones, evalúalas con el checklist de revisión (texto raro, logos, luz, espacio libre).
+3. Indica cómo grabar (luz, distancia, fondo liso o tela verde) para que coincida con la luz del fondo.
+4. Da los pasos de CapCut para quitar el fondo e integrarlo.
+5. No actives facturación ni gastes en generadores sin aprobación de Adrie.
+6. Registra en la bóveda (skill `registro-obsidian`).
 $ARGUMENTS
