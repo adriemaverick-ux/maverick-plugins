@@ -133,8 +133,8 @@ body.claro .nodo{background:#F7F4EE}
 </div></div></div></div>
 <script>
 const $=id=>document.getElementById(id);
-const rub=new URLSearchParams(location.search).get('rubro');
-(function(){const el=$('rubro'); const t=el.parentNode; if(rub){ el.textContent=rub; } else { t.innerHTML='<span class="blue">Servicio técnico</span> a cocinas y hoteles'; }})();
+const qp=new URLSearchParams(location.search); const rub=qp.get('rubro'); const frase=qp.get('frase');
+(function(){const el=$('rubro'); const t=el.parentNode; if(frase){ t.innerHTML='<span class="blue">'+frase.replace(/</g,'&lt;')+'</span>'; } else if(rub){ el.textContent=rub; } else { t.innerHTML='<span class="blue">Servicio técnico</span> a cocinas y hoteles'; }})();
 const TEMA=new URLSearchParams(location.search).get('tema'); if(TEMA!=='oscuro'){document.body.classList.add('claro');document.documentElement.classList.add('claro');}
 const COMPLETO=new URLSearchParams(location.search).get('completo')==='1'; if(COMPLETO) document.body.classList.add('completo'); const PASO=COMPLETO?1920:800;
 const vent=$('ventana'); let idx=0;
