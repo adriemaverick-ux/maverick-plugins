@@ -46,6 +46,21 @@ Que el dueño se reconozca en los primeros 3 segundos y sienta que le habla un v
 ## Para profundizar
 Si el plugin copy-y-estilo está instalado, usa sus skills `hooks-taxonomia-y-estructura`, `hooks-metodo-6-pasos-natural`, `hooks-por-formato`, `hooks-medicion` y `hooks-patrones-de-titulos-adaptados`. Para el gancho en una pieza concreta, ver también `contenido-ganchos-para-duenos-de-servicios` de este plugin.
 
+## Escalera "mal hook, buen hook, gran hook" (referencia pasada por Adrie, 2026-10-13)
+Carrusel de Instagram (autor no indicado) que muestra **el mismo tema con tres niveles de hook**:
+- **Mal hook:** genérico y sobre la lista de cosas: "5 herramientas de IA que necesitas conocer".
+- **Buen hook:** promete un beneficio: "Estas herramientas pueden ahorrarte tiempo".
+- **Gran hook:** *"Probé estas herramientas para que no tengas que hacerlo. Esto es lo que realmente funcionó."* La razón que da el propio carrusel: **construye confianza, curiosidad y expectativa** (ahorra trabajo al espectador, promete un resultado concreto, anuncia lo que viene).
+
+**Cómo aplicarlo en Maverick:** el gran hook **hace el trabajo por el espectador y cuenta el resultado**, en primera persona, y **llama al ICP** (ver la estructura de las piezas de proceso). **Solo se puede decir lo que Adrie realmente hizo**: "armé", "revisé" o "probé" solo si es verdad y verificable; si no, no se usa. Sin IA, sin cifras, sin promesas de ventas.
+
+Escalera para la pieza 1 (cotizaciones sin seguimiento):
+- **Mal:** "3 consejos para dar seguimiento a tus cotizaciones."
+- **Bueno:** "Así puedes dejar de perder el hilo de tus cotizaciones."
+- **Gran hook:** "Si tu empresa da servicio a cocinas y hoteles: armé la versión más simple para seguir cotizaciones, para que no tengas que armarla tú. Mírala."
+
+Medir los tres con la métrica de siempre (retención a los 3 y 10 s y conversaciones de dueños por cada 1 000 alcanzadas).
+
 ## Nivel de evidencia
 Método y ejemplos: criterio propio sobre informes de hooks (2026-10-12); [consenso] en ser específico y prometer lo que se cumple. Nada de Ramiro Cubría ni Víctor Heras (sin material verificable). Marcos de Hormozi: solo por resúmenes de terceros [no verificado]. Los "después" son borradores a validar con dueños reales.
 
