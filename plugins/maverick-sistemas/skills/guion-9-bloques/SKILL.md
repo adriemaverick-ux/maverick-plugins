@@ -1,6 +1,6 @@
 ---
 name: guion-9-bloques
-description: Plantilla oficial de guiones de Maverick (Formato C, pizarra digital con burbuja redonda) basada en el esqueleto de 9 bloques - gancho, punto de no retorno, bloque 1, gancho 2, bloque 2, gancho 3, bloque 3, cierre y CTA. El hook llama al ICP con su rubro y el punto de no retorno hace que el dueño se lo note. Usar al escribir cualquier guion de Reel, Short o video de Maverick. Gatillos - "guion", "script", "plantilla de guion", "9 bloques", "pieza", "hook".
+description: Plantilla oficial de guiones de Maverick (Formato C: pizarra estática larga que Adrie desliza, con su cara en una burbuja redonda) basada en el esqueleto de 9 bloques - gancho, punto de no retorno, bloque 1, gancho 2, bloque 2, gancho 3, bloque 3, cierre y CTA. El hook llama al ICP con su rubro y el punto de no retorno hace que el dueño se lo note. Usar al escribir cualquier guion de Reel, Short o video de Maverick. Gatillos - "guion", "script", "plantilla de guion", "9 bloques", "pieza", "hook".
 ---
 
 # Guion de 9 bloques
@@ -21,7 +21,7 @@ Fuente de verdad en la bóveda: `03 - Go-to-market/Plantilla de guion de 9 bloqu
 Versión corta (30 a 50 s): 1, 2, 3, 4, 5, 8, 9. Larga: los 9.
 
 ## Reglas
-- Formato C: voz de Adrie con su cara en una burbuja redonda y pizarra digital animada como protagonista. Cada guion lleva **tabla de escenas** (bloque, segundo, voz, qué se ve, movimiento, texto en pantalla).
+- Formato C: voz de Adrie con su cara en una burbuja redonda y una pizarra estática larga que él desliza mientras explica (no es animación). Cada guion lleva **tabla de escenas** (bloque, segundo, voz, qué se ve, movimiento, texto en pantalla).
 - Hook en 3 versiones, una por rubro (campanas, plagas, refrigeración, equipos de cocina), con el mismo cuerpo; comparar retención y conversaciones.
 - Sin IA, sin cifras, sin clientes, sin promesas de ventas. "Armé", "probé" o "revisé" solo si es verdad.
 - Revisión con `revisor-de-afirmaciones` y QA antes de publicar.

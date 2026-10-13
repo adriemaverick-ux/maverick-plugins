@@ -40,16 +40,15 @@ Un panel muestra el **workflow animado armándose al compás de la voz** y el ot
 - **Zonas seguras:** la parte baja de Reels/Shorts la cubren botones y texto de la app. Primera propuesta: **cara arriba, flujo abajo**, manteniendo ojos y boca por encima de ~65% de la altura total y los elementos clave del flujo fuera del ~35% inferior. [criterio propio; las fuentes discrepan; verificar en el teléfono]
 - **El flujo se construye por etapas:** cada paso aparece cuando Adrie lo dice (tiempo de la transcripción) y queda en pantalla; un elemento "viaja" por los estados; mantener un momento quieto para leer.
 
-## Formato C: burbuja redonda + pizarra digital narrada (decisión de Adrie, 2026-10-13)
-**La pieza no es "hablar a cámara".** Adrie graba su voz mirando al lente, pero en el video final su cara queda en una **burbuja redonda chica** y **el protagonista es una pizarra digital animada** que se arma al compás de lo que dice. Es el formato por defecto para las piezas de proceso o de explicación (los otros dos siguen para énfasis y para flujos largos).
-- **Lienzo:** 1080×1920, 30 fps. Fondo grafito con retícula sutil (aspecto de pizarra), tarjetas de superficie con borde fino, azul eléctrico como color principal y **un solo acento ámbar por escena**. Inter para títulos, JetBrains Mono para etiquetas ([[produccion-sistema-visual-maverick]]).
-- **Burbuja de cara:** círculo de unos **300 a 340 px**, con anillo fino azul eléctrico, en la **parte superior** (por ejemplo arriba a la derecha), por encima de ~65 % de la altura y fuera de la franja inferior donde Reels y Shorts ponen botones. La cara se recorta del clip grabado con los ojos en el centro del círculo.
-- **Pizarra:** el contenido va en la franja media (aprox. 420 a 1100 px de alto); **subtítulos palabra por palabra** justo debajo, antes del 35 % inferior. Verificar en el teléfono.
-- **Cómo se arma:** cada elemento aparece cuando Adrie lo dice (tiempos de la transcripción); un token "viaja" por los estados; flechas que se dibujan; un momento quieto para leer; salida con barrido. Una idea por escena, entre 3 y 8 segundos.
-- **Etiqueta fija "Ejemplo ficticio"** en toda pizarra con datos inventados.
-- **Montaje:** HyperFrames renderiza **la pizarra completa** (1080×1920) con un hueco o marcador para la burbuja; CapCut coloca encima el clip recortado en círculo, con máscara redonda y borde. Así se cambia la cara sin re-renderizar.
-- **Cuándo:** piezas de proceso (cotización, visita, renovación, estado del caso). Para opinión o historia personal, usar cara más grande (Formato B).
-- **A probar contra B y A** (retención, envíos por alcance, conversaciones de dueños por cada 1 000 alcanzadas). [criterio propio; muestra pequeña]
+## Formato C: burbuja redonda + pizarra estática con scroll (decisión de Adrie, 2026-10-13; corregida)
+**No es una animación.** La pizarra es un **tablero digital largo y estático** (esquemas, fichas, listas, textos grandes) y **Adrie lo desliza con la mano mientras explica**; su cara va en una **burbuja redonda chica**. Se descartó la versión con elementos que aparecen y se animan (tarjetas, flechas, token viajero): queda solo como plantilla alternativa.
+- **Cómo lo hace la gente (búsqueda 2026-10-13, fuentes de tutoriales):** lienzo vertical largo (Canva, Figma, FigJam, Notion o HTML), **grabación de pantalla deslizando despacio** mientras se habla (Mac: Mayús + Comando + 5), recorte a la región útil y cámara en burbuja; en CapCut también se puede simular el scroll animando con fotogramas clave la posición vertical de una imagen larga.
+- **Tablero:** 1080 px de ancho, **una pantalla (800 px de alto) por idea**, texto grande, paleta Maverick, una línea de hilo a la izquierda, "Ejemplo ficticio" donde haya datos inventados. El orden de arriba hacia abajo sigue los bloques del guion de 9 bloques, **sin rótulos internos de bloque**.
+- **Escenario final 1080×1920:** burbuja de cara ~320 px arriba a la derecha (anillo azul eléctrico), ventana de la pizarra de unos 800 px (aprox. de 480 a 1280), subtítulos debajo y nada importante en el 35 % inferior.
+- **Dos formas de grabar:** (1) abrir `visor-pieza1.html` en Chrome y **grabar la pantalla mientras se desliza y se habla**; (2) importar la imagen larga a CapCut y **animar el desplazamiento con fotogramas clave** para tener control del ritmo. La cara se graba aparte y se pone en círculo en CapCut.
+- **Ritmo:** una idea por pantalla; deslizar al terminar de decir cada idea, sin rapidez.
+- **Archivos:** plantilla en `assets/tablero-pieza-1/` (tablero y visor). Versión estática renderizada en `Maverick Videos/pieza-1-tablero/`.
+- **A probar contra A y B** (retención, envíos por alcance, conversaciones de dueños por cada 1 000 alcanzadas).
 
 ## Evidencia del estudio de Reels (2026-10-12)
 En 20 Reels de 5 creadores, **42 de 46 overlays eran parciales** (la cara sigue visible) y solo 4 a pantalla completa; los subtítulos palabra por palabra son casi universales; Nick Saraev usa **animación arriba y su cara abajo** con subtítulos al centro. Apoya el Formato B como base y la pantalla completa solo para énfasis. [observado en 20 videos; muestra pequeña]
