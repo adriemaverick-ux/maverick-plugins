@@ -54,7 +54,17 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#E9E4D8;font-famil
 .pt{font-size:38px;padding:16px 26px;gap:20px;border-radius:20px}
 .pt .m{width:50px;height:50px;font-size:28px}
 .ptit{font-size:22px;margin-bottom:-2px}
+
+/* GUION LATERAL: fuera del cuadro 9:16 (no entra al recortar) */
+#lateral{position:fixed;top:0;bottom:0;display:none;flex-direction:column;justify-content:center;gap:16px;padding:20px;z-index:5;font-family:Inter,Arial,sans-serif}
+#lateral .cab{font:700 14px 'JetBrains Mono',monospace;letter-spacing:.06em;text-transform:uppercase;color:#5B6270}
+#lateral .cab b{color:#D97F00}
+#lateral .ahora{background:#fff;border:3px solid #1F6FEB;border-radius:18px;padding:18px 20px;font-weight:600;line-height:1.35;color:#12151C}
+#lateral .ahora b{color:#2459C9;font-weight:800}
+#lateral .sig{border:2px dashed #CFC8B7;border-radius:16px;padding:12px 16px;font-size:16px;color:#5B6270;line-height:1.35}
+#lateral .pos{font:600 14px 'JetBrains Mono',monospace;color:#5B6270}
 </style></head><body>
+<aside id="lateral"><div class="cab">Para ti · <b>fuera del recorte</b></div><div class="ahora" id="lAhora"></div><div class="sig" id="lSig"></div><div class="pos" id="lPos"></div></aside>
 <div id="zona"><div id="marco"><div id="escena"><div id="pista">
 
 <!-- 1 -->
@@ -153,9 +163,26 @@ if(frase){ui=frase; voz=frase.toLowerCase();} else if(rub){ui='Mantenimiento de 
 $('frase1').textContent=ui; document.querySelectorAll('.vz').forEach(e=>e.textContent=voz);
 const pista=$('pista'); let idx=0; const N=7, PASO=1920;
 const canal=('BroadcastChannel' in window)?new BroadcastChannel('maverick-pieza1'):null;
-function ir(n,desdeFuera){idx=Math.max(0,Math.min(N-1,n)); pista.scrollTo({top:idx*PASO,behavior:'smooth'}); if(canal&&!desdeFuera) canal.postMessage({idx});}
+function ir(n,desdeFuera){idx=Math.max(0,Math.min(N-1,n)); pista.scrollTo({top:idx*PASO,behavior:'smooth'}); if(canal&&!desdeFuera) canal.postMessage({idx}); lateral();}
 if(canal){canal.onmessage=e=>{ if(typeof e.data.idx==='number') ir(e.data.idx,true); };}
-function ajusta(){const k=Math.min(innerHeight/1920,innerWidth/1080); const m=$('marco'); m.style.transform=`scale(${k})`; m.style.margin=`${-(1920*(1-k))/2}px ${-(1080*(1-k))/2}px`;}
+
+const GUION=[
+ v=>`Tu empresa de <b>${v}</b>, ¿sabe cuántas cotizaciones tiene abiertas <b>en este momento</b>?`,
+ ()=>`Si para saberlo tienes que abrir chats, el seguimiento <b>depende de tu memoria</b>. Quédate y te enseño cómo ordenarlo.`,
+ ()=>`Pasa así: la cotización sale por WhatsApp, pasan los días y <b>nadie sabe</b> si la aprobaron, si sigue abierta o a quién le toca preguntar.`,
+ ()=>`Y esto es lo que <b>casi nadie hace</b>: a cada cotización ponle tres cosas.`,
+ ()=>`<b>Quién la sigue</b>, <b>qué día se le pregunta</b> al cliente y <b>en qué estado está</b>.`,
+ ()=>`Enviada, en seguimiento o cerrada. Y <b>míralas todas en una lista</b>.`,
+ ()=>`Es simple, pero <b>alguien tiene que mirarla cada día</b>. Si este paso se pierde en tu empresa, <b>cuéntame cómo lo llevas hoy</b>.`
+];
+function lateral(){
+  const k=Math.min(innerHeight/1920,innerWidth/1080), w=1080*k, libre=(innerWidth-w)/2;
+  const L=$('lateral'); if(qp.get('lateral')==='0'||libre<260){L.style.display='none';return;}
+  L.style.display='flex'; L.style.left=(innerWidth/2+w/2+14)+'px'; L.style.width=(libre-28)+'px';
+  const fs=Math.max(20,Math.min(34,(libre-28)/13)); $('lAhora').style.fontSize=fs+'px';
+  $('lAhora').innerHTML=GUION[idx](voz); $('lSig').innerHTML='Sigue: '+(idx<N-1?GUION[idx+1](voz):'(fin)'); $('lPos').textContent='Pantalla '+(idx+1)+' de '+N;
+}
+function ajusta(){const k=Math.min(innerHeight/1920,innerWidth/1080); const m=$('marco'); m.style.transform=`scale(${k})`; m.style.margin=`${-(1920*(1-k))/2}px ${-(1080*(1-k))/2}px`; lateral();}
 addEventListener('resize',ajusta); ajusta();
 function pantalla(){ if(!document.fullscreenElement){document.documentElement.requestFullscreen&&document.documentElement.requestFullscreen();} else {document.exitFullscreen();} }
 addEventListener('keydown',e=>{
