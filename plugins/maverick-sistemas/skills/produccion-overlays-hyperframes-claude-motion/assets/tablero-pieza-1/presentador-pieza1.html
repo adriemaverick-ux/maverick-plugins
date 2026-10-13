@@ -1,152 +1,155 @@
 <!doctype html><html lang="es" style="color-scheme:light"><head><meta charset="utf-8">
-<meta name="color-scheme" content="light"><meta name="theme-color" content="#EDE8DD">
+<meta name="color-scheme" content="light"><meta name="theme-color" content="#E9E4D8">
 <title>Pizarra · F = pantalla completa · Espacio = siguiente</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;800&family=JetBrains+Mono:wght@500;700&display=block" rel="stylesheet">
 <style>
-:root{--bg:#0A0C10;--sur:#12151C;--sur2:#1A1E27;--bor:#252B36;--blue:#3D8BFF;--blue2:#8AB8FF;--amb:#FFB020;--ok:#2BD9A0;--txt:#F4F5F7;--sec:#9AA1AE}
-*{box-sizing:border-box;margin:0;padding:0}
-html,body{background:var(--bg)}
-body{width:1080px;font-family:Inter,"Helvetica Neue",Arial,sans-serif;color:var(--txt)}
-.tablero{position:relative;width:1080px;background:var(--bg);
- background-image:linear-gradient(#151921 2px,transparent 2px),linear-gradient(90deg,#151921 2px,transparent 2px);background-size:90px 90px}
-.hilo{position:absolute;left:54px;top:0;bottom:0;width:4px;background:linear-gradient(var(--bor),var(--bor))}
-.sec{position:relative;height:800px;padding:56px 70px 40px 110px;border-bottom:2px dashed #1E2430}
-.nodo{position:absolute;left:40px;top:70px;width:32px;height:32px;border-radius:50%;background:var(--bg);border:5px solid var(--blue)}
-.mono{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;text-transform:uppercase;letter-spacing:.06em}
-.lab{font-size:26px;color:var(--sec)}
-.h1{font-weight:800;font-size:84px;line-height:1.05;letter-spacing:-.03em}
-.h2{font-weight:800;font-size:64px;line-height:1.08;letter-spacing:-.025em}
-.amb{color:var(--amb)}.blue{color:var(--blue2)}.ok{color:var(--ok)}
-.card{background:var(--sur);border:2px solid var(--bor);border-radius:28px}
-.chip{display:inline-flex;align-items:center;gap:12px;padding:12px 26px;border-radius:999px;border:2px solid var(--bor);background:var(--sur2);font-size:30px;font-weight:600}
-.dot{width:18px;height:18px;border-radius:50%;display:inline-block}
-.row{display:flex;align-items:center;gap:24px;height:104px;padding:0 34px;margin-bottom:18px;background:var(--sur);border:2px solid var(--bor);border-radius:22px;font-size:34px;font-weight:600}
-.row .n{font-size:26px;color:var(--sec)}
-.row .q{margin-left:auto;font-size:56px;font-weight:800;color:var(--amb)}
-.ficticio{position:absolute;right:70px;bottom:26px;font-size:24px;color:var(--amb);border:2px solid var(--amb);border-radius:10px;padding:6px 14px}
-.big{font-size:230px;font-weight:800;line-height:1}
-
-:root{color-scheme:dark}
-html,body{width:100vw;height:100vh;margin:0;background:#06080C;overflow:hidden;cursor:none}
-*{cursor:none !important}
-#zona{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:#06080C}
+:root{color-scheme:light;--bg:#F7F4EE;--sur:#FFFFFF;--sur2:#EFEBE2;--bor:#E2DCCF;--blue:#1F6FEB;--blue2:#2459C9;--amb:#D97F00;--ok:#0E9F6E;--txt:#12151C;--sec:#5B6270}
+*{box-sizing:border-box;margin:0;padding:0;cursor:none !important}
+html,body{width:100vw;height:100vh;overflow:hidden;background:#E9E4D8;font-family:Inter,"Helvetica Neue",Arial,sans-serif;color:var(--txt)}
+#zona{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:#E9E4D8}
 #marco{width:1080px;height:1920px;flex:none}
-#escena{position:relative;width:1080px;height:1920px;background:#0A0C10;overflow:hidden;
- background-image:linear-gradient(#151921 2px,transparent 2px),linear-gradient(90deg,#151921 2px,transparent 2px);background-size:90px 90px}
-#ventana{position:absolute;left:0;top:480px;width:1080px;height:800px;overflow:hidden;scroll-behavior:smooth}
-.tablero{background-image:none !important;background:transparent !important}
-
-body.completo #ventana{top:0;height:1920px}
-body.completo .sec{height:1920px;display:flex;flex-direction:column;justify-content:center;padding:0 60px 0 120px}
-body.completo .sec > *{zoom:1.22}
-body.completo .ficticio{zoom:1;bottom:auto;top:90px;right:60px}
-body.completo .nodo{top:50%}
-
-/* TEMA CLARO (por defecto, decisión de Adrie): paleta clara de Maverick */
-body.claro{--bg:#F7F4EE;--sur:#FFFFFF;--sur2:#EFEBE2;--bor:#E2DCCF;--blue:#1F6FEB;--blue2:#2459C9;--amb:#D97F00;--ok:#0E9F6E;--txt:#12151C;--sec:#5B6270;color:var(--txt)}
-html.claro,body.claro,body.claro #zona{background:#E9E4D8}
-body.claro #escena{background-color:#F7F4EE;background-image:linear-gradient(#ECE6D9 2px,transparent 2px),linear-gradient(90deg,#ECE6D9 2px,transparent 2px)}
-body.claro .sec{border-bottom-color:#DDD6C6}
-body.claro .hilo{background:#D5CDBB}
-body.claro .card,body.claro .row{box-shadow:0 6px 24px rgba(18,21,28,.07)}
-body.claro .chip{box-shadow:0 2px 8px rgba(18,21,28,.06)}
-body.claro .nodo{background:#F7F4EE}
+#escena{position:relative;width:1080px;height:1920px;overflow:hidden;background-color:#F7F4EE;background-image:linear-gradient(#ECE6D9 2px,transparent 2px),linear-gradient(90deg,#ECE6D9 2px,transparent 2px);background-size:90px 90px}
+#pista{position:absolute;left:0;top:0;width:1080px;height:1920px;overflow:hidden;scroll-behavior:smooth}
+.sec{position:relative;width:1080px;height:1920px;padding:120px 70px 110px 110px}
+.hilo{position:absolute;left:54px;top:0;bottom:0;width:4px;background:#D5CDBB}
+.nodo{position:absolute;left:40px;top:134px;width:32px;height:32px;border-radius:50%;background:#F7F4EE;border:5px solid var(--blue)}
+.mono{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;text-transform:uppercase;letter-spacing:.06em}
+.lab{font-size:28px;color:var(--sec)}
+.top{width:640px;min-height:330px}
+.h1{font-weight:800;font-size:92px;line-height:1.02;letter-spacing:-.03em}
+.h2{font-weight:800;font-size:76px;line-height:1.04;letter-spacing:-.03em}
+.amb{color:var(--amb)}.blue{color:var(--blue2)}.ok{color:var(--ok)}
+.card{background:var(--sur);border:2px solid var(--bor);border-radius:28px;box-shadow:0 6px 24px rgba(18,21,28,.07)}
+.chip{display:inline-flex;align-items:center;gap:12px;padding:12px 26px;border-radius:999px;border:2px solid var(--bor);background:var(--sur2);font-size:32px;font-weight:600}
+.dot{width:18px;height:18px;border-radius:50%;display:inline-block}
+.row{display:flex;align-items:center;gap:24px;height:108px;padding:0 34px;margin-bottom:20px;font-size:36px;font-weight:600}
+.row .n{font-size:26px;color:var(--sec)} .row .q{margin-left:auto;font-size:60px;font-weight:800;color:var(--amb)}
+.nota{font-size:36px;line-height:1.35;color:var(--sec);font-weight:500}
+.nota b{color:var(--txt)}
+.panel{position:absolute;left:110px;right:70px;bottom:110px;padding:30px 38px 34px;border-color:var(--blue);border-width:3px}
+.panel .lab{font-size:24px;color:var(--blue2);margin-bottom:10px}
+.panel p{font-size:42px;line-height:1.36;font-weight:600}
+.panel p b{color:var(--blue2);font-weight:800}
+.tag{position:absolute;left:110px;top:392px;font-size:24px;color:var(--amb);border:2px solid var(--amb);border-radius:10px;padding:6px 14px;background:#F7F4EE}
+.num{font-weight:800;color:var(--blue2);font-size:64px;width:90px}
+.ficha{display:flex;flex-direction:column;gap:22px}
+.campo{padding:26px 32px}
+.campo .t{display:flex;justify-content:space-between;align-items:center;font-size:40px;font-weight:800}
+.campo .d{margin-top:10px;font-size:30px;color:var(--sec);line-height:1.3}
 </style></head><body>
-<div id="zona"><div id="marco"><div id="escena"><div id="ventana"><div class="tablero" id="tab">
-<div class="hilo"></div>
+<div id="zona"><div id="marco"><div id="escena"><div id="pista">
 
 <!-- 1 -->
-<section class="sec"><span class="nodo"></span>
-  <div class="card" style="padding:34px 40px;margin-bottom:40px"><div class="lab mono">Tu empresa</div><div class="h2" style="margin-top:10px">Mantenimiento de <span class="blue" id="rubro">campanas</span></div></div>
-  <div class="h1">¿Sabes cuántas cotizaciones tienes abiertas <span class="amb">en este momento</span>?</div>
+<section class="sec"><div class="hilo"></div><span class="nodo"></span>
+ <div class="top"><div class="lab mono">Tu empresa</div><div class="h1 blue" style="margin-top:14px" id="frase1">Control de plagas</div></div>
+ <div class="card" style="margin-top:50px;padding:40px 44px">
+  <div class="lab mono">En 5 segundos, sin abrir chats</div>
+  <div class="h2" style="margin-top:14px">¿Cuántas cotizaciones tienes <span class="amb">abiertas ahora</span>?</div>
+ </div>
+ <div style="margin-top:34px;display:flex;flex-direction:column;gap:18px">
+  <div class="chip" style="font-size:36px;padding:18px 30px">¿Cuáles vencen hoy?</div>
+  <div class="chip" style="font-size:36px;padding:18px 30px">¿Quién las sigue?</div>
+  <div class="chip" style="font-size:36px;padding:18px 30px">¿En qué estado está cada una?</div>
+ </div>
+ <div class="card panel"><div class="lab mono">Lo que dices</div><p>Tu empresa de <b class="vz">control de plagas</b>, ¿sabe cuántas cotizaciones tiene abiertas <b>en este momento</b>?</p></div>
 </section>
 
 <!-- 2 -->
-<section class="sec"><span class="nodo"></span><span class="ficticio mono">Ejemplo ficticio</span>
-  <div class="lab mono" style="margin-bottom:26px">Si para saberlo tienes que abrir chats…</div>
-  <div class="row"><span class="n mono">#1</span>Cotización · semana pasada<span class="q">?</span></div>
-  <div class="row"><span class="n mono">#2</span>Cotización · hace 3 días<span class="q">?</span></div>
-  <div class="row"><span class="n mono">#3</span>Cotización · ayer<span class="q">?</span></div>
-  <div class="h1 amb" style="margin-top:34px">Depende de tu memoria</div>
+<section class="sec"><div class="hilo"></div><span class="nodo"></span><span class="tag mono">Ejemplo ficticio</span>
+ <div class="top"><div class="lab mono">Si para saberlo tienes que abrir chats…</div><div class="h1 amb" style="margin-top:14px">Depende de tu memoria</div></div>
+ <div style="margin-top:80px">
+  <div class="card row"><span class="n mono">#1</span>Cotización · semana pasada<span class="q">?</span></div>
+  <div class="card row"><span class="n mono">#2</span>Cotización · hace 3 días<span class="q">?</span></div>
+  <div class="card row"><span class="n mono">#3</span>Cotización · ayer<span class="q">?</span></div>
+ </div>
+ <p class="nota" style="margin-top:26px"><b>Prueba:</b> ¿cuánto tardas en saber en qué quedó cada una, <b>sin abrir WhatsApp</b>?</p>
+ <div class="card panel"><div class="lab mono">Lo que dices</div><p>Si para saberlo tienes que abrir chats, el seguimiento <b>depende de tu memoria</b>. Quédate y te enseño cómo ordenarlo.</p></div>
 </section>
 
 <!-- 3 -->
-<section class="sec"><span class="nodo"></span><span class="ficticio mono">Ejemplo ficticio</span>
-  <div class="lab mono" style="margin-bottom:24px">Así se pierde</div>
-  <div style="display:flex;gap:30px">
-    <div style="flex:1">
-      <div class="row" style="height:92px;font-size:30px">Cotización enviada ✔</div>
-      <div class="row" style="height:92px;font-size:30px">Cotización enviada ✔</div>
-      <div class="row" style="height:92px;font-size:30px;opacity:.55">Cotización enviada ✔</div>
-      <div class="row" style="height:92px;font-size:30px;opacity:.3">Cotización enviada ✔</div>
-    </div>
-    <div class="card" style="width:230px;padding:24px;height:440px"><div class="lab mono" style="font-size:22px">Semana</div>
-      <div style="margin-top:16px;display:flex;flex-direction:column;gap:14px"><span class="chip" style="font-size:28px">Lun</span><span class="chip" style="font-size:28px">Mar</span><span class="chip" style="font-size:28px">Mié</span><span class="chip" style="font-size:28px;border-color:var(--amb);color:var(--amb)">Jue</span></div></div>
+<section class="sec"><div class="hilo"></div><span class="nodo"></span><span class="tag mono">Ejemplo ficticio</span>
+ <div class="top"><div class="lab mono">Así se pierde</div><div class="h1" style="margin-top:14px">Todo queda <span class="amb">entre chats</span></div></div>
+ <div style="display:flex;gap:30px;margin-top:70px">
+  <div style="flex:1">
+   <div class="card row" style="height:96px;font-size:32px">Cotización enviada ✔</div>
+   <div class="card row" style="height:96px;font-size:32px">Cotización enviada ✔</div>
+   <div class="card row" style="height:96px;font-size:32px;opacity:.6">Cotización enviada ✔</div>
+   <div class="card row" style="height:96px;font-size:32px;opacity:.3">Cotización enviada ✔</div>
   </div>
-  <div class="mono amb" style="margin-top:34px;font-size:40px;font-weight:700;display:flex;gap:34px;flex-wrap:wrap"><span>¿Aprobada?</span><span>¿Abierta?</span><span>¿Quién pregunta?</span></div>
+  <div class="card" style="width:250px;padding:26px"><div class="lab mono" style="font-size:24px">Semana</div>
+   <div style="margin-top:16px;display:flex;flex-direction:column;gap:14px"><span class="chip">Lun</span><span class="chip">Mar</span><span class="chip">Mié</span><span class="chip" style="border-color:var(--amb);color:var(--amb)">Jue</span></div></div>
+ </div>
+ <div class="mono amb" style="margin-top:34px;font-size:42px;font-weight:700;display:flex;gap:30px;flex-wrap:wrap"><span>¿Aprobada?</span><span>¿Abierta?</span><span>¿Quién pregunta?</span></div>
+ <div class="card panel"><div class="lab mono">Lo que dices</div><p>Pasa así: la cotización sale por WhatsApp, pasan los días y <b>nadie sabe</b> si la aprobaron, si sigue abierta o a quién le toca preguntar.</p></div>
 </section>
 
 <!-- 4 -->
-<section class="sec" style="display:flex;flex-direction:column;justify-content:center"><span class="nodo"></span>
-  <div class="lab mono">Y esto es</div>
-  <div class="h1" style="margin-top:14px;font-size:110px">Lo que casi <span class="blue">nadie hace</span></div>
-  <div style="width:420px;height:10px;background:var(--amb);border-radius:5px;margin-top:30px"></div>
+<section class="sec"><div class="hilo"></div><span class="nodo"></span>
+ <div class="top"><div class="lab mono">Y esto es</div><div class="h1" style="margin-top:14px">Lo que casi <span class="blue">nadie hace</span></div></div>
+ <div style="margin-top:60px;display:flex;flex-direction:column;gap:22px">
+  <div class="card" style="padding:28px 34px;display:flex;align-items:center;gap:26px"><span class="num">1</span><span style="font-size:44px;font-weight:800">Un responsable</span></div>
+  <div class="card" style="padding:28px 34px;display:flex;align-items:center;gap:26px"><span class="num">2</span><span style="font-size:44px;font-weight:800">Un día de seguimiento</span></div>
+  <div class="card" style="padding:28px 34px;display:flex;align-items:center;gap:26px"><span class="num">3</span><span style="font-size:44px;font-weight:800">Un estado</span></div>
+ </div>
+ <p class="nota" style="margin-top:26px">A <b>cada</b> cotización, las tres cosas.</p>
+ <div class="card panel"><div class="lab mono">Lo que dices</div><p>Y esto es lo que <b>casi nadie hace</b>: a cada cotización ponle tres cosas.</p></div>
 </section>
 
 <!-- 5 -->
-<section class="sec"><span class="nodo"></span><span class="ficticio mono">Ejemplo ficticio</span>
-  <div class="lab mono" style="margin-bottom:24px">A cada cotización, 3 cosas</div>
-  <div class="card" style="padding:34px 40px">
-    <div class="mono lab" style="font-size:22px">Ficha de cotización</div>
-    <div style="display:flex;flex-direction:column;gap:20px;margin-top:22px">
-      <div class="chip" style="font-size:40px;padding:22px 34px;justify-content:space-between"><span class="mono" style="font-size:24px;color:var(--sec)">1 · Quién la sigue</span><span class="blue">Carlos</span></div>
-      <div class="chip" style="font-size:40px;padding:22px 34px;justify-content:space-between"><span class="mono" style="font-size:24px;color:var(--sec)">2 · Qué día se pregunta</span><span class="amb">Jueves</span></div>
-      <div class="chip" style="font-size:40px;padding:22px 34px;justify-content:space-between"><span class="mono" style="font-size:24px;color:var(--sec)">3 · En qué estado está</span><span class="blue">Enviada</span></div>
-    </div>
-  </div>
+<section class="sec"><div class="hilo"></div><span class="nodo"></span><span class="tag mono">Ejemplo ficticio</span>
+ <div class="top"><div class="lab mono">Ficha de cotización</div><div class="h2" style="margin-top:14px">Tres campos, <span class="blue">siempre llenos</span></div></div>
+ <div class="ficha" style="margin-top:64px">
+  <div class="card campo"><div class="t"><span class="mono" style="font-size:26px;color:var(--sec)">1 · Quién la sigue</span><span class="blue">Carlos</span></div><div class="d">Una sola persona, con nombre. No “el equipo”.</div></div>
+  <div class="card campo"><div class="t"><span class="mono" style="font-size:26px;color:var(--sec)">2 · Qué día se pregunta</span><span class="amb">Jueves</span></div><div class="d">Una fecha concreta. No “después”.</div></div>
+  <div class="card campo"><div class="t"><span class="mono" style="font-size:26px;color:var(--sec)">3 · En qué estado está</span><span class="blue">Enviada</span></div><div class="d">Enviada, en seguimiento o cerrada.</div></div>
+ </div>
+ <div class="card panel"><div class="lab mono">Lo que dices</div><p>Quién la sigue, <b>qué día se le pregunta</b> al cliente y en qué estado está.</p></div>
 </section>
 
 <!-- 6 -->
-<section class="sec"><span class="nodo"></span><span class="ficticio mono">Ejemplo ficticio</span>
-  <div class="lab mono" style="margin-bottom:22px">Los 3 estados</div>
-  <div style="display:flex;align-items:center;gap:12px;margin-bottom:34px">
-    <span class="chip" style="font-size:30px"><span class="dot" style="background:var(--blue)"></span>Enviada</span><span style="font-size:44px;color:var(--blue2)">→</span>
-    <span class="chip" style="font-size:30px"><span class="dot" style="background:var(--amb)"></span>En seguimiento</span><span style="font-size:44px;color:var(--blue2)">→</span>
-    <span class="chip" style="font-size:30px"><span class="dot" style="background:var(--ok)"></span>Cerrada</span>
-  </div>
-  <div class="lab mono" style="margin-bottom:16px">Y míralas todas en una lista</div>
-  <div class="row" style="height:92px;font-size:30px"><span class="n mono">#1</span>Carlos · jueves<span class="chip" style="margin-left:auto;font-size:24px;padding:6px 20px"><span class="dot" style="background:var(--amb)"></span>En seguimiento</span></div>
-  <div class="row" style="height:92px;font-size:30px"><span class="n mono">#2</span>Ana · viernes<span class="chip" style="margin-left:auto;font-size:24px;padding:6px 20px"><span class="dot" style="background:var(--blue)"></span>Enviada</span></div>
-  <div class="row" style="height:92px;font-size:30px"><span class="n mono">#3</span>Luis · lunes<span class="chip" style="margin-left:auto;font-size:24px;padding:6px 20px"><span class="dot" style="background:var(--ok)"></span>Cerrada</span></div>
+<section class="sec"><div class="hilo"></div><span class="nodo"></span><span class="tag mono">Ejemplo ficticio</span>
+ <div class="top"><div class="lab mono">Los 3 estados</div><div class="h2" style="margin-top:14px">Y todas en <span class="blue">una lista</span></div></div>
+ <div style="display:flex;align-items:center;gap:12px;margin-top:56px;flex-wrap:wrap">
+  <span class="chip"><span class="dot" style="background:var(--blue)"></span>Enviada</span><span style="font-size:46px;color:var(--blue2)">→</span>
+  <span class="chip"><span class="dot" style="background:var(--amb)"></span>En seguimiento</span><span style="font-size:46px;color:var(--blue2)">→</span>
+  <span class="chip"><span class="dot" style="background:var(--ok)"></span>Cerrada</span>
+ </div>
+ <div style="margin-top:44px">
+  <div class="card row" style="height:100px;font-size:34px"><span class="n mono">#1</span>Carlos · jueves<span class="chip" style="margin-left:auto;font-size:26px;padding:8px 22px"><span class="dot" style="background:var(--amb)"></span>En seguimiento</span></div>
+  <div class="card row" style="height:100px;font-size:34px"><span class="n mono">#2</span>Ana · viernes<span class="chip" style="margin-left:auto;font-size:26px;padding:8px 22px"><span class="dot" style="background:var(--blue)"></span>Enviada</span></div>
+  <div class="card row" style="height:100px;font-size:34px"><span class="n mono">#3</span>Luis · lunes<span class="chip" style="margin-left:auto;font-size:26px;padding:8px 22px"><span class="dot" style="background:var(--ok)"></span>Cerrada</span></div>
+ </div>
+ <p class="nota" style="margin-top:18px"><b>Cada mañana:</b> mira la lista y escribe a quien toca hoy.</p>
+ <div class="card panel"><div class="lab mono">Lo que dices</div><p>Enviada, en seguimiento o cerrada. Y <b>míralas todas en una lista</b>.</p></div>
 </section>
 
 <!-- 7 -->
-<section class="sec" style="border-bottom:none"><span class="nodo"></span>
-  <div class="lab mono">Es simple, pero…</div>
-  <div class="h2" style="margin:14px 0 40px">Alguien la mira <span class="amb">cada día</span></div>
-  <div class="card" style="padding:40px;border-color:var(--blue)">
-    <div class="lab mono">Si este paso se pierde en tu empresa…</div>
-    <div class="h1" style="margin-top:14px;font-size:80px">Cuéntame <span class="blue">cómo lo llevas hoy</span></div>
-  </div>
+<section class="sec"><div class="hilo"></div><span class="nodo"></span>
+ <div class="top"><div class="lab mono">Es simple, pero…</div><div class="h1" style="margin-top:14px">Alguien la mira <span class="amb">cada día</span></div></div>
+ <div class="card" style="margin-top:56px;padding:44px;border-color:var(--blue);border-width:3px">
+  <div class="lab mono">Si este paso se pierde en tu empresa…</div>
+  <div class="h2" style="margin-top:14px">Cuéntame <span class="blue">cómo lo llevas hoy</span></div>
+ </div>
+ <div class="card panel"><div class="lab mono">Lo que dices</div><p>Es simple, pero <b>alguien tiene que mirarla cada día</b>. Si este paso se pierde en tu empresa, cuéntame cómo lo llevas hoy.</p></div>
 </section>
-</div>
+
 </div></div></div></div>
 <script>
 const $=id=>document.getElementById(id);
 const qp=new URLSearchParams(location.search); const rub=qp.get('rubro'); const frase=qp.get('frase');
-(function(){const el=$('rubro'); const t=el.parentNode; if(frase){ t.innerHTML='<span class="blue">'+frase.replace(/</g,'&lt;')+'</span>'; } else if(rub){ el.textContent=rub; } else { t.innerHTML='<span class="blue">Servicio técnico</span> a cocinas y hoteles'; }})();
-const TEMA=new URLSearchParams(location.search).get('tema'); if(TEMA!=='oscuro'){document.body.classList.add('claro');document.documentElement.classList.add('claro');}
-const COMPLETO=new URLSearchParams(location.search).get('completo')==='1'; if(COMPLETO) document.body.classList.add('completo'); const PASO=COMPLETO?1920:800;
-const vent=$('ventana'); let idx=0;
-function ir(n){idx=Math.max(0,Math.min(6,n)); vent.scrollTo({top:idx*PASO,behavior:'smooth'});}
+let ui='Servicio técnico a cocinas y hoteles', voz='servicio técnico a cocinas y hoteles';
+if(frase){ui=frase; voz=frase.toLowerCase();} else if(rub){ui='Mantenimiento de '+rub; voz='mantenimiento de '+rub;}
+$('frase1').textContent=ui; document.querySelectorAll('.vz').forEach(e=>e.textContent=voz);
+const pista=$('pista'); let idx=0; const N=7, PASO=1920;
+function ir(n){idx=Math.max(0,Math.min(N-1,n)); pista.scrollTo({top:idx*PASO,behavior:'smooth'});}
 function ajusta(){const k=Math.min(innerHeight/1920,innerWidth/1080); const m=$('marco'); m.style.transform=`scale(${k})`; m.style.margin=`${-(1920*(1-k))/2}px ${-(1080*(1-k))/2}px`;}
 addEventListener('resize',ajusta); ajusta();
 function pantalla(){ if(!document.fullscreenElement){document.documentElement.requestFullscreen&&document.documentElement.requestFullscreen();} else {document.exitFullscreen();} }
 addEventListener('keydown',e=>{
-  if(['ArrowDown',' ','PageDown','Enter'].includes(e.key)){e.preventDefault();ir(idx+1);}
-  else if(['ArrowUp','PageUp','Backspace'].includes(e.key)){e.preventDefault();ir(idx-1);}
-  else if(e.key==='Home'){e.preventDefault();ir(0);}
-  else if(e.key==='f'||e.key==='F'){pantalla();}
+ if(['ArrowDown',' ','PageDown','Enter'].includes(e.key)){e.preventDefault();ir(idx+1);}
+ else if(['ArrowUp','PageUp','Backspace'].includes(e.key)){e.preventDefault();ir(idx-1);}
+ else if(e.key==='Home'){e.preventDefault();ir(0);}
+ else if(e.key==='f'||e.key==='F'){pantalla();}
 });
 addEventListener('dblclick',pantalla);
 addEventListener('wheel',e=>{e.preventDefault(); ir(idx+(e.deltaY>0?1:-1));},{passive:false});
