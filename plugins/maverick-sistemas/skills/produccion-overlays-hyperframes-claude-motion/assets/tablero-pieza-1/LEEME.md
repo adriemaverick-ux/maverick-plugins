@@ -1,10 +1,6 @@
 # Tablero estático de la pieza 1 (Formato C)
 
-Pizarra digital larga y **estática** (sin animación) de 1080 px de ancho y 7 pantallas de 800 px, con una línea de hilo a la izquierda. Adrie **desliza mientras explica**.
-- `tablero.html` (usa `?rubro=plagas`, `?rubro=refrigeración`, etc.): se exporta a imagen larga (1080×5600) con Chrome en modo headless.
-- `visor-pieza1.html`: escenario 1080×1920 con la ventana de la pizarra (y 480 a 1280) desplazable con el trackpad y la burbuja de cara marcada arriba a la derecha; se graba la pantalla mientras se desliza.
-Cambiar textos y secciones editando el HTML; una pantalla por idea.
-
-**Teclas del visor:** flecha abajo, barra espaciadora o Re Pág pasan **una pantalla** (800 px) con desplazamiento suave; flecha arriba vuelve una; Inicio regresa al comienzo. El trackpad también funciona y se ajusta a cada pantalla.
-
-**Estudio todo en uno (`estudio-pieza1.html`, recomendado):** se abre en Chrome, tiene el guion por pantalla al lado (no se graba), la cámara en la burbuja redonda y un botón de grabar. Pide cámara, micrófono y compartir la pestaña; al detener descarga el video 9:16 con pizarra, cara y voz. Si el recorte de la pestaña no es compatible, graba la pestaña completa y se recorta en CapCut. No requiere instalar nada.
+Pizarra digital **estática** en modo oscuro, de 1080 px de ancho y 7 pantallas, que Adrie **desliza mientras explica**. Sin animaciones.
+- `presentador-pieza1.html`: **solo el gráfico, limpio y en pantalla completa, sin nada más** (sin paneles, sin botones, sin cursor). Se abre en Chrome; **F** o doble clic = pantalla completa; **barra espaciadora, flecha ↓ o la rueda** = siguiente pantalla; flecha ↑ = anterior. `?rubro=plagas` cambia el rubro; **`?completo=1`** hace que el gráfico llene todo el cuadro 9:16 (sin zonas libres para la burbuja ni los subtítulos); sin ese parámetro deja libre la parte alta (burbuja de cara) y la baja (subtítulos).
+- `tablero.html`: fuente editable; se exporta a imagen larga con Chrome headless.
+Grabar con la grabación de pantalla del Mac (Mayús + Comando + 5, "Grabar parte seleccionada", micrófono activado) o con la herramienta que prefiera Adrie.
