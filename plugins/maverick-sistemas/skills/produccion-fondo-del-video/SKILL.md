@@ -1,9 +1,11 @@
 ---
 name: produccion-fondo-del-video
-description: Fondo de los videos en cámara de Maverick - decisión de Adrie (2026-10-13) de usar un fondo YA EXISTENTE de casa u oficina real (como el de Trenton Luera), descargado de un banco de imágenes y puesto al editar en CapCut, con la estética de la marca. Incluye dónde conseguirlo, cómo elegirlo, licencias, cómo grabar para el recorte y cómo integrarlo. Gatillos - "fondo", "background", "fondo de oficina", "fondo existente", "quitar el fondo", "dónde grabo", "iluminación".
+description: Fondo de los videos en cámara de Maverick - decisión final de Adrie (2026-10-13) - usar SU FONDO NORMAL tal como está. Esta skill queda como referencia opcional (luz, encuadre, y alternativa de fondo existente puesto al editar) solo si Adrie lo pide. Gatillos - "fondo", "background", "dónde grabo", "iluminación".
 ---
 
-# Fondo del video: fondo existente de casa u oficina, puesto al editar
+# DECISIÓN FINAL: Adrie usa su fondo normal. No proponer cambiarlo, comprar nada ni generar fondos. El resto de esta skill es opcional y solo se usa si Adrie lo pide.
+
+# Referencia opcional - Fondo del video: fondo existente de casa u oficina, puesto al editar
 
 ## Decisión
 Adrie decidió (2026-10-13): **usar un fondo que ya existe** (foto o video de una **casa u oficina normal y real**), **no generarlo con IA ni diseñarlo**. Se descarga **uno**, se elige y se **pone al editar** detrás de su recorte. Referencia: el estilo de **Trenton Luera**, cuyas fichas del estudio de Reels describen estudios con estantería, trofeos u oficina; **no se sabe si él usa un set físico o un fondo puesto en edición**, así que se toma como referencia de aspecto, no de método. Los fondos animados solo van en escenas a pantalla completa (ver `produccion-overlays-hyperframes-claude-motion`).
