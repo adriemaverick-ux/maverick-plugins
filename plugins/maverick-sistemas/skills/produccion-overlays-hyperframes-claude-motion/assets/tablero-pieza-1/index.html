@@ -3,7 +3,7 @@
 h1{font-size:30px}p{color:#5B6270}button{display:block;width:100%;box-sizing:border-box;margin:12px 0;padding:18px 22px;border-radius:14px;border:2px solid #E2DCCF;background:#fff;font:600 20px Inter,Arial;color:#1F6FEB;text-align:left;cursor:pointer}
 button:hover{border-color:#1F6FEB}input{width:100%;box-sizing:border-box;padding:16px;border-radius:12px;border:2px solid #E2DCCF;font:500 18px Inter,Arial}.aviso{background:#fff;border:2px solid #1F6FEB;border-radius:14px;padding:14px 18px;color:#2459C9;font-weight:600}</style></head><body>
 <h1>¿Para qué rubro es esta versión?</h1>
-<div class="aviso">Al elegir, se abre el <b>guion en una ventana aparte (esa NO se graba)</b> y esta pestaña se convierte en el <b>gráfico limpio (la que grabas)</b>. Pon el guion al lado o debajo.</div>
+<div class="aviso">Al elegir, esta pestaña se convierte en el <b>gráfico limpio</b> (la que grabas). El gráfico mismo trae los puntos para hablar.</div>
 <button onclick="abrir('')">Genérico: servicio técnico a cocinas y hoteles</button>
 <button onclick="abrir('?frase=Control de plagas')">Control de plagas</button>
 <button onclick="abrir('?rubro=campanas')">Mantenimiento de campanas</button>
@@ -14,7 +14,6 @@ button:hover{border-color:#1F6FEB}input{width:100%;box-sizing:border-box;padding
 <input id="otro" placeholder="por ejemplo: limpieza de bandejas" onkeydown="if(event.key==='Enter'&&this.value.trim())abrir('?rubro='+encodeURIComponent(this.value.trim()))">
 <script>
 function abrir(q){
-  window.open('guion-pieza1.html'+q,'guion','popup=yes,width=860,height=900,left=40,top=40');
   location.href='presentador-pieza1.html'+q;
 }
 </script></body></html>
