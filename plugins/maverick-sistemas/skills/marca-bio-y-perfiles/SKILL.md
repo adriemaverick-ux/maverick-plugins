@@ -13,7 +13,7 @@ Dejar los perfiles públicos de Maverick Sistemas claros, coherentes y sin prome
 2. Nombre de marca: Maverick Sistemas. Usuario deseado: `@maverick.sistemas`. Nombre visible propuesto: `Maverick | Sistemas y Procesos`.
 3. Todo eso es propuesta hasta verificarlo en la cuenta: no anotarlo como publicado sin comprobarlo. No usar la cuenta personal por error.
 4. Facebook: un nuevo cambio de nombre tiene espera de 60 días; no prometer que pueda cambiarse ya. No hay verificación de la portada publicada.
-5. Idea central de la bio: sistemas para empresas de mantenimiento y servicios técnicos recurrentes, con atención, cotizaciones y seguimiento en afirmativo.
+5. Idea central de la bio (nicho oficial desde 2026-10-13): sistemas de seguimiento para empresas que dan servicio a cocinas comerciales y hoteles, con consulta, cotización y visita con seguimiento, en afirmativo y **sin IA**. Opciones A, B y C en la bóveda (`Marca Maverick y contenido`); límites: 150 caracteres de bio y 30 de nombre.
 6. La última línea de la bio propuesta ("Más trabajos cerrados") es resultado buscado, no garantía: preferir una formulación como objetivo si se puede (ver ejemplo).
 7. Identidad visual preferida por el dueño: portada navy oscuro, crema y naranja, modo oscuro (detalle en el sistema de diseño de la bóveda).
 8. Respetar límites de caracteres de cada app sin perder la promesa central.
