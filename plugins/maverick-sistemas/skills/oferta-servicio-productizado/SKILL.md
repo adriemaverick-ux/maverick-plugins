@@ -16,7 +16,7 @@ Antes: "piloto a medida, sin plazos ni precios estándar". Ahora: **paquetes con
 
 ## Anatomía de un paquete (plantilla)
 1. **Nombre claro** que dice el resultado en lenguaje del dueño (ej. ficticio: *Sistema de seguimiento de cotizaciones*).
-2. **Para quién:** talleres, empresas de saneamiento y mantenimiento técnico recurrente en Lima (el nicho vigente).
+2. **Para quién (nicho propuesto, pendiente de confirmar):** proveedores de servicios técnicos y equipos para cocinas comerciales y hostelería (limpieza de campanas y extracción, trampas de grasa, control de plagas para restaurantes y hoteles, mantenimiento de refrigeración y equipos, distribuidores con servicio técnico como Spektank). **Mercado: todo el mundo hispanohablante y los latinos en EE. UU., no solo Lima.**
 3. **Problema en una frase:** lo que se pierde en el camino (consulta sin respuesta, cotización sin seguimiento, visita sin fecha).
 4. **Entregables cerrados** (lista corta): qué se instala, qué se configura, qué plantillas y qué capacitación.
 5. **Qué queda fuera** (por escrito).
