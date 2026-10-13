@@ -1,14 +1,20 @@
 <!doctype html><html lang="es"><head><meta charset="utf-8"><title>Elegir rubro</title><meta name="color-scheme" content="light">
 <style>body{margin:0;background:#F7F4EE;color:#12151C;font-family:Inter,Arial,sans-serif;padding:40px;max-width:760px}
-h1{font-size:30px}p{color:#5B6270}a,button{display:block;width:100%;box-sizing:border-box;margin:12px 0;padding:18px 22px;border-radius:14px;border:2px solid #E2DCCF;background:#fff;font:600 20px Inter,Arial;color:#1F6FEB;text-decoration:none;text-align:left;cursor:pointer}
-a:hover{border-color:#1F6FEB}input{width:100%;box-sizing:border-box;padding:16px;border-radius:12px;border:2px solid #E2DCCF;font:500 18px Inter,Arial}</style></head><body>
-<h1>¿Para qué rubro es esta versión?</h1><p>Elige uno y se abre el gráfico limpio. Barra espaciadora = siguiente; F = pantalla completa.</p>
-<a href="presentador-pieza1.html">Genérico: servicio técnico a cocinas y hoteles</a>
-<a href="presentador-pieza1.html?rubro=campanas">Mantenimiento de campanas</a>
-<a href="presentador-pieza1.html?frase=Control de plagas">Control de plagas</a>
-<a href="presentador-pieza1.html?rubro=refrigeración">Mantenimiento de refrigeración</a>
-<a href="presentador-pieza1.html?rubro=equipos de cocina">Mantenimiento de equipos de cocina</a>
-<a href="presentador-pieza1.html?rubro=trampas de grasa">Mantenimiento de trampas de grasa</a>
+h1{font-size:30px}p{color:#5B6270}button{display:block;width:100%;box-sizing:border-box;margin:12px 0;padding:18px 22px;border-radius:14px;border:2px solid #E2DCCF;background:#fff;font:600 20px Inter,Arial;color:#1F6FEB;text-align:left;cursor:pointer}
+button:hover{border-color:#1F6FEB}input{width:100%;box-sizing:border-box;padding:16px;border-radius:12px;border:2px solid #E2DCCF;font:500 18px Inter,Arial}.aviso{background:#fff;border:2px solid #1F6FEB;border-radius:14px;padding:14px 18px;color:#2459C9;font-weight:600}</style></head><body>
+<h1>¿Para qué rubro es esta versión?</h1>
+<div class="aviso">Al elegir, se abre el <b>guion en una ventana aparte (esa NO se graba)</b> y esta pestaña se convierte en el <b>gráfico limpio (la que grabas)</b>. Pon el guion al lado o debajo.</div>
+<button onclick="abrir('')">Genérico: servicio técnico a cocinas y hoteles</button>
+<button onclick="abrir('?frase=Control de plagas')">Control de plagas</button>
+<button onclick="abrir('?rubro=campanas')">Mantenimiento de campanas</button>
+<button onclick="abrir('?rubro=refrigeración')">Mantenimiento de refrigeración</button>
+<button onclick="abrir('?rubro=equipos de cocina')">Mantenimiento de equipos de cocina</button>
+<button onclick="abrir('?rubro=trampas de grasa')">Mantenimiento de trampas de grasa</button>
 <p style="margin-top:24px">Otro rubro (escríbelo y pulsa Enter):</p>
-<input id="otro" placeholder="por ejemplo: limpieza de bandejas" onkeydown="if(event.key==='Enter'&&this.value.trim())location.href='presentador-pieza1.html?rubro='+encodeURIComponent(this.value.trim())">
-</body></html>
+<input id="otro" placeholder="por ejemplo: limpieza de bandejas" onkeydown="if(event.key==='Enter'&&this.value.trim())abrir('?rubro='+encodeURIComponent(this.value.trim()))">
+<script>
+function abrir(q){
+  window.open('guion-pieza1.html'+q,'guion','popup=yes,width=860,height=900,left=40,top=40');
+  location.href='presentador-pieza1.html'+q;
+}
+</script></body></html>
