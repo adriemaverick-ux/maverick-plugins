@@ -72,7 +72,7 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#E9E4D8;font-famil
 <section class="sec"><div class="hilo"></div><span class="nodo"></span><span class="tag mono">Ejemplo ficticio</span><div class="top"><div class="lab mono">Si la respuesta es…</div><div class="h1 amb" style="margin-top:14px">“Depende de quién la vea”</div></div>
 <div style="margin-top:80px"><div class="card row"><span class="n mono">#1</span>Consulta · 9:02<span class="q">?</span></div><div class="card row"><span class="n mono">#2</span>Consulta · 13:15<span class="q">?</span></div><div class="card row"><span class="n mono">#3</span>Consulta · 17:40<span class="q">?</span></div></div>
 <p class="nota" style="margin-top:26px"><b>¿Quién respondió cada una?</b> ¿Y cuánto tardó?</p><div class="puntos"><div class="pt"><span class="m no">✗</span><span class="tx">Nadie tiene <b>la responsabilidad</b></span></div><div class="pt"><span class="m no">✗</span><span class="tx">Se responde <b>cuando hay tiempo</b></span></div><div class="pt"><span class="m ok">✓</span><span class="tx">Quédate: te explico <b>por qué</b></span></div></div></section>
-<section class="sec"><div class="hilo"></div><span class="nodo"></span><span class="tag mono">Ejemplo ficticio</span><div class="top"><div class="lab mono">El cliente no te escribe solo a ti</div><div class="h1" style="margin-top:14px">Escribe a <span class="blue">varias empresas</span></div></div>
+<section class="sec"><div class="hilo"></div><span class="nodo"></span><span class="tag mono">Ejemplo ficticio</span><div class="top"><div class="lab mono" id="motivo">El cliente no te escribe solo a ti</div><div class="h1" style="margin-top:14px">Escribe a <span class="blue">varias empresas</span></div></div>
 <div style="margin-top:60px"><div class="chip" style="font-size:34px;margin-bottom:22px">9:02 · el cliente pide cotización</div>
 <div class="card row" style="height:96px;font-size:32px"><span class="n mono">A</span>Empresa A<span class="chip" style="margin-left:auto;font-size:26px;padding:8px 22px"><span class="dot" style="background:var(--ok)"></span>9:05 · responde</span></div>
 <div class="card row" style="height:96px;font-size:32px"><span class="n mono">B</span>Empresa B<span class="chip" style="margin-left:auto;font-size:26px;padding:8px 22px"><span class="dot" style="background:var(--ok)"></span>9:20 · responde</span></div>
@@ -95,6 +95,15 @@ const qp=new URLSearchParams(location.search); const rub=qp.get('rubro'); const 
 let ui='Servicio técnico a cocinas y hoteles', voz='servicio técnico a cocinas y hoteles';
 if(frase){ui=frase; voz=frase.toLowerCase();} else if(rub){ui='Mantenimiento de '+rub; voz='mantenimiento de '+rub;}
 $('frase1').textContent=ui; document.querySelectorAll('.vz').forEach(e=>e.textContent=voz);
+
+const _k=((frase||rub||'')+'').toLowerCase();
+let MOT, FR;
+if(_k.includes('plaga')){MOT='Tiene una plaga: no puede esperar'; FR='Cuando un restaurante tiene una plaga, no espera.';}
+else if(_k.includes('refriger')){MOT='Se cayó la cámara: cada hora cuenta'; FR='Cuando se cae una cámara de frío, no espera.';}
+else if(_k.includes('campana')||_k.includes('grasa')){MOT='Decide hoy: si tardas, decide con otra'; FR='Cuando un restaurante pide cotización, está decidiendo hoy.';}
+else if(_k.includes('equipo')){MOT='Hoy está interesado: mañana ya no'; FR='Cuando alguien pide una demo, está interesado hoy.';}
+else {MOT='Tiene una necesidad: no puede esperar'; FR='Cuando alguien necesita tu servicio, no espera.';}
+document.getElementById('motivo').textContent=MOT;
 const pista=$('pista'); let idx=0; const N=7, PASO=1920;
 const canal=('BroadcastChannel' in window)?new BroadcastChannel('maverick-pieza1'):null;
 function ir(n,desdeFuera){idx=Math.max(0,Math.min(N-1,n)); pista.scrollTo({top:idx*PASO,behavior:'smooth'}); if(canal&&!desdeFuera) canal.postMessage({idx}); lateral();}
@@ -103,7 +112,7 @@ if(canal){canal.onmessage=e=>{ if(typeof e.data.idx==='number') ir(e.data.idx,tr
 const GUION=[
  v=>`Tu empresa de <b>${v}</b>, ¿cuánto tarda en responder cuando <b>entra una consulta nueva</b>?`,
  ()=>`Si la respuesta es <b>“depende de quién la vea”</b>, estás dejando clientes en la mesa. Quédate y te explico por qué.`,
- ()=>`Quien pide una cotización rara vez le escribe a una sola empresa. <b>Escribe a varias</b> y se queda con la que <b>responde primero y con claridad</b>.`,
+ ()=>`<b>${FR}</b> Quien pide una cotización rara vez le escribe a una sola empresa. <b>Escribe a varias</b> y se queda con la que <b>responde primero y con claridad</b>.`,
  ()=>`Y esto es lo que <b>no se ve</b>: el cliente que se va por tardar <b>no te avisa</b>. Así puedes estar <b>regalándole clientes a la competencia</b>.`,
  ()=>`Define <b>un tiempo máximo</b> de primera respuesta, <b>un responsable</b> por turno y <b>un mensaje</b> listo para enviar.`,
  ()=>`La primera respuesta no es la cotización: <b>confirma que la recibiste</b>, <b>pide el dato que falta</b> y <b>di cuándo llega</b>.`,
