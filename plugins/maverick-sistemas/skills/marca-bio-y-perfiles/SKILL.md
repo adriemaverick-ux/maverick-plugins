@@ -29,6 +29,9 @@ Propuesta vigente (Instagram), adaptable:
 Variante más prudente de la última línea: "Cada solicitud con responsable y siguiente paso."
 Descripción corta para YouTube/Facebook: "Armamos sistemas para que las consultas, cotizaciones y próximas visitas de tu empresa no se pierdan."
 
+## Patrón de las bios de las 5 cuentas estudiadas (2026-10-13)
+Tres líneas: (1) a quién ayudan y con qué resultado, (2) prueba (cifra o credencial), (3) llamado a la acción con flecha o emoji; un solo enlace; destacadas tipo "qué hago", "mi historia" y testimonios; idioma del público; una cuenta usa palabra clave en la bio. **Maverick no copia cifras ni testimonios**: su prueba es de proceso, y la palabra clave solo si el recurso existe. Opción D en la bóveda: "Ayudo a empresas de servicio técnico a no perder consultas ni cotizaciones / Cada caso con responsable y siguiente paso / Cuéntame cómo lo llevas hoy" (149 caracteres).
+
 ## Errores comunes
 - Anotar `@maverick.sistemas` como creado sin verificar disponibilidad.
 - Añadir "IA" en el titular de la bio.
