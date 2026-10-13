@@ -1,5 +1,5 @@
-<!doctype html><html lang="es" style="color-scheme:dark"><head><meta charset="utf-8">
-<meta name="color-scheme" content="dark"><meta name="theme-color" content="#06080C">
+<!doctype html><html lang="es" style="color-scheme:light"><head><meta charset="utf-8">
+<meta name="color-scheme" content="light"><meta name="theme-color" content="#EDE8DD">
 <title>Pizarra · F = pantalla completa · Espacio = siguiente</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;800&family=JetBrains+Mono:wght@500;700&display=block" rel="stylesheet">
 <style>
@@ -41,6 +41,16 @@ body.completo .sec{height:1920px;display:flex;flex-direction:column;justify-cont
 body.completo .sec > *{zoom:1.22}
 body.completo .ficticio{zoom:1;bottom:auto;top:90px;right:60px}
 body.completo .nodo{top:50%}
+
+/* TEMA CLARO (por defecto, decisión de Adrie): paleta clara de Maverick */
+body.claro{--bg:#F7F4EE;--sur:#FFFFFF;--sur2:#EFEBE2;--bor:#E2DCCF;--blue:#1F6FEB;--blue2:#2459C9;--amb:#D97F00;--ok:#0E9F6E;--txt:#12151C;--sec:#5B6270;color:var(--txt)}
+html.claro,body.claro,body.claro #zona{background:#E9E4D8}
+body.claro #escena{background-color:#F7F4EE;background-image:linear-gradient(#ECE6D9 2px,transparent 2px),linear-gradient(90deg,#ECE6D9 2px,transparent 2px)}
+body.claro .sec{border-bottom-color:#DDD6C6}
+body.claro .hilo{background:#D5CDBB}
+body.claro .card,body.claro .row{box-shadow:0 6px 24px rgba(18,21,28,.07)}
+body.claro .chip{box-shadow:0 2px 8px rgba(18,21,28,.06)}
+body.claro .nodo{background:#F7F4EE}
 </style></head><body>
 <div id="zona"><div id="marco"><div id="escena"><div id="ventana"><div class="tablero" id="tab">
 <div class="hilo"></div>
@@ -124,6 +134,7 @@ body.completo .nodo{top:50%}
 <script>
 const $=id=>document.getElementById(id);
 const rub=(new URLSearchParams(location.search).get('rubro'))||'campanas'; $('rubro').textContent=rub;
+const TEMA=new URLSearchParams(location.search).get('tema'); if(TEMA!=='oscuro'){document.body.classList.add('claro');document.documentElement.classList.add('claro');}
 const COMPLETO=new URLSearchParams(location.search).get('completo')==='1'; if(COMPLETO) document.body.classList.add('completo'); const PASO=COMPLETO?1920:800;
 const vent=$('ventana'); let idx=0;
 function ir(n){idx=Math.max(0,Math.min(6,n)); vent.scrollTo({top:idx*PASO,behavior:'smooth'});}
