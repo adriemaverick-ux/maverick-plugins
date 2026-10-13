@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "shopify-dev": {
+      "command": "npx",
+      "args": ["-y", "@shopify/dev-mcp@latest"]
+    },
+    "casasoyer-storefront": {
+      "type": "http",
+      "url": "https://casasoyer.com/api/mcp"
+    }
+  }
+}

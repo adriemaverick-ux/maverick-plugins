@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__.*(meta|pipeboard|ads).*(create|update|delete|pause|enable|activate|budget|status|upload|publish|duplicate|bulk|set_|edit).*",
+        "hooks": [ { "type": "command", "command": "${CLAUDE_PLUGIN_ROOT}/hooks/confirmar-gasto.sh" } ]
+      }
+    ]
+  }
+}

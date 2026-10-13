@@ -1,0 +1,12 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__.*(update|delete|bulk|set-inventory|create|mutation|archive).*",
+        "hooks": [
+          { "type": "command", "command": "${CLAUDE_PLUGIN_ROOT}/hooks/confirmar-tienda.sh" }
+        ]
+      }
+    ]
+  }
+}

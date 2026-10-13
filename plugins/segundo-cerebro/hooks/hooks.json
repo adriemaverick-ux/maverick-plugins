@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "Stop": [
+      { "hooks": [ { "type": "command", "command": "python3 ${CLAUDE_PLUGIN_ROOT}/hooks/registrar-al-cerrar.py" } ] }
+    ],
+    "PreToolUse": [
+      { "matcher": "Write|Edit", "hooks": [ { "type": "command", "command": "${CLAUDE_PLUGIN_ROOT}/hooks/frenar-secretos.sh" } ] }
+    ]
+  }
+}

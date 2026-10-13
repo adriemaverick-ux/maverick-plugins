@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "meta-ads-oficial": {
+      "type": "http",
+      "url": "https://mcp.facebook.com/ads"
+    },
+    "pipeboard": {
+      "type": "http",
+      "url": "https://meta-ads.mcp.pipeboard.co/"
+    }
+  }
+}

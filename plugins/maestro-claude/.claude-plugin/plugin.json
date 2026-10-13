@@ -1,0 +1,7 @@
+{
+  "name": "maestro-claude",
+  "version": "1.0.0",
+  "description": "Maestro de Claude: Claude Design, Claude Code, webs y apps, Cowork y Agentic OS. 43 skills, 5 subagentes y 9 comandos destilados de 201 videos de Jack Roberts (2023-2026), reescritos en español.",
+  "author": { "name": "Adrie Bustos", "email": "adrie.maverick@gmail.com" },
+  "keywords": ["claude-code", "claude-design", "cowork", "webs", "agentic-os", "skills"]
+}

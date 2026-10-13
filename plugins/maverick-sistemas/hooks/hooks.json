@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__.*(send|publish|post|schedule|message|sms|email|whatsapp|create_contact|update_contact|delete|workflow|campaign|bulk).*",
+        "hooks": [ { "type": "command", "command": "${CLAUDE_PLUGIN_ROOT}/hooks/confirmar-envio.sh" } ]
+      },
+      {
+        "matcher": "Write|Edit",
+        "hooks": [ { "type": "command", "command": "${CLAUDE_PLUGIN_ROOT}/hooks/frenar-secretos.sh" } ]
+      }
+    ]
+  }
+}
