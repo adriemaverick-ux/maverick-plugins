@@ -11,6 +11,13 @@ Producir guiones cortos, en lenguaje de dueño de taller, saneamiento o mantenim
 ## Formato por defecto (2026-10-13)
 **Los guiones de Maverick se escriben para el Formato C: voz de Adrie con su cara en una burbuja redonda chica y una pizarra digital animada como protagonista** (ver `produccion-overlays-hyperframes-claude-motion`). No se escriben como "hablar a cámara con una animación de apoyo". Cada guion lleva **tabla de escenas**: frase hablada, segundo, qué se ve en la pizarra, elemento que entra, movimiento y texto en pantalla. Leer antes la bóveda: `Plan de contenido - Servicios recurrentes`, `Estudio de Reels - 5 cuentas` y `Sistema de diseño Maverick`.
 
+## Estructura de las piezas de proceso (Adrie, 2026-10-13)
+1. **Hook que llama al ICP:** nombra a la empresa que opera el espectador ("si tu empresa da servicio a cocinas y hoteles…"), no solo la situación.
+2. **Mostrar el dolor** en la pizarra, con ejemplo ficticio rotulado.
+3. **Hacérselo notar:** pregunta de autodiagnóstico que el dueño se responde solo ("¿cuántas cotizaciones tienes abiertas ahora?").
+4. **Lo demás:** paso práctico, límite y cierre con el CTA de marca.
+Probar 3 hooks por pieza (identificación, pregunta, mini-historia) y medir retención a los 3 y 10 s.
+
 ## Pasos
 1. **Elegir sector y problema** (una sola situación): consulta sin responsable, cotización sin seguimiento, próxima visita olvidada, trabajo abierto sin dueño.
 2. **Gancho (0-3 s):** situación que el dueño reconoce, sin saludo ni «hola, soy». Ver `contenido-ganchos-para-duenos-de-servicios`.
