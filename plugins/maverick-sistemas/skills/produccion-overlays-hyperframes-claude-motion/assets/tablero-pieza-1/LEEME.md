@@ -7,3 +7,5 @@ Grabar con la grabación de pantalla del Mac (Mayús + Comando + 5, "Grabar part
 
 
 **Contenido por pantalla (v4, 2026-10-13):** sin guion aparte ni teleprompter. Cada una de las 7 pantallas ocupa todo el cuadro 9:16 y trae **título, esquema, notas y tres puntos para hablar** en tarjetas grandes, de modo que **el propio gráfico basta para saber qué decir** (se habla con naturalidad a partir de los puntos, sin memorizar ni leer). Todo lo que se ve es contenido para el espectador. `index.html` abre el gráfico del rubro elegido; hace falta el servidor local (`python3 -m http.server 8765 --bind 127.0.0.1` dentro de la carpeta) porque las extensiones de Chrome no funcionan en archivos `file://`. Barra espaciadora o flecha ↓ = siguiente pantalla.
+
+**Zonas del cuadro 9:16 (Adrie, 2026-10-13):** la **cara va abajo, en un círculo centrado (aprox. y 1380 a 1800)** y los **captions justo encima (aprox. y 1230 a 1370)**. Por eso **todo el contenido del gráfico vive en la parte alta (hasta ~y 1210)**: título, esquema y tres puntos. No poner contenido en el tercio inferior. Se graba con Screenity (modo Pestaña o Área, cámara y micrófono).

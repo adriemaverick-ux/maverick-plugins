@@ -40,6 +40,20 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#E9E4D8;font-famil
 .tx{flex:1}
 .pt b{color:var(--blue2);font-weight:800}
 .ptit{font:700 26px 'JetBrains Mono',monospace;letter-spacing:.06em;text-transform:uppercase;color:var(--sec);margin-bottom:-4px}
+
+/* ZONAS LIBRES (cara abajo en círculo + captions encima): el contenido vive en la parte alta (hasta ~y 1210) */
+.sec{padding-top:92px}
+.nodo{top:106px}
+.top{min-height:250px}
+.h1{font-size:76px}.h2{font-size:64px}
+.lab{font-size:26px}
+.sec > :not(.top):not(.puntos):not(.hilo):not(.nodo):not(.tag){zoom:.78}
+.tag{left:auto;right:70px;top:100px}
+.puntos{top:880px;bottom:auto;gap:14px}
+.puntos.alto{top:845px}
+.pt{font-size:38px;padding:16px 26px;gap:20px;border-radius:20px}
+.pt .m{width:50px;height:50px;font-size:28px}
+.ptit{font-size:22px;margin-bottom:-2px}
 </style></head><body>
 <div id="zona"><div id="marco"><div id="escena"><div id="pista">
 
@@ -118,8 +132,8 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#E9E4D8;font-famil
   <div class="card row" style="height:100px;font-size:34px"><span class="n mono">#2</span>Ana · viernes<span class="chip" style="margin-left:auto;font-size:26px;padding:8px 22px"><span class="dot" style="background:var(--blue)"></span>Enviada</span></div>
   <div class="card row" style="height:100px;font-size:34px"><span class="n mono">#3</span>Luis · lunes<span class="chip" style="margin-left:auto;font-size:26px;padding:8px 22px"><span class="dot" style="background:var(--ok)"></span>Cerrada</span></div>
  </div>
- <p class="nota" style="margin-top:18px"><b>Cada mañana:</b> mira la lista y escribe a quien toca hoy.</p>
-<div class="puntos"><div class="ptit">Cada mañana</div><div class="pt"><span class="m nn">1</span><span class="tx">Ordena la lista por <b>día de seguimiento</b></span></div><div class="pt"><span class="m nn">2</span><span class="tx">Escribe a <b>quien toca hoy</b></span></div><div class="pt"><span class="m nn">3</span><span class="tx">Actualiza el <b>estado</b></span></div></div></section>
+ 
+<div class="puntos alto"><div class="ptit">Cada mañana</div><div class="pt"><span class="m nn">1</span><span class="tx">Ordena la lista por <b>día de seguimiento</b></span></div><div class="pt"><span class="m nn">2</span><span class="tx">Escribe a <b>quien toca hoy</b></span></div><div class="pt"><span class="m nn">3</span><span class="tx">Actualiza el <b>estado</b></span></div></div></section>
 
 <!-- 7 -->
 <section class="sec"><div class="hilo"></div><span class="nodo"></span>
