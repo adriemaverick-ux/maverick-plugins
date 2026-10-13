@@ -22,8 +22,8 @@ Antes: "piloto a medida, sin plazos ni precios estándar". Ahora: **paquetes con
 5. **Qué queda fuera** (por escrito).
 6. **Requisitos del cliente:** accesos, un responsable, tiempo del equipo, número de WhatsApp oficial, etc.
 7. **Plazo:** {{PLAZO}} (Adrie lo fija; no se promete antes de verificar la entrega).
-8. **Precio:** {{PRECIO}} (honorarios) **separado** de los costos de herramientas (CRM, WhatsApp, automatización), rotulados y verificados en la cuenta.
-9. **Mensualidad de operación y mejoras:** {{MENSUALIDAD}} (qué incluye: soporte, ajustes, revisión, reporte simple).
+8. **Precio en dólares (USD), en todos los mercados incluido Perú** (decisión de Adrie, 2026-10-13: el software siempre se cobra en dólares): {{PRECIO_USD}} (honorarios) **separado** de los costos de herramientas (CRM, WhatsApp, automatización), rotulados y verificados en la cuenta.
+9. **Mensualidad de operación y mejoras (USD):** {{MENSUALIDAD_USD}} (qué incluye: soporte, ajustes, revisión, reporte simple).
 10. **Entrega estándar:** pasos repetibles (diagnóstico corto → configuración → pruebas con el equipo → salida → seguimiento). Ver `entrega-*` y `plan-de-entrega`.
 11. **Cómo se mide:** un antes y un después **del propio cliente** (consultas sin respuesta, cotizaciones con seguimiento), sin promesas de ventas.
 12. **Cuándo NO encaja:** necesita desarrollo muy particular, no tiene responsable, no usa WhatsApp, etc. (se deriva o se rechaza).

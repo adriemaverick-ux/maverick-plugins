@@ -14,7 +14,7 @@ Obtener un precio defendible y por escrito, sin cifras estándar: cada empresa s
 3. **Honorarios del piloto** = suma de horas x {{TARIFA_HORA}}. Es el piso de costo interno, no el precio.
 4. **Costos de herramientas** (aparte, rotulados y verificados en la cuenta antes de cotizar): suscripción del CRM, número de WhatsApp y tarifas por mensaje, automatización (n8n o Make), IA si aplica, dominio o correo. Indicar quién contrata y paga ({{CUENTA_A_NOMBRE_DE}}).
 5. **Contraste con el valor.** Pedir al dueño su estimación del costo de no actuar (rotulada "estimación del dueño"). Los videos sugieren cobrar una fracción acotada del valor medible; usar solo como contraste, no como cálculo automático.
-6. **Decidir estructura:** piloto de pago único, o piloto más mensualidad de operación ({{MENSUALIDAD}}) si el sistema debe seguir funcionando. Pago por hitos o 50/50 como opción ({{ESQUEMA_PAGO}}). Aclarar moneda, IGV y comprobante con el contador ({{MONEDA}}, {{IGV}}).
+6. **Decidir estructura:** piloto de pago único, o piloto más mensualidad de operación ({{MENSUALIDAD}}) si el sistema debe seguir funcionando. Pago por hitos o 50/50 como opción ({{ESQUEMA_PAGO}}). **Moneda: dólares (USD) siempre, también en Perú** (decisión de Adrie, 2026-10-13). Aclarar IGV, comprobante y tratamiento de la factura en USD con el contador ({{IGV}}); sumar las comisiones de cobro (Stripe, PayPal, Wise) al precio.
 7. **Preparar dos opciones por funciones, no por rebajar precio:** piloto base y piloto con un componente extra; la segunda sirve de ancla.
 8. **Validar con Adrie** y registrar los supuestos. Ningún precio sale al cliente sin confirmación humana.
 
