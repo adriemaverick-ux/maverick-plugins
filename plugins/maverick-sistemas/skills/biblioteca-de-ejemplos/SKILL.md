@@ -38,6 +38,13 @@ Ver la ficha completa `Ejemplos/Anuncios Meta - Investigación Perú 2026-10-13`
 - El ángulo "se pierde entre la consulta y la cita" y el **seguimiento de cotizaciones como resultado** casi no aparecen (hipótesis a probar).
 - No se copian garantías ni cifras de clientes de otras agencias.
 
+## Qué encontró la investigación B2B en Meta Perú (2026-10-13)
+Ficha: `Ejemplos/Anuncios Meta - B2B servicios a empresas Perú 2026-10-13`. Resumen:
+- Hook más común: **pregunta de situación**. El más cercano al tono de Maverick: **mini-historia o frase corta que nombra el dolor, sin cifras** (Despega Creativo). También **objeción previa** ("si ya tuviste una mala experiencia con un ERP…") y "nos adaptamos a tu operación, no al revés".
+- **"Agente de IA + WhatsApp" está saturado**; diferenciarse por rubro y por el seguimiento de lo que ya entró.
+- No se usan: miedo/urgencia, garantías, cifras de clientes ni promesas de ingresos.
+- CTA habitual de baja fricción: sesión gratis, "mira cómo funciona".
+
 ## Cómo usarla al escribir
 1. Buscar por tipo de hook y formato; elegir 2 estructuras.
 2. Adaptarlas a la idea con el idioma del dueño (ver `copy-y-estilo`, `contenido-ganchos-para-duenos-de-servicios`, `contenido-hooks-operativo`).
