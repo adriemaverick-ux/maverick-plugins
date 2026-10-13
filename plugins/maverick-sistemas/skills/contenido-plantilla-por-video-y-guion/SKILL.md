@@ -8,6 +8,9 @@ description: Estructura y escribe el guion de un video en cámara de Maverick Si
 ## Objetivo
 Producir guiones cortos, en lenguaje de dueño de taller, saneamiento o mantenimiento técnico, con **una idea por pieza** y un CTA único. Salida: borrador para que Adrie lo grabe; nunca publicación.
 
+## Formato por defecto (2026-10-13)
+**Los guiones de Maverick se escriben para el Formato C: voz de Adrie con su cara en una burbuja redonda chica y una pizarra digital animada como protagonista** (ver `produccion-overlays-hyperframes-claude-motion`). No se escriben como "hablar a cámara con una animación de apoyo". Cada guion lleva **tabla de escenas**: frase hablada, segundo, qué se ve en la pizarra, elemento que entra, movimiento y texto en pantalla. Leer antes la bóveda: `Plan de contenido - Servicios recurrentes`, `Estudio de Reels - 5 cuentas` y `Sistema de diseño Maverick`.
+
 ## Pasos
 1. **Elegir sector y problema** (una sola situación): consulta sin responsable, cotización sin seguimiento, próxima visita olvidada, trabajo abierto sin dueño.
 2. **Gancho (0-3 s):** situación que el dueño reconoce, sin saludo ni «hola, soy». Ver `contenido-ganchos-para-duenos-de-servicios`.
