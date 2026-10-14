@@ -1,7 +1,16 @@
 {
   "name": "casa-soyer-ecommerce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Negocio paralelo de Adrie: ecommerce y pauta de Casa Soyer (casasoyer.com) por comisión sobre margen bruto. Skills, subagentes, comandos, MCP de Shopify y guardas de seguridad para la tienda real.",
-  "author": { "name": "Adrie Bustos", "email": "adrie.maverick@gmail.com" },
-  "keywords": ["ecommerce", "shopify", "meta-ads", "whatsapp", "casa-soyer"]
+  "author": {
+    "name": "Adrie Bustos",
+    "email": "adrie.maverick@gmail.com"
+  },
+  "keywords": [
+    "ecommerce",
+    "shopify",
+    "meta-ads",
+    "whatsapp",
+    "casa-soyer"
+  ]
 }
