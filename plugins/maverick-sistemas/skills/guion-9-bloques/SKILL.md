@@ -20,6 +20,12 @@ Fuente de verdad en la bóveda: `03 - Go-to-market/Plantilla de guion de 9 bloqu
 
 Versión corta (30 a 50 s): 1, 2, 3, 4, 5, 8, 9. Larga: los 9.
 
+## Frases fijas (no se cambian, SIEMPRE; regla de Adrie, 2026-10-13)
+- **Hook:** "Tu empresa de [rubro], ¿sabe [dato que no sabe] en este momento?" (3 versiones: identificación, pregunta, mini-historia) y la escalera mal/buen/gran hook.
+- **Punto de no retorno:** "Si para saberlo tienes que [algo incómodo], [consecuencia sin cifra]. Quédate y te enseño cómo [resultado]."
+- **Bloque 1:** "Pasa así: [situación]…" · **Gancho 2:** "Y esto es lo que casi nadie hace:" · **Bloque 2:** "A cada [elemento] ponle [3 cosas]. Y míralas en una lista." · **Cierre:** "Es simple, pero [límite honesto]." · **CTA:** "Si este paso se pierde en tu empresa, cuéntame cómo lo llevas hoy."
+- **Antes de escribir:** leer la plantilla de la bóveda, llenar su hoja en blanco y pasar la checklist de cumplimiento. **No improvisar estructuras nuevas.**
+
 ## Reglas
 - Formato C: voz de Adrie con su cara en una burbuja redonda y una pizarra estática larga que él desliza mientras explica (no es animación). Cada guion lleva **tabla de escenas** (bloque, segundo, voz, qué se ve, movimiento, texto en pantalla).
 - Hook en 3 versiones, una por rubro (campanas, plagas, refrigeración, equipos de cocina), con el mismo cuerpo; comparar retención y conversaciones.
