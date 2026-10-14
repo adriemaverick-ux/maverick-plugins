@@ -53,3 +53,11 @@ Flujo descrito por plantillas de terceros [vendor/comunidad]; formato de entrada
 
 ## Vigencia
 2026-10-12. Revisar los nombres de modelo y la forma de llamada del SDK de Gemini, que cambian seguido.
+
+
+## Captura de un Reel o post de Instagram (procedimiento verificado el 2026-10-13)
+- **Un video no carga en una pestaña en segundo plano.** Abrir la URL **visible** con `open -a "Google Chrome" "<URL>"`, esperar unos segundos y localizar la ventana con `herramientas/ventanas.js` (`osascript -l JavaScript`), buscando la de título "Instagram".
+- Grabar la ventana con `screencapture -v -V <segundos> -x -l<ID> raw.mov` y recortar el cuadro del video con ffmpeg (en esta Mac y a ese tamaño de ventana: `crop=674:1198:797:245`; **calibrar** extrayendo un fotograma). Los Reels en bucle empiezan a mitad de frase: avisarlo.
+- Para entender solo la **estructura** (por ejemplo una plantilla de guion con pizarra), una **hoja de contacto de fotogramas** (`fps=1/2,tile=5x5`) permite verla sin Gemini.
+- **Gemini:** `gemini-3-flash-preview` analiza video bien; los modelos de **imagen no tienen cuota gratuita** (error 429). No extraer cookies ni automatizar Instagram en masa.
+- Guardar la ficha en la **biblioteca de ejemplos** (estructura, no texto).
