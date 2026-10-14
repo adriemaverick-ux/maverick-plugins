@@ -67,3 +67,7 @@ Estudio de Reels del 2026-10-12 (bóveda Maverick MP) y `references/estudio-reel
 
 ## Vigencia
 2026-10-12.
+
+
+## Sistema vigente de Maverick (obligatorio, 2026-10-13)
+Para cualquier guion o hook de Maverick se usa **siempre** la skill `guion-9-bloques` (plantilla de 9 bloques con frases fijas) y `hooks-escalera-y-hook-del-icp` (hook que llama al ICP, tres versiones y escalera mal/buen/gran hook). Esta skill queda como **referencia de estudio**; no sustituye el sistema. Bóveda: `Sistema de hooks y guiones - índice`.

@@ -66,3 +66,7 @@ Informe 04, sección 7 (método y diez ejemplos, 2026-10-12); informe 02, secci�
 
 ## Vigencia
 2026-10-12
+
+
+## Sistema vigente de Maverick (obligatorio, 2026-10-13)
+Para hooks de Maverick se usa **siempre** `hooks-escalera-y-hook-del-icp`; este método de 6 pasos es referencia general. Ver `Sistema de hooks y guiones - índice` en la bóveda.

@@ -53,3 +53,7 @@ Los 8 tipos de disparador [un experto] (Motion). Que los hooks "visual intriga" 
 
 ## Vigencia
 2026-10-11.
+
+
+## Sistema vigente de Maverick (obligatorio, 2026-10-13)
+Si el hook o el guion es de **Maverick** (marca personal o anuncios de Maverick), se usa **siempre** `hooks-escalera-y-hook-del-icp` y `guion-9-bloques`; esta skill sirve para Casa Soyer y otros casos. Ver `Sistema de hooks y guiones - índice` en la bóveda.

@@ -54,3 +54,7 @@ Plan de contenido - Servicios recurrentes (primeras doce piezas); Piloto Threads
 
 ## Vigencia
 2026-10-11.
+
+
+## Sistema vigente (obligatorio, 2026-10-13)
+El hook se escribe **siempre** con `hooks-escalera-y-hook-del-icp` y el guion con `guion-9-bloques`. Esta skill es referencia de ganchos por situación; **sin IA, mercado hispano (no solo Lima)**.

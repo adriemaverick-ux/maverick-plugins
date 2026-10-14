@@ -67,3 +67,7 @@ Estructura de beats y plantilla de relleno [un experto] (guías Motion, Billo, S
 
 ## Vigencia
 2026-10-11.
+
+
+## Sistema vigente de Maverick (obligatorio, 2026-10-13)
+Para guiones de **Maverick** se usa **siempre** la skill `guion-9-bloques` (frases fijas, tres hooks, tablero de Formato C). Esta skill aplica a otros negocios (por ejemplo Casa Soyer). Ver `Sistema de hooks y guiones - índice` en la bóveda.
