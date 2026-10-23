@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1080, height=1920" />
+<title>Kallaway · prototipo Maverick v2</title>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<style>
+@font-face{font-family:"Inter";font-weight:400;src:url("fonts/Inter-Regular.otf") format("opentype")}
+@font-face{font-family:"Inter";font-weight:700;src:url("fonts/Inter-Bold.otf") format("opentype")}
+@font-face{font-family:"Inter";font-weight:900;src:url("fonts/Inter-Black.otf") format("opentype")}
+@font-face{font-family:"Playfair";font-style:italic;font-weight:400 900;src:url("fonts/PlayfairDisplay-Italic-VF.ttf") format("truetype")}
+@font-face{font-family:"Plex";font-weight:700;src:url("fonts/IBMPlexMono-Bold.ttf") format("truetype")}
+:root{--bg:#F7F4EE;--grid:#EDE7DA;--tx:#12151C;--sec:#5B6270;--mut:#576070;--bor:#E2DCCF;--sur:#FFFFFF;--sur2:#F1EDE3;--blue:#1F6FEB;--bluebg:#EAF1FD;--amb:#D97F00;--ambbg:#FFF4E0;--amb2:#FFB020;--ambt:#B05F00}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0;background:#E9E4D8}
+#root{position:relative;width:100%;height:100%;overflow:hidden;background:var(--bg);font-family:"Inter",Arial,sans-serif;color:var(--tx)}
+.abs{position:absolute}
+.bg{inset:0;background-color:var(--bg);background-image:linear-gradient(var(--grid) 2px,transparent 2px),linear-gradient(90deg,var(--grid) 2px,transparent 2px),linear-gradient(180deg,#E6E0D2 0,rgba(247,244,238,0) 420px);background-size:54px 54px,54px 54px,100% 100%}
+/* titular */
+.titulo{left:50px;right:50px;top:238px;height:170px;text-align:center;font-weight:900;font-size:68px;line-height:1.08;letter-spacing:-.045em;display:flex;flex-wrap:wrap;justify-content:center;align-content:center;gap:0 18px}
+.titulo .w{display:inline-block}
+.titulo .ac{position:relative;display:inline-block;font-family:"Playfair",Georgia,serif;font-style:italic;font-weight:600;font-size:1.14em;letter-spacing:-.01em;color:var(--ambt)}
+.titulo .ac i{position:absolute;left:0;right:0;bottom:2px;height:6px;border-radius:3px;background:var(--amb);display:block;transform-origin:left center}
+/* escenario */
+.escena{left:0;top:420px;width:1080px;height:640px}
+.card{position:absolute;background:var(--sur);border:2px solid var(--bor);border-radius:28px;box-shadow:0 26px 60px rgba(18,21,28,.12)}
+.mono{font-family:"Plex",monospace;font-weight:700;text-transform:uppercase;letter-spacing:.09em}
+.chip{display:inline-flex;align-items:center;padding:6px 16px;border-radius:9px;border:1.5px solid var(--bor);background:var(--sur2);font-size:22px;font-weight:700;color:var(--sec);white-space:nowrap}
+.nota{position:absolute;left:0;right:0;font-size:17px;color:var(--mut);text-align:center}
+/* subtítulo de una palabra */
+.sub{left:0;right:0;top:1066px;height:84px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:62px;letter-spacing:-.03em}
+.sub span{position:absolute;opacity:0;white-space:nowrap}
+/* cara */
+.cara{left:69px;top:1150px;width:939px;height:470px;border-radius:38px;overflow:hidden;background:radial-gradient(600px 340px at 70% 20%,#2B3A55,#12151C 70%);box-shadow:0 30px 70px rgba(18,21,28,.28);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;color:#8AB8FF;font-size:22px}
+.cara svg{width:110px;height:110px;opacity:.55}
+/* v2: etiquetas a mano, aviso, checks */
+.mano{position:absolute;font-family:"Playfair",Georgia,serif;font-style:italic;font-weight:600;font-size:38px;color:var(--ambt);white-space:nowrap}
+.toast{position:absolute;left:150px;top:556px;width:780px;height:66px;border-radius:20px;background:#12151C;color:#fff;display:flex;align-items:center;gap:18px;padding:0 24px;font-size:25px;font-weight:700;box-shadow:0 24px 50px rgba(18,21,28,.3);z-index:20}
+.toast b{display:inline-flex;width:38px;height:38px;border-radius:50%;background:#25B866;align-items:center;justify-content:center;flex:none}
+.wb{border-radius:14px;padding:10px 14px}
+/* cursor */
+#cur{left:0;top:0;width:46px;height:46px;z-index:30;filter:drop-shadow(0 4px 6px rgba(0,0,0,.28))}
+#ring{left:0;top:0;width:64px;height:64px;border-radius:50%;border:5px solid var(--blue);opacity:0;z-index:29}
+</style>
+</head>
+<body>
+<div id="root" data-composition-id="kallaway-prototipo-v2" data-start="0" data-width="1080" data-height="1920" data-duration="18">
+
+  <div class="abs bg"></div>
+
+  <!-- ===== ESCENA A: la pregunta (0 - 5.6 s) ===== -->
+  <section id="sceneA" class="clip abs" data-start="0" data-duration="5.7" style="inset:0">
+    <div class="abs titulo" id="tA" data-t="¿Cuántos mantenimientos|*vencidos*|tienes hoy?"></div>
+    <div class="abs escena">
+      <div class="card" id="tab" style="left:110px;top:20px;width:860px;height:560px;padding:26px 30px">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+          <div class="mono" style="font-size:22px;color:var(--sec)">Tablero · hoy</div>
+          <div id="pill" class="mono" style="background:#B05F00;color:#fff;border-radius:8px;padding:7px 16px;font-size:21px">Vencidas <span id="nv">0</span></div>
+        </div>
+        <div id="rowsA"></div>
+      </div>
+      <svg id="marcoA" class="abs" style="left:60px;top:-6px;width:960px;height:140px;overflow:visible" viewBox="0 0 960 140" fill="none" stroke="#D97F00" stroke-width="7" stroke-linecap="round">
+        <path d="M30 70 L30 18 Q30 8 40 8 L96 8"/><path d="M930 70 L930 18 Q930 8 920 8 L864 8"/><path d="M30 70 L30 122 Q30 132 40 132 L96 132"/><path d="M930 70 L930 122 Q930 132 920 132 L864 132"/>
+      </svg>
+      <div class="mano" id="manoA" style="left:640px;top:586px">¡3 vencidos!</div>
+      <svg id="flA" class="abs" style="left:560px;top:520px;width:200px;height:90px;overflow:visible" viewBox="0 0 200 90" fill="none" stroke="#D97F00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path id="flAp" d="M96 78 C 70 70 40 50 24 14 M24 14 L14 38 M24 14 L48 24"/></svg>
+      <div class="nota mono" style="top:606px">Ejemplo ficticio</div>
+    </div>
+  </section>
+
+  <!-- ===== ESCENA B: todo disperso (5.6 - 11.4 s) ===== -->
+  <section id="sceneB" class="clip abs" data-start="5.6" data-duration="5.9" style="inset:0">
+    <div class="abs titulo" id="tB" data-t="Excel, WhatsApp y|*papel*"></div>
+    <div class="abs escena">
+      <svg class="abs" style="left:90px;top:0;width:900px;height:620px;overflow:visible" viewBox="0 0 900 620" fill="none" stroke="#D97F00" stroke-width="6" stroke-linecap="round">
+        <path id="l1" d="M230 250 C 300 300 360 330 400 350"/><path id="l2" d="M670 270 C 600 310 520 340 480 355"/><path id="l3" d="M450 420 L 450 395"/>
+      </svg>
+      <div class="card" id="cEx" style="left:100px;top:10px;width:410px;height:240px;padding:22px"><span class="chip" style="background:var(--bluebg);border-color:#BCD3F8;color:#2459C9">Excel</span>
+        <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-top:16px">
+          <div style="height:30px;border-radius:5px;background:var(--sur2);border:1.5px solid var(--bor)"></div><div style="height:30px;border-radius:5px;background:var(--ambbg);border:1.5px solid var(--bor)"></div><div style="height:30px;border-radius:5px;background:var(--sur2);border:1.5px solid var(--bor)"></div><div style="height:30px;border-radius:5px;background:var(--sur2);border:1.5px solid var(--bor)"></div><div style="height:30px;border-radius:5px;background:var(--sur2);border:1.5px solid var(--bor)"></div>
+          <div style="height:30px;border-radius:5px;background:var(--sur2);border:1.5px solid var(--bor)"></div><div style="height:30px;border-radius:5px;background:var(--sur2);border:1.5px solid var(--bor)"></div><div style="height:30px;border-radius:5px;background:var(--ambbg);border:1.5px solid var(--bor)"></div><div style="height:30px;border-radius:5px;background:var(--sur2);border:1.5px solid var(--bor)"></div><div style="height:30px;border-radius:5px;background:var(--sur2);border:1.5px solid var(--bor)"></div>
+        </div></div>
+      <div class="card" id="cWa" style="left:560px;top:0;width:410px;height:270px;padding:22px"><span class="chip" style="background:#E7F6EC;border-color:#B5E0C3;color:#1E7A43">WhatsApp</span>
+        <div style="margin-top:14px;display:flex;flex-direction:column;gap:10px;font-size:21px"><div class="wb" id="wb1" style="align-self:flex-start;background:var(--sur2)">¿Ya vino el técnico?</div><div class="wb" id="wb2" style="align-self:flex-end;background:#DDF3E4">Creo que sí…</div><div class="wb" id="wb3" style="align-self:flex-start;background:var(--sur2)">¿Y la cotización?</div></div></div>
+      <div class="card" id="cPa" style="left:330px;top:370px;width:420px;height:210px;padding:22px"><span class="chip">Papel</span>
+        <div style="margin-top:18px;display:flex;flex-direction:column;gap:16px"><div style="height:6px;border-radius:3px;background:#C9C2B1;width:90%"></div><div style="height:6px;border-radius:3px;background:#C9C2B1;width:68%"></div><div style="font-family:Playfair,serif;font-style:italic;font-size:32px;color:var(--sec)">¿se hizo la visita?</div></div></div>
+      <div class="mano" id="manoB" style="left:600px;top:318px">¿quién lo sabe?</div>
+      <div id="q" class="abs" style="left:405px;top:285px;width:90px;height:90px;border-radius:50%;background:var(--amb);color:#fff;font-weight:900;font-size:56px;display:flex;align-items:center;justify-content:center">?</div>
+      <div class="nota mono" style="top:606px">Ejemplo ficticio</div>
+    </div>
+  </section>
+
+  <!-- ===== ESCENA C: un solo tablero + cierre (11.4 - 18 s) ===== -->
+  <section id="sceneC" class="clip abs" data-start="11.4" data-duration="6.6" style="inset:0">
+    <div class="abs titulo" id="tC" data-t="Todo en|*un solo tablero*"></div>
+    <div class="abs escena">
+      <div class="card" id="tabC" style="left:110px;top:0;width:860px;height:330px;padding:24px 30px"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><div class="mono" style="font-size:22px;color:var(--sec)">Tablero · hoy</div><div class="mono" style="background:#1F6FEB;color:#fff;border-radius:8px;padding:7px 16px;font-size:21px">Programadas <span id="npC">0</span></div></div><div id="rowsC"></div></div>
+      <div class="toast" id="toast"><b><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></b><span>Aviso enviado por WhatsApp</span></div>
+      <div class="card" id="comp" style="left:110px;top:372px;width:860px;height:176px;padding:22px 30px">
+        <div style="font-weight:900;font-size:30px;letter-spacing:-.03em;margin-bottom:16px">Comentarios</div>
+        <div style="display:flex;align-items:center;gap:16px"><div style="width:58px;height:58px;border-radius:50%;background:var(--bluebg);flex:none"></div>
+          <div id="inp" style="flex:1;height:70px;border:2px solid var(--bor);border-radius:18px;display:flex;align-items:center;padding:0 22px;font-size:28px;background:var(--sur2)"><span id="ph" style="color:var(--mut)">Escribe un comentario…</span><span id="txC" class="mono" style="color:var(--tx)"></span></div>
+          <div id="send" class="chip" style="height:70px;padding:0 26px;font-size:24px;border-radius:18px;background:var(--bluebg);border-color:#BCD3F8;color:#2459C9">Publicar</div></div></div>
+      <div class="nota mono" style="top:628px">Ejemplo ficticio</div>
+    </div>
+  </section>
+
+  <!-- persistentes -->
+  <div class="abs sub" id="sub"></div>
+  <div class="abs cara" id="cara"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8"/></svg><span class="mono">Tu cámara aquí</span></div>
+  <svg id="cur" class="abs" viewBox="0 0 24 24"><path d="M4 2l15 9-6.5 1.5L9 19z" fill="#12151C" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/></svg>
+  <div id="ring" class="abs"></div>
+</div>
+
+<script>
+// ---------- utilidades ----------
+const $=s=>document.querySelector(s);
+const tl=gsap.timeline({paused:true});
+function titulo(sel,t0){ // blur-in palabra por palabra; *x* = palabra de acento (serif cursiva ámbar con subrayado)
+  const box=$(sel); const parts=box.dataset.t.split("|"); box.innerHTML=""; let k=0;
+  parts.forEach(p=>{ const ac=/^\*(.*)\*$/.test(p); const txt=ac?p.slice(1,-1):p;
+    if(ac){ const s=document.createElement("span"); s.className="ac w"; s.textContent=txt; const i=document.createElement("i"); s.appendChild(i); box.appendChild(s);
+      tl.fromTo(s,{opacity:0,y:24,filter:"blur(14px)"},{opacity:1,y:0,filter:"blur(0px)",duration:.5,ease:"power3.out"},t0+k*.13);
+      tl.fromTo(i,{scaleX:0},{scaleX:1,duration:.5,ease:"power2.out"},t0+k*.13+.45); k++; }
+    else txt.split(" ").forEach(w=>{ const s=document.createElement("span"); s.className="w"; s.textContent=w; box.appendChild(s);
+      tl.fromTo(s,{opacity:0,y:24,filter:"blur(14px)"},{opacity:1,y:0,filter:"blur(0px)",duration:.5,ease:"power3.out"},t0+k*.13); k++; });
+  });
+}
+function entra(el,t,d=.55){tl.fromTo(el,{opacity:0,y:30,filter:"blur(12px)"},{opacity:1,y:0,filter:"blur(0px)",duration:d,ease:"power3.out"},t);}
+function mueve(x,y,t,d=.8){tl.to("#cur",{x,y,duration:d,ease:"power2.inOut",overwrite:"auto"},t);}
+function clic(t){tl.fromTo("#ring",{opacity:.9,scale:.4},{opacity:0,scale:2.2,duration:.5,ease:"power1.out",immediateRender:false},t);}
+function posRing(x,y,t){tl.set("#ring",{x:x-9,y:y-9},t);}
+function contar(el,desde,hasta,t,d){const o={v:desde}; tl.to(o,{v:hasta,duration:d,ease:"none",snap:{v:1},onUpdate(){el.textContent=o.v}},t);}
+function escribe(el,texto,t,d){const o={n:0}; tl.to(o,{n:texto.length,duration:d,ease:"none",snap:{n:1},onUpdate(){el.textContent=texto.slice(0,o.n)}},t);}
+
+tl.set("#ring",{opacity:0,scale:.4},0);
+// cursor: posición inicial
+tl.fromTo("#cur",{x:900,y:900,opacity:0},{x:900,y:900,opacity:1,duration:.3},.2);
+
+// ---------- ESCENA A ----------
+titulo("#tA",.15);
+const filasA=[["Restaurante A","Campana extractora"],["Hotel B","Refrigeración"],["Pollería C","Trampa de grasa"],["Clínica D","Fumigación"],["Café E","Campana extractora"]];
+const rA=$("#rowsA"); filasA.forEach((f,i)=>{const d=document.createElement("div");d.id="fa"+i;d.style.cssText="display:flex;align-items:center;gap:18px;height:84px;border-top:2px solid var(--bor);padding:0 10px;border-radius:12px;background:#FFFFFF";
+  d.innerHTML=`<div style="width:52px;height:52px;border-radius:50%;background:var(--sur2)"></div><div style="flex:1"><div style="font-weight:900;font-size:30px;letter-spacing:-.03em">${f[0]}</div><div style="font-size:22px;color:var(--mut)">${f[1]}</div></div><span class="chip" id="ca${i}">Al día</span>`; rA.appendChild(d);
+  entra("#fa"+i,.8+i*.14,.5);});
+entra("#tab",.55,.6);
+mueve(560,720,.6,.9);
+[0,2,4].forEach((r,j)=>{const t=2.2+j*.7; tl.to("#fa"+r,{backgroundColor:"#FFF4E0",duration:.3},t); tl.to("#ca"+r,{backgroundColor:"#FFF4E0",color:"#B05F00",borderColor:"#FFB020",duration:.3,onStart(){$("#ca"+r).textContent="Vencida"},onReverseComplete(){$("#ca"+r).textContent="Al día"}},t);
+  tl.fromTo("#pill",{scale:1},{scale:1.1,duration:.15,yoyo:true,repeat:1,ease:"power1.out"},t+.05); contar($("#nv"),j,j+1,t+.05,.25);});
+
+tl.fromTo("#marcoA",{opacity:0,scale:1.15,transformOrigin:"50% 50%"},{opacity:1,scale:1,duration:.5,ease:"power3.out"},4.3);
+mueve(430,300,1.0,.9); mueve(600,520,3.0,.9); mueve(760,170,4.4,.7);
+tl.to(["#tA","#tab","#marcoA"],{opacity:0,duration:.2},5.45);
+
+// ---------- ESCENA B ----------
+titulo("#tB",5.7);
+entra("#cEx",6.0); entra("#cWa",6.5); entra("#cPa",7.0);
+["#l1","#l2","#l3"].forEach((id,i)=>{const L=document.querySelector(id).getTotalLength(); tl.fromTo(id,{strokeDasharray:L,strokeDashoffset:L},{strokeDashoffset:0,duration:.7,ease:"power2.inOut"},6.9+i*.55);});
+tl.fromTo("#q",{opacity:0,scale:.2},{opacity:1,scale:1,duration:.5,ease:"back.out(2.2)"},9.0);
+mueve(330,640,5.8,.8); mueve(760,640,7.0,.9); mueve(560,980,8.2,.9); mueve(540,760,9.0,.7);
+tl.to(["#tB","#cEx","#cWa","#cPa","#l1","#l2","#l3","#q"],{opacity:0,duration:.2},11.25);
+
+// ---------- ESCENA C ----------
+titulo("#tC",11.5);
+entra("#tabC",11.8,.6);
+const filasC=["Restaurante A","Pollería C","Café E"]; const rC=$("#rowsC"); filasC.forEach((f,i)=>{const d=document.createElement("div");d.id="fc"+i;d.style.cssText="display:flex;align-items:center;gap:18px;height:76px;border-top:2px solid var(--bor);padding:0 10px;border-radius:12px;background:#FFF4E0";
+  d.innerHTML=`<div style="flex:1;font-weight:900;font-size:30px;letter-spacing:-.03em">${f}</div><span class="chip" id="cc${i}" style="background:#FFF4E0;color:#B05F00;border-color:#FFB020">Vencida</span>`; rC.appendChild(d); entra("#fc"+i,12.1+i*.14,.5);});
+filasC.forEach((f,i)=>{const t=13.2+i*.55; tl.to("#fc"+i,{backgroundColor:"#EAF1FD",duration:.3},t); tl.to("#cc"+i,{backgroundColor:"#EAF1FD",color:"#2459C9",borderColor:"#BCD3F8",duration:.3,onStart(){$("#cc"+i).textContent="Programada"},onReverseComplete(){$("#cc"+i).textContent="Vencida"}},t); contar($("#npC"),i,i+1,t,.25);});
+entra("#comp",14.6,.6);
+mueve(420,1020,13.0,.9);
+mueve(420,1015,15.0,.5); clic(15.4); posRing(420,1015,15.4);
+tl.to("#ph",{opacity:0,duration:.1},15.45); escribe($("#txC"),"SISTEMA",15.5,1.1);
+mueve(900,1015,16.8,.6); clic(17.35); posRing(900,1015,17.35);
+tl.to("#send",{backgroundColor:"#1F6FEB",color:"#fff",duration:.2},17.35);
+
+// ---------- v2: más eventos (densidad cercana a la referencia) ----------
+// A: etiqueta a mano con flecha que se dibuja, golpe de las filas vencidas
+tl.fromTo("#manoA",{opacity:0,y:18,filter:"blur(10px)"},{opacity:1,y:0,filter:"blur(0px)",duration:.45,ease:"power3.out"},3.9);
+{const L=$("#flAp").getTotalLength(); tl.fromTo("#flAp",{strokeDasharray:L,strokeDashoffset:L},{strokeDashoffset:0,duration:.5,ease:"power2.inOut"},3.75);}
+tl.to(["#manoA","#flA"],{opacity:0,duration:.2},5.45);
+[0,2,4].forEach((r,j)=>{const t=2.2+j*.7; tl.fromTo("#fa"+r,{x:0},{x:10,duration:.07,yoyo:true,repeat:3,ease:"power1.inOut"},t+.3);});
+tl.fromTo("#tab",{scale:1},{scale:1.012,immediateRender:false,duration:.25,yoyo:true,repeat:1,ease:"sine.inOut",transformOrigin:"50% 50%"},4.0);
+// B: celdas de Excel que parpadean, burbujas de WhatsApp una a una, etiqueta a mano
+const celdas=[...document.querySelectorAll('#cEx div[style*="height:30px"]')];
+celdas.forEach((c,i)=>tl.fromTo(c,{backgroundColor:"#F1EDE3"},{backgroundColor:"#FFB020",duration:.15,yoyo:true,repeat:1},6.3+i*.12));
+["#wb1","#wb2","#wb3"].forEach((id,i)=>tl.fromTo(id,{opacity:0,y:16,scale:.9,transformOrigin:i==1?"100% 50%":"0% 50%"},{opacity:1,y:0,scale:1,duration:.35,ease:"back.out(1.8)"},6.7+i*.55));
+tl.fromTo("#cPa",{rotation:0},{rotation:-2,immediateRender:false,duration:.35,ease:"sine.inOut",transformOrigin:"50% 50%"},8.0);
+tl.fromTo("#manoB",{opacity:0,x:-14,filter:"blur(10px)"},{opacity:1,x:0,filter:"blur(0px)",duration:.45,ease:"power3.out"},9.4);
+tl.fromTo("#q",{rotation:0},{rotation:12,immediateRender:false,duration:.18,yoyo:true,repeat:3,ease:"sine.inOut",transformOrigin:"50% 50%"},9.6);
+tl.to("#manoB",{opacity:0,duration:.2},11.25);
+// C: aviso por WhatsApp que baja, checks que se dibujan, golpe del contador
+tl.fromTo("#toast",{y:-110,opacity:0},{y:0,opacity:1,duration:.5,ease:"back.out(1.6)"},14.9);
+tl.to("#toast",{y:30,opacity:0,duration:.3,ease:"power2.in"},16.4);
+filasC.forEach((f,i)=>{const t=13.2+i*.55; const ck=document.createElementNS("http://www.w3.org/2000/svg","svg"); ck.setAttribute("viewBox","0 0 24 24"); ck.setAttribute("width","34"); ck.setAttribute("height","34"); ck.setAttribute("fill","none"); ck.setAttribute("stroke","#1F6FEB"); ck.setAttribute("stroke-width","3.2"); ck.setAttribute("stroke-linecap","round"); ck.setAttribute("stroke-linejoin","round"); ck.style.cssText="flex:none;opacity:0"; ck.innerHTML='<path d="M5 12.5l4.5 4.5L19 7.5"/>'; $("#fc"+i).appendChild(ck);
+  tl.set(ck,{opacity:1},t+.2); const p=ck.querySelector("path"); tl.fromTo(p,{strokeDasharray:20,strokeDashoffset:20},{strokeDashoffset:0,duration:.3,ease:"power2.out"},t+.2); tl.fromTo("#tabC",{scale:1},{scale:1.01,immediateRender:false,duration:.15,yoyo:true,repeat:1,ease:"sine.inOut",transformOrigin:"50% 50%"},t);});
+
+// ---------- subtítulo de una palabra (voz de ejemplo; en producción sale de la transcripción palabra por palabra) ----------
+const partes=[[0.25,5.5,"Tu empresa de plagas, ¿sabe cuántos mantenimientos tiene vencidos hoy?"],[5.8,11.3,"Si para saberlo abres el Excel, revisas WhatsApp y preguntas a alguien, el cliente se entera antes que tú."],[11.6,17.9,"Todo en un solo tablero, lo ves de un vistazo. Comenta SISTEMA para empezar."]];
+const sub=$("#sub");
+partes.forEach(([a,b,txt])=>{ const ws=txt.split(" "); const pesos=ws.map(w=>w.replace(/[^\p{L}\p{N}]/gu,"").length+3+(/[,.?¿]/.test(w)?4:0)); const S=pesos.reduce((x,y)=>x+y,0); let t=a;
+  ws.forEach((w,i)=>{ const s=document.createElement("span"); s.textContent=w.replace(/[¿]/g,""); sub.appendChild(s); const d=(b-a)*pesos[i]/S;
+    tl.set(s,{opacity:1},t); tl.set(s,{opacity:0},t+d-0.001); t+=d; }); });
+
+// ---------- caja de la cámara: entrada ----------
+tl.fromTo("#cara",{opacity:0,y:40},{opacity:1,y:0,duration:.6,ease:"power3.out"},.1);
+
+window.__timelines["kallaway-prototipo-v2"]=tl;
+</script>
+</body>
+</html>
