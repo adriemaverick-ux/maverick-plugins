@@ -6,7 +6,7 @@ description: Úsalo para decidir qué ideas de conseguir clientes, outreach y pi
 # Lecciones de Jack Roberts aplicables
 
 ## Objetivo
-Tomar solo lo que encaja con vender sistemas a talleres, saneamiento y mantenimiento técnico en Lima, con la etiqueta de evidencia, y descartar lo que no aplica con su razón. Sus cifras de ingresos y conversión son autoinformadas y no se usan como promesa ni benchmark.
+Tomar solo lo que encaja con vender sistemas a empresas de mantenimiento B2B, con la etiqueta de evidencia, y descartar lo que no aplica con su razón. Sus cifras de ingresos y conversión son autoinformadas y no se usan como promesa ni benchmark.
 
 ## Pasos
 1. Ante una idea nueva de estos videos, localizar su etiqueta de evidencia (casi todo es [no verificado] o anécdota de un caso).
@@ -19,7 +19,7 @@ Tomar solo lo que encaja con vender sistemas a talleres, saneamiento y mantenimi
 - Diagnóstico previo: preguntar la intención detrás del pedido, documentar el proceso manual y cuantificar antes de proponer. Vender resultado, no "IA". [anécdota; principio alto]
 - Escalera diagnóstico pagado, luego transformación, luego recurrencia: encaja con mantenimiento y próximas visitas. [no verificado en cifras]
 - Seguimiento de varios toques, sin spam: quien insiste de forma respetuosa gana. Las cifras de toques son [no verificado]; aplicar con opt-out y sin automatizar.
-- Estrategia ballena: pocos prospectos grandes con una demo visual hecha a medida (por ejemplo panel de visitas de un taller concreto). Solo con permiso y datos públicos.
+- Estrategia ballena: pocos prospectos grandes con una demo visual hecha a medida (por ejemplo panel de visitas de una empresa concreta). Solo con permiso y datos públicos.
 - Personalizar un solo hueco del mensaje (una línea tras mirar su web), resto fijo; en borrador y con revisión humana.
 - Referidos y red personal como fuente principal de primeros clientes: cifras 65-85 % son [no verificado, muestra sesgada], pero la dirección coincide con la alternativa de consentimiento.
 - Ecuación de valor y precio atado a un número medible; pedir cifras antes de proponer.

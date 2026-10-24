@@ -28,7 +28,7 @@ Obtener un precio defendible y por escrito, sin cifras estándar: cada empresa s
 | Automatización / IA | {{COSTO_AUTO}} | {{QUIEN}} | Mensual/uso |
 | Operación posterior | {{MENSUALIDAD}} | Cliente | Mensual |
 
-**Referencias de costo a verificar (no son precios de Maverick):** GHL Starter figura en USD 97 al mes y WhatsApp en USD 10 al mes por sub-cuenta más tarifas de Meta [oficial, leído 2026-10-11, confirmar en la cuenta]; desde 2026-10-01 los mensajes de servicio dentro de la ventana pasan a ser facturables, con un tramo gratis [oficial]. ManyChat: precios contradictorios entre fuentes [no verificado].
+**Referencias de costo a verificar (no son precios de Maverick):** GHL Starter figura en USD 97 al mes y WhatsApp en USD 10 al mes por sub-cuenta más tarifas de Meta [oficial, leído 2026-10-11, confirmar en la cuenta]; desde 2026-10-01 los mensajes de servicio dentro de la ventana pasan a ser facturables, con un tramo gratis [oficial].
 
 **Prompt:** "Con estos supuestos de horas y estos costos de herramientas, arma la tabla de cotización con marcadores sin rellenar los que no tengo. Marca cada supuesto como dato verificado o estimación y señala qué falta confirmar."
 

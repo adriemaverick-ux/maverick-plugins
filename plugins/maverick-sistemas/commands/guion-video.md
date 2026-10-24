@@ -1,6 +1,6 @@
 ---
 description: Prepara el borrador de guion de un video en cámara de Maverick (gancho, situación del dueño, un paso práctico, CTA) con variantes de gancho y copy por canal.
-argument-hint: "[sector: taller|saneamiento|mantenimiento] [problema] [formato: reel|largo]"
+argument-hint: "[sector: saneamiento|mantenimiento|equipos] [problema] [formato: reel|largo]"
 ---
 
 Prepara un borrador de guion para Adrie con los argumentos: $ARGUMENTS

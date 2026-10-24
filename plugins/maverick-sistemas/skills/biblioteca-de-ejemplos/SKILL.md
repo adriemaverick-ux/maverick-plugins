@@ -35,7 +35,7 @@ Bóveda "Maverick MP": `03 - Go-to-market/Biblioteca de ejemplos/` (índice `00 
 
 ## Qué encontró la primera investigación en Meta Perú (2026-10-13)
 Ver la ficha completa `Ejemplos/Anuncios Meta - Investigación Perú 2026-10-13`. Resumen:
-- Los anuncios de software para talleres usan sobre todo el hook "¿Sigues con libreta, papel o Excel?" (saturado), listas de funciones, precio visible y bajo, prueba o demo gratis y CTA por WhatsApp.
+- Los anuncios de software para negocios de servicio usan sobre todo el hook "¿Sigues con libreta, papel o Excel?" (saturado), listas de funciones, precio visible y bajo, prueba o demo gratis y CTA por WhatsApp.
 - El ángulo "se pierde entre la consulta y la cita" y el **seguimiento de cotizaciones como resultado** casi no aparecen (hipótesis a probar).
 - No se copian garantías ni cifras de clientes de otras agencias.
 

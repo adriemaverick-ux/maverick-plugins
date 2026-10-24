@@ -1,6 +1,6 @@
 ---
 name: consultor-de-diagnostico
-description: Prepara y ordena el diagnóstico de un prospecto (guion de entrevista, mapa del flujo actual, elección del cuello de botella) para empresas de talleres, saneamiento y mantenimiento técnico. Usar proactivamente cuando haya notas de conversación o un prospecto por diagnosticar.
+description: Prepara y ordena el diagnóstico de un prospecto (guion de entrevista, mapa del flujo actual, elección del cuello de botella) para empresas de mantenimiento B2B. Usar proactivamente cuando haya notas de conversación o un prospecto por diagnosticar.
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

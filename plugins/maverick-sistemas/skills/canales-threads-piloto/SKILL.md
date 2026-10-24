@@ -6,11 +6,11 @@ description: Ejecuta y evalúa el piloto de Threads de 4 semanas (2026-10-12 a 2
 # Piloto de Threads
 
 ## Objetivo
-Probar Threads como canal de **conversación** con dueños y responsables de talleres, saneamiento y mantenimiento técnico, sin quitar tiempo a la producción principal. Si invade la producción, se reduce Threads primero.
+Probar Threads como canal de **conversación** con dueños y responsables de empresas de mantenimiento B2B, sin quitar tiempo a la producción principal. Si invade la producción, se reduce Threads primero.
 
 ## Pasos
 1. **Verificar la cuenta:** entrar con la cuenta comercial correcta; comprobar nombre, foto, bio y usuario. Usar `@maverick.sistemas` solo si realmente está configurado. Estado al 2026-10-10: acceso pendiente, nada publicado.
-2. **Búsqueda previa:** «taller mecánico Perú», «dueño de taller», «saneamiento ambiental Perú», «control de plagas Perú», «mantenimiento HVAC Perú», «mantenimiento eléctrico Perú». Anotar hasta 5 cuentas o conversaciones recientes por sector con enlace, fecha y señal de que habla un dueño. Si no hay, registrar **cero**; no inventar.
+2. **Búsqueda previa:** «empresa de mantenimiento Perú», «saneamiento ambiental Perú», «control de plagas Perú», «mantenimiento HVAC Perú», «mantenimiento eléctrico Perú». Anotar hasta 5 cuentas o conversaciones recientes por sector con enlace, fecha y señal de que habla un dueño. Si no hay, registrar **cero**; no inventar.
 3. **Publicar 3 textos por semana** (uno por sector) en días separados. Añadir tema etiquetado solo si hay uno pertinente.
 4. **3 sesiones de 15 min por semana:** 5 min leer, 8 min responder con algo concreto o una pregunta genuina, 2 min registrar. Sin pitch, sin enlace, sin mensajes privados no solicitados.
 5. **Registro semanal:** cuentas pertinentes, respuestas de dueños, privados con interés, visitas al perfil, reuniones, minutos.

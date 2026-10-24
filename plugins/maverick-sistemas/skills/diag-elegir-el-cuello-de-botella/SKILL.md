@@ -10,7 +10,7 @@ Terminar con UNA frase que diga qué paso se resuelve, por qué ese y no otro, y
 
 ## Pasos
 1. **Listar candidatos** desde el mapa: visibilidad (cómo los encuentran), atención de consultas, datos para cotizar, seguimiento de cotizaciones, agenda, próxima visita, visibilidad para el dueño.
-2. **Descartar primero lo que no es de sistemas.** Un taller con capacidad llena no necesita más demanda; puede necesitar filtrar y ordenar solicitudes. Un negocio que ya tiene menú automático necesita saber qué pasa después (derivación, seguimiento, estado).
+2. **Descartar primero lo que no es de sistemas.** Una empresa con capacidad llena no necesita más demanda; puede necesitar filtrar y ordenar solicitudes. Un negocio que ya tiene menú automático necesita saber qué pasa después (derivación, seguimiento, estado).
 3. **Puntuar cada candidato con el dueño**, en pizarra o papel: valor para el negocio (1-10) y dificultad de implementación (1-10, considerando equipo, datos y canal). Anotar quién puso cada número.
 4. **Aplicar el trío por candidato:** tiempo perdido, trabajo o ingreso en juego (según el dueño, rotulado estimación) y riesgo si no se hace.
 5. **Elegir** el de valor alto y dificultad baja que además cumpla: ocurre varias veces al mes, hay dueño del proceso, se puede medir antes y después, y no exige reemplazar lo que ya usan.
@@ -39,7 +39,7 @@ Terminar con UNA frase que diga qué paso se resuelve, por qué ese y no otro, y
 ## Nivel de evidencia
 - Matriz valor-dificultad y priorizar alto valor / baja dificultad: videos de Jack Roberts, lotes 2, 3 y 4 [video; ejemplos monetarios no verificado].
 - Trío tiempo, valor y riesgo y elegir el factor más limitante: video B2 y B3 del lote 4 [video, no verificado como resultado].
-- Piloto de UN cuello, taller sin mecánicos no necesita más clientes: Decisiones consolidadas 2026-10-10 [decisión].
+- Piloto de UN cuello, empresa sin técnicos no necesita más clientes: Decisiones consolidadas 2026-10-10 [decisión].
 - Flujos lineales y deterministas por encima de agentes: lote 1 (video 9) [video; la tasa de error citada es no verificado].
 
 ## Fuente

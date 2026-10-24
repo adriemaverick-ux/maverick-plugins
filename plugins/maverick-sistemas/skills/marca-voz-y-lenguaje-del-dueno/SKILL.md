@@ -1,15 +1,15 @@
 ---
 name: marca-voz-y-lenguaje-del-dueno
-description: Usar al escribir o reescribir guiones, captions, textos de Threads, mensajes o propuestas de Maverick Sistemas para que suenen a alguien que construye y prueba sistemas, en lenguaje de dueño de taller o servicio técnico. Triggers - "voz de marca", "guion", "caption", "brand voice", "reescribe en lenguaje simple", "tono Maverick".
+description: Usar al escribir o reescribir guiones, captions, textos de Threads, mensajes o propuestas de Maverick Sistemas para que suenen a alguien que construye y prueba sistemas, en lenguaje de dueño de empresa de mantenimiento B2B. Triggers - "voz de marca", "guion", "caption", "brand voice", "reescribe en lenguaje simple", "tono Maverick".
 ---
 
 # Voz y lenguaje del dueño
 
 ## Objetivo
-Que cada pieza de Maverick Sistemas (Adrie sale en cámara) hable como alguien que construye y prueba sistemas, con las palabras del dueño de un taller, una empresa de saneamiento o de mantenimiento técnico. Sin jerga de software, sin pose de gurú.
+Que cada pieza de Maverick Sistemas (Adrie sale en cámara) hable como alguien que construye y prueba sistemas, con las palabras del dueño de una empresa de mantenimiento, una empresa de saneamiento o de mantenimiento técnico. Sin jerga de software, sin pose de gurú.
 
 ## Reglas
-1. Hablar como quien construye y prueba, no como experto en el oficio del cliente. Adrie no es mecánico ni técnico de campo: no darle consejos de taller.
+1. Hablar como quien construye y prueba, no como experto en el oficio del cliente. Adrie no es mecánico ni técnico de campo: no darle consejos del oficio.
 2. Abrir con una situación que el dueño reconozca (consulta sin respuesta, cotización sin siguiente paso, visita recurrente olvidada) y luego mostrar un paso práctico. Una idea por pieza.
 3. Vocabulario preferido: consultas, cotizaciones, visitas, clientes que regresan, responsable, seguimiento, agenda, próximo mantenimiento. Evitar CRM, pipeline, funnel, workflow, stack, "automatizar con IA" como titular.
 4. **Se vende software y automatización; no se menciona IA** en el mensaje (decisión de Adrie, 2026-10-13). Si un cliente pregunta cómo se construye, se responde con honestidad, pero no es el argumento de venta.
@@ -21,7 +21,7 @@ Que cada pieza de Maverick Sistemas (Adrie sale en cámara) hable como alguien q
 
 ## Plantillas / ejemplos
 - Gancho: "Te escriben un sábado por la noche pidiendo precio. El lunes, ¿quién sabe si ya se respondió?"
-- Cierre: "Si este paso se pierde en tu taller, cuéntame cómo lo llevas hoy."
+- Cierre: "Si este paso se pierde en tu empresa, cuéntame cómo lo llevas hoy."
 - Traducción de jerga: "pipeline" -> "las cotizaciones abiertas esta semana"; "automatización" -> "que nadie se olvide de volver a escribirle al cliente".
 - Variante saneamiento: "Terminaste el servicio; ¿quién recuerda cuándo toca la próxima fumigación?"
 - Variante mantenimiento técnico: "Avisaron una falla en el aire acondicionado; ¿quién la tiene asignada y en qué estado está?"
@@ -34,7 +34,7 @@ Que cada pieza de Maverick Sistemas (Adrie sale en cámara) hable como alguien q
 - Pasar la pieza por [[marca-afirmaciones-prohibidas-y-revision]] solo al final: hacerlo antes de grabar.
 
 ## Prueba rápida
-Lee la pieza en voz alta como si se la dijeras a un dueño en su taller. Si tropiezas con una palabra que él no usaría, cámbiala. Si no puedes resumirla en una frase, sobra una idea.
+Lee la pieza en voz alta como si se la dijeras a un dueño en su empresa. Si tropiezas con una palabra que él no usaría, cámbiala. Si no puedes resumirla en una frase, sobra una idea.
 
 ## Fuente
 `03 - Go-to-market/Marca Maverick y contenido.md` (sección Voz y prueba), `03 - Go-to-market/Decisiones consolidadas de la conversación - 2026-10-10.md` (secciones 1, 3 y 5), `00 - Inicio.md` (Reglas).

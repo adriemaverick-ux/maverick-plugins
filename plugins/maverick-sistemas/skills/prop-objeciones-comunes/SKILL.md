@@ -1,6 +1,6 @@
 ---
 name: prop-objeciones-comunes
-description: Úsalo para responder con honestidad las objeciones típicas de dueños de talleres, saneamiento y mantenimiento técnico (ya tengo menú automático, es caro, no tengo tiempo, no confío en un bot). Gatillos - "objeciones", "me dijo que está caro", "handle objection", "qué le respondo si", "ya tengo respuesta automática".
+description: Úsalo para responder con honestidad las objeciones típicas de dueños de empresas de mantenimiento B2B (ya tengo menú automático, es caro, no tengo tiempo, no confío en un bot). Gatillos - "objeciones", "me dijo que está caro", "handle objection", "qué le respondo si", "ya tengo respuesta automática".
 ---
 
 # Objeciones comunes
@@ -41,7 +41,7 @@ Responder sin presionar ni prometer. Cada respuesta vuelve al caso real del due�
 
 ## Nivel de evidencia
 - Respuestas ancladas en la oferta y las decisiones: Oferta y Decisiones consolidadas 2026-10-10 [decisión].
-- Que algunos talleres ya automatizan menús de cotización: observación de Adrie, 2026-10-10 [observación; prueba que existen, no que funcionen bien o mal].
+- Que algunas empresas ya automatizan menús de cotización: observación de Adrie, 2026-10-10 [observación; prueba que existen, no que funcionen bien o mal].
 - Técnicas de silencio tras el precio, manejo de objeciones y por qué ahora: videos de Jack Roberts, lote 3 módulo 6 [video; cifras no verificado].
 
 ## Fuente

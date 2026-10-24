@@ -1,6 +1,6 @@
 ---
 name: nicho-hipotesis-por-sector
-description: Úsalo para formular y probar hipótesis de dolor y oferta por sector (talleres, saneamiento ambiental, mantenimiento técnico), con preguntas de validación y qué evidencia las confirma. Gatillos: "hipótesis por sector", "qué preguntar a un taller de saneamiento", "validate sector hypothesis", "entrevista de descubrimiento".
+description: Úsalo para formular y probar hipótesis de dolor y oferta por sector (saneamiento ambiental, mantenimiento técnico, equipos de cocina), con preguntas de validación y qué evidencia las confirma. Gatillos: "hipótesis por sector", "qué preguntar a una empresa de saneamiento", "validate sector hypothesis", "entrevista de descubrimiento".
 ---
 
 # Hipótesis por sector
@@ -17,10 +17,6 @@ Convertir cada sector en hipótesis comprobables con preguntas sobre casos recie
 6. No fijar un solo nicho por parecer rentable en papel; esperar conversaciones comparables.
 
 ## Plantillas
-**Talleres (hipótesis):** reciben consultas por teléfono o WhatsApp y cotizan servicios de complejidad variable; recepción, seguimiento de cotizaciones o recordatorios de mantenimiento podrían generar valor. Cuidado: algunos tienen cuello de botella de capacidad, no de demanda. Algunos ya automatizan la recepción con menús.
-- "Cuando el equipo está trabajando, ¿quién responde las consultas nuevas?"
-- "Cuéntame la última cotización que no recibió respuesta. ¿Qué hicieron?"
-
 **Saneamiento ambiental (hipótesis):** la recurrencia de visitas, propuestas, certificados y renovaciones puede ser oportunidad; no medida en nuestras conversaciones.
 - "¿Cómo coordinan la próxima visita después de terminar un servicio?"
 - "¿Cómo se enteran de que vence un certificado o contrato?"
@@ -36,11 +32,11 @@ Quién decide / Interés en probar / Permiso de seguimiento / Cita literal
 ```
 
 ## Errores comunes
-- Asumir que todo taller necesita más demanda.
+- Asumir que toda empresa necesita más demanda.
 - Tomar la cortesía como confirmación.
 - Preguntar por la solución antes de escuchar el proceso.
 - Extrapolar un sector a otro sin conversaciones propias.
-- Contar saneamiento y mantenimiento como confirmados por afinidad con talleres.
+- Contar saneamiento y mantenimiento como confirmados por afinidad con otro sector.
 
 ## Nivel de evidencia
 - Hipótesis de los tres sectores: [hipótesis], tomadas de la nota de nichos activos (2026-10-10).

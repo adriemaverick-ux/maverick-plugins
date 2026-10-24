@@ -1,6 +1,6 @@
 ---
 name: prop-propuesta-visual-sin-jerga
-description: Úsalo para armar la propuesta de un piloto en una o dos páginas visuales, con lenguaje de dueño, que incluya alcance, precio, costos de herramientas, responsables, qué queda fuera y siguiente paso. Gatillos - "preparar propuesta", "propuesta para el taller", "one-page proposal", "propuesta visual", "PDF de propuesta".
+description: Úsalo para armar la propuesta de un piloto en una o dos páginas visuales, con lenguaje de dueño, que incluya alcance, precio, costos de herramientas, responsables, qué queda fuera y siguiente paso. Gatillos - "preparar propuesta", "propuesta para la empresa", "one-page proposal", "propuesta visual", "PDF de propuesta".
 ---
 
 # Propuesta visual sin jerga

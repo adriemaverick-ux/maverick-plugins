@@ -1,6 +1,6 @@
 ---
 name: contenido-ciclo-semanal
-description: Arma el ciclo semanal de contenido de Maverick Sistemas con Adrie en cámara (grabación en lote, 3 videos base reutilizados en varias piezas). Usar al planificar la semana, "plan semanal", "weekly content plan", "qué grabo esta semana" o cuando falta tiempo y hay que recortar.
+description: Arma el ciclo semanal de contenido de Maverick Sistemas con Adrie en cámara (grabación en lote y reutilización en varios canales). Usar al planificar la semana, "plan semanal", "weekly content plan", "qué grabo esta semana" o cuando falta tiempo y hay que recortar.
 ---
 
 # Ciclo semanal de contenido en cámara
@@ -8,13 +8,13 @@ description: Arma el ciclo semanal de contenido de Maverick Sistemas con Adrie e
 ## Objetivo
 Que un solo creador (Adrie) produzca cada semana contenido en cámara sostenible, con un día de grabación y reutilización en todos los canales, sin bajar la calidad. Todo lo que sale de aquí es **borrador para aprobación humana**; este módulo no publica ni programa.
 
-## Dos cadencias: acordada y propuesta
-- **Acordada por Adrie (vault, 2026-10-10):** 4 Reels + 1 carrusel por semana en Instagram, adaptados a Facebook y YouTube Shorts, y 1 video largo de YouTube por semana durante 4 semanas de prueba. Es decisión de producción, no regla de algoritmo.
-- **PROPUESTA (a validar con Adrie):** **3 videos en cámara por semana**, cada uno convertido en 4-6 piezas. Se propone por sostenibilidad de un solo creador; es una propuesta de trabajo, no un dato de plataforma. Si Adrie confirma la acordada, el skill se aplica igual con esos números.
+## Cadencia vigente `[decisión de Adrie, 2026-10-21]`
+**5 Reels por semana (Instagram y Facebook a la vez), 2 carruseles, Threads diario, esos Reels resubidos a YouTube Shorts y 1 video largo de YouTube por semana.** Es decisión de producción, no regla de algoritmo. Detalle y formatos: nota `Sistema de contenido - tipo, formato y guion - 2026-10-21` y skill `sistema-de-contenido`.
+**Riesgo:** son muchas piezas para un solo creador. Si falta tiempo, se recorta en este orden: Threads, un carrusel, Shorts; se mantienen el largo y 2 Reels como mínimo. Anotar las horas reales de la primera semana.
 
 ## Pasos
 1. **Lunes (45 min) - brief.** Revisar preguntas reales de dueños (DM, comentarios, conversaciones) y elegir **un problema central** de la semana (consulta sin responsable, cotización sin seguimiento, próxima visita olvidada). Definir por video: gancho, un paso práctico, CTA, qué dato es ficticio.
-2. **Martes (90-120 min) - grabación en lote.** Misma ropa, fondo y luz. Grabar los 3 videos base; 2 tomas del gancho de cada uno; 2 s de margen; un B-roll vertical (pizarra, papel, ficha ficticia). Un video puede ser el largo de YouTube cuando toque.
+2. **Martes (90-120 min) - grabación en lote.** Misma ropa, fondo y luz. Grabar los videos base de la semana; 2 tomas del gancho de cada uno; 2 s de margen; un B-roll vertical (papel, ficha ficticia). Un video puede ser el largo de YouTube cuando toque.
 3. **Miércoles (2-3 h) - edición y paquete.** Usar `produccion-reutilizar-un-video-en-todos-los-canales`: transcribir, 3-6 clips, subtítulos propios, título y descripción por plataforma.
 4. **QA humano (10-20 min).** Pasar `produccion-qa-antes-de-publicar` con sonido y en silencio. Adrie aprueba; solo entonces se programa o publica (acción de Adrie o de una herramienta autorizada por él).
 5. **Jueves a domingo - conversación manual (15-20 min/día).** Adrie responde comentarios y DM él mismo.

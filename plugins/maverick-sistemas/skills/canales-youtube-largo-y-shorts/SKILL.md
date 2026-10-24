@@ -10,7 +10,7 @@ Usar YouTube como biblioteca de confianza y búsqueda (video largo) y como descu
 
 ## Pasos
 1. **Largo (1 por semana durante la prueba de 4 semanas):** un problema central, mapa del recorrido, ejemplo ficticio, regla práctica, límites y siguiente paso. La duración la decide la pregunta (guía de trabajo del informe: 6-12 min, hipótesis).
-2. **Título:** la frase que teclearía el dueño, no la marca. Ej.: «Cómo seguir una cotización de taller hasta tener una decisión».
+2. **Título:** la frase que teclearía el dueño, no la marca. Ej.: «Cómo seguir una cotización de servicio hasta tener una decisión».
 3. **Descripción:** primeras dos líneas responden el problema y llevan el CTA; luego capítulos desde 00:00 y recursos. Subir subtítulos propios revisados (jerga: OT, preventivo, correctivo).
 4. **Miniatura:** cara + 3-4 palabras + una promesa que el video cumple. Usar prueba de miniaturas solo con impresiones suficientes.
 5. **Shorts:** recorte del ángulo más fuerte (20-45 s), vertical, subido nativo, sin marca de agua de otra app. Título que describe el problema del negocio. No producir un video distinto solo para Shorts.
@@ -37,7 +37,7 @@ Usar YouTube como biblioteca de confianza y búsqueda (video largo) y como descu
 - Shorts hasta 3 min desde 15-oct-2024; vistas de Shorts cuentan desde el inicio de reproducción (mar-2025) [analista].
 - Informe «Viewed vs. swiped away» en Studio: no abrí la ayuda oficial [analista].
 - Enlace «video relacionado» a Shorts [oficial, de segunda mano; verificar en la app].
-- Google/NRG: 69% de usuarios de YouTube en compra B2B halló el contenido muy o extremadamente confiable (artículo patrocinado, 2025) [analista, fuente interesada]; no es de talleres peruanos.
+- Google/NRG: 69% de usuarios de YouTube en compra B2B halló el contenido muy o extremadamente confiable (artículo patrocinado, 2025) [analista, fuente interesada]; no es de empresas de mantenimiento peruanas.
 - Largos de 6-12 min como duración óptima [no verificado].
 
 ## Fuente

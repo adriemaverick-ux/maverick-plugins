@@ -32,7 +32,7 @@ Que el dueño vea el estado de solicitudes, cotizaciones y servicios próximos s
 
 **Prompt:** "Con estas cifras de la semana y sus definiciones, escribe una lectura de 5 líneas para el dueño: qué cambió, qué quedó sin siguiente paso y qué conviene mirar. No expliques causas que no estén en los datos ni prometas tendencias."
 
-**Frase para la reunión:** "Estas cifras son lo que registró el sistema, no una proyección. Si algo no cuadra con lo que ves en el taller, lo corregimos juntos."
+**Frase para la reunión:** "Estas cifras son lo que registró el sistema, no una proyección. Si algo no cuadra con lo que ves en tu operación, lo corregimos juntos."
 
 ## Errores comunes
 - Mostrar demasiadas métricas o de vanidad (vistas, seguidores).

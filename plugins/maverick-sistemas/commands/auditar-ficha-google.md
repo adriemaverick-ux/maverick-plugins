@@ -1,5 +1,5 @@
 ---
-description: Audita la ficha de Google y el SEO local de un cliente (taller, saneamiento, HVAC) con la checklist del plugin y devuelve hallazgos priorizados y un plan de 30 días. Solo lectura y borradores.
+description: Audita la ficha de Google y el SEO local de un cliente (saneamiento, HVAC, equipos de cocina) con la checklist del plugin y devuelve hallazgos priorizados y un plan de 30 días. Solo lectura y borradores.
 argument-hint: "[nombre del negocio o URL de la ficha] [rubro] [distrito]"
 ---
 

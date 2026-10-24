@@ -32,28 +32,12 @@ Producir overlays claros, editables y con la marca vigente sobre un video en cá
 | Frase hablada | Segundo | Idea | Lectura | Zona libre | Movimiento | Módulo |
 |---|---|---|---|---|---|---|
 
-## Formato B: pantalla dividida con el flujo visible (propuesto por Adrie, 2026-10-12)
-Un panel muestra el **workflow animado armándose al compás de la voz** y el otro muestra la **cara de Adrie siempre visible**. Pensado para piezas que explican un proceso (consulta → cotización → seguimiento → próxima visita).
-- **Recomendación a probar:** pantalla dividida como base en piezas de proceso; **pantalla completa (Formato A)** solo en 1 o 2 momentos de énfasis por video. [criterio propio; probar y medir]
-- **Montaje:** HyperFrames renderiza **solo el panel del flujo** (por ejemplo 1080×1056) y CapCut compone la división con el clip recortado alrededor de la cara (por ejemplo 1080×864). Así se ajusta sin re-renderizar. Automatizar la composición dentro de HyperFrames (medios del usuario en la línea de tiempo) es una opción posterior, no probada.
-- **Encuadre de la cara:** recortar una franja del vertical 1080×1920 centrada en la cara (ojos en el tercio superior de la franja). Para esto sí hace falta ver el clip.
-- **Zonas seguras:** la parte baja de Reels/Shorts la cubren botones y texto de la app. Primera propuesta: **cara arriba, flujo abajo**, manteniendo ojos y boca por encima de ~65% de la altura total y los elementos clave del flujo fuera del ~35% inferior. [criterio propio; las fuentes discrepan; verificar en el teléfono]
-- **El flujo se construye por etapas:** cada paso aparece cuando Adrie lo dice (tiempo de la transcripción) y queda en pantalla; un elemento "viaja" por los estados; mantener un momento quieto para leer.
-
-## Formato C: burbuja redonda + pizarra estática con scroll (decisión de Adrie, 2026-10-13; corregida)
-**No es una animación.** La pizarra es un **tablero digital largo y estático** (esquemas, fichas, listas, textos grandes) y **Adrie lo desliza con la mano mientras explica**; su cara va en una **burbuja redonda chica**. Se descartó la versión con elementos que aparecen y se animan (tarjetas, flechas, token viajero): queda solo como plantilla alternativa.
-- **Cómo lo hace la gente (búsqueda 2026-10-13, fuentes de tutoriales):** lienzo vertical largo (Canva, Figma, FigJam, Notion o HTML), **grabación de pantalla deslizando despacio** mientras se habla (Mac: Mayús + Comando + 5), recorte a la región útil y cámara en burbuja; en CapCut también se puede simular el scroll animando con fotogramas clave la posición vertical de una imagen larga.
-- **El gráfico se basta solo (decisión de Adrie, 2026-10-13):** sin guion aparte ni teleprompter. Cada pantalla lleva título, esquema, notas y **tres puntos grandes para hablar**; Adrie improvisa a partir de ellos. Todo lo que aparece es contenido apto para el espectador.
-- **Tema: modo claro** (decisión de Adrie, 2026-10-13, porque se ve mejor): fondo crema #F7F4EE, tarjetas blancas, azul #1F6FEB/#2459C9, ámbar #D97F00, texto #12151C. Vale para tablero y presentador; el oscuro queda como alternativa.
-- **Tablero:** 1080 px de ancho, **una pantalla (800 px de alto) por idea**, texto grande, paleta Maverick, una línea de hilo a la izquierda, "Ejemplo ficticio" donde haya datos inventados. El orden de arriba hacia abajo sigue los bloques del guion de 9 bloques, **sin rótulos internos de bloque**.
-- **Escenario final 1080×1920 (corregido el 2026-10-13):** la **cara va abajo, en un círculo centrado** (aprox. y 1380 a 1800, el de la herramienta de grabación), los **captions encima de la cara** (aprox. y 1230 a 1370) y **todo el contenido de la pizarra en la parte alta, hasta ~y 1210**; nada importante en el tercio inferior.
-- **Dos formas de grabar:** (1) abrir `visor-pieza1.html` en Chrome y **grabar la pantalla mientras se desliza y se habla**; (2) importar la imagen larga a CapCut y **animar el desplazamiento con fotogramas clave** para tener control del ritmo. La cara se graba aparte y se pone en círculo en CapCut.
-- **Ritmo:** una idea por pantalla; deslizar al terminar de decir cada idea, sin rapidez.
-- **Archivos:** plantilla en `assets/tablero-pieza-1/` (tablero y visor). Versión estática renderizada en `Maverick Videos/pieza-1-tablero/`.
-- **A probar contra A y B** (retención, envíos por alcance, conversaciones de dueños por cada 1 000 alcanzadas).
+## Formatos vigentes (decisión de Adrie, 2026-10-21 y 2026-10-23)
+Solo de Reels y Shorts: **Kallaway** (principal: gráfico animado en HyperFrames arriba y su cara siempre en una caja abajo, nunca completa; ver `produccion-pipeline-edicion` y `produccion-estilo-split-animado`), **B · cámara completa en trípode + overlays** (restaurado el 2026-10-23; ver más abajo), **Comparación** (su cara + 2 cuadros, anticuado frente a bueno), **Raw content** (a cámara, sin overlays), **Tablero animado + voz de IA** y **Entrevista con dueños** (con permiso escrito).
+**Retirados:** el «Formato C» (burbuja redonda + pizarra estática con scroll; sus plantillas están archivadas fuera del plugin), la «pantalla dividida con el flujo visible» original (la reemplaza Kallaway) y los tableros estáticos.
 
 ## Evidencia del estudio de Reels (2026-10-12)
-En 20 Reels de 5 creadores, **42 de 46 overlays eran parciales** (la cara sigue visible) y solo 4 a pantalla completa; los subtítulos palabra por palabra son casi universales; Nick Saraev usa **animación arriba y su cara abajo** con subtítulos al centro. Apoya el Formato B como base y la pantalla completa solo para énfasis. [observado en 20 videos; muestra pequeña]
+En 20 Reels de 5 creadores, **42 de 46 overlays eran parciales** (la cara sigue visible) y solo 4 a pantalla completa; los subtítulos palabra por palabra son casi universales; Nick Saraev usa **animación arriba y su cara abajo** con subtítulos al centro. Apoya el formato Kallaway (cara abajo) como base; la pantalla completa se usa solo para énfasis. [observado en 20 videos; muestra pequeña]
 
 ## Skills oficiales de HyperFrames (instaladas el 2026-10-12)
 Instaladas en `~/Downloads/Maverick Videos/.claude/skills/` (11 skills, ~6 MB, de HeyGen, Apache-2.0; revisadas: solo usan procesos normales de CLI/FFmpeg). Se instalaron **solo para esa carpeta** para no cargarlas en todas las sesiones. Para instalarlas globales: `npx hyperframes skills`.
@@ -64,8 +48,8 @@ Instaladas en `~/Downloads/Maverick Videos/.claude/skills/` (11 skills, ~6 MB, d
 - **`media-use`** (+ `hyperframes-audio`): transcripción con palabras sincronizadas, **20 efectos de sonido incluidos** (whoosh, pop, click, riser, impacto, tecleo…), etalonaje y tratamientos de imagen. Algunos scripts de voz y música usan servicios externos con claves: **no pegar claves en notas ni proyectos**.
 - **`hyperframes-core`, `-cli`, `-studio`, `-keyframes`**: contrato de composición, comandos y revisión en Studio.
 
-## Formato decidido: escenas a pantalla completa que tapan la imagen (2026-10-12)
-Adrie aclaró que aquí el "overlay" **no es transparente: tapa todo el cuadro**. Es una escena animada (b-roll de motion graphics) que entra sobre el video en cámara mientras **su voz sigue sonando**, y luego vuelve a él. Consecuencias:
+## Formato B: cámara completa en trípode + overlays (decidido el 2026-10-12, restaurado el 2026-10-23)
+Adrie habla a cámara en trípode, con su cara a pantalla completa, y entran overlays animados. Aquí el "overlay" **no es transparente: tapa todo el cuadro**. Es una escena animada (b-roll de motion graphics) que entra sobre el video en cámara mientras **su voz sigue sonando**, y luego vuelve a él. Consecuencias:
 - **Exportar MP4 normal opaco** 1080×1920 a 30 fps (el alfa/croma solo si algún día se quiere una capa parcial).
 - En CapCut la escena va **encima** del A-roll y se **silencia su audio propio**; la voz de Adrie sigue por debajo sin cortes.
 - **La ruta de HyperFrames para esto es `motion-graphics`** (unidad corta, menos de 10 s, donde el movimiento es el mensaje: tipografía cinética, contadores, flujos, tarjetas). `talking-head-recut` queda para cuando se quiera una capa parcial junto a su cara.

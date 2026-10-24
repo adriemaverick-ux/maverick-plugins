@@ -9,7 +9,7 @@ description: Diseña y evalúa la prueba de 4 semanas por canal y formato, midie
 Decidir con datos propios qué canales y formatos conservar. Métrica principal: **conversaciones calificadas por cada 1.000 personas alcanzadas**. Vistas y seguidores son contexto.
 
 ## Pasos
-1. **Definir «calificada» antes de medir** (para Maverick): persona de taller, empresa de saneamiento o de mantenimiento técnico en Perú que describió un problema concreto. Sin «tamaño mínimo» hasta que Adrie lo defina.
+1. **Definir «calificada» antes de medir** (para Maverick): persona de una empresa de mantenimiento B2B (saneamiento, mantenimiento técnico o equipos) en Perú que describió un problema concreto. Sin «tamaño mínimo» hasta que Adrie lo defina.
 2. **Línea base de canales:** revisar manualmente 20 empresas objetivo por segmento (60 en total): canal activo, fecha de última publicación, dueño identificable. Es muestra de prospección, no estadística del mercado.
 3. **Variable única por prueba.** Semanas 1-2: gancho de dolor vs. gancho de pantalla (mismo guion). Semanas 3-4: 30-45 s vs. 60-75 s. Un tema central por semana.
 4. **Publicar en paralelo** el mismo video en Instagram y Facebook (y Short en YouTube) y registrar por plataforma.

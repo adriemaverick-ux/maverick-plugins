@@ -35,7 +35,7 @@ Revisión legal de plantillas: pendiente/ok
 
 ## Errores comunes
 - Dar por configurado en GHL lo que solo está definido en una nota.
-- Duplicar bandeja con otra herramienta de DM sobre la misma cuenta; añadir ManyChat solo si aparece una limitación concreta.
+- Duplicar bandeja con otra herramienta de DM sobre la misma cuenta; ManyChat está descartado (decisión de Adrie, 2026-10-21).
 - Confiar en blogs para precios de IA o WhatsApp.
 - Enviar WhatsApp promocional fuera de ventana sin plantilla aprobada ni consentimiento.
 - Prometer chat desde Google (Business Messages ya no existe) o cobro online sin verificar pasarelas en Perú.

@@ -1,12 +1,12 @@
 ---
 name: nicho-criterios-y-decision
-description: Úsalo para comparar los sectores en exploración (talleres, saneamiento, mantenimiento técnico) y decidir dónde concentrar esfuerzo, sin declarar ganador antes de tener datos. Gatillos: "¿qué nicho elegir?", "validar nicho", "comparar sectores", "niche decision criteria".
+description: Úsalo para comparar los sectores en exploración (saneamiento, mantenimiento técnico, equipos de cocina) y decidir dónde concentrar esfuerzo, sin declarar ganador antes de tener datos. Gatillos: "¿qué nicho elegir?", "validar nicho", "comparar sectores", "niche decision criteria".
 ---
 
 # Criterios y decisión de nicho
 
 ## Objetivo
-Elegir con hechos observados, no por intuición ni por número bruto de respuestas. **Ningún sector es ganador todavía.** Talleres tiene prioridad operativa (hay experiencia previa y lista), eso no prueba que sea el mejor.
+Elegir con hechos observados, no por intuición ni por número bruto de respuestas. **Ningún sector es ganador todavía.** El nicho oficial (decisión de Adrie, 2026-10-13) tiene prioridad operativa, eso no prueba que sea el mejor.
 
 ## Pasos
 1. Mantener la tesis paraguas: empresas de mantenimiento y servicios técnicos recurrentes que necesitan ordenar consultas, cotizaciones, trabajos y próximas visitas.
@@ -28,7 +28,7 @@ Decisión y fecha de revisión:
 ```
 
 ## Errores comunes
-- Declarar ganador a talleres por ser el primero con datos.
+- Declarar ganador a un sector por ser el primero con datos.
 - Contar respuestas automáticas o cortesías como demanda.
 - Elegir por el "mejor ticket" en papel, sin acceso al decisor.
 - Comparar sectores con muestras o mensajes distintos.

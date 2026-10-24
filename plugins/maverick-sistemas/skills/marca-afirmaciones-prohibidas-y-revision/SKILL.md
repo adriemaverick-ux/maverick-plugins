@@ -37,7 +37,7 @@ Evitar que salga una promesa que Maverick no puede respaldar. Maverick no promet
 ## Errores comunes
 - Dejar pasar la última línea de la bio ("Más trabajos cerrados") sin marcarla: la fuente la califica como resultado buscado, no garantía.
 - Revisar solo el texto y no el video, la miniatura o el audio.
-- Aceptar un número "porque es de otro taller".
+- Aceptar un número "porque es de otra empresa".
 
 ## Fuente
 `03 - Go-to-market/Marca Maverick y contenido.md`, `00 - Inicio.md` (enfoque y Reglas), `01 - Negocio/Oferta - Sistemas para servicios recurrentes.md` (Promesa comercial).

@@ -1,6 +1,6 @@
 ---
 name: auto-conectar-llm-a-mensajeria
-description: Usar cuando se quiera conectar Claude, GPT o Codex a Instagram/Messenger/WhatsApp vía ManyChat, GHL, n8n o una función en la nube. Gatillos "conectar IA a Instagram", "chatbot con IA", "External Request timeout", "LLM en DMs", "connect Claude to Instagram".
+description: Usar cuando se quiera conectar Claude, GPT o Codex a Instagram/Messenger/WhatsApp vía GHL, n8n o una función en la nube. Gatillos "conectar IA a Instagram", "chatbot con IA", "External Request timeout", "LLM en DMs", "connect Claude to Instagram".
 ---
 
 # Conectar un LLM a la mensajería (dentro de lo permitido)
@@ -9,9 +9,9 @@ description: Usar cuando se quiera conectar Claude, GPT o Codex a Instagram/Mess
 Usar un modelo de lenguaje como apoyo acotado (FAQs, resumen para el vendedor), nunca como vendedor autónomo. Claude Code y Codex sirven para escribir el código; el modelo que atiende al cliente en producción se llama por la API de Anthropic u OpenAI.
 
 ## Pasos
-1. Elegir la ruta: (a) IA nativa de ManyChat o Conversation AI de GHL; (b) External Request a n8n o función en la nube; (c) integración directa con la API de Meta (fase 2). Para empezar, (a) o (b). [vendor/comunidad]
-2. Patrón asíncrono por el timeout de 10 s de External Request de ManyChat: el endpoint responde 200 de inmediato, procesa con el LLM y entrega la respuesta después por la API de ManyChat (setCustomField + sendFlow o Send Content). Si no, el campo llega vacío. [comunidad]
-3. Activar "Encode to JSON" y no entrecomillar a mano los placeholders del body. [comunidad]
+1. Elegir la ruta: (a) Conversation AI de GHL; (b) webhook de GHL a n8n o función en la nube; (c) integración directa con la API de Meta (fase 2). Para empezar, (a) o (b). [vendor/comunidad]
+2. Patrón asíncrono por el timeout de las llamadas externas: el endpoint responde 200 de inmediato, procesa con el LLM y entrega la respuesta después por la API de GHL (límite exacto por verificar en la cuenta). Si no, la respuesta llega vacía. [no verificado en GHL]
+3. Enviar el cuerpo como JSON bien escapado: no entrecomillar a mano los campos variables. [comunidad]
 4. El endpoint (n8n o función serverless) verifica un token propio, deduplica por message_id, carga memoria, llama al LLM con base de conocimiento corta y valida la salida.
 5. Memoria: por contact_id/IGSID guardar los últimos 6-10 turnos, un resumen rodante, campos calificados, estado (bot/humano) y marca de tiempo para saber si sigue la ventana de 24 h. Definir retención (ej. 12 meses sin actividad) y borrado a pedido. [analista]
 6. Escalado a humano: reglas fijas antes del LLM (precio, contrato, queja, "quiero hablar con alguien") derivan sin pasar por el modelo; máximo 3 turnos de IA por hilo. Ver auto-escalado-a-humano-y-calificacion.
@@ -22,10 +22,10 @@ Usar un modelo de lenguaje como apoyo acotado (FAQs, resumen para el vendedor), 
 
 ## Plantillas/ejemplos
 ```
-ManyChat --External Request--> n8n webhook
+GHL --webhook--> n8n
    n8n: responde 200 -> busca memoria -> LLM (system prompt + FAQ)
         -> validador (sin precios, plazos, garantías inventados)
-        -> API ManyChat: setCustomField(respuesta) + sendFlow
+        -> API de GHL: enviar la respuesta a la conversación
 Si confianza baja: "No quiero equivocarme, te paso con una persona" + tag humano.
 ```
 Prompt de sistema (resumen): responde solo con la base de conocimiento; no inventes precios, plazos ni descuentos; si no sabes, deriva; indica que eres un asistente automatizado.
@@ -41,7 +41,7 @@ Prompt de sistema (resumen): responde solo con la base de conocimiento; no inven
 - WhatsApp: desde 2026-01-15 Meta prohíbe chatbots de IA de propósito general como producto; los bots de negocio acotados siguen permitidos. [vendor/comunidad, confirmar en términos oficiales]
 
 ## Nivel de evidencia
-- Límites y reglas de Meta: [oficial]. Timeout de 10 s y patrón asíncrono: [comunidad]. Precios de LLM: [oficial/no verificado]. Calidad de la IA nativa de ManyChat: [vendor/comunidad]. Plantillas n8n con OpenAI: [comunidad, no verificadas de extremo a extremo].
+- Límites y reglas de Meta: [oficial]. Timeout de 10 s y patrón asíncrono: [comunidad]. Precios de LLM: [oficial/no verificado]. Plantillas n8n con OpenAI: [comunidad, no verificadas de extremo a extremo].
 
 ## Fuente
 Informe 01_manychat_dms_instagram.md (sección 4) y 02_ghl_crm_y_redes.md (secciones 3 y 6.4).

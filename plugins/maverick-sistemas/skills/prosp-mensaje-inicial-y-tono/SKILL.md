@@ -1,6 +1,6 @@
 ---
 name: prosp-mensaje-inicial-y-tono
-description: Úsalo para redactar el primer mensaje a un taller o empresa de servicios técnicos y las respuestas siguientes, en tono breve y sin exclamaciones. Gatillos: "redacta el mensaje inicial", "primer mensaje", "tono del outreach", "draft first message", "cold message to workshop".
+description: Úsalo para redactar el primer mensaje a una empresa de servicios técnicos y las respuestas siguientes, en tono breve y sin exclamaciones. Gatillos: "redacta el mensaje inicial", "primer mensaje", "tono del outreach", "draft first message", "cold message to workshop".
 ---
 
 # Mensaje inicial y tono
@@ -23,7 +23,7 @@ Redactar mensajes que no parezcan spam ni consulta de un cliente: breves, espec�
 Ángulos a probar, una variable a la vez (sin ganador aún): equipo ocupado; fuera de horario; datos para cotizar; origen de clientes (Google/Maps); seguimiento de cotizaciones; próxima visita o mantenimiento.
 
 Apertura con permiso:
-> Hola, [nombre o equipo]. Soy Adrie. No busco un servicio para mi vehículo: estoy conversando con talleres de Lima sobre cómo atienden las consultas nuevas. ¿Les puedo hacer una pregunta breve?
+> Hola, [nombre o equipo]. Soy Adrie. Estoy conversando con empresas de mantenimiento sobre cómo atienden las consultas nuevas. ¿Les puedo hacer una pregunta breve?
 
 Pregunta de diagnóstico (solo si aceptan), una por ángulo:
 > Cuando el equipo está trabajando en vehículos, ¿quién responde las consultas nuevas que llegan?
@@ -31,7 +31,7 @@ Pregunta de diagnóstico (solo si aceptan), una por ángulo:
 > Cuando envían una cotización y el cliente no confirma, ¿cómo hacen el seguimiento hoy?
 
 Si contesta el bot como si fuera cliente (una sola vez):
-> Gracias. No busco un servicio para mi vehículo. Intento contactar a quien ve la atención de consultas del taller. ¿Podrían derivar mi mensaje o indicarme un canal empresarial para esa persona?
+> Gracias. No busco un servicio para mi vehículo. Intento contactar a quien ve la atención de consultas de la empresa. ¿Podrían derivar mi mensaje o indicarme un canal empresarial para esa persona?
 
 ## Errores comunes
 - Abrir enumerando soluciones ("Maps, web, CRM e IA"): pone la solución antes del problema.
@@ -43,11 +43,11 @@ Si contesta el bot como si fuera cliente (una sola vez):
 
 ## Nivel de evidencia
 - Tono (breve, sin exclamaciones, aclarar que no es cliente, pedir permiso, una pregunta): [decisión de Adrie, 2026-10-10].
-- Pedir interés antes que reunión: [oficial/estudio de Gong sobre correo frío, no WhatsApp ni talleres peruanos]; solo principio transferible.
+- Pedir interés antes que reunión: [oficial/estudio de Gong sobre correo frío, no WhatsApp ni empresas peruanas]; solo principio transferible.
 - Qué texto convierte mejor en Lima: [no verificado]; medir con conversaciones propias.
 
 ## Fuente
-Notas de outbound a talleres (2026-10-09) y decisiones consolidadas (2026-10-10). Los textos son redacción nueva alineada con esas reglas.
+Notas de outbound anteriores (2026-10-09, archivadas) y decisiones consolidadas (2026-10-10). Los textos son redacción nueva alineada con esas reglas.
 
 ## Vigencia
 2026-10-11.

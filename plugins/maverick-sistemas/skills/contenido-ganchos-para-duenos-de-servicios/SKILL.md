@@ -1,12 +1,12 @@
 ---
 name: contenido-ganchos-para-duenos-de-servicios
-description: Genera y prueba ganchos (primeros segundos) para dueños de talleres, saneamiento y mantenimiento técnico. Usar al pedir "ganchos", "hooks", "primeras frases", "variantes de apertura" o cuando un video tiene poca retención inicial.
+description: Genera y prueba ganchos (primeros segundos) para dueños de empresas de mantenimiento B2B (saneamiento, mantenimiento técnico, equipos y consumibles). Usar al pedir "ganchos", "hooks", "primeras frases", "variantes de apertura" o cuando un video tiene poca retención inicial.
 ---
 
 # Ganchos para dueños de servicios
 
 ## Objetivo
-Abrir cada video con una situación que el dueño reconozca, hablando como taller y no como software, y comprobar con datos propios qué gancho funciona. Sin exagerar ni inventar polémica.
+Abrir cada video con una situación que el dueño reconozca, hablando como dueño de empresa y no como software, y comprobar con datos propios qué gancho funciona. Sin exagerar ni inventar polémica.
 
 ## Pasos
 1. Partir de una frase **real** de dueño (DM, conversación, observación) antes que de una idea propia.
@@ -20,7 +20,7 @@ Abrir cada video con una situación que el dueño reconozca, hablando como talle
 - «Una cotización enviada no es un trabajo ganado ni perdido. Si nadie anota cuándo retomarla, se pierde en el chat.»
 - «El servicio terminó bien, pero nadie agendó la próxima visita.»
 **Identificación**
-- «Dueños de taller: ¿cuántas veces al día les preguntan "¿ya está mi auto?"»
+- «Dueños de empresas de mantenimiento: ¿cuántas veces al día les preguntan "¿ya está mi auto?"»
 - «Empresa de mantenimiento con técnicos en campo: ¿cómo saben qué trabajos siguen abiertos sin llamar a cada uno?»
 **Pantalla**
 - «Así se ve una ficha de trabajo ordenada: responsable, estado, siguiente paso.» (rotular «Ejemplo ficticio»)

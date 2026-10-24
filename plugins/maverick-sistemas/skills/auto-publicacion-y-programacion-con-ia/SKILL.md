@@ -10,7 +10,7 @@ La IA prepara borradores, el humano revisa y aprueba, la herramienta programa. N
 
 ## Pasos
 1. Elegir herramienta según perfil: Metricool Free/Starter o Buffer Essentials (~USD 5 por canal) cubren IG, FB, Threads, YouTube Shorts y GBP [vendor, precios no verificados: confirmar]; si ya se usa GHL, probar el Social Planner. Cero costo: Meta Business Suite + YouTube Studio + app de Threads.
-2. Flujo semanal: lunes grabar 1-2 videos en cámara; martes transcribir, cortar 4-6 clips y redactar copy con IA; miércoles revisar y programar; jueves a domingo responder comentarios y DMs a mano. Cadencia de la prueba de 4 semanas: 4 Reels + 1 carrusel por semana en Instagram, mismos videos en Facebook y Shorts, 1 video largo de YouTube, 3 textos de Threads. [propuesta interna]
+2. Flujo semanal: lunes grabar 1-2 videos en cámara; martes transcribir, cortar 4-6 clips y redactar copy con IA; miércoles revisar y programar; jueves a domingo responder comentarios y DMs a mano. Cadencia vigente (decisión de Adrie, 2026-10-21): 5 Reels + 2 carruseles por semana en Instagram y Facebook a la vez, Threads diario, los Reels resubidos a Shorts y 1 video largo de YouTube. [decisión de Adrie]
 3. La IA genera un paquete por video: títulos, descripciones, hashtags (3-5), copy distinto por plataforma. Guardar con estado "pendiente de revisión".
 4. Humano edita y marca "aprobado". Solo entonces crear el post programado o borrador "para revisión" (con el MCP de Metricool, permisos limitados). [vendor]
 5. Subir el archivo maestro limpio a cada plataforma, sin marca de agua de otra app, en horarios distintos y con copy propio.

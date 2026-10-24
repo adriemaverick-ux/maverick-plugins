@@ -1,6 +1,6 @@
 ---
 description: Prepara el diagnóstico de un prospecto - guion de entrevista de 20-25 min, mapa del flujo actual y elección del cuello de botella - a partir de notas o del nombre del negocio.
-argument-hint: "[negocio o ruta de notas] [sector: taller | saneamiento | mantenimiento]"
+argument-hint: "[negocio o ruta de notas] [sector: saneamiento | mantenimiento | equipos]"
 ---
 
 Prepara el diagnóstico para: $ARGUMENTS

@@ -1,6 +1,6 @@
 ---
 name: prosp-separar-respuestas-humanas-de-bots
-description: Úsalo al revisar respuestas recibidas de talleres para distinguir personas de bots, mensajes de bienvenida y menús, y decidir qué cuenta como Respondió. Gatillos: "respondió un taller", "es un bot", "respuesta automática", "clasificar respuestas", "human vs bot reply".
+description: Úsalo al revisar respuestas recibidas de empresas de mantenimiento para distinguir personas de bots, mensajes de bienvenida y menús, y decidir qué cuenta como Respondió. Gatillos: "respondió una empresa", "es un bot", "respuesta automática", "clasificar respuestas", "human vs bot reply".
 ---
 
 # Separar respuestas humanas de bots
@@ -15,7 +15,7 @@ Evitar inflar el pipeline con saludos automáticos. Solo una respuesta humana re
 4. Si es humana relevante: guardar la respuesta textual breve, el problema que menciona, el siguiente paso y la fecha. No copiar conversaciones completas ni datos sensibles.
 5. Mover a **Respondió** solo si hay una persona y se identificó un asunto. Una respuesta automática nunca crea oportunidad calificada.
 6. Si hay opt-out, registrar "No contactar" y no volver a escribir.
-7. Usar los menús detectados como señal de mercado: ese taller ya automatiza la recepción. Siguiente pregunta útil: derivación a una persona, seguimiento y estado de cada consulta; no ofrecerle una automatización básica como novedad.
+7. Usar los menús detectados como señal de mercado: esa empresa ya automatiza la recepción. Siguiente pregunta útil: derivación a una persona, seguimiento y estado de cada consulta; no ofrecerle una automatización básica como novedad.
 8. Cuando hay duda de si es persona o bot, dejarlo como "por confirmar" y preguntar una vez; no contarlo como Respondió.
 9. Reportar el conteo por clase al cerrar la tanda: contactos, automáticas, humanas relevantes, opt-outs.
 
@@ -30,7 +30,7 @@ Etapa sugerida: Respondió | (sin etapa)
 ```
 
 Respuesta a bot (una vez):
-> Gracias. No busco un servicio para mi vehículo. Intento contactar a quien ve la atención de consultas del taller. ¿Podrían derivar mi mensaje o indicarme un canal empresarial para esa persona?
+> Gracias. No busco un servicio para mi vehículo. Intento contactar a quien ve la atención de consultas de la empresa. ¿Podrían derivar mi mensaje o indicarme un canal empresarial para esa persona?
 
 ## Errores comunes
 - Contar un "¡Hola, bienvenido!" como interés.
@@ -40,12 +40,12 @@ Respuesta a bot (una vez):
 - Optimizar por "visto" o por respuesta automática en vez de problema confirmado.
 
 ## Nivel de evidencia
-- Varios talleres enviaron menús automáticos de cotización: [observado en el vault, 2026-10-10]; prueba que algunos automatizan la recepción, no que funcione bien o mal.
+- Varias empresas enviaron menús automáticos de cotización: [observado en el vault, 2026-10-10]; prueba que algunos automatizan la recepción, no que funcione bien o mal.
 - Regla "automática no es Respondió": [decisión de Adrie].
 - Proporción de bots frente a humanos en Lima: [no verificado].
 
 ## Fuente
-Pipeline comercial (servicios recurrentes), outbound a talleres (2026-10-09), decisiones consolidadas (2026-10-10).
+Pipeline comercial (servicios recurrentes), outbound anterior (2026-10-09, archivado), decisiones consolidadas (2026-10-10).
 
 ## Vigencia
 2026-10-11.

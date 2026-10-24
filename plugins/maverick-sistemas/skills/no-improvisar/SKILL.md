@@ -20,11 +20,10 @@ Regla de Adrie, dicha con firmeza el 2026-10-13: **"nunca improvises; siempre qu
 - Registrar lo hecho en la bóveda (`registro-obsidian`) y subir la versión del plugin si se cambió.
 
 ## Cosas que NO se improvisan
-Estructuras de guion y hooks, formatos de video y de pizarra, paleta y diseño, precios y plazos (los fija Adrie), cifras y resultados, nombres de clientes, funciones y límites de herramientas, normas legales de otros países, el mercado objetivo (LATAM, España y latinos en EE. UU., no solo Lima) y el nicho oficial.
+Estructuras de guion y hooks, formatos de video, paleta y diseño, precios y plazos (los fija Adrie), cifras y resultados, nombres de clientes, funciones y límites de herramientas, normas legales de otros países, el mercado objetivo (LATAM, España y latinos en EE. UU., no solo Lima) y el nicho oficial.
 
 ## Errores que ya pasaron (no repetirlos)
-- Ignorar los formatos A, B y C que ya estaban definidos y proponer otro.
-- Armar una pizarra animada cuando Adrie pidió un gráfico **estático** que se desliza.
+- Ignorar los formatos ya definidos (ver `sistema-de-contenido`) y proponer otro.
 - Poner el texto a leer **dentro** del gráfico que se graba.
 - Cambiar el hook, el punto de no retorno, el gancho 2 y el CTA de la plantilla de 9 bloques.
 - Limitar el mercado a Lima, aunque ya se había dicho varias veces que es hispano y latinos en EE. UU.

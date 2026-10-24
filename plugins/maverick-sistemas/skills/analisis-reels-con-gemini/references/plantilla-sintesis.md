@@ -3,7 +3,7 @@
 Entrada: de 10 a 20 fichas JSON (una por Reel). Salida: una nota en la bóveda (`03 - Go-to-market/Estudio de Reels - AAAA-MM-DD.md`).
 
 1. **Tabla resumen** (una fila por Reel): cuenta, formato, duración, tipo de hook, segundos hasta el primer beneficio, cortes por 10 s, tipo de overlay, uso de efectos de sonido, estilo de subtítulos.
-2. **Hooks:** conteo por tipo; los 5 mejores con su texto (parafraseado, sin copiar largo); qué tienen en común; cómo los diría Adrie en el idioma del dueño de taller.
+2. **Hooks:** conteo por tipo; los 5 mejores con su texto (parafraseado, sin copiar largo); qué tienen en común; cómo los diría Adrie en el idioma del dueño de empresa de mantenimiento.
 3. **Ritmo:** cortes por 10 s (media y rango), duración media del plano, dónde caen los rompe-patrones.
 4. **Overlays y animación:** tipos más usados, cobertura (completa, parcial, dividida), cuánto tiempo ocupan, cómo entran y salen, qué relación tienen con lo que dice la voz.
 5. **Sonido:** frecuencia de efectos, cuáles, sincronización, música.
@@ -23,7 +23,7 @@ Además de la edición, extraer **el sistema**, no las palabras:
 4. **Texto de la publicación (caption):** estructura, longitud y uso de llamado a la acción.
 5. **Sistema de conversión:** cómo pasa del contenido a la conversación (palabra clave en comentarios o DM, enlace en la bio, agendar llamada, destacadas con resultados), y qué automatización parece haber detrás.
 6. **Voz:** longitud media de oración, nivel de formalidad, giros que repite. Es para entender el ritmo, no para imitar su voz: la voz de Adrie sale de su perfil de estilo.
-7. **Plantillas de Maverick:** convertir cada fórmula y esqueleto en una plantilla con huecos en **el idioma del dueño de taller** (skills `hooks-*` y `tono-humano-calido-peru` de `copy-y-estilo`), con 1 ejemplo ficticio por plantilla y sin hipérbole, cifras de dinero ni promesas sin respaldo.
+7. **Plantillas de Maverick:** convertir cada fórmula y esqueleto en una plantilla con huecos en **el idioma del dueño de empresa de mantenimiento** (skills `hooks-*` y `tono-humano-calido-peru` de `copy-y-estilo`), con 1 ejemplo ficticio por plantilla y sin hipérbole, cifras de dinero ni promesas sin respaldo.
 8. **Qué NO se toma:** afirmaciones de resultados, cifras de dinero, el mensaje de otro nicho, y cualquier frase literal.
 
 **Principio:** se copia el **sistema** (la estructura que se repite), no el **texto**. Cada plantilla final debe poder escribirse sin ver el video original.

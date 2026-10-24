@@ -16,7 +16,7 @@ Usar la experiencia real de Adrie sin exponer clientes ni inventar resultados. N
 5. Resultados cuantitativos: solo si se midieron (línea base, periodo, quién midió). Si no, no se dicen.
 6. Prospectos y oportunidades (El Profe Automotriz, MEC_MOTOR SAC): no son casos ni clientes; sus conversaciones no se publican ni se copian completas. Anotar empresa, problema, siguiente paso y etapa.
 7. Casa Soyer es un cliente/encargo distinto con sus propios datos: no mezclarlo en contenido de Maverick sin autorización.
-8. Aprendizajes de observar recepciones reales se cuentan anonimizados ("un taller...").
+8. Aprendizajes de observar recepciones reales se cuentan anonimizados ("una empresa...").
 9. Ante duda, usar un ejemplo ficticio y decirlo.
 
 ## Plantillas / ejemplos

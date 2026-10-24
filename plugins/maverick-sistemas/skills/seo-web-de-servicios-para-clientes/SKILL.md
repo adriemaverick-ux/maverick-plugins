@@ -1,6 +1,6 @@
 ---
 name: seo-web-de-servicios-para-clientes
-description: Usar para planificar la web de un cliente de servicios locales (taller, saneamiento, HVAC): páginas por servicio y por zona, datos estructurados LocalBusiness, velocidad y citas. Gatillos "páginas por servicio", "páginas por distrito", "datos estructurados", "LocalBusiness JSON-LD", "local landing pages", "doorway pages".
+description: Usar para planificar la web de un cliente de servicios locales (saneamiento, HVAC, equipos de cocina): páginas por servicio y por zona, datos estructurados LocalBusiness, velocidad y citas. Gatillos "páginas por servicio", "páginas por distrito", "datos estructurados", "LocalBusiness JSON-LD", "local landing pages", "doorway pages".
 ---
 
 # Web de servicios para clientes

@@ -9,7 +9,7 @@ description: Usar antes de diseñar cualquier automatización de DMs o comentari
 Fijar el marco de cumplimiento que toda automatización de Maverick Sistemas debe respetar antes de construir flujos. Regla central: el bot solo responde a acciones iniciadas por la persona. Ningún mensaje sale sin que un humano haya aprobado el flujo y los textos.
 
 ## Pasos
-1. Confirmar que la cuenta de Instagram es profesional (Business o Creator) y que la automatización usa una API oficial de Meta, directa o a través de un partner aprobado (ManyChat, GHL). [oficial]
+1. Confirmar que la cuenta de Instagram es profesional (Business o Creator) y que la automatización usa una API oficial de Meta, directa o a través de un partner aprobado (GHL). [oficial]
 2. Verificar que cada conversación nace de una acción del usuario: comentario, respuesta a story, DM entrante, clic en anuncio Click-to-Instagram/Messenger, o enlace ig.me. [oficial]
 3. Aplicar la regla de respuesta privada: un solo mensaje por comentario, dentro de 7 días desde el comentario (en Live solo durante la transmisión). Para continuar, la persona debe responder; ahí se abre la ventana de 24 h. [oficial]
 4. Controlar la ventana de 24 h: dentro de ella se permite contenido promocional; fuera, ningún mensaje automático. Error 1545041 = ventana cerrada. [oficial]
@@ -38,7 +38,7 @@ No se documentan aquí técnicas de evasión de detección: no existen en este p
 ## Errores comunes
 - Pensar que "Human Agent" permite que el bot siga escribiendo 7 días: no, solo respuestas humanas.
 - Diseñar un segundo mensaje de seguimiento fuera de las 24 h con etiqueta promocional.
-- Dejar que ManyChat/GHL y otra app respondan a la vez en la misma cuenta (respuestas duplicadas); usar Conversation Routing o un solo gestor del inbox.
+- Dejar que GHL y otra app respondan a la vez en la misma cuenta (respuestas duplicadas); usar Conversation Routing o un solo gestor del inbox.
 - Confiar en blogs de proveedores que dicen "sin riesgo" o "aprobado por Meta": comprobar que sean partners.
 - Desde 2026-04-27 las etiquetas CONFIRMED_EVENT_UPDATE, ACCOUNT_UPDATE y POST_PURCHASE_UPDATE devuelven error 100; Human Agent no se ve afectada. [oficial]
 

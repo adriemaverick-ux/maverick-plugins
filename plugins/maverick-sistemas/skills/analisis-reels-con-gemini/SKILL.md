@@ -32,7 +32,7 @@ Convertir un video en datos que se puedan comparar: Gemini **ve** (imagen y audi
 2. **Normalizar**: unir las fichas en una tabla (cuenta, formato, hook, tiempo hasta el primer beneficio, cortes por 10 s, overlays, sonido, subtítulos).
 3. **Sintetizar** con `references/plantilla-sintesis.md` y guardar la nota en la bóveda (`registrar-hallazgos-en-obsidian`).
 4. **Separar patrón de rareza**: lo que aparece en la mayoría de las cuentas frente a lo de una sola.
-5. **Traducir a Maverick**: qué técnica adoptar, en qué blueprint de HyperFrames se construye, y cómo diría el gancho Adrie en el idioma del dueño de taller (skills `hooks-*` y `tono-humano-calido-peru` de `copy-y-estilo`, si está instalado).
+5. **Traducir a Maverick**: qué técnica adoptar, en qué blueprint de HyperFrames se construye, y cómo diría el gancho Adrie en el idioma del dueño de empresa de mantenimiento (skills `hooks-*` y `tono-humano-calido-peru` de `copy-y-estilo`, si está instalado).
 6. **Proponer 3 experimentos** pequeños para probar en la próxima pieza y cómo medirlos.
 
 ## Grabación de pantalla sin audio (decisión de Adrie, 2026-10-12)

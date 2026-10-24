@@ -6,7 +6,7 @@ description: Úsalo para adaptar entrevista, flujo y propuesta al sector del pro
 # Adaptación por sector
 
 ## Objetivo
-Hablar el idioma de cada sector sin cambiar la tesis: ordenar consulta, cotización, servicio y próxima visita, con un piloto de un cuello de botella. Ningún sector está demostrado como ganador; los tres son hipótesis a validar.
+Hablar el idioma de cada sector sin cambiar la tesis: ordenar consulta, cotización, servicio y próxima visita, con un piloto de un cuello de botella. Ningún sector está demostrado como ganador; los dos son hipótesis a validar.
 
 ## Pasos
 1. **Identificar el sector** y abrir la ficha correspondiente (tabla abajo).
@@ -17,22 +17,22 @@ Hablar el idioma de cada sector sin cambiar la tesis: ordenar consulta, cotizaci
 6. **Registrar la señal a validar** y, al final, contar para ese sector: contactos válidos, conversaciones reales, problema confirmado, propuesta solicitada, piloto aceptado, resultado.
 
 ## Plantillas y prompts listos
-| | Taller multimarca | Saneamiento ambiental | Mantenimiento técnico |
-|---|---|---|---|
-| Primer flujo a probar | Consulta por WhatsApp, datos del vehículo, cotización, cita, próximo mantenimiento | Solicitud, visita técnica, propuesta, servicio, constancia y renovación | Aviso de falla o revisión, asignación, visita, reporte, siguiente intervención |
-| Datos mínimos para cotizar | Marca, modelo, año, placa, kilometraje, síntoma o servicio, foto si aplica | Tipo de local o área, ubicación, plaga o servicio, frecuencia deseada, acceso | Equipo (por ejemplo HVAC o tablero), ubicación, síntoma, urgencia, historial |
-| Señal a validar | Cotizaciones sin siguiente paso; consultas fuera de horario | Seguimiento manual de servicios y contratos recurrentes | Agenda dispersa; poca visibilidad del estado de cada trabajo |
-| Pregunta propia | "¿Qué falta para que el cliente confirme la cotización?" | "¿Cómo saben cuándo toca renovar el servicio o la constancia?" | "¿Cómo sabe el dueño en qué estado está cada aviso?" |
-| Recurrencia | Mantenimiento por tiempo o kilometraje | Servicio periódico o contrato | Mantenimiento preventivo programado |
-| Cuidado | Un taller con capacidad llena no necesita más demanda | Constancias y documentos: quién los emite y dónde se guardan | Repuestos, técnico asignado y reporte con evidencia |
+| | Saneamiento ambiental | Mantenimiento técnico |
+|---|---|---|
+| Primer flujo a probar | Solicitud, visita técnica, propuesta, servicio, constancia y renovación | Aviso de falla o revisión, asignación, visita, reporte, siguiente intervención |
+| Datos mínimos para cotizar | Tipo de local o área, ubicación, plaga o servicio, frecuencia deseada, acceso | Equipo (por ejemplo HVAC o tablero), ubicación, síntoma, urgencia, historial |
+| Señal a validar | Seguimiento manual de servicios y contratos recurrentes | Agenda dispersa; poca visibilidad del estado de cada trabajo |
+| Pregunta propia | "¿Cómo saben cuándo toca renovar el servicio o la constancia?" | "¿Cómo sabe el dueño en qué estado está cada aviso?" |
+| Recurrencia | Servicio periódico o contrato | Mantenimiento preventivo programado |
+| Cuidado | Constancias y documentos: quién los emite y dónde se guardan | Repuestos, técnico asignado y reporte con evidencia |
 
 **Prompt:** "Adapta esta propuesta para [sector]. Usa estos datos mínimos para cotizar: [lista]. Cambia el vocabulario al del sector, mantén un único cuello y marca como hipótesis a medir cualquier resultado. No incluyas métricas ni nombres de otros clientes."
 
-**Ángulos a probar en talleres (sin ganador aún):** origen de clientes en Google/Maps; consultas en horario de trabajo; consultas fuera de horario; datos necesarios para cotizar; cotizaciones sin respuesta; próxima visita o mantenimiento.
+**Ángulos a probar (sin ganador aún):** origen de clientes en Google/Maps; consultas en horario de trabajo; consultas fuera de horario; datos necesarios para cotizar; cotizaciones sin respuesta; próxima visita o mantenimiento.
 
 ## Errores comunes
 - Declarar un nicho ganador por una respuesta amable o por el papel.
-- Ofrecer a talleres que ya tienen menú de cotización una automatización básica como novedad.
+- Ofrecer una automatización básica como novedad a quien ya tiene un menú de cotización.
 - Mezclar sectores en una misma propuesta; una pieza habla a uno.
 - Usar "IA para todos" en vez de un caso concreto del sector.
 - Citar a Galecc Service con nombre, logo, capturas o métricas sin permiso y evidencia; solo se puede decir de forma descriptiva que Adrie implementó web y atención automatizada para un taller.

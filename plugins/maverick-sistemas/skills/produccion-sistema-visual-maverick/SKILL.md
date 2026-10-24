@@ -6,7 +6,7 @@ description: Reglas visuales de Maverick Sistemas para videos, Reels, overlays, 
 # Sistema visual Maverick
 
 ## Objetivo
-Dar identidad consistente y legible a todas las piezas: estilo SaaS limpio, titulares gruesos, cards con borde fino, azul eléctrico y un acento ámbar de taller. El video en cámara es la columna vertebral; los gráficos aclaran, no decoran.
+Dar identidad consistente y legible a todas las piezas: estilo SaaS limpio, titulares gruesos, cards con borde fino, azul eléctrico y un acento ámbar de marca. El video en cámara es la columna vertebral; los gráficos aclaran, no decoran.
 
 ## Pasos
 1. **Elegir tema:** Dark (grafito) para Reels, demos y overlays sobre grabaciones oscuras. Light (crema) para carruseles, miniaturas, propuestas y overlays sobre grabaciones claras.
@@ -33,7 +33,7 @@ Dar identidad consistente y legible a todas las piezas: estilo SaaS limpio, titu
 Tipografía: titulares Inter 800; texto Inter 500/600; etiquetas y datos JetBrains Mono en mayúsculas.
 Componentes: ficha de caso u orden de trabajo (responsable, estado, siguiente paso); línea de estados nueva -> respondida -> cotizada -> agendada -> próxima visita; mockup de chat que se vuelve caso; panel de flujo; calendario de servicios recurrentes; chips de estado; botón CTA; etiqueta «Ejemplo ficticio».
 Texto de gancho en pantalla: 4-8 palabras. Miniatura YouTube: cara + 3-4 palabras, tema Light o Dark según la grabación.
-Estilo de grabación: plano medio, mirada a lente, luz de ventana o continua, fondo real ordenado; no fingir estar dirigiendo una obra o taller ajeno.
+Estilo de grabación: plano medio, mirada a lente, luz de ventana o continua, fondo real ordenado; no fingir estar dirigiendo una obra o empresa ajena.
 
 ## Errores comunes
 - Intros animadas, logos grandes, emojis flotantes o transiciones de plantilla.

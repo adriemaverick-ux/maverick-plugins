@@ -1,6 +1,6 @@
 ---
 name: prosp-registro-anti-duplicados
-description: Úsalo al preparar una tanda, cuando Adrie dice "manda nuevos", o al actualizar estados de contacto, para no repetir mensajes a talleres ya contactados. Gatillos: "manda nuevos", "nueva tanda", "ya le escribí", "evitar duplicados", "dedupe outreach log".
+description: Úsalo al preparar una tanda, cuando Adrie dice "manda nuevos", o al actualizar estados de contacto, para no repetir mensajes a empresas ya contactadas. Gatillos: "manda nuevos", "nueva tanda", "ya le escribí", "evitar duplicados", "dedupe outreach log".
 ---
 
 # Registro anti-duplicados
@@ -35,7 +35,7 @@ Descartados por duplicado: N
 
 ## Errores comunes
 - Dar por enviada una tanda solo porque se preparó.
-- Comparar solo por nombre: un mismo taller aparece con variantes de nombre o con dos números.
+- Comparar solo por nombre: una misma empresa aparece con variantes de nombre o con dos números.
 - Proponer registros marcados como contactados o pendientes porque estaban en un pool viejo.
 - Tratar una respuesta automática como interés humano.
 - Escribir teléfonos o datos personales en notas que se van a compartir.
@@ -45,7 +45,7 @@ Descartados por duplicado: N
 - Que "Enviado por regla" equivale a entrega real: [no verificado]; es un supuesto operativo.
 
 ## Fuente
-Registro de outreach de talleres (estructura y reglas, sin copiar contactos) y decisiones consolidadas (2026-10-10).
+Registro de outreach (estructura y reglas, sin copiar contactos) y decisiones consolidadas (2026-10-10).
 
 ## Vigencia
 2026-10-11.

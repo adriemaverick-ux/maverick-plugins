@@ -1,6 +1,6 @@
 ---
 name: auto-flujo-comentario-a-dm-con-palabra-clave
-description: Usar para diseñar el flujo "comenta una palabra y te envío X" en Instagram (respuesta privada por comentario), con ejemplo para talleres, saneamiento y mantenimiento. Gatillos "comentario a DM", "comment to DM", "palabra clave", "lead magnet por Instagram", "CHECKLIST".
+description: Usar para diseñar el flujo "comenta una palabra y te envío X" en Instagram (respuesta privada por comentario), con ejemplo para saneamiento, mantenimiento técnico y equipos. Gatillos "comentario a DM", "comment to DM", "palabra clave", "lead magnet por Instagram", "SISTEMA".
 ---
 
 # Flujo comentario a DM con palabra clave
@@ -9,8 +9,8 @@ description: Usar para diseñar el flujo "comenta una palabra y te envío X" en 
 Entregar un recurso útil a quien comenta una palabra clave, calificar con botones y pasar a un humano, cumpliendo las reglas de Meta y de Perú. Ningún flujo se activa sin que Adrie lo apruebe.
 
 ## Pasos
-1. Elegir el recurso y la palabra clave (ej. CHECKLIST: lista de verificación de mantenimiento preventivo para taller). Publicar el reel/post con la instrucción exacta: "Comenta CHECKLIST y te lo envío por mensaje".
-2. Configurar el disparador "comentario en esta publicación" (publicación específica, palabra clave con variantes). En GHL: "Instagram - Comment(s) On A Post"; en ManyChat: disparador de comentarios. [oficial/vendor]
+1. Elegir el recurso y la palabra clave (decidida por Adrie el 2026-10-21: **SISTEMA**, con un solo documento de recursos y sin menú de opciones). Publicar el reel/post con la instrucción exacta: "Comenta CHECKLIST y te lo envío por mensaje".
+2. Configurar el disparador "comentario en esta publicación" (publicación específica, palabra clave con variantes). En GHL: "Instagram - Comment(s) On A Post" (ManyChat quedó descartado). [oficial]
 3. Respuesta pública opcional y corta; variar el texto o no usarla (la repetición idéntica parece spam). [comunidad]
 4. Respuesta privada (un solo mensaje, dentro de 7 días): saludo + aviso de asistente automatizado + un botón ("Recibir checklist"). El botón obliga a responder y abre la ventana de 24 h. [oficial]
 5. Al tocar el botón: entregar el recurso y pedir consentimiento para guardar datos, con enlace a la política de privacidad y botones Sí/No.
@@ -21,14 +21,12 @@ Entregar un recurso útil a quien comenta una palabra clave, calificar con boton
 10. Probar con una cuenta de prueba, revisar errores (1545041, 613) y medir la semana siguiente.
 
 ## Plantillas/ejemplos
-Ejemplo por nicho (mismo esqueleto, cambia el recurso):
-| Nicho | Palabra | Recurso | Pregunta 1 |
+Vigente (decisión de Adrie, 2026-10-21): **una sola palabra, SISTEMA, y un solo documento de recursos**, la misma en todos los rubros.
+| Rubro | Palabra | Recurso | Pregunta 1 |
 |---|---|---|---|
-| Taller | CHECKLIST | Checklist de mantenimiento preventivo | "¿Cuántos vehículos atiendes por semana? Menos de 20 / 20-100 / Más de 100" |
-| Saneamiento | VISITAS | Plantilla de calendario de próximas visitas | "¿Cuántos clientes recurrentes tienes?" |
-| Mantenimiento técnico | COTIZA | Formato de seguimiento de cotizaciones | "¿Cuántas cotizaciones envías al mes?" |
+| Todos | SISTEMA | Un solo documento de recursos | "¿Cómo llevas hoy el control de tus visitas: papel, Excel o WhatsApp?" |
 
-DM de apertura: "Hola, soy el asistente automatizado de Maverick Sistemas. Aquí está tu checklist: [enlace]. ¿Quieres que guardemos tu nombre y contacto para enviarte recursos relacionados? Política: [url]  [Sí] [No]".
+DM de apertura: "Hola, soy el asistente automatizado de Maverick Sistemas. Aquí está el documento: [enlace]. ¿Quieres que guardemos tu nombre y contacto para enviarte recursos relacionados? Política: [url]  [Sí] [No]".
 
 ## Errores comunes
 - Enviar dos DMs por comentario: Meta solo permite una respuesta privada. [oficial]

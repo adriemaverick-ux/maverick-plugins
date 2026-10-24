@@ -10,7 +10,7 @@ Cerrar el ciclo: servicio hecho, resultado registrado y próxima visita agendada
 
 ## Pasos
 1. **Definir con el dueño el ciclo de cada servicio:** qué lo dispara (tiempo, kilometraje, contrato, estación, norma) y quién decide. No inventar intervalos; un criterio por servicio, escrito.
-2. **Calendario y tipos de cita:** crear los tipos (visita técnica, servicio en taller, revisión), con duración, responsable y recordatorios acordados.
+2. **Calendario y tipos de cita:** crear los tipos (visita técnica, servicio en sede, revisión), con duración, responsable y recordatorios acordados.
 3. **Registrar el resultado de la visita:** qué se hizo, qué se observó, qué se recomienda y para cuándo, y constancia o informe si corresponde (el responsable de emitirlo y dónde se guarda lo define el negocio).
 4. **Campos mínimos:** fecha del último servicio, fecha de próxima visita, frecuencia acordada, consentimiento para recordatorios (sí/no, fecha, canal).
 5. **Recordatorio al equipo:** tarea interna antes de la fecha ({{DIAS_ANTES_EQUIPO}}) con la lista del cliente y el servicio sugerido.

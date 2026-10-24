@@ -1,6 +1,6 @@
 ---
 name: seo-ficha-de-google-para-clientes
-description: Usar para auditar y optimizar la ficha de Google (Business Profile) de un cliente (taller, saneamiento, HVAC) y armar el plan de 30 días. Gatillos "auditar ficha de Google", "Google Business Profile", "reseñas de Google", "SEO local", "suspensión de ficha", "audit GBP".
+description: Usar para auditar y optimizar la ficha de Google (Business Profile) de un cliente (saneamiento, HVAC, equipos de cocina) y armar el plan de 30 días. Gatillos "auditar ficha de Google", "Google Business Profile", "reseñas de Google", "SEO local", "suspensión de ficha", "audit GBP".
 ---
 
 # Ficha de Google para clientes

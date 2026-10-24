@@ -1,34 +1,34 @@
 ---
 name: contenido-hooks-operativo
-description: Versión corta del método de ganchos para videos y mensajes de Maverick dirigidos a dueños de talleres, saneamiento y mantenimiento técnico. Usar al reescribir una apertura que suena técnica o genérica. Gatillos - "gancho", "hook", "primera frase", "suena robótico", "reescribe la apertura".
+description: Versión corta del método de ganchos para videos y mensajes de Maverick dirigidos a dueños de empresas de mantenimiento B2B. Usar al reescribir una apertura que suena técnica o genérica. Gatillos - "gancho", "hook", "primera frase", "suena robótico", "reescribe la apertura".
 ---
 
-# Ganchos operativos para talleres, saneamiento y mantenimiento
+# Ganchos operativos para empresas de mantenimiento B2B
 
 ## Objetivo
 Que el dueño se reconozca en los primeros 3 segundos y sienta que le habla un vecino que sabe, no un vendedor de software. Sin hipérbole, sin cifras de dinero ni multiplicadores, sin inglés técnico.
 
 ## Pasos (método de 6)
-1. **Cara concreta**: "dueño de un taller en Lima", "jefe de una cuadrilla de saneamiento", no "empresas".
+1. **Cara concreta**: "dueño de una empresa de mantenimiento", "jefe de una cuadrilla de saneamiento", no "empresas".
 2. **Escena, no concepto**: lo que ve o escucha un martes a las 5 p. m. (celular lleno de chats sin responder, equipo parado, cliente esperando).
 3. **Sus palabras**: cotización, visita, repuesto, equipo parado, garantía. Fuera: lead, funnel, CRM, automatizar, KPI, pipeline.
 4. **Promesa pequeña y cumplible**: algo que el video sí entrega hoy. Sin cifras sin medir ni clientes sin permiso.
 5. **Tono de vecino**: frases cortas, "te" y "tu", preguntas reales.
-6. **Prueba de oído**: léelo en voz alta; si no lo dirías en el taller, reescribe.
+6. **Prueba de oído**: léelo en voz alta; si no lo dirías en tu empresa, reescribe.
 
 ## Ocho ejemplos antes / después
-1. Taller. Antes: "Optimiza tus cotizaciones con automatización."
+1. Equipos de cocina. Antes: "Optimiza tus cotizaciones con automatización."
    Después: "¿Cuántas cotizaciones mandaste esta semana y nadie respondió? Casi siempre falta seguimiento, no un mejor precio."
-2. Taller. Antes: "Atención 24/7 para tus clientes."
+2. Servicio técnico. Antes: "Atención 24/7 para tus clientes."
    Después: "Te escribe un cliente a las 9 de la noche y al día siguiente ya compró en otro lado. Un mensaje de respuesta bien armado lo evita."
 3. Mantenimiento técnico. Antes: "Digitaliza el mantenimiento preventivo."
    Después: "Si tu cliente se acuerda de la revisión solo cuando el equipo falla, pierdes la visita. Dejamos la próxima programada antes de irnos."
 4. Saneamiento. Antes: "Gestiona tus órdenes de servicio con un sistema integral."
    Después: "La cuadrilla sale con la orden en un papel y el cliente llama a preguntar a qué hora llegan. Eso se ordena con un aviso simple por WhatsApp."
-5. Taller. Antes: "Mejora tu presencia digital y capta leads."
-   Después: "Si buscan 'taller de [especialidad] en [distrito]' y no apareces con horarios y fotos, no te llaman. Mira qué revisar en 10 minutos."
+5. Refrigeración. Antes: "Mejora tu presencia digital y capta leads."
+   Después: "Si buscan 'servicio de [especialidad] en [ciudad]' y no apareces con horarios y fotos, no te llaman. Mira qué revisar en 10 minutos."
 6. Servicio técnico. Antes: "Implementa un CRM para centralizar clientes."
-   Después: "¿Tus clientes están en un cuaderno, en el WhatsApp de tu hijo y en la cabeza de tu jefe de taller? Los dejamos en un solo lugar sencillo."
+   Después: "¿Tus clientes están en un cuaderno, en el WhatsApp de tu hijo y en la cabeza de tu jefe de cuadrilla? Los dejamos en un solo lugar sencillo."
 7. Saneamiento. Antes: "Aumenta la fidelización con comunicación postventa."
    Después: "Terminaste la fumigación y no volviste a saber del cliente. Un mensaje a las dos semanas, con una sola pregunta, abre la próxima visita."
 8. Mantenimiento técnico. Antes: "Reduce tu tiempo de respuesta con IA."
@@ -36,7 +36,7 @@ Que el dueño se reconozca en los primeros 3 segundos y sienta que le habla un v
 
 ## Plantillas con huecos
 - "Si tienes [tipo de negocio] y [situación en sus palabras], esto te sirve: [promesa pequeña]."
-- "El error que veo en [taller / empresa de saneamiento]: [error]. Se arregla así: [un paso]."
+- "El error que veo en [empresa de equipos / empresa de saneamiento]: [error]. Se arregla así: [un paso]."
 
 ## Errores comunes
 - Cambiar una jerga por otra más bonita.

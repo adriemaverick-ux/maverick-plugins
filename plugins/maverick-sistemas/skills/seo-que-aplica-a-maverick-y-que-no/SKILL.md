@@ -6,13 +6,13 @@ description: Usar para decidir qué SEO y qué canales de Google aplican a la pr
 # SEO para Maverick: qué aplica y qué no
 
 ## Objetivo
-Evitar gastar tiempo y riesgo en una ficha de Google Maps que probablemente no es elegible para un software 100% remoto, y concentrar el esfuerzo en web, YouTube y presencia en directorios del rubro. Para los clientes de Maverick (talleres, saneamiento, HVAC) la ficha sí es el canal principal: ver seo-ficha-de-google-para-clientes.
+Evitar gastar tiempo y riesgo en una ficha de Google Maps que probablemente no es elegible para un software 100% remoto, y concentrar el esfuerzo en web, YouTube y presencia en directorios del rubro. Para los clientes de Maverick (saneamiento, HVAC, equipos de cocina) la ficha sí es el canal principal: ver seo-ficha-de-google-para-clientes.
 
 ## Pasos
 1. Responder la pregunta de elegibilidad: ¿Maverick recibe clientes en persona en una oficina atendida (demos, capacitación) con rotulación? Hoy NO tiene local ni ficha propia. Google exige contacto en persona; un proveedor remoto probablemente no es elegible. [analista, Whitespark; oficial en las directrices de representación]
 2. Si la respuesta es no, no crear la ficha. No usar oficina virtual, coworking sin presencia real, domicilio particular como local de atención ni dirección prestada. [oficial]
 3. Si en el futuro hay oficina atendida: cumplir las directrices (nombre real, dirección real con rotulación, horarios reales, una ficha por ubicación) y verificar el método ofrecido por el panel (en Perú no confirmado). Revisar con la lista de seo-ficha-de-google-para-clientes.
-4. Canal web: página por rubro ("sistema para talleres automotrices en Lima", "software para empresas de saneamiento", "mantenimiento técnico y HVAC"), con casos y demo agendable, datos estructurados Organization y Libro de Reclamaciones visible.
+4. Canal web: página por rubro ("sistema para empresas de mantenimiento", "software para empresas de saneamiento", "mantenimiento técnico y HVAC"), con casos y demo agendable, datos estructurados Organization y Libro de Reclamaciones visible.
 5. Canal YouTube: videos "cómo/qué es" que responden búsquedas persistentes (seguimiento de cotizaciones, agenda de mantenimientos, consultas fuera de horario). Título específico, descripción con marcas de tiempo, página de visualización indexable y VideoObject cuando se incruste en la web. [oficial]
 6. Presencia complementaria: LinkedIn, Facebook, directorios del rubro y listas curadas "mejores de", que ayudan en búsqueda con IA. [analista]
 7. Medición: Search Console para la web, YouTube Studio por formato (CTR por fuente, retención, términos de búsqueda), UTM y registro del origen de cada lead; métrica principal = conversaciones calificadas, no vistas. [propuesta interna]
@@ -20,11 +20,11 @@ Evitar gastar tiempo y riesgo en una ficha de Google Maps que probablemente no e
 
 ## Plantillas/ejemplos
 Decisión documentada: "Maverick Sistemas no tiene local atendido; no se crea ficha de Maps. Reevaluar si se abre oficina con atención presencial y rotulación."
-Título de video: "Cómo saber si el cliente aprobó la cotización (taller y mantenimiento)".
+Título de video: "Cómo saber si el cliente aprobó la cotización (mantenimiento y equipos)".
 
 ## Errores comunes
 - Crear ficha con dirección virtual o coworking sin presencia: causa suspensión. [oficial]
-- Poner palabras clave en el nombre ("Maverick Sistemas - Software Taller Lima"): prohibido por Google y causa de suspensión. [oficial]
+- Poner palabras clave en el nombre ("Maverick Sistemas - Software Mantenimiento Lima"): prohibido por Google y causa de suspensión. [oficial]
 - Esperar que Maps traiga clientes a un negocio sin local visitable.
 - Copiar el enfoque de los clientes (ficha, reseñas locales) a una marca remota.
 - Cambiar el sitio web de la ficha por un enlace a una red social. [no verificado]

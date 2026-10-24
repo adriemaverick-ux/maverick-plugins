@@ -17,11 +17,14 @@ Qué hace Claude entre el video en bruto de Adrie y el archivo listo para su vis
 Un paso nombrado corre ese paso y se detiene: «solo el corte» no exporta.
 
 ## Formato Kallaway (principal) `[decisión de Adrie]`
-- Gráfico animado **arriba** y su cara en **caja rectangular de esquinas redondeadas abajo**. **Su cara nunca va a pantalla completa** (solo en el formato Raw content). Una idea por escena, un evento visual cada **1 a 2 s**, cursor animado en cerca de la mitad de las escenas, ~1 de cada 5 escenas imita una pantalla real.
+- Gráfico animado **arriba** y su cara en **caja rectangular de esquinas redondeadas abajo**. **Su cara nunca va a pantalla completa en Kallaway** (sí va completa en Raw content y en B · cámara completa en trípode + overlays, restaurado el 2026-10-23). Una idea por escena, un evento visual cada **1 a 2 s**, cursor animado en cerca de la mitad de las escenas, ~1 de cada 5 escenas imita una pantalla real.
 - **El contenido animado de arriba se construye en HyperFrames**, nunca en una plantilla HTML interactiva. Referencias hechas: `~/video-editor-maverick/projects/kallaway-prototipo-v2/hf` (crema) y `…-v3/hf` (**dark**, negro con puntos y rojo; fuente copiada en `assets/kallaway-hyperframes-v2` y `-v3-dark` de la skill `produccion-estilo-split-animado`). **Pendiente de Adrie:** si dark queda como estándar del formato (la paleta de marca crema, azul y ámbar solo vale si no lo pide).
 - **Medidas de la referencia** (medidas con script; ficha 3f en la bóveda, `03 - Go-to-market/Estudio profundo - kallawaymarketing - sistema de edición y formato - 2026-10-21`), en 1080×1920: caja de la cara de **x 69 a 1008 (87 % del ancho)**, borde superior ≈ y 1395 en la referencia; **en Maverick la caja termina en y 1620** (zona segura: nada clave en los 200 px de arriba ni en los 300 de abajo), así que va de ~y 1150 a 1620. Subtítulo de **una palabra** centrado sobre la caja. Titular arriba en 2 líneas: sans negrita y **una palabra en serif cursiva** con subrayado o caja de acento. Fondo dark: negro puro con cuadrícula de puntos, un solo rojo (#E10613 relleno, #FF3B47 texto), verde solo para estados completados.
 - **Subtítulos:** el estilo (una palabra animada o línea fija en mayúsculas) lo decide Adrie por formato; **preguntar antes de elegir**. En producción salen de la transcripción palabra por palabra, no de una voz de ejemplo.
 - **Cara real:** el video de Adrie entra en la caja (recorte 9:16 con `face-frame.py --modes`, el paquete mide el encuadre); mientras no esté, la caja es un marcador.
+
+## Formato B: cámara completa en trípode + overlays `[restaurado 2026-10-23]`
+Adrie habla a cámara en trípode (su cara completa) y entran **overlays animados a pantalla completa** (HyperFrames, MP4 opaco 1080×1920 a 30 fps) mientras su voz sigue; escenas de 3 a 8 s con transición y un sonido corto solo si Adrie lo pidió; la cara es la identidad, no taparla demasiado seguido. Detalle: skill `produccion-overlays-hyperframes-claude-motion`.
 
 ## Construir y verificar el gráfico animado (HyperFrames)
 Siempre con la versión fija y sin telemetría, desde la carpeta `hf` de la pieza:
@@ -50,7 +53,7 @@ npm_config_before=2026-10-01T23:59:59Z npx -y hyperframes@0.8.105 render --quali
 - Abrir la sesión fuera de `~/video-editor-maverick` y esperar las skills del paquete.
 - Asumir que Premiere «ve» el video: si el `ping` dice `activeSequence: null`, no hay nada abierto.
 - Mover o tocar el original; exportar sobre el nombre del corte base.
-- Poner la cara a pantalla completa en Kallaway, o la caja pasando y 1620.
+- Poner la cara a pantalla completa en Kallaway, o la caja pasando y 1620 (la cara completa es de B y Raw).
 - Repetir un hallazgo de Kallaway como regla sin decir que es `[medido, n=…]`.
 - Usar subtítulos de ejemplo como si estuvieran sincronizados con la voz.
 

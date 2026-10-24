@@ -11,7 +11,7 @@ Pasos:
 1. Lee `Plan de contenido - Servicios recurrentes` y `Canales para llegar a prospectos` en `/Users/adriebustos/Downloads/Maverick MP/03 - Go-to-market/` para tomar el tema de la semana (o usa el problema indicado).
 2. Aplica la cadencia pedida. **Propuesta:** 3 videos en cámara por semana, rotulada como PROPUESTA. **Acordada:** 4 Reels, 1 carrusel y 1 video largo de YouTube. Si no se indica, usa la acordada y menciona la propuesta como alternativa.
 3. Entrega tabla día por día: brief, grabación en lote, edición, QA, programación (por Adrie), conversación manual y reporte. Para cada pieza: canal, sector, gancho, hipótesis y qué se mide.
-4. Marca como hipótesis la prioridad de canales y recuerda que no es dato de talleres peruanos.
+4. Marca como hipótesis la prioridad de canales y recuerda que no es dato de empresas de mantenimiento peruanas.
 5. Incluye la regla de recorte si el tiempo baja a la mitad y la hoja de registro.
 
 Reglas: borrador para aprobación de Adrie; no publiques ni programes. Sin cifras inventadas. No automatices respuestas a comentarios, DM ni reseñas.

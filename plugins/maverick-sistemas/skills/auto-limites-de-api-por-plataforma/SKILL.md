@@ -35,8 +35,6 @@ Tener una tabla de referencia con etiquetas de evidencia para diseñar automatiz
 | GHL API v2 (OAuth) | Ráfaga 100 solicitudes/10 s; 200.000/día por app y recurso | [oficial]; para PIT [no verificado] |
 | GHL webhooks | Reintentos hasta 12; firma X-GHL-Signature (Ed25519); la firma RSA caducó el 2026-09-01 | [oficial] |
 | GHL MCP | Límites no especificados | [no verificado] |
-| ManyChat External Request | Timeout 10 s | [comunidad] |
-| ManyChat precios y contactos | Cifras contradictorias entre fuentes | [vendor/no verificado] |
 | WhatsApp en GHL | Ventana 24 h; 72 h en entry points gratuitos (CTWA) si se responde en 24 h | [oficial] |
 
 ## Plantillas/ejemplos
