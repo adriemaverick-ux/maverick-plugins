@@ -1,6 +1,6 @@
 ---
 name: analisis-reels-con-gemini
-description: Estudia Reels de marcas personales con Gemini (que mira el video y lo describe en una ficha estructurada) y luego extrae de las fichas el estilo de edición, los hooks, el ritmo, los overlays y el sonido para adaptarlos a Maverick. Usar cuando Adrie quiera analizar videos de otros creadores o aprender su edición. Gatillos - "analizar reels", "estudiar esta cuenta", "cómo editan", "extraer hooks de estos videos", "Gemini video".
+description: Estudia Reels de marcas personales con Gemini (que mira el video y lo describe en una ficha estructurada) y luego extrae de las fichas el estilo de edición, los hooks, el ritmo, los overlays y el sonido para adaptarlos a Maverick. Usar cuando Adrie quiera analizar videos de otros creadores o aprender su edición. Incluye el estudio en lote de una cuenta (grabar, analizar y medir colores, diseño y ritmo con scripts). Gatillos - "analizar reels", "estudiar esta cuenta", "cómo editan", "extraer hooks de estos videos", "medir el diseño", "Gemini video".
 ---
 
 # Análisis de Reels con Gemini
@@ -61,3 +61,11 @@ Flujo descrito por plantillas de terceros [vendor/comunidad]; formato de entrada
 - Para entender solo la **estructura** (por ejemplo una plantilla de guion con pizarra), una **hoja de contacto de fotogramas** (`fps=1/2,tile=5x5`) permite verla sin Gemini.
 - **Gemini:** `gemini-3-flash-preview` analiza video bien; los modelos de **imagen no tienen cuota gratuita** (error 429). No extraer cookies ni automatizar Instagram en masa.
 - Guardar la ficha en la **biblioteca de ejemplos** (estructura, no texto).
+
+## Estudio en lote de una cuenta: qué se aprendió (2026-10-22 y 2026-10-23)
+Hecho una vez con 18 Reels de `@kallawaymarketing` (con permiso de Adrie; fichas y resultados en la bóveda: `Estudio profundo - kallawaymarketing…`, secciones 3e y 3f, y la fuente F-016). Scripts y receta en `scripts/lote-grabacion/` (ver su `LEEME.md`).
+- **Qué confiar en qué:** de Gemini solo **conteos y vocabulario** (tipos de animación, tipo de gráfico, recursos que se repiten); **sus tiempos son inventados** (escenas de 124 s en un clip de 82 s, marcas de 192 s en un clip de 85 s) y a veces falla un campo (el titular que entra palabra por palabra salió vacío en ~90 escenas). **Ritmo, subtítulos, colores y geometría salen de ffmpeg y Python estándar** (`medir_edicion.py`, `medir_especificaciones.py`), sin IA y sin gastar tokens.
+- **Trampas del método:** el detector de pantalla dividida por brillo falla con fondos oscuros (marca 0 % en Reels divididos); 3 de 18 grabaciones salieron cortas (5 a 11 s, por el bucle); los colores medidos salen más oscuros por la compresión (el rojo varió de #B20004 a #DF040B, mediana #B9020A); en 9 de 18 fichas Gemini cayó a otro modelo por demanda o cuota.
+- **Resultado para el formato Kallaway** (medido): un cambio visible cada ~1,2 s, subtítulos ~2,5 cambios por segundo, cursor en ~48 % de las escenas, ~20 % de escenas que imitan una pantalla, fondo negro con puntos y un solo rojo, caja de la cara de 87 % del ancho; detalle y cifras en la skill `produccion-estilo-split-animado`.
+- **Calibrar con pocos cuadros, no con muchos:** mirar 1 a 3 fotogramas para ajustar un script y dejar que el script haga el resto (regla de Adrie: analizar con scripts, no a mano).
+
