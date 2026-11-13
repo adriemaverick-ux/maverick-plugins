@@ -19,10 +19,10 @@ Fijar el CPA máximo y el ROAS de equilibrio desde el margen neto real, antes de
 8. LTV a 90 días = ingreso neto 1er pedido + (aceptación bump × neto bump) + (tasa upsell × neto) + (renovación × meses × cuota neta) − reembolsos. Mídelo por cohorte; la prueba es el flujo de caja a 30-60 días.
 
 ## Ejemplo ilustrativo [cálculo propio, no benchmark]
-Supuestos inventados para mostrar la fórmula: precio 100; plataforma 9.9% + 0.50 (tarifa publicada por terceros para Hotmart [benchmark]); sin afiliado; entrega 3; reembolso 10%.
-- Comisión = 10.4; neto antes de reembolso = 100 − 10.4 − 3 = 86.6.
-- Venta neta esperada ≈ 86.6 × 0.9 = 77.9 (simplificado: la comisión no siempre se devuelve).
-- ROAS de equilibrio ≈ 100 / 77.9 = 1.28x en el primer pedido.
+Supuestos inventados para mostrar la fórmula: precio 100; **pasarela propia tipo merchant of record** (Polar o Lemon Squeezy: 5% + 0.50 + 1.5% por tarjeta extranjera [oficial, consultado 2026-11-13]); sin afiliado; entrega 3; reembolso 10%.
+- Comisión = 7.0; neto antes de reembolso = 100 − 7.0 − 3 = 90.0.
+- Venta neta esperada ≈ 90.0 × 0.9 = 81.0 (simplificado: la comisión no siempre se devuelve).
+- ROAS de equilibrio ≈ 100 / 81.0 = 1.23x en el primer pedido.
 - Con afiliado, el margen cae y el ROAS de equilibrio sube: recalcula con tus números.
 
 ## Plantillas / prompts
@@ -37,7 +37,7 @@ Supuestos inventados para mostrar la fórmula: precio 100; plataforma 9.9% + 0.5
 
 ## Nivel de evidencia
 - Fórmulas: [cálculo propio].
-- Tarifas Hotmart (9.9% + USD 0.50; USD 0.10 si el producto cuesta USD 15 o menos): [benchmark] de pandavideo; verificar en el sitio de Hotmart. Otras cifras de Hotmart/Lemon Squeezy: [no verificado].
+- **Maverick no usa Hotmart ni marketplaces parecidos (decisión de Adrie, 2026-11-13): infraestructura propia.** Tarifas de Polar y Lemon Squeezy: [oficial] polar.sh/docs/fees y docs.lemonsqueezy.com (consultado 2026-11-13). Verificar la tarifa vigente de la pasarela elegida antes de calcular.
 - Reembolsos: Udemy ~1-1.5% mensual y trading caro 20-30% son [un experto], anecdóticos.
 - Benchmarks de CPA/ROAS del informe: [benchmark], no de Perú; no hay benchmark público de LTV de infoproductos.
 

@@ -1,6 +1,6 @@
 ---
 name: info-peru-pagos-y-legal
-description: Pagos y requisitos legales para vender infoproductos en Perú: pasarelas, Yape, Libro de Reclamaciones, Indecopi, IGV de servicios digitales y reembolsos. Usar cuando se pregunte "cómo cobrar en Perú", "Hotmart en Perú", "Libro de Reclamaciones curso", "Peru payments course".
+description: Pagos y requisitos legales para vender infoproductos en Perú: pasarelas, Yape, Libro de Reclamaciones, Indecopi, IGV de servicios digitales y reembolsos. Usar cuando se pregunte "cómo cobrar en Perú", "pasarela en Perú", "Libro de Reclamaciones curso", "Peru payments course".
 ---
 
 # Pagos y legal en Perú para infoproductos
@@ -11,10 +11,11 @@ Armar un cobro y un marco de confianza viables en Perú, marcando lo no verifica
 ## Pasos
 1. Mezcla de pagos (referencia): tarjeta crédito 31% y débito 20% del e-commerce peruano; efectivo diferido 9% o 19% según la fuente (cifras en conflicto) [benchmark: Worldpay 2023, Rebill].
 2. Plataformas:
-   - Hotmart: confirma en el checkout real de tu oferta qué métodos ve un comprador peruano (Yape, cuotas) [no verificado]; "Cuotas Hotmart" solo para ofertas en reales y compradores en Brasil [oficial].
+   - **Decisión de Adrie (2026-11-13): nada de Hotmart ni marketplaces; infraestructura propia** (página en dominio propio + pasarela con webhook + entrega automática).
+   - Stripe: Perú **no** está entre los países de comerciante; solo vía LLC en EE. UU. (Atlas) [oficial: stripe.com/global, 2026-11-13].
+   - Polar y Lemon Squeezy (merchant of record): pagan a Perú, cobran 5% + US$0.50 + 1.5% tarjeta extranjera y manejan el IVA de compradores europeos [oficial, 2026-11-13]. Buenos para el **kit digital**. Polar y Paddle **prohíben servicios** (webs hechas por ti) [oficial]. Lemon Squeezy está migrando a Stripe Managed Payments [proveedor].
+   - Para **servicios** (web US$997): Culqi (con RUC, cobra en US$, ~3.99% + IGV tarjeta extranjera) o dLocal Go (acepta Perú, liquida en moneda local) [oficial/proveedor].
    - Kajabi Payments: no disponible para negocios registrados en Perú [oficial].
-   - Stripe: Perú no figuraría como país de comerciante (vía sociedad en EE. UU.) [no verificado].
-   - Lemon Squeezy: cobertura de Perú no confirmada [no verificado].
    - Mercado Pago: checkout con tarjeta y Yape según documentación [oficial].
 3. Pasarelas locales (Culqi, Niubiz, Izipay): comisiones de blogs no coinciden entre sí [benchmark]; pide tarifa por escrito. Yape vía Mercado Pago, Culqi, Niubiz, Bamboo o EBANX (OTP desde la app, requiere tarjeta de débito vinculada) [oficial/secundario].
 4. Cuotas: existen como promociones puntuales de bancos con instituciones educativas, no son automáticas [oficial/secundario: BCP]. Que "duplican" la conversión es [no verificado]; haz A/B de tu checkout.

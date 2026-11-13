@@ -1,6 +1,6 @@
 ---
 name: info-optimizacion-y-capi
-description: Define eventos de optimización y CAPI para infoproductos, incluida Conversion Leads y envío de compra desde pasarela o CRM. Usar cuando se pregunte "qué evento optimizar", "CAPI desde Hotmart/CRM", "Conversion Leads", "optimize for purchase vs lead".
+description: Define eventos de optimización y CAPI para infoproductos, incluida Conversion Leads y envío de compra desde pasarela o CRM. Usar cuando se pregunte "qué evento optimizar", "CAPI desde pasarela propia/CRM", "Conversion Leads", "optimize for purchase vs lead".
 ---
 
 # Optimización y CAPI para infoproductos

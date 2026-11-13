@@ -5,6 +5,8 @@ description: Explica por qué fallan los lanzamientos de infoproductos y cómo c
 
 # Audiencia primero: por qué fallan los lanzamientos
 
+> **⚠️ Decisión de Adrie (2026-11-13) — manda sobre esta skill:** en Maverick los ads **sirven para PROBAR ofertas** aunque no haya audiencia ni orgánico previo. Esta skill es **opinión de practicantes** (Kajabi, Nathan Barry), sin estudio detrás: úsala para diagnosticar, **no** como veto para pautar. Diseña pruebas chicas con presupuesto, días y regla de corte, y mide el costo por venta.
+
 ## Objetivo
 Evitar pautar una oferta sin audiencia ni mensaje validado. La pauta amplifica lo que ya funciona; no lo crea [un experto].
 

@@ -5,6 +5,8 @@ description: Usar para decidir qué contenido orgánico de una marca personal me
 
 # Flujo: del orgánico que ya gana a la pauta y al embudo medido
 
+> **⚠️ Decisión de Adrie (2026-11-13) — manda sobre esta skill:** en Maverick los ads **sirven para PROBAR ofertas** aunque no haya audiencia ni orgánico previo. Esta skill es **opinión de practicantes** (Kajabi, Nathan Barry), sin estudio detrás: úsala para diagnosticar, **no** como veto para pautar. Diseña pruebas chicas con presupuesto, días y regla de corte, y mide el costo por venta.
+
 ## Objetivo
 Pagar solo por contenido que ya demostró tracción, y conectarlo a un siguiente paso medible (WhatsApp, lead magnet, reserva). La pauta amplifica una marca personal, no la crea.
 
