@@ -18,6 +18,12 @@ Claude **lee, analiza, escribe y produce**. Adrie **graba, vende, decide y aprue
 3. Entregar el informe: gasto, costo por venta por anuncio y por concepto, frecuencia, top 3 y bottom 3, y **3 acciones propuestas** (cortar, mantener o escalar un 20 %) con su evidencia.
 4. **Adrie aprueba o rechaza** cada acción.
 
+**Diagnóstico por tramos del video (lunes)** [un experto: Adrián Sáenz y Roger Viladrosa, tutorial de jul-2024; bóveda `04 - Conocimiento/02 - Hallazgos/Meta Ads - aprendizajes del tutorial de Adrián Sáenz (2024-07)`]:
+- Si el gancho retiene pero no convierte, revisar el cuerpo y el CTA.
+- Si el gancho es flojo pero el clic a compra es alto, regrabar solo el gancho.
+
+Cada prueba dura de 3 a 7 días antes de decidir. Antes de cada prueba se escribe el **corte de válido / no válido** y se anota todo en la bitácora (hipótesis, variable, resultado, fecha).
+
 ## Martes: ideas (Claude)
 1. Leer las objeciones y frases reales de los chats de la semana, sin datos personales.
 2. Proponer **2 o 3 conceptos nuevos**, realmente distintos de los activos (`testeo-creativo-y-fatiga`).
@@ -38,6 +44,8 @@ Editar con `fabrica-de-anuncios`: un video por hook, formatos 9:16 y 4:5, zonas 
 - Revisar `novedades-meta-2026-11` y actualizar el plugin.
 - Recalcular el CPA máximo con las comisiones y los reembolsos reales.
 - Decidir con Adrie si se sube de escalón de evento (por ejemplo, de Lead a Purchase cuando haya volumen).
+
+**Revisión mensual extra:** desglose por país, edad y dispositivo. Si un segmento convierte barato, se crean **ángulos para ese segmento** dentro de la misma estructura amplia, sin segmentar a mano.
 
 ## Lo que nunca hace Claude sin aprobación escrita
 Crear, activar, pausar o borrar campañas, cambiar presupuestos, publicar anuncios o mandar mensajes a clientes.

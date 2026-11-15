@@ -35,6 +35,17 @@ Una función programada en Vercel (cron diario) trae el gasto del día anterior.
 - Tendencia de 7 días frente a los 7 anteriores y la frecuencia (fatiga).
 - Puede publicarse como Artifact privado de tipo tablero o como página propia.
 
+## Métricas personalizadas y lectura [un experto: Adrián Sáenz y Roger Viladrosa, tutorial de jul-2024; bóveda `04 - Conocimiento/02 - Hallazgos/Meta Ads - aprendizajes del tutorial de Adrián Sáenz (2024-07)`]
+- **Visitas a la página de destino ÷ clics en el enlace:** si la diferencia es grande, hay clics falsos o la web carga lento.
+- **Leads ÷ vistas de página** en la calculadora (referencia del autor: 29–30 % es bueno en captación).
+- **Evento propio en el botón «Háblame por WhatsApp»** después de la calculadora (referencia del autor: ~61 % de los registrados hace clic).
+- **Leer la ventana de «7 días menos los 3 últimos»:** los últimos 3 días aún no tienen toda la atribución, y las ventas por WhatsApp llegan tarde.
+- **Una métrica estrella por oferta:**
+  - Kit: costo por compra y ROAS.
+  - Web: costo por conversación calificada o por venta devuelta por la API, no el ROAS que muestra Meta.
+- **ROAS blended** (todo lo vendido ÷ lo gastado) como respaldo cuando falla la atribución del chat.
+- **Columnas propias por embudo**, desde la métrica estrella hacia arriba del embudo, guardadas como predeterminadas.
+
 ## Reglas
 - No declarar ganador con pocos eventos: menos de unas 10 conversiones por anuncio es ruido.
 - Antes de explicar una caída, revisar el registro de cambios: campañas terminadas o presupuestos modificados (ver `workflows-claude-meta-ads`).

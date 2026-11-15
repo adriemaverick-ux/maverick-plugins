@@ -6,6 +6,9 @@ Plugin de Meta Ads construido sobre 11 informes de investigación (2026-10-11) e
 - Base (34): estrategia y auditoría · creativos · medición, Pixel/CAPI y protección de cuenta · WhatsApp, ticket alto, Perú y Claude+IA.
 - Por negocio (32): `ecom-*` (Casa Soyer / Shopify) · `saas-*` · `marca-*` (marca personal) · `info-*` (infoproductos).
 
+## Novedades 1.2.1 (2026-11-14)
+Se suman aprendizajes del tutorial de Meta Ads de Adrián Sáenz y Roger Viladrosa (jul-2024), filtrados contra lo vigente, a `tablero-costo-por-venta`, `ciclo-semanal-claude-meta` y `fabrica-de-anuncios`.
+
 ## Novedades 1.2.0 (2026-11-13)
 Sistema Claude + Meta de Maverick. **9 skills nuevas:**
 - `novedades-meta-2026-11`: manda sobre las cifras viejas.

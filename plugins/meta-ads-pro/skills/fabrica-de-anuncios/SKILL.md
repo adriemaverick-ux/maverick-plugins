@@ -35,6 +35,18 @@ De **un concepto grabado** salen **3 anuncios** (uno por hook), en dos formatos,
 ## Diversidad (lo que pide Meta)
 Cada concepto nuevo cambia el **ángulo, el motor narrativo o el formato**, no solo el hook. Si dos conceptos se parecen mucho, Meta los trata casi como uno [declaración de Meta: «diversificar»; lo del Entity ID no está confirmado].
 
+## Cómo sacar conceptos distintos [un experto: Adrián Sáenz y Roger Viladrosa, tutorial de jul-2024; bóveda `04 - Conocimiento/02 - Hallazgos/Meta Ads - aprendizajes del tutorial de Adrián Sáenz (2024-07)`]
+- **Las primeras 24–48 h educan a Meta:** según quién reaccione primero, Meta arma el «avatar» al que le muestra el anuncio. El gancho tiene que **filtrar al dueño de la empresa** y espantar al curioso (por ejemplo, a quien tiene cucarachas en su casa), porque si no, Meta busca más curiosos.
+- **Mapa de mensajes por nivel de conciencia:** muy frío (el problema, sin nombrar el producto) → frío (la solución directa) → templado (dudas y objeciones) → caliente («escríbeme», objeciones de plata y tiempo). Para empezar, apuntar al dueño que **ya sabe que existen soluciones**.
+- **Tres ángulos:** entrar en una conversación que el dueño ya tiene, abrirle una que no se planteó, o responder sus objeciones.
+- **El mismo ángulo en positivo y en negativo** cuenta como dos conceptos (el sueño frente a la pesadilla).
+- **Cambiar el primer 50 % del video** (gancho y planteo) ya le llega a gente distinta; así se sacan varios conceptos de una sola grabación.
+- **Un dolor, un tipo de comprador y un CTA por anuncio.** Se vende solo el siguiente paso: el mensaje de WhatsApp o usar la calculadora.
+- **Plantilla:** «Te gustaría [deseo] pero [obstáculo] → es normal si estás en [situación] → lo que necesitas es [solución] → logras [deseo] sin [dolor] → cómo te sentirías → CTA».
+- **Mostrar la solución en uso** (la calculadora calculando, la web recibiendo una consulta), no describirla.
+- Persona mirando a cámara, ocupando buena parte del encuadre, siempre con subtítulos.
+- Lo que **no** sirve de ese tutorial (es de 2024): intereses, exclusiones, públicos de 1–2 M y retargeting en varios niveles.
+
 ## Errores comunes
 - Gráficos o texto clave tapados por el botón del anuncio.
 - Subir el video orgánico con «Comenta X» como anuncio.
