@@ -9,32 +9,38 @@
     {
       "name": "casa-soyer-ecommerce",
       "source": "./plugins/casa-soyer-ecommerce",
-      "description": "Negocio paralelo de Adrie: ecommerce y pauta de Casa Soyer (casasoyer.com) por comisión sobre margen bruto. Skills, subagentes, comandos, MCP de Shopify y guardas de seguridad para la tienda real."
+      "description": "Negocio paralelo de Adrie: ecommerce y pauta de Casa Soyer (casasoyer.com) por comisión sobre margen bruto. Skills, subagentes, comandos, MCP de Shopify y guardas de seguridad para la tienda real.",
+      "version": "1.0.1"
     },
     {
       "name": "copy-y-estilo",
       "source": "./plugins/copy-y-estilo",
-      "description": "Copywriting con tu voz: perfiles de estilo personalizados, tono natural, cálido y humano en el idioma de tu cliente, hooks, copy por canal (WhatsApp, video en cámara, YouTube, anuncios, propuestas, lujo) y revisión anti-IA en español. Lo usan los demás plugins para escribir. Solo redacta; nunca enví"
+      "description": "Copywriting con tu voz: perfiles de estilo personalizados, tono natural, cálido y humano en el idioma de tu cliente, hooks, copy por canal (WhatsApp, video en cámara, YouTube, anuncios, propuestas, lujo) y revisión anti-IA en español. Lo usan los demás plugins para escribir. Solo redacta; nunca envía ni publica.",
+      "version": "1.2.3"
     },
     {
       "name": "maestro-claude",
       "source": "./plugins/maestro-claude",
-      "description": "Maestro de Claude: Claude Design, Claude Code, webs y apps, Cowork y Agentic OS. 43 skills, 5 subagentes y 9 comandos destilados de 201 videos de Jack Roberts (2023-2026), reescritos en español."
+      "description": "Maestro de Claude: Claude Design, Claude Code, webs y apps, Cowork y Agentic OS. 43 skills, 5 subagentes y 9 comandos destilados de 201 videos de Jack Roberts (2023-2026), reescritos en español.",
+      "version": "1.0.1"
     },
     {
       "name": "maverick-sistemas",
       "source": "./plugins/maverick-sistemas",
-      "description": "Maverick Sistemas de punta a punta: marca y voz, contenido en cámara (YouTube, Instagram, Facebook, Threads), prospección, GHL como CRM, diagnóstico, propuestas y piloto, entrega, y automatización de redes con GHL e IA. 69 skills, 10 subagentes, 19 comandos. Basado en tu bóveda de Obsidian, 5 i"
+      "description": "Maverick Sistemas de punta a punta: marca y voz, contenido en cámara (YouTube, Instagram, Facebook, Threads), prospección, GHL como CRM, diagnóstico, propuestas y piloto, entrega, y automatización de redes con GHL e IA. 69 skills, 10 subagentes, 19 comandos. Basado en tu bóveda de Obsidian, 5 informes de investigación y 43 videos de Jack Roberts. Nada se envía ni publica sin tu confirmación.",
+      "version": "1.9.31"
     },
     {
       "name": "meta-ads-pro",
       "source": "./plugins/meta-ads-pro",
-      "description": "Meta Ads de punta a punta (investigación del 2026-10-11) para ecommerce (Casa Soyer), SaaS, marca personal e infoproductos: cómo funciona hoy (Andromeda, Advantage+), estrategia y auditoría, creativos que convierten, Pixel y API de Conversiones, protección de cuenta, WhatsApp y ticket alto, y flujos"
+      "description": "Meta Ads de punta a punta (investigación del 2026-10-11, actualizada el 2026-11-13) para ecommerce (Casa Soyer), SaaS, marca personal e infoproductos: cómo funciona hoy (Andromeda, Advantage+), estrategia y auditoría, creativos que convierten, Pixel y API de Conversiones, protección de cuenta, WhatsApp y ticket alto, flujos con Claude, y el sistema Claude + Meta de Maverick (puente GHL→Meta, valor por lead, fábrica de anuncios, tablero de costo por venta, ciclo semanal, Lego System de videos modulares y juez diario en solo lectura). 81 skills, 9 subagentes, 12 comandos. Solo lectura por defecto; todo gasto o cambio pide aprobación humana.",
+      "version": "1.3.0"
     },
     {
       "name": "segundo-cerebro",
       "source": "./plugins/segundo-cerebro",
-      "description": "Segundo cerebro en Obsidian: guarda automáticamente los hallazgos, decisiones y pendientes de cada conversación en tu bóveda, con wrap-up, revisión semanal, reporte consolidado de tus 3 negocios e higiene de claves. 8 skills, 2 subagentes, 5 comandos y hooks de cierre y de secretos."
+      "description": "Segundo cerebro en Obsidian: guarda automáticamente los hallazgos, decisiones y pendientes de cada conversación en tu bóveda, con wrap-up, revisión semanal, reporte consolidado de tus 3 negocios e higiene de claves. 8 skills, 2 subagentes, 5 comandos y hooks de cierre y de secretos.",
+      "version": "1.0.1"
     }
   ]
 }
