@@ -1,5 +1,5 @@
 ---
-description: Audita en solo lectura la seguridad básica de un agente (claves expuestas, permisos de conectores, acceso al servidor, respaldos) y entrega hallazgos por gravedad sin modificar nada.
+description: 'Audita en solo lectura la seguridad básica de un agente (claves expuestas, permisos de conectores, acceso al servidor, respaldos) y entrega hallazgos por gravedad sin modificar nada.'
 argument-hint: "[ruta del proyecto/agente a revisar] [--servidor]"
 ---
 

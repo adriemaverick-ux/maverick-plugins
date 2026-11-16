@@ -1,6 +1,6 @@
 ---
 name: info-creativos
-description: Crea ganchos, historias, prueba social y demostraciones para anuncios de infoproductos sin promesas de ingreso, con diversidad de conceptos. Usar cuando se pida "creativos para mi curso", "ganchos", "testimonios", "ad concepts for course".
+description: 'Crea ganchos, historias, prueba social y demostraciones para anuncios de infoproductos sin promesas de ingreso, con diversidad de conceptos. Usar cuando se pida "creativos para mi curso", "ganchos", "testimonios", "ad concepts for course".'
 ---
 
 # Creativos para infoproductos

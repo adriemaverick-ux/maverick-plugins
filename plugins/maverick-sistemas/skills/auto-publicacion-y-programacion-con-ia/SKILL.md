@@ -1,6 +1,6 @@
 ---
 name: auto-publicacion-y-programacion-con-ia
-description: Usar para organizar la publicación semanal en Instagram, Facebook, YouTube y Threads con herramientas como Metricool o Buffer y apoyo de IA. Gatillos "programar publicaciones", "Metricool", "Buffer", "calendario de contenido con IA", "schedule posts", "Social Planner".
+description: 'Usar para organizar la publicación semanal en Instagram, Facebook, YouTube y Threads con herramientas como Metricool o Buffer y apoyo de IA. Gatillos "programar publicaciones", "Metricool", "Buffer", "calendario de contenido con IA", "schedule posts", "Social Planner".'
 ---
 
 # Publicación y programación con IA

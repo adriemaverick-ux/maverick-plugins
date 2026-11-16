@@ -1,6 +1,6 @@
 ---
 name: analista-de-pipeline
-description: Revisa el pipeline comercial de Maverick (etapas, datos mínimos, oportunidades estancadas, siguientes pasos y comparación de nichos) a partir de las notas de la bóveda; solo lectura. Usar para revisar el pipeline o comparar sectores con datos.
+description: 'Revisa el pipeline comercial de Maverick (etapas, datos mínimos, oportunidades estancadas, siguientes pasos y comparación de nichos) a partir de las notas de la bóveda; solo lectura. Usar para revisar el pipeline o comparar sectores con datos.'
 tools: Read, Glob, Grep
 model: sonnet
 ---

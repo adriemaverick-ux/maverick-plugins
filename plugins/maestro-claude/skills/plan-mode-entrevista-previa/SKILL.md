@@ -1,6 +1,6 @@
 ---
 name: plan-mode-entrevista-previa
-description: Obliga a definir el problema antes de construir - plan mode más entrevista previa de Claude. Úsalo antes de cualquier app, web, automatización o tarea estratégica ambigua. Triggers - plan mode, modo plan, entrevístame, interview me, antes de codificar, ultrathink.
+description: 'Obliga a definir el problema antes de construir - plan mode más entrevista previa de Claude. Úsalo antes de cualquier app, web, automatización o tarea estratégica ambigua. Triggers - plan mode, modo plan, entrevístame, interview me, antes de codificar, ultrathink.'
 ---
 
 # Plan mode + entrevista previa

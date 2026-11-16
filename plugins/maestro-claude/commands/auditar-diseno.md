@@ -1,6 +1,6 @@
 ---
-description: Audita el diseño de una web, app o pieza (slop, brechas contra una referencia, móvil, accesibilidad, copy) y entrega un informe priorizado.
-argument-hint: <URL o ruta del diseño> [URL de referencia]
+description: 'Audita el diseño de una web, app o pieza (slop, brechas contra una referencia, móvil, accesibilidad, copy) y entrega un informe priorizado.'
+argument-hint: '<URL o ruta del diseño> [URL de referencia]'
 ---
 
 Usa el subagente `disenador-claude-design` para auditar este diseño: $ARGUMENTS

@@ -1,6 +1,6 @@
 ---
 name: limites-api-y-automatizacion-segura
-description: Usar al automatizar Meta Ads con IA, MCP o la Marketing API, para respetar límites de tasa y diseñar escrituras seguras con aprobación humana. Gatillos - "rate limit", "Marketing API", "automatizar con MCP", "System User", "throttling", "cambios de presupuesto por API".
+description: 'Usar al automatizar Meta Ads con IA, MCP o la Marketing API, para respetar límites de tasa y diseñar escrituras seguras con aprobación humana. Gatillos - "rate limit", "Marketing API", "automatizar con MCP", "System User", "throttling", "cambios de presupuesto por API".'
 ---
 
 # Límites de API y automatización segura

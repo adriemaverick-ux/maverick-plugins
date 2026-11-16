@@ -1,6 +1,6 @@
 ---
 name: valor-por-lead-y-escalera
-description: Cómo puntuar leads (calculadora, chat) y mandarle a Meta su valor y la escalera de eventos (CalcStart → Lead → QualifiedLead → Purchase) para que aprenda a traer empresas que compran, con lo que sí y lo que no funciona en cuentas chicas. Usar al definir eventos, al decidir qué optimizar, o con "valor del lead", "lead scoring", "QualifiedLead", "optimizar por valor", "eventos secuenciados", "value rules".
+description: 'Cómo puntuar leads (calculadora, chat) y mandarle a Meta su valor y la escalera de eventos (CalcStart → Lead → QualifiedLead → Purchase) para que aprenda a traer empresas que compran, con lo que sí y lo que no funciona en cuentas chicas. Usar al definir eventos, al decidir qué optimizar, o con "valor del lead", "lead scoring", "QualifiedLead", "optimizar por valor", "eventos secuenciados", "value rules".'
 ---
 
 # Valor por lead y escalera de eventos

@@ -1,6 +1,6 @@
 ---
 name: info-politicas-y-lo-prohibido
-description: Cumplimiento de políticas de Meta para anuncios de infoproductos (resultados poco realistas, prácticas engañosas, atributos personales, finanzas). Usar antes de publicar o cuando se pregunte "qué puedo decir en el anuncio", "income claims policy", "mi curso de ganar dinero".
+description: 'Cumplimiento de políticas de Meta para anuncios de infoproductos (resultados poco realistas, prácticas engañosas, atributos personales, finanzas). Usar antes de publicar o cuando se pregunte "qué puedo decir en el anuncio", "income claims policy", "mi curso de ganar dinero".'
 ---
 
 # Políticas y lo prohibido en infoproductos (solo cumplimiento)

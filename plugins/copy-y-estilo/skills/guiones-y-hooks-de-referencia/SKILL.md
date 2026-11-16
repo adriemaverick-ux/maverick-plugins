@@ -1,6 +1,6 @@
 ---
 name: guiones-y-hooks-de-referencia
-description: Fórmulas de hook, esqueletos de guion, plantillas con huecos y patrones de edición medidos en 20 Reels de 5 creadores (Trenton Luera, Ramiro Cubria, Franco Aguilar, Nick Saraev, Codie Sanchez), adaptados al idioma del dueño de taller o servicio técnico. Usar al escribir el guion o el gancho de un video en cámara, o al decidir cómo se edita. Gatillos - "guion", "hook", "gancho", "cómo empiezo el video", "esqueleto", "plantilla de guion", "no se dice se dice".
+description: 'Fórmulas de hook, esqueletos de guion, plantillas con huecos y patrones de edición medidos en 20 Reels de 5 creadores (Trenton Luera, Ramiro Cubria, Franco Aguilar, Nick Saraev, Codie Sanchez), adaptados al idioma del dueño de taller o servicio técnico. Usar al escribir el guion o el gancho de un video en cámara, o al decidir cómo se edita. Gatillos - "guion", "hook", "gancho", "cómo empiezo el video", "esqueleto", "plantilla de guion", "no se dice se dice".'
 ---
 
 # Guiones y hooks de referencia (estudio de 20 Reels)

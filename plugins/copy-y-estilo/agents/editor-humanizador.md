@@ -1,6 +1,6 @@
 ---
 name: editor-humanizador
-description: Revisa un texto que suena a robot, a IA o a jerga y lo reescribe natural, cálido y en el idioma del cliente, señalando qué cambió y por qué. Usar con "humaniza esto", "suena a IA", "suena técnico", "revisa el tono".
+description: 'Revisa un texto que suena a robot, a IA o a jerga y lo reescribe natural, cálido y en el idioma del cliente, señalando qué cambió y por qué. Usar con "humaniza esto", "suena a IA", "suena técnico", "revisa el tono".'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

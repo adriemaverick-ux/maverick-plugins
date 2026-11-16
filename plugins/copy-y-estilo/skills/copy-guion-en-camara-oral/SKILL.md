@@ -1,6 +1,6 @@
 ---
 name: copy-guion-en-camara-oral
-description: Escribe guiones de video corto en cámara (30-60 s) en lenguaje oral, para que Adrie los diga natural. Usar al preparar un Reel, Short o parte de un video largo. Gatillos - "guion", "Reel", "video en cámara", "cómo lo digo", "script for camera".
+description: 'Escribe guiones de video corto en cámara (30-60 s) en lenguaje oral, para que Adrie los diga natural. Usar al preparar un Reel, Short o parte de un video largo. Gatillos - "guion", "Reel", "video en cámara", "cómo lo digo", "script for camera".'
 ---
 
 # Guion en cámara, lenguaje oral

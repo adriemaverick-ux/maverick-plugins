@@ -1,5 +1,5 @@
 ---
-description: Diseña un borrador de campaña Click-to-WhatsApp de ticket alto (estructura, creativos, eventos CAPI y métricas de calidad), sin crear ni activar nada.
+description: 'Diseña un borrador de campaña Click-to-WhatsApp de ticket alto (estructura, creativos, eventos CAPI y métricas de calidad), sin crear ni activar nada.'
 argument-hint: "[pieza o proyecto] [presupuesto diario opcional] [ciudad/zona]"
 ---
 

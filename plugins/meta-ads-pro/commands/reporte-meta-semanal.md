@@ -1,5 +1,5 @@
 ---
-description: Genera el reporte semanal de Meta Ads (solo lectura) con datos vs hipótesis, calidad de leads y 3 acciones para aprobar.
+description: 'Genera el reporte semanal de Meta Ads (solo lectura) con datos vs hipótesis, calidad de leads y 3 acciones para aprobar.'
 argument-hint: "[cuenta o negocio: casa-soyer | inmobiliario] [fecha inicio opcional] [ruta de CSV opcional]"
 ---
 

@@ -1,6 +1,6 @@
 ---
-description: Genera un plan de Meta Ads para un infoproducto (embudo, economía, políticas, CAPI, prueba de 4 semanas) para aprobación
-argument-hint: [producto/formato, precio, nicho, tamaño de lista y plataforma de cobro]
+description: 'Genera un plan de Meta Ads para un infoproducto (embudo, economía, políticas, CAPI, prueba de 4 semanas) para aprobación'
+argument-hint: '[producto/formato, precio, nicho, tamaño de lista y plataforma de cobro]'
 ---
 
 Delega en el agente `estratega-infoproductos-meta` un plan de Meta Ads para el infoproducto: $ARGUMENTS

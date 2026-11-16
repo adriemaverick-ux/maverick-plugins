@@ -1,6 +1,6 @@
 ---
 name: leads-inmobiliarios
-description: Úsala para evaluar campañas de proyectos inmobiliarios por costo por lead calificado y costo por cita efectiva, y elegir entre formulario instantáneo, landing o WhatsApp. Gatillos - "leads inmobiliarios", "costo por lead calificado", "costo por cita", "formulario instantáneo vs landing", "real estate leads".
+description: 'Úsala para evaluar campañas de proyectos inmobiliarios por costo por lead calificado y costo por cita efectiva, y elegir entre formulario instantáneo, landing o WhatsApp. Gatillos - "leads inmobiliarios", "costo por lead calificado", "costo por cita", "formulario instantáneo vs landing", "real estate leads".'
 ---
 
 # Leads inmobiliarios: CPL calificado y costo por cita

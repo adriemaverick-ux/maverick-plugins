@@ -1,6 +1,6 @@
 ---
 name: prospector-maverick
-description: Prepara tandas de prospección para Maverick Sistemas (empresas de mantenimiento B2B), redacta mensajes y actualiza el registro anti-duplicados. Solo redacta y registra; nunca envía. Usar cuando Adrie pida "manda nuevos", una tanda o registrar una respuesta.
+description: 'Prepara tandas de prospección para Maverick Sistemas (empresas de mantenimiento B2B), redacta mensajes y actualiza el registro anti-duplicados. Solo redacta y registra; nunca envía. Usar cuando Adrie pida "manda nuevos", una tanda o registrar una respuesta.'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

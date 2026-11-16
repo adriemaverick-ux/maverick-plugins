@@ -1,6 +1,6 @@
 ---
 name: operador-agentic-os
-description: Operador de un Agentic OS personal. Úsalo para diseñar o mantener el sistema de proyectos, memoria, skills, conectores, enrutado de modelos y revisiones de coste/seguridad de tus agentes; también cuando pidas "audita mi sistema de agentes" o "organiza mi Cowork".
+description: 'Operador de un Agentic OS personal. Úsalo para diseñar o mantener el sistema de proyectos, memoria, skills, conectores, enrutado de modelos y revisiones de coste/seguridad de tus agentes; también cuando pidas "audita mi sistema de agentes" o "organiza mi Cowork".'
 tools: Read, Write, Edit, Glob, Grep, Bash
 model: opus
 ---

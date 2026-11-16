@@ -1,6 +1,6 @@
 ---
 name: info-embudo-segun-precio
-description: Elige el embudo de un infoproducto (venta directa, tripwire, webinar, challenge, VSL, aplicación+llamada, lanzamiento) según precio y margen. Usar cuando se pregunte "qué embudo uso", "webinar o llamada", "funnel for my course", "tripwire vs VSL".
+description: 'Elige el embudo de un infoproducto (venta directa, tripwire, webinar, challenge, VSL, aplicación+llamada, lanzamiento) según precio y margen. Usar cuando se pregunte "qué embudo uso", "webinar o llamada", "funnel for my course", "tripwire vs VSL".'
 ---
 
 # Embudo según precio del infoproducto

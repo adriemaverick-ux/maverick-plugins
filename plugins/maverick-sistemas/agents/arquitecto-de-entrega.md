@@ -1,6 +1,6 @@
 ---
 name: arquitecto-de-entrega
-description: Diseña el plan de entrega e implementación de un piloto (recepción por WhatsApp, seguimiento de cotizaciones, agenda y próxima visita, panel del dueño, salida y mantenimiento) con GHL, n8n/Make, WhatsApp oficial y Claude, con pruebas, permisos y costos. Usar cuando una propuesta fue aceptada o para evaluar la viabilidad técnica de un piloto.
+description: 'Diseña el plan de entrega e implementación de un piloto (recepción por WhatsApp, seguimiento de cotizaciones, agenda y próxima visita, panel del dueño, salida y mantenimiento) con GHL, n8n/Make, WhatsApp oficial y Claude, con pruebas, permisos y costos. Usar cuando una propuesta fue aceptada o para evaluar la viabilidad técnica de un piloto.'
 tools: Read, Glob, Grep, Write, Edit
 model: opus
 ---

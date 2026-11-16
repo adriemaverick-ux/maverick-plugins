@@ -1,6 +1,6 @@
 ---
 name: copy-propuestas-sin-jerga
-description: Redacta propuestas visuales de una página y cotizaciones en lenguaje de dueño de taller, con alcance, exclusiones, vigencia y un solo siguiente paso. Usar al preparar una propuesta o explicar una cotización. Gatillos - "propuesta", "cotización", "qué incluye", "sin jerga", "proposal".
+description: 'Redacta propuestas visuales de una página y cotizaciones en lenguaje de dueño de taller, con alcance, exclusiones, vigencia y un solo siguiente paso. Usar al preparar una propuesta o explicar una cotización. Gatillos - "propuesta", "cotización", "qué incluye", "sin jerga", "proposal".'
 ---
 
 # Propuestas sin jerga

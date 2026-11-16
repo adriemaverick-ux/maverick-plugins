@@ -1,6 +1,6 @@
 ---
 name: arquitecto-claude-code
-description: Configura proyectos y flujos de Claude Code (CLAUDE.md, memoria, plan mode, enrutado de modelos, skills, MCP, rutinas) aplicando los skills del módulo. Úsalo proactivamente al iniciar un proyecto, auditar consumo o diseñar un flujo. Triggers - configurar Claude Code, setup proyecto, arquitectura de flujo, optimizar Claude Code.
+description: 'Configura proyectos y flujos de Claude Code (CLAUDE.md, memoria, plan mode, enrutado de modelos, skills, MCP, rutinas) aplicando los skills del módulo. Úsalo proactivamente al iniciar un proyecto, auditar consumo o diseñar un flujo. Triggers - configurar Claude Code, setup proyecto, arquitectura de flujo, optimizar Claude Code.'
 tools: Read, Write, Edit, Glob, Grep, Bash
 model: opus
 ---

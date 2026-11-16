@@ -1,6 +1,6 @@
 ---
 name: marca-creativos-founder-led
-description: Usar para planear y escribir anuncios con la cara del fundador o experto en Reels: ganchos, ángulos, guiones, frecuencia y fatiga. Gatillos - "anuncio con mi cara", "guion de Reel", "founder-led", "ángulos de contenido", "fatiga creativa".
+description: 'Usar para planear y escribir anuncios con la cara del fundador o experto en Reels: ganchos, ángulos, guiones, frecuencia y fatiga. Gatillos - "anuncio con mi cara", "guion de Reel", "founder-led", "ángulos de contenido", "fatiga creativa".'
 ---
 
 # Creativos founder-led para marca personal

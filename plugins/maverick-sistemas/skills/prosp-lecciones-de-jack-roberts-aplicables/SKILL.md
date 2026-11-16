@@ -1,6 +1,6 @@
 ---
 name: prosp-lecciones-de-jack-roberts-aplicables
-description: Úsalo para decidir qué ideas de conseguir clientes, outreach y pipeline de Jack Roberts se aplican a Maverick y cuáles no. Gatillos: "¿qué sirve de Jack Roberts?", "estrategia ballena", "diagnóstico pagado", "lessons from Jack Roberts outreach".
+description: 'Úsalo para decidir qué ideas de conseguir clientes, outreach y pipeline de Jack Roberts se aplican a Maverick y cuáles no. Gatillos: "¿qué sirve de Jack Roberts?", "estrategia ballena", "diagnóstico pagado", "lessons from Jack Roberts outreach".'
 ---
 
 # Lecciones de Jack Roberts aplicables

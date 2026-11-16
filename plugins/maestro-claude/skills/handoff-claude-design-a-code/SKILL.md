@@ -1,6 +1,6 @@
 ---
 name: handoff-claude-design-a-code
-description: Lleva un diseño de Claude Design (o Stitch, AI Studio, Open Design) a una app o sitio real en Claude Code, con localhost, GitHub y despliegue. Usar con "handoff", "pasar de Design a Code", "exportar zip", "abrir en localhost", "publicar en Vercel" o cuando se acaben los límites de Claude Design.
+description: 'Lleva un diseño de Claude Design (o Stitch, AI Studio, Open Design) a una app o sitio real en Claude Code, con localhost, GitHub y despliegue. Usar con "handoff", "pasar de Design a Code", "exportar zip", "abrir en localhost", "publicar en Vercel" o cuando se acaben los límites de Claude Design.'
 ---
 
 # Handoff Claude Design a Claude Code

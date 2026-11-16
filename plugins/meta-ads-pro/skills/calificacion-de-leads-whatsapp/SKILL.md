@@ -1,6 +1,6 @@
 ---
 name: calificacion-de-leads-whatsapp
-description: Úsala para definir cómo calificar chats que llegan de anuncios de WhatsApp, qué preguntas hacer y qué marcar como QualifiedLead. Gatillos - "calificar leads", "lead calificado", "preguntas de calificación", "qualified lead", "costo por conversación calificada".
+description: 'Úsala para definir cómo calificar chats que llegan de anuncios de WhatsApp, qué preguntas hacer y qué marcar como QualifiedLead. Gatillos - "calificar leads", "lead calificado", "preguntas de calificación", "qualified lead", "costo por conversación calificada".'
 ---
 
 # Calificación de leads de WhatsApp

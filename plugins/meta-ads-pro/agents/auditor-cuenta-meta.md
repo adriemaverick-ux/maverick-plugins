@@ -1,6 +1,6 @@
 ---
 name: auditor-cuenta-meta
-description: Auditor de cuentas de Meta Ads en solo lectura. Usar para auditar una cuenta con checklist y puntaje y entregar plan priorizado. Gatillos - "auditar cuenta", "audit Meta Ads account", "health check".
+description: 'Auditor de cuentas de Meta Ads en solo lectura. Usar para auditar una cuenta con checklist y puntaje y entregar plan priorizado. Gatillos - "auditar cuenta", "audit Meta Ads account", "health check".'
 tools: Read, Write, Glob, Grep, WebFetch
 model: sonnet
 ---

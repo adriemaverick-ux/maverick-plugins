@@ -1,6 +1,6 @@
 ---
 name: higiene-de-claves
-description: Auditar y ordenar tokens, claves y contraseñas en notas, archivos y repositorios - encontrarlos sin mostrarlos, moverlos a un gestor de secretos o variables de entorno, y rotar los expuestos. Usar al sospechar de claves en texto plano, antes de sincronizar la bóveda, o cuando Adrie diga "claves", "token", "seguridad", "rotar". Gatillos - "higiene de claves", "secretos", "rotar token", "API keys".
+description: 'Auditar y ordenar tokens, claves y contraseñas en notas, archivos y repositorios - encontrarlos sin mostrarlos, moverlos a un gestor de secretos o variables de entorno, y rotar los expuestos. Usar al sospechar de claves en texto plano, antes de sincronizar la bóveda, o cuando Adrie diga "claves", "token", "seguridad", "rotar". Gatillos - "higiene de claves", "secretos", "rotar token", "API keys".'
 ---
 
 # Higiene de claves

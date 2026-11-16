@@ -1,5 +1,5 @@
 ---
-description: Genera el brief matutino (agenda, correos que requieren acción, pendientes y una recomendación de enfoque) en solo lectura y con borradores opcionales, sin enviar nada.
+description: 'Genera el brief matutino (agenda, correos que requieren acción, pendientes y una recomendación de enfoque) en solo lectura y con borradores opcionales, sin enviar nada.'
 argument-hint: "[fecha o ventana, p. ej. hoy | mañana | lunes] [--borradores]"
 ---
 

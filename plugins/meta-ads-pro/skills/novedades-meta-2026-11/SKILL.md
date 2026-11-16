@@ -1,6 +1,6 @@
 ---
 name: novedades-meta-2026-11
-description: Cambios de Meta Ads verificados entre oct-2025 y nov-2026 que actualizan el resto del plugin (investigación base del 2026-10-11) - regla de 50 conversiones reafirmada, optimización por compras y leads en WhatsApp, Advantage+ por defecto, fin de las exclusiones de segmentación, diversidad creativa, AEM. Usar antes de planear o auditar una campaña, o con "qué cambió en Meta", "novedades Meta Ads", "está actualizado".
+description: 'Cambios de Meta Ads verificados entre oct-2025 y nov-2026 que actualizan el resto del plugin (investigación base del 2026-10-11) - regla de 50 conversiones reafirmada, optimización por compras y leads en WhatsApp, Advantage+ por defecto, fin de las exclusiones de segmentación, diversidad creativa, AEM. Usar antes de planear o auditar una campaña, o con "qué cambió en Meta", "novedades Meta Ads", "está actualizado".'
 ---
 
 # Novedades de Meta Ads (al 2026-11-13)

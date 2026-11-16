@@ -1,5 +1,5 @@
 ---
-description: Genera un brief creativo completo para un anuncio de Meta Ads (ticket alto, mueble o inmobiliaria hacia WhatsApp/leads)
+description: 'Genera un brief creativo completo para un anuncio de Meta Ads (ticket alto, mueble o inmobiliaria hacia WhatsApp/leads)'
 argument-hint: "[producto o proyecto] [objetivo] [público] [ruta de archivo con insumos, opcional]"
 ---
 

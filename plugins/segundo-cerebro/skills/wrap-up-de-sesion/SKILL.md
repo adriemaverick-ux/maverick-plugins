@@ -1,6 +1,6 @@
 ---
 name: wrap-up-de-sesion
-description: Cierre de una sesión de trabajo - resume en la bóveda decisiones, hallazgos, cambios, pendientes y próximos pasos, y deja la sesión retomable. Usar al terminar una sesión larga o cuando Adrie diga "wrap-up", "cerramos", "resume y guarda", "terminamos".
+description: 'Cierre de una sesión de trabajo - resume en la bóveda decisiones, hallazgos, cambios, pendientes y próximos pasos, y deja la sesión retomable. Usar al terminar una sesión larga o cuando Adrie diga "wrap-up", "cerramos", "resume y guarda", "terminamos".'
 ---
 
 # Wrap-up de sesión

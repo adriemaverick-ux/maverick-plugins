@@ -1,6 +1,6 @@
 ---
 name: produccion-overlays-hyperframes-claude-motion
-description: Flujo decidido por Adrie (2026-10-12) para animaciones y overlays de los videos de la marca - Claude Motion para explorar, HyperFrames (skill oficial y CLI local) para producir overlays precisos en HTML/CSS/GSAP, CapCut para el montaje final. Usar al crear cualquier overlay, gráfico explicativo o animación para un video en cámara. Gatillos - "overlay", "animación", "HyperFrames", "Claude Motion", "gráfico para el video", "animar este guion".
+description: 'Flujo decidido por Adrie (2026-10-12) para animaciones y overlays de los videos de la marca - Claude Motion para explorar, HyperFrames (skill oficial y CLI local) para producir overlays precisos en HTML/CSS/GSAP, CapCut para el montaje final. Usar al crear cualquier overlay, gráfico explicativo o animación para un video en cámara. Gatillos - "overlay", "animación", "HyperFrames", "Claude Motion", "gráfico para el video", "animar este guion".'
 ---
 
 # Overlays con HyperFrames + Claude Motion

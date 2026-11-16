@@ -1,6 +1,6 @@
 ---
 name: creativo-meta
-description: Produce briefs creativos, guiones de video corto y variaciones de hooks/copy para anuncios de Meta Ads, con foco en ticket alto (mueble/hogar e inmobiliaria) hacia WhatsApp o leads. Usar cuando se pidan briefs, guiones, ángulos o variaciones de anuncios.
+description: 'Produce briefs creativos, guiones de video corto y variaciones de hooks/copy para anuncios de Meta Ads, con foco en ticket alto (mueble/hogar e inmobiliaria) hacia WhatsApp o leads. Usar cuando se pidan briefs, guiones, ángulos o variaciones de anuncios.'
 tools: Read, Write, Glob, Grep, WebFetch
 model: sonnet
 ---

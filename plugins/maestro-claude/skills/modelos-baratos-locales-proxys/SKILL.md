@@ -1,6 +1,6 @@
 ---
 name: modelos-baratos-locales-proxys
-description: Usa modelos baratos, gratuitos o locales (OpenRouter, DeepSeek, Ollama, proxys) dentro o junto a Claude Code, con límites claros de privacidad y calidad. Úsalo para trabajo de volumen o respaldo. Triggers - OpenRouter, DeepSeek, Ollama, modelo local, proxy, claude code router, modelos gratis, cheaper model.
+description: 'Usa modelos baratos, gratuitos o locales (OpenRouter, DeepSeek, Ollama, proxys) dentro o junto a Claude Code, con límites claros de privacidad y calidad. Úsalo para trabajo de volumen o respaldo. Triggers - OpenRouter, DeepSeek, Ollama, modelo local, proxy, claude code router, modelos gratis, cheaper model.'
 ---
 
 # Modelos baratos, locales y proxys

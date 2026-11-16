@@ -1,6 +1,6 @@
 ---
 name: investigacion-voz-del-cliente
-description: Usar para reunir insumos antes de crear anuncios - reseñas, Reddit, chats de WhatsApp, objeciones, Biblioteca de Anuncios de la competencia y niveles de conciencia. Gatillos - "voz del cliente", "investigación de audiencia", "objeciones", "Biblioteca de Anuncios", "ad library research", "customer voice", "niveles de conciencia".
+description: 'Usar para reunir insumos antes de crear anuncios - reseñas, Reddit, chats de WhatsApp, objeciones, Biblioteca de Anuncios de la competencia y niveles de conciencia. Gatillos - "voz del cliente", "investigación de audiencia", "objeciones", "Biblioteca de Anuncios", "ad library research", "customer voice", "niveles de conciencia".'
 ---
 
 # Investigación de voz del cliente

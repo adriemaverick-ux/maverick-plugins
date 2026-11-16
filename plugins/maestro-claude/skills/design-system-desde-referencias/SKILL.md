@@ -1,6 +1,6 @@
 ---
 name: design-system-desde-referencias
-description: Crea un design system propio a partir de referencias reales (galerías, URLs, capturas, proyecto previo) en vez de un prompt vacío. Usar cuando digas "design system", "sistema de diseño", "moodboard", "referencias", "que no se vea genérico", "brand assets" o antes de cualquier web, deck o app.
+description: 'Crea un design system propio a partir de referencias reales (galerías, URLs, capturas, proyecto previo) en vez de un prompt vacío. Usar cuando digas "design system", "sistema de diseño", "moodboard", "referencias", "que no se vea genérico", "brand assets" o antes de cualquier web, deck o app.'
 ---
 
 # Design system desde referencias

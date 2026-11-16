@@ -1,6 +1,6 @@
 ---
 name: pipelines-contenido-claude
-description: Monta pipelines de contenido con Claude - sitios web, presentaciones HTML, vídeo corto, guiones y anuncios - con referencias, extracción de marca, assets generados y revisión anti-relleno. Úsalo para producir entregables repetibles. Triggers - sitio web, landing, deck, presentación, vídeo, YouTube, anuncios, AI slop, Firecrawl, Higgsfield.
+description: 'Monta pipelines de contenido con Claude - sitios web, presentaciones HTML, vídeo corto, guiones y anuncios - con referencias, extracción de marca, assets generados y revisión anti-relleno. Úsalo para producir entregables repetibles. Triggers - sitio web, landing, deck, presentación, vídeo, YouTube, anuncios, AI slop, Firecrawl, Higgsfield.'
 ---
 
 # Pipelines de contenido

@@ -1,6 +1,6 @@
 ---
 name: enrutar-modelos-y-comite
-description: Reparte el trabajo entre modelos por tarea (barato por defecto, potente solo para decidir) y usa un comité de modelos para preguntas estratégicas. Úsalo para reducir coste o evitar sesgo de un solo modelo; gatillos - elegir modelo, enrutar, OpenRouter, comité de expertos, mixture of agents, costes de tokens, Opus vs Sonnet.
+description: 'Reparte el trabajo entre modelos por tarea (barato por defecto, potente solo para decidir) y usa un comité de modelos para preguntas estratégicas. Úsalo para reducir coste o evitar sesgo de un solo modelo; gatillos - elegir modelo, enrutar, OpenRouter, comité de expertos, mixture of agents, costes de tokens, Opus vs Sonnet.'
 ---
 
 # Enrutar modelos y comité de modelos

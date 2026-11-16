@@ -1,6 +1,6 @@
 ---
 name: web-que-vende-por-secciones
-description: Construye una web de negocio que convierte, por etapas y por secciones: investigación del nicho, sitemap, héroe, prueba social, oferta, CTA, móvil y SEO. Usar con "landing que venda", "sitio para cliente", "web que convierte", "sitemap", "outlier research", "hero animado" o "rediseñar web".
+description: 'Construye una web de negocio que convierte, por etapas y por secciones: investigación del nicho, sitemap, héroe, prueba social, oferta, CTA, móvil y SEO. Usar con "landing que venda", "sitio para cliente", "web que convierte", "sitemap", "outlier research", "hero animado" o "rediseñar web".'
 ---
 
 # Web que vende, por secciones

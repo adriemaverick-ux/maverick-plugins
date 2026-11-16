@@ -1,5 +1,5 @@
 ---
-description: Arma el plan semanal de contenido en cámara de Maverick (3 videos base de la PROPUESTA o la cadencia acordada) con reutilización por canal y registro.
+description: 'Arma el plan semanal de contenido en cámara de Maverick (3 videos base de la PROPUESTA o la cadencia acordada) con reutilización por canal y registro.'
 argument-hint: "[semana: 2026-10-12] [problema central opcional] [cadencia: propuesta|acordada]"
 ---
 

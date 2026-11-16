@@ -1,6 +1,6 @@
 ---
 name: escalera-prioridad-herramientas
-description: Decide cómo automatizar una acción eligiendo el método más fiable disponible - conector/MCP, luego plugin o API, luego navegador, y computer use como último recurso. Úsalo antes de automatizar algo o cuando una tarea sale lenta o frágil; gatillos - conector vs navegador, computer use, MCP, API, scraping, Claude in Chrome.
+description: 'Decide cómo automatizar una acción eligiendo el método más fiable disponible - conector/MCP, luego plugin o API, luego navegador, y computer use como último recurso. Úsalo antes de automatizar algo o cuando una tarea sale lenta o frágil; gatillos - conector vs navegador, computer use, MCP, API, scraping, Claude in Chrome.'
 ---
 
 # Escalera de prioridad de herramientas

@@ -1,6 +1,6 @@
 ---
 name: entrega-checklist-de-salida-y-mantenimiento
-description: Úsalo al cerrar un piloto o antes de dar por entregado un sistema, para revisar permisos, propiedad de cuentas, costos recurrentes, mantenimiento, documentación y qué queda fuera. Gatillos - "entrega final", "checklist de salida", "handoff", "mantenimiento mensual", "quién paga qué después del piloto".
+description: 'Úsalo al cerrar un piloto o antes de dar por entregado un sistema, para revisar permisos, propiedad de cuentas, costos recurrentes, mantenimiento, documentación y qué queda fuera. Gatillos - "entrega final", "checklist de salida", "handoff", "mantenimiento mensual", "quién paga qué después del piloto".'
 ---
 
 # Checklist de salida y mantenimiento

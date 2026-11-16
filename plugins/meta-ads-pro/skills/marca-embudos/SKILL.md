@@ -1,6 +1,6 @@
 ---
 name: marca-embudos
-description: Usar para diseñar el embudo de una marca personal: lead magnet, masterclass o webinar, llamada de diagnóstico, WhatsApp o newsletter. Gatillos - "embudo marca personal", "lead magnet", "webinar", "llamada de diagnóstico", "funnel", "click to WhatsApp".
+description: 'Usar para diseñar el embudo de una marca personal: lead magnet, masterclass o webinar, llamada de diagnóstico, WhatsApp o newsletter. Gatillos - "embudo marca personal", "lead magnet", "webinar", "llamada de diagnóstico", "funnel", "click to WhatsApp".'
 ---
 
 # Embudos de marca personal

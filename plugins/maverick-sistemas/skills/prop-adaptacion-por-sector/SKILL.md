@@ -1,6 +1,6 @@
 ---
 name: prop-adaptacion-por-sector
-description: Úsalo para adaptar entrevista, flujo y propuesta al sector del prospecto - taller automotriz multimarca, saneamiento ambiental o mantenimiento técnico (HVAC, tableros eléctricos). Gatillos - "adaptar por sector", "propuesta para saneamiento", "taller multimarca", "sector adaptation", "mantenimiento técnico".
+description: 'Úsalo para adaptar entrevista, flujo y propuesta al sector del prospecto - taller automotriz multimarca, saneamiento ambiental o mantenimiento técnico (HVAC, tableros eléctricos). Gatillos - "adaptar por sector", "propuesta para saneamiento", "taller multimarca", "sector adaptation", "mantenimiento técnico".'
 ---
 
 # Adaptación por sector

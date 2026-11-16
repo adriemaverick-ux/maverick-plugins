@@ -1,6 +1,6 @@
 ---
 name: testeo-y-escalado
-description: Marcos concretos para testear creativos y escalar presupuesto en Meta Ads, con las discrepancias entre expertos. Usar cuando se pida "cómo testear creativos", "escalar campaña", "3-2-2", "explorar explotar amplificar", "testing framework", "scale budget", "cuántos anuncios".
+description: 'Marcos concretos para testear creativos y escalar presupuesto en Meta Ads, con las discrepancias entre expertos. Usar cuando se pida "cómo testear creativos", "escalar campaña", "3-2-2", "explorar explotar amplificar", "testing framework", "scale budget", "cuántos anuncios".'
 ---
 
 # Testeo y escalado

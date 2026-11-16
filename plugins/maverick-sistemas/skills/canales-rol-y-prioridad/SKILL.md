@@ -1,6 +1,6 @@
 ---
 name: canales-rol-y-prioridad
-description: Define el rol y la prioridad de cada canal (YouTube, Instagram Reels, Facebook, Threads, Google) para un creador con poco tiempo. Usar al decidir dónde invertir esfuerzo, "qué canal priorizo", "channel priority" o antes de recortar plataformas.
+description: 'Define el rol y la prioridad de cada canal (YouTube, Instagram Reels, Facebook, Threads, Google) para un creador con poco tiempo. Usar al decidir dónde invertir esfuerzo, "qué canal priorizo", "channel priority" o antes de recortar plataformas.'
 ---
 
 # Rol y prioridad de canales

@@ -1,6 +1,6 @@
 ---
 name: cowork-cerebro-y-proyectos
-description: Configura Cowork como "cerebro del negocio" y organiza tu trabajo en proyectos con memoria, instrucciones y tareas programadas. Úsalo al empezar con Cowork o cuando repites contexto a la IA; gatillos - business brain, proyectos de Cowork, sandbox, global instructions, "siempre tengo que explicarle lo mismo".
+description: 'Configura Cowork como "cerebro del negocio" y organiza tu trabajo en proyectos con memoria, instrucciones y tareas programadas. Úsalo al empezar con Cowork o cuando repites contexto a la IA; gatillos - business brain, proyectos de Cowork, sandbox, global instructions, "siempre tengo que explicarle lo mismo".'
 ---
 
 # Cowork como cerebro del negocio + sistema de proyectos

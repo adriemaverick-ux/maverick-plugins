@@ -1,6 +1,6 @@
 ---
 name: contenido-ganchos-para-duenos-de-servicios
-description: Genera y prueba ganchos (primeros segundos) para dueños de empresas de mantenimiento B2B (saneamiento, mantenimiento técnico, equipos y consumibles). Usar al pedir "ganchos", "hooks", "primeras frases", "variantes de apertura" o cuando un video tiene poca retención inicial.
+description: 'Genera y prueba ganchos (primeros segundos) para dueños de empresas de mantenimiento B2B (saneamiento, mantenimiento técnico, equipos y consumibles). Usar al pedir "ganchos", "hooks", "primeras frases", "variantes de apertura" o cuando un video tiene poca retención inicial.'
 ---
 
 # Ganchos para dueños de servicios

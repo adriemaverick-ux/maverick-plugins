@@ -1,6 +1,6 @@
 ---
 name: hooks-patrones-de-titulos-adaptados
-description: 20 plantillas de título y 10 de gancho hablado, adaptadas de los patrones de un creador de IA en inglés (Jack Roberts) para dueños de taller, servicio técnico y hogar, sin hipérbole, cifras de dinero ni multiplicadores. Usar al pedir títulos o ganchos con huecos. Gatillos - "plantillas de título", "ideas de título", "title templates", "hook templates".
+description: '20 plantillas de título y 10 de gancho hablado, adaptadas de los patrones de un creador de IA en inglés (Jack Roberts) para dueños de taller, servicio técnico y hogar, sin hipérbole, cifras de dinero ni multiplicadores. Usar al pedir títulos o ganchos con huecos. Gatillos - "plantillas de título", "ideas de título", "title templates", "hook templates".'
 ---
 
 # Patrones de títulos y ganchos, adaptados

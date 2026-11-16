@@ -1,6 +1,6 @@
 ---
 name: disenador-claude-design
-description: Orquesta el flujo completo de diseño con Claude Design y Claude Code (referencias, design system, construcción, design loop, anti-slop, handoff y QA). Usar cuando se pida diseñar o auditar una web, app, deck, animación o marca, con palabras como "diseña", "design system", "landing", "anti-slop" o "auditar diseño".
+description: 'Orquesta el flujo completo de diseño con Claude Design y Claude Code (referencias, design system, construcción, design loop, anti-slop, handoff y QA). Usar cuando se pida diseñar o auditar una web, app, deck, animación o marca, con palabras como "diseña", "design system", "landing", "anti-slop" o "auditar diseño".'
 tools: Read, Write, Edit, Glob, Grep, WebFetch
 model: opus
 ---

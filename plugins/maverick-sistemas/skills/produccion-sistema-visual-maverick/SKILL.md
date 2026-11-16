@@ -1,6 +1,6 @@
 ---
 name: produccion-sistema-visual-maverick
-description: Reglas visuales de Maverick Sistemas para videos, Reels, overlays, carruseles y miniaturas (paletas dark y light, tipografías, componentes, zonas seguras). Usar con "diseño", "paleta", "overlay", "miniatura", "carrusel", "brand", "estilo visual".
+description: 'Reglas visuales de Maverick Sistemas para videos, Reels, overlays, carruseles y miniaturas (paletas dark y light, tipografías, componentes, zonas seguras). Usar con "diseño", "paleta", "overlay", "miniatura", "carrusel", "brand", "estilo visual".'
 ---
 
 # Sistema visual Maverick

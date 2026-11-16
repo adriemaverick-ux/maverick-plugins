@@ -1,6 +1,6 @@
 ---
 name: investigar-biblioteca-de-anuncios
-description: Cómo investigar la Biblioteca de anuncios de Meta para ver qué anuncian competidores y servicios similares por país (URL, palabras clave, qué datos hay y cuáles no, cómo registrar patrones sin copiar). Usar al estudiar anuncios de una industria, buscar hooks y ofertas o comparar países. Gatillos - "biblioteca de anuncios", "qué anuncian", "anuncios de la competencia", "hooks de anuncios", "Ad Library".
+description: 'Cómo investigar la Biblioteca de anuncios de Meta para ver qué anuncian competidores y servicios similares por país (URL, palabras clave, qué datos hay y cuáles no, cómo registrar patrones sin copiar). Usar al estudiar anuncios de una industria, buscar hooks y ofertas o comparar países. Gatillos - "biblioteca de anuncios", "qué anuncian", "anuncios de la competencia", "hooks de anuncios", "Ad Library".'
 ---
 
 # Investigar la Biblioteca de anuncios de Meta

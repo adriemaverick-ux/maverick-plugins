@@ -1,6 +1,6 @@
 ---
 name: entrega-panel-simple-del-dueno
-description: Úsalo para construir una lectura simple del negocio para el dueño (consultas, tiempo de respuesta, cotizaciones, trabajos confirmados, servicios próximos) con métricas definidas y validadas contra la fuente. Gatillos - "panel del dueño", "tablero simple", "reporte semanal", "owner dashboard", "ver estado sin preguntar".
+description: 'Úsalo para construir una lectura simple del negocio para el dueño (consultas, tiempo de respuesta, cotizaciones, trabajos confirmados, servicios próximos) con métricas definidas y validadas contra la fuente. Gatillos - "panel del dueño", "tablero simple", "reporte semanal", "owner dashboard", "ver estado sin preguntar".'
 ---
 
 # Panel simple del dueño

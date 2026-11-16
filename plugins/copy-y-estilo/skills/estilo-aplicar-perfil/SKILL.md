@@ -1,6 +1,6 @@
 ---
 name: estilo-aplicar-perfil
-description: Úsala cuando haya que escribir una pieza (mensaje, guion, caption, propuesta) siguiendo un perfil de estilo ya definido. Gatillos - "escribe con mi perfil", "en mi voz", "apply style profile", "write in this voice".
+description: 'Úsala cuando haya que escribir una pieza (mensaje, guion, caption, propuesta) siguiendo un perfil de estilo ya definido. Gatillos - "escribe con mi perfil", "en mi voz", "apply style profile", "write in this voice".'
 ---
 
 # Escribir con un perfil de estilo

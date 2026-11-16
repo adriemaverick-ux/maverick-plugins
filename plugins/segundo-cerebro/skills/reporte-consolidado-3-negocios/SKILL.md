@@ -1,6 +1,6 @@
 ---
 name: reporte-consolidado-3-negocios
-description: Un solo balance de los tres negocios de Adrie - Casa Soyer (ecommerce con comisión), Maverick Sistemas y marca - con números reales, estado, riesgos y qué decidir. Usar semanal o mensualmente, o con "balance", "cómo voy", "reporte de todo". Gatillos - "reporte consolidado", "balance de negocios", "resumen general".
+description: 'Un solo balance de los tres negocios de Adrie - Casa Soyer (ecommerce con comisión), Maverick Sistemas y marca - con números reales, estado, riesgos y qué decidir. Usar semanal o mensualmente, o con "balance", "cómo voy", "reporte de todo". Gatillos - "reporte consolidado", "balance de negocios", "resumen general".'
 ---
 
 # Reporte consolidado de 3 negocios

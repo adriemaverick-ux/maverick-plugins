@@ -1,6 +1,6 @@
 ---
 name: marca-voz-y-lenguaje-del-dueno
-description: Usar al escribir o reescribir guiones, captions, textos de Threads, mensajes o propuestas de Maverick Sistemas para que suenen a alguien que construye y prueba sistemas, en lenguaje de dueño de empresa de mantenimiento B2B. Triggers - "voz de marca", "guion", "caption", "brand voice", "reescribe en lenguaje simple", "tono Maverick".
+description: 'Usar al escribir o reescribir guiones, captions, textos de Threads, mensajes o propuestas de Maverick Sistemas para que suenen a alguien que construye y prueba sistemas, en lenguaje de dueño de empresa de mantenimiento B2B. Triggers - "voz de marca", "guion", "caption", "brand voice", "reescribe en lenguaje simple", "tono Maverick".'
 ---
 
 # Voz y lenguaje del dueño

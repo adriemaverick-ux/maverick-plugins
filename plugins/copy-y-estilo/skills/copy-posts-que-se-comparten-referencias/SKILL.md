@@ -1,6 +1,6 @@
 ---
 name: copy-posts-que-se-comparten-referencias
-description: Patrones de estructura y tono tomados de dos posts de Threads/LinkedIn que Adrie eligió como buen copy (2026-10-13) y su traducción al lenguaje de dueños de taller y servicio técnico. Usar al escribir posts de Threads, LinkedIn o captions de texto, y al revisar si un post tiene hook de contraste, lista con resultado por línea y cierre que devuelve el control. Gatillos - "post de Threads", "buen copy", "referencias de copy", "post que se comparta", "estructura de post".
+description: 'Patrones de estructura y tono tomados de dos posts de Threads/LinkedIn que Adrie eligió como buen copy (2026-10-13) y su traducción al lenguaje de dueños de taller y servicio técnico. Usar al escribir posts de Threads, LinkedIn o captions de texto, y al revisar si un post tiene hook de contraste, lista con resultado por línea y cierre que devuelve el control. Gatillos - "post de Threads", "buen copy", "referencias de copy", "post que se comparta", "estructura de post".'
 ---
 
 # Posts que se comparten: patrones de referencia

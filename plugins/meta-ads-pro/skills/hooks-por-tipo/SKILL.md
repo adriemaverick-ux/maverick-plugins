@@ -1,6 +1,6 @@
 ---
 name: hooks-por-tipo
-description: Usar cuando se necesiten ganchos (primeros 3 segundos o primera línea) para anuncios de Meta, por tipo psicológico y adaptados a mueble/hogar, inmobiliaria o genéricos. Gatillos - "hooks", "ganchos", "primeros 3 segundos", "ideas de apertura", "write hooks", "scroll stopper".
+description: 'Usar cuando se necesiten ganchos (primeros 3 segundos o primera línea) para anuncios de Meta, por tipo psicológico y adaptados a mueble/hogar, inmobiliaria o genéricos. Gatillos - "hooks", "ganchos", "primeros 3 segundos", "ideas de apertura", "write hooks", "scroll stopper".'
 ---
 
 # Hooks por tipo

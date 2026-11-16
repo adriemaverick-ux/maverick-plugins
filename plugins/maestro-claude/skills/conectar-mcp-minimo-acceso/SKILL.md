@@ -1,6 +1,6 @@
 ---
 name: conectar-mcp-minimo-acceso
-description: Conecta conectores, MCP y CLI a Claude con el mínimo acceso necesario, manejando claves de forma segura. Úsalo al integrar Gmail, Notion, Firecrawl, Zapier, Higgsfield, Vercel u otros servicios. Triggers - MCP, conector, connector, API key, token, integración, CLI, permisos, least privilege.
+description: 'Conecta conectores, MCP y CLI a Claude con el mínimo acceso necesario, manejando claves de forma segura. Úsalo al integrar Gmail, Notion, Firecrawl, Zapier, Higgsfield, Vercel u otros servicios. Triggers - MCP, conector, connector, API key, token, integración, CLI, permisos, least privilege.'
 ---
 
 # Conectar MCP y CLI con mínimo acceso

@@ -1,5 +1,5 @@
 ---
-description: Escribe un guion de Maverick con la plantilla de 9 bloques (para el formato que elija Adrie; por defecto Kallaway)
+description: 'Escribe un guion de Maverick con la plantilla de 9 bloques (para el formato que elija Adrie; por defecto Kallaway)'
 ---
 Usa la skill `guion-9-bloques` y lee en la bóveda `03 - Go-to-market/Plantilla de guion de 9 bloques`, `Plan de contenido - Servicios recurrentes` y `Sistema de diseño Maverick`.
 1. Pregunta (o toma de $ARGUMENTS) el tema, el rubro del ICP y el dolor.

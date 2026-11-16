@@ -1,6 +1,6 @@
 ---
 name: closer-whatsapp
-description: Redacta respuestas, seguimientos y manejo de objeciones para chats de WhatsApp de ticket alto (Casa Soyer, inmobiliario). Solo escribe borradores; nunca envía mensajes. Úsalo cuando haya que responder un lead o preparar un seguimiento.
+description: 'Redacta respuestas, seguimientos y manejo de objeciones para chats de WhatsApp de ticket alto (Casa Soyer, inmobiliario). Solo escribe borradores; nunca envía mensajes. Úsalo cuando haya que responder un lead o preparar un seguimiento.'
 tools: Read, Write
 model: sonnet
 ---

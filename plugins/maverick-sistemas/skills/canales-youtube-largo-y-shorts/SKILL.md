@@ -1,6 +1,6 @@
 ---
 name: canales-youtube-largo-y-shorts
-description: Guía para publicar y medir YouTube de Maverick: video largo semanal (prueba) y Shorts derivados, con título, descripción, miniatura y enlace entre formatos. Usar con "video de YouTube", "Shorts", "título de YouTube", "YouTube SEO", "YouTube long form".
+description: 'Guía para publicar y medir YouTube de Maverick: video largo semanal (prueba) y Shorts derivados, con título, descripción, miniatura y enlace entre formatos. Usar con "video de YouTube", "Shorts", "título de YouTube", "YouTube SEO", "YouTube long form".'
 ---
 
 # YouTube: video largo y Shorts

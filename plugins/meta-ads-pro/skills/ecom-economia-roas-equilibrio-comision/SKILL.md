@@ -1,6 +1,6 @@
 ---
 name: ecom-economia-roas-equilibrio-comision
-description: Úsala para calcular margen de contribución, ROAS y CPA de equilibrio, y cómo la comisión sobre margen bruto cambia el equilibrio, excluyendo Adelanto y Falabella. Gatillos - "ROAS de equilibrio", "break-even ROAS", "margen de contribución", "comisión", "MER", "CPA máximo".
+description: 'Úsala para calcular margen de contribución, ROAS y CPA de equilibrio, y cómo la comisión sobre margen bruto cambia el equilibrio, excluyendo Adelanto y Falabella. Gatillos - "ROAS de equilibrio", "break-even ROAS", "margen de contribución", "comisión", "MER", "CPA máximo".'
 ---
 
 # Economía: ROAS de equilibrio y comisión

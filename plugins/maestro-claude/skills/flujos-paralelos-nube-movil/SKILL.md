@@ -1,6 +1,6 @@
 ---
 name: flujos-paralelos-nube-movil
-description: Organiza trabajo en paralelo con varias sesiones y subagentes, y en la nube o desde el móvil con tareas programadas, rutinas y canales. Úsalo para tareas recurrentes, nocturnas o cuando quieras trabajar sin el portátil. Triggers - paralelo, subagentes, routines, rutinas, scheduled tasks, cron, Telegram, móvil, Claude Code web.
+description: 'Organiza trabajo en paralelo con varias sesiones y subagentes, y en la nube o desde el móvil con tareas programadas, rutinas y canales. Úsalo para tareas recurrentes, nocturnas o cuando quieras trabajar sin el portátil. Triggers - paralelo, subagentes, routines, rutinas, scheduled tasks, cron, Telegram, móvil, Claude Code web.'
 ---
 
 # Flujos paralelos, nube y móvil

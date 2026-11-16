@@ -1,5 +1,5 @@
 ---
-description: Audita el consumo de tokens y la configuración precargada de Claude Code y propone recortes con confirmación.
+description: 'Audita el consumo de tokens y la configuración precargada de Claude Code y propone recortes con confirmación.'
 argument-hint: "[ruta-del-proyecto opcional] [--aplicar para ejecutar recortes aprobados]"
 ---
 

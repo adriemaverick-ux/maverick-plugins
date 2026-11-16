@@ -1,6 +1,6 @@
 ---
 name: testeo-creativo-y-fatiga
-description: Usar para planear pruebas de creativos en Meta (conceptos vs ángulos vs variaciones, cantidad y cadencia), leer resultados por anuncio y detectar o refrescar fatiga creativa. Gatillos - "testeo de creativos", "creative testing", "fatiga", "refresh", "qué anuncio ganó", "Andromeda", "diversificación".
+description: 'Usar para planear pruebas de creativos en Meta (conceptos vs ángulos vs variaciones, cantidad y cadencia), leer resultados por anuncio y detectar o refrescar fatiga creativa. Gatillos - "testeo de creativos", "creative testing", "fatiga", "refresh", "qué anuncio ganó", "Andromeda", "diversificación".'
 ---
 
 # Testeo creativo y fatiga

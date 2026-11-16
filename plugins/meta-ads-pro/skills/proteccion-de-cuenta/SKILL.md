@@ -1,6 +1,6 @@
 ---
 name: proteccion-de-cuenta
-description: Usar para estructurar y proteger legítimamente una cuenta de Meta Ads (Business Portfolio, administradores, 2FA, verificación, pagos, escalado gradual) y para saber qué NO hacer. Gatillos - "proteger cuenta", "evitar baneo", "cuenta nueva", "Business Portfolio", "2FA", "ad account restricted".
+description: 'Usar para estructurar y proteger legítimamente una cuenta de Meta Ads (Business Portfolio, administradores, 2FA, verificación, pagos, escalado gradual) y para saber qué NO hacer. Gatillos - "proteger cuenta", "evitar baneo", "cuenta nueva", "Business Portfolio", "2FA", "ad account restricted".'
 ---
 
 # Protección de cuenta (solo cumplimiento)

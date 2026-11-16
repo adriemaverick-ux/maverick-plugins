@@ -1,6 +1,6 @@
 ---
 name: antiia-en-espanol
-description: Úsala para revisar o limpiar un texto en español que suene a IA (genérico, plano, con muletillas de relleno). Gatillos - "suena a IA", "quitar tono de IA", "humanizar texto", "detect AI writing", "AI-sounding Spanish".
+description: 'Úsala para revisar o limpiar un texto en español que suene a IA (genérico, plano, con muletillas de relleno). Gatillos - "suena a IA", "quitar tono de IA", "humanizar texto", "detect AI writing", "AI-sounding Spanish".'
 ---
 
 # Señales de texto de IA en español y cómo limpiarlas

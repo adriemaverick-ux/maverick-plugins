@@ -1,6 +1,6 @@
 ---
 name: rag-memoria-conocimiento
-description: Usar para dar a una app o a Claude conocimiento propio consultable (libros, PDFs, videos, reuniones) con búsqueda vectorial, sin gastar contexto. Gatillos - "RAG", "base de conocimiento", "chatbot con mis documentos", "Pinecone", "embeddings", "memoria larga", "NotebookLM".
+description: 'Usar para dar a una app o a Claude conocimiento propio consultable (libros, PDFs, videos, reuniones) con búsqueda vectorial, sin gastar contexto. Gatillos - "RAG", "base de conocimiento", "chatbot con mis documentos", "Pinecone", "embeddings", "memoria larga", "NotebookLM".'
 ---
 
 # RAG y memoria de conocimiento

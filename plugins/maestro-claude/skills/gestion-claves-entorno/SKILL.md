@@ -1,6 +1,6 @@
 ---
 name: gestion-claves-entorno
-description: Guarda API keys y tokens en variables de entorno o gestores seguros, nunca en el chat ni en archivos versionados. Úsalo cuando debas añadir una clave a un agente, skill o MCP; gatillos - API key, token, secreto, variable de entorno, .env, rotar clave, límite de gasto.
+description: 'Guarda API keys y tokens en variables de entorno o gestores seguros, nunca en el chat ni en archivos versionados. Úsalo cuando debas añadir una clave a un agente, skill o MCP; gatillos - API key, token, secreto, variable de entorno, .env, rotar clave, límite de gasto.'
 ---
 
 # Gestión de claves en variables de entorno

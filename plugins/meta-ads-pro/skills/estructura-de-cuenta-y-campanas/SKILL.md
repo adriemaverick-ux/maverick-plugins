@@ -1,6 +1,6 @@
 ---
 name: estructura-de-cuenta-y-campanas
-description: Diseña o corrige la estructura de cuenta de Meta Ads (campañas, conjuntos, anuncios, objetivos, CBO/ABO, amplio vs intereses). Usar cuando se pida "estructura de campañas", "account structure", "cuántos ad sets", "ABO vs CBO", "consolidar cuenta" o armar una cuenta desde cero.
+description: 'Diseña o corrige la estructura de cuenta de Meta Ads (campañas, conjuntos, anuncios, objetivos, CBO/ABO, amplio vs intereses). Usar cuando se pida "estructura de campañas", "account structure", "cuántos ad sets", "ABO vs CBO", "consolidar cuenta" o armar una cuenta desde cero.'
 ---
 
 # Estructura de cuenta y campañas

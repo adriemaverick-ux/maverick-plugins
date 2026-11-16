@@ -1,6 +1,6 @@
 ---
 name: etica-de-imitar-estilos
-description: Úsala antes de imitar el estilo de un autor o creador, o cuando alguien pida "escribe como [persona]". Gatillos - "imitar a", "escribe como", "copiar estilo", "style imitation ethics", "ghostwriting".
+description: 'Úsala antes de imitar el estilo de un autor o creador, o cuando alguien pida "escribe como [persona]". Gatillos - "imitar a", "escribe como", "copiar estilo", "style imitation ethics", "ghostwriting".'
 ---
 
 # Ética al imitar estilos

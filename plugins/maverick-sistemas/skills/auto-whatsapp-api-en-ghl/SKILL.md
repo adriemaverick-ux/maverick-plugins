@@ -1,6 +1,6 @@
 ---
 name: auto-whatsapp-api-en-ghl
-description: Usar al configurar WhatsApp Business API dentro de GoHighLevel: costos, ventana de servicio, plantillas, coexistencia y consentimiento. Gatillos "WhatsApp en GHL", "plantillas de WhatsApp", "ventana de 24 horas WhatsApp", "WhatsApp API costs", "coexistencia".
+description: 'Usar al configurar WhatsApp Business API dentro de GoHighLevel: costos, ventana de servicio, plantillas, coexistencia y consentimiento. Gatillos "WhatsApp en GHL", "plantillas de WhatsApp", "ventana de 24 horas WhatsApp", "WhatsApp API costs", "coexistencia".'
 ---
 
 # WhatsApp API en GHL

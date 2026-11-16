@@ -1,6 +1,6 @@
 ---
 name: oferta-servicio-productizado
-description: Cómo empaquetar lo que vende Maverick como SERVICIO PRODUCTIZADO (decisión de Adrie, 2026-10-13) - un paquete con nombre claro, problema único, entregables cerrados, qué queda fuera, requisitos del cliente, plazo y precio definidos por Adrie, entrega estándar y mensualidad de operación; sin IA en el mensaje. Usar al definir o escribir la oferta, la página, los hooks, las propuestas o los anuncios. Gatillos - "servicio productizado", "paquete", "oferta", "qué vendemos", "empaquetar", "precio fijo", "cómo se llama el servicio".
+description: 'Cómo empaquetar lo que vende Maverick como SERVICIO PRODUCTIZADO (decisión de Adrie, 2026-10-13) - un paquete con nombre claro, problema único, entregables cerrados, qué queda fuera, requisitos del cliente, plazo y precio definidos por Adrie, entrega estándar y mensualidad de operación; sin IA en el mensaje. Usar al definir o escribir la oferta, la página, los hooks, las propuestas o los anuncios. Gatillos - "servicio productizado", "paquete", "oferta", "qué vendemos", "empaquetar", "precio fijo", "cómo se llama el servicio".'
 ---
 
 # Servicio productizado de Maverick

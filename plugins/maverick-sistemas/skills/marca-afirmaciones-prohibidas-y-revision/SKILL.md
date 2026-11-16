@@ -1,6 +1,6 @@
 ---
 name: marca-afirmaciones-prohibidas-y-revision
-description: Usar para revisar cualquier pieza, bio, guion, propuesta o mensaje de Maverick Sistemas contra lo que NO se dice (IA 24/7, 10x, cero pérdidas, cifras sin respaldo, promesas de ventas). Triggers - "revisar pieza", "es seguro publicar esto", "review claims", "afirmaciones", "checklist de revisión".
+description: 'Usar para revisar cualquier pieza, bio, guion, propuesta o mensaje de Maverick Sistemas contra lo que NO se dice (IA 24/7, 10x, cero pérdidas, cifras sin respaldo, promesas de ventas). Triggers - "revisar pieza", "es seguro publicar esto", "review claims", "afirmaciones", "checklist de revisión".'
 ---
 
 # Afirmaciones prohibidas y revisión

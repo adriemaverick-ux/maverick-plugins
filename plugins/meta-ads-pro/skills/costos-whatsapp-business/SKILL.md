@@ -1,6 +1,6 @@
 ---
 name: costos-whatsapp-business
-description: Úsala para entender y presupuestar costos de WhatsApp Business Platform - ventana de 24 h, ventana gratuita de 72 h de anuncios CTWA, plantillas y categorías. Gatillos - "cuánto cobra WhatsApp", "ventana 24 horas", "plantilla de WhatsApp", "free entry point", "WhatsApp pricing".
+description: 'Úsala para entender y presupuestar costos de WhatsApp Business Platform - ventana de 24 h, ventana gratuita de 72 h de anuncios CTWA, plantillas y categorías. Gatillos - "cuánto cobra WhatsApp", "ventana 24 horas", "plantilla de WhatsApp", "free entry point", "WhatsApp pricing".'
 ---
 
 # Costos de WhatsApp Business (ventanas y plantillas)

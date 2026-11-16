@@ -1,6 +1,6 @@
 ---
 name: ecom-ticket-alto-pieza-unica
-description: Úsala para vender piezas únicas o de ticket alto con Meta - anuncio por pieza o familia, Click-to-WhatsApp y eventos de CRM por CAPI. Gatillos - "pieza única", "stock 1", "ticket alto", "CTWA", "lead calificado", "anuncio por pieza", "high ticket".
+description: 'Úsala para vender piezas únicas o de ticket alto con Meta - anuncio por pieza o familia, Click-to-WhatsApp y eventos de CRM por CAPI. Gatillos - "pieza única", "stock 1", "ticket alto", "CTWA", "lead calificado", "anuncio por pieza", "high ticket".'
 ---
 
 # Ticket alto y pieza única

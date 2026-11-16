@@ -1,6 +1,6 @@
 ---
 name: metodo-web-unico
-description: Método único y por defecto para crear cualquier web, landing o app con IA - Claude Design para diseñar, Claude Code para construir, Supabase solo si hace falta backend, GitHub y Vercel para publicar. Usar SIEMPRE que se pida crear, rehacer o mejorar una web, landing, tienda o app, antes de elegir herramientas. Gatillos - "crear web", "landing", "página web", "build a website", "rediseñar", "método web", "cómo hago esta web".
+description: 'Método único y por defecto para crear cualquier web, landing o app con IA - Claude Design para diseñar, Claude Code para construir, Supabase solo si hace falta backend, GitHub y Vercel para publicar. Usar SIEMPRE que se pida crear, rehacer o mejorar una web, landing, tienda o app, antes de elegir herramientas. Gatillos - "crear web", "landing", "página web", "build a website", "rediseñar", "método web", "cómo hago esta web".'
 ---
 
 # Método web único

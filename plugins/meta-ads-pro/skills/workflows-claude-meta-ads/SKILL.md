@@ -1,6 +1,6 @@
 ---
 name: workflows-claude-meta-ads
-description: Úsala para correr auditorías, reportes programados, análisis de tendencias, minería de la Biblioteca de Anuncios y generación de ángulos con Claude sobre Meta Ads, con prompts listos y sus límites. Gatillos - "auditar cuenta Meta", "reporte semanal", "Biblioteca de Anuncios", "analizar tendencias", "por qué cayó el ROAS", "ad library".
+description: 'Úsala para correr auditorías, reportes programados, análisis de tendencias, minería de la Biblioteca de Anuncios y generación de ángulos con Claude sobre Meta Ads, con prompts listos y sus límites. Gatillos - "auditar cuenta Meta", "reporte semanal", "Biblioteca de Anuncios", "analizar tendencias", "por qué cayó el ROAS", "ad library".'
 ---
 
 # Workflows de Claude con Meta Ads

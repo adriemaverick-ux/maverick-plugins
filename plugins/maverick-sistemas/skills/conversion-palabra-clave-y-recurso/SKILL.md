@@ -1,6 +1,6 @@
 ---
 name: conversion-palabra-clave-y-recurso
-description: Sistema decidido por Adrie (2026-10-12) para cerrar cada video con una palabra clave en comentarios y regalar un recurso gratuito por mensaje directo, para pasar del contenido a una conversación. Usar al diseñar el cierre de un video, elegir la palabra y el recurso, redactar los mensajes o medir el resultado. Gatillos - "palabra clave", "recurso gratis", "comenta X", "lead magnet", "cierre del video", "te lo mando al DM".
+description: 'Sistema decidido por Adrie (2026-10-12) para cerrar cada video con una palabra clave en comentarios y regalar un recurso gratuito por mensaje directo, para pasar del contenido a una conversación. Usar al diseñar el cierre de un video, elegir la palabra y el recurso, redactar los mensajes o medir el resultado. Gatillos - "palabra clave", "recurso gratis", "comenta X", "lead magnet", "cierre del video", "te lo mando al DM".'
 ---
 
 # Palabra clave + recurso gratuito

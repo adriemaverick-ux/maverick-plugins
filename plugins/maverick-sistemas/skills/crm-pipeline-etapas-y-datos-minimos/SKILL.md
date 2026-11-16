@@ -1,6 +1,6 @@
 ---
 name: crm-pipeline-etapas-y-datos-minimos
-description: Úsalo para definir o auditar las etapas del pipeline comercial de Maverick y los datos mínimos por oportunidad, o decidir en qué etapa va un contacto. Gatillos: "etapas del pipeline", "mover a Propuesta enviada", "datos mínimos", "pipeline stages", "CRM fields".
+description: 'Úsalo para definir o auditar las etapas del pipeline comercial de Maverick y los datos mínimos por oportunidad, o decidir en qué etapa va un contacto. Gatillos: "etapas del pipeline", "mover a Propuesta enviada", "datos mínimos", "pipeline stages", "CRM fields".'
 ---
 
 # Pipeline: etapas y datos mínimos

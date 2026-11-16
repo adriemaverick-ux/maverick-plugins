@@ -1,5 +1,5 @@
 ---
-description: Registra la respuesta de un negocio (clasifica humana, bot u opt-out), actualiza el estado en el registro y sugiere la etapa del pipeline.
+description: 'Registra la respuesta de un negocio (clasifica humana, bot u opt-out), actualiza el estado en el registro y sugiere la etapa del pipeline.'
 argument-hint: "<negocio> | <texto de la respuesta o resumen>"
 ---
 

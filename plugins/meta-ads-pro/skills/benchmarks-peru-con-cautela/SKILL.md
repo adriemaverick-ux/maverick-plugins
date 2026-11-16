@@ -1,6 +1,6 @@
 ---
 name: benchmarks-peru-con-cautela
-description: Úsala cuando alguien pida CPM, CPC, CPL, costo por conversación o comportamiento del consumidor en Perú, o cuando un reporte cite benchmarks. Indica qué se sabe, qué no, y cómo medirlo en la cuenta propia. Gatillos - "benchmark Perú", "CPM Perú", "CPL promedio", "cuánto cuesta un lead", "Peru benchmarks".
+description: 'Úsala cuando alguien pida CPM, CPC, CPL, costo por conversación o comportamiento del consumidor en Perú, o cuando un reporte cite benchmarks. Indica qué se sabe, qué no, y cómo medirlo en la cuenta propia. Gatillos - "benchmark Perú", "CPM Perú", "CPL promedio", "cuánto cuesta un lead", "Peru benchmarks".'
 ---
 
 # Benchmarks de Perú con cautela

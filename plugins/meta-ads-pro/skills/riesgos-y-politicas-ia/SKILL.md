@@ -1,6 +1,6 @@
 ---
 name: riesgos-y-politicas-ia
-description: Úsala antes de usar IA para crear anuncios o automatizar cambios en Meta Ads - divulgación de contenido con IA, automatización agresiva, privacidad de datos y cuentas restringidas. Gatillos - "etiquetar contenido IA", "AI info", "riesgo de baneo", "automatizar Meta Ads", "datos de clientes en IA", "AI disclosure".
+description: 'Úsala antes de usar IA para crear anuncios o automatizar cambios en Meta Ads - divulgación de contenido con IA, automatización agresiva, privacidad de datos y cuentas restringidas. Gatillos - "etiquetar contenido IA", "AI info", "riesgo de baneo", "automatizar Meta Ads", "datos de clientes en IA", "AI disclosure".'
 ---
 
 # Riesgos y políticas de IA en Meta Ads

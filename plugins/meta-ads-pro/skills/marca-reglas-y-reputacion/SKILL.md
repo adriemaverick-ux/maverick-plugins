@@ -1,6 +1,6 @@
 ---
 name: marca-reglas-y-reputacion
-description: Usar antes de publicar anuncios de marca personal para revisar promesas de ingresos, antes/después, testimonios, atributos personales, INDECOPI y publicidad con conexión material. Gatillos - "políticas de Meta", "promesa de ingresos", "testimonios", "INDECOPI", "anuncio rechazado", "compliance".
+description: 'Usar antes de publicar anuncios de marca personal para revisar promesas de ingresos, antes/después, testimonios, atributos personales, INDECOPI y publicidad con conexión material. Gatillos - "políticas de Meta", "promesa de ingresos", "testimonios", "INDECOPI", "anuncio rechazado", "compliance".'
 ---
 
 # Reglas y reputación para marca personal

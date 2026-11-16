@@ -1,6 +1,6 @@
 ---
 name: hooks-escalera-y-hook-del-icp
-description: Sistema de hooks de Maverick, siempre el mismo - hook que llama al ICP con su rubro y su dato ("Tu empresa de [rubro], ¿sabe [dato] en este momento?"), punto de no retorno, tres versiones por pieza (identificación, pregunta, mini-historia) y escalera mal/buen/gran hook. Usar al escribir o revisar cualquier hook, título inicial o primera frase de un video, post o anuncio. Gatillos - "hook", "gancho", "primera frase", "mal hook buen hook gran hook", "ICP".
+description: 'Sistema de hooks de Maverick, siempre el mismo - hook que llama al ICP con su rubro y su dato ("Tu empresa de [rubro], ¿sabe [dato] en este momento?"), punto de no retorno, tres versiones por pieza (identificación, pregunta, mini-historia) y escalera mal/buen/gran hook. Usar al escribir o revisar cualquier hook, título inicial o primera frase de un video, post o anuncio. Gatillos - "hook", "gancho", "primera frase", "mal hook buen hook gran hook", "ICP".'
 ---
 
 # Hooks de Maverick (un solo sistema)

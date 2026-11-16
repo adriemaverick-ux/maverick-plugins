@@ -1,6 +1,6 @@
 ---
 name: brief-matutino-y-triage-correo
-description: Monta un brief matutino programado y un triage de correo que solo lee y deja borradores, nunca envía. Úsalo cuando la bandeja está saturada o quieres una rutina diaria; gatillos - morning brief, inbox zero, borradores de respuesta, triage de email, resumen diario.
+description: 'Monta un brief matutino programado y un triage de correo que solo lee y deja borradores, nunca envía. Úsalo cuando la bandeja está saturada o quieres una rutina diaria; gatillos - morning brief, inbox zero, borradores de respuesta, triage de email, resumen diario.'
 ---
 
 # Brief matutino y triage de correo (solo lectura y borrador)

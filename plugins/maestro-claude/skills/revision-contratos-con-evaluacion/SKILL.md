@@ -1,6 +1,6 @@
 ---
 name: revision-contratos-con-evaluacion
-description: Prepara un skill de revisión de contratos y documentos que marca cláusulas de riesgo y se valida con evals contra Claude sin skill. Úsalo antes de firmar o al revisar documentos legales con apoyo de IA; gatillos - revisar contrato, cláusulas, no competencia, auto-renovación, evals, resumen de contrato. No sustituye a un abogado.
+description: 'Prepara un skill de revisión de contratos y documentos que marca cláusulas de riesgo y se valida con evals contra Claude sin skill. Úsalo antes de firmar o al revisar documentos legales con apoyo de IA; gatillos - revisar contrato, cláusulas, no competencia, auto-renovación, evals, resumen de contrato. No sustituye a un abogado.'
 ---
 
 # Revisión de contratos/documentos con evaluación

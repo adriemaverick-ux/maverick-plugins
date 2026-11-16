@@ -1,6 +1,6 @@
 ---
 name: design-loop-criticos
-description: Bucle de diseño con críticos independientes (subagentes con contexto fresco) que iteran hasta cumplir una barra. Usar para "design loop", "gauntlet loop", "críticos", "iterar hasta que quede bien", "calidad en un disparo", piezas grandes o plantillas reutilizables.
+description: 'Bucle de diseño con críticos independientes (subagentes con contexto fresco) que iteran hasta cumplir una barra. Usar para "design loop", "gauntlet loop", "críticos", "iterar hasta que quede bien", "calidad en un disparo", piezas grandes o plantillas reutilizables.'
 ---
 
 # Design loop con críticos

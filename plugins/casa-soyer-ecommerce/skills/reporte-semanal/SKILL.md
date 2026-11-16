@@ -1,6 +1,6 @@
 ---
 name: reporte-semanal
-description: Genera el reporte semanal de Casa Soyer para Adrie y los dueños - ventas, conversaciones de WhatsApp, gasto en pauta, margen y comisión, piezas vendidas y siguientes acciones. Usar cada semana o cuando se pida un balance.
+description: 'Genera el reporte semanal de Casa Soyer para Adrie y los dueños - ventas, conversaciones de WhatsApp, gasto en pauta, margen y comisión, piezas vendidas y siguientes acciones. Usar cada semana o cuando se pida un balance.'
 ---
 
 # Reporte semanal

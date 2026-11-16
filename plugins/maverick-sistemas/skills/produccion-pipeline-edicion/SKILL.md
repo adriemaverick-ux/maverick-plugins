@@ -1,6 +1,6 @@
 ---
 name: produccion-pipeline-edicion
-description: Cómo edita Claude los Reels de Maverick de punta a punta (del video en bruto al exportado) con el paquete de edición instalado en ~/video-editor-maverick, Premiere Pro y HyperFrames, aplicando las decisiones de Adrie - formato Kallaway (gráfico animado arriba, su cara en caja abajo), medidas medidas, subtítulos, una canción por Reel, QA y exportar solo con su visto bueno. Usar al editar, cortar, subtitular, poner gráficos animados, música o exportar un Reel o Short. Gatillos - "edita este video", "terminar el reel", "pon los gráficos", "pon música", "exporta", "prototipo kallaway", "hyperframes".
+description: 'Cómo edita Claude los Reels de Maverick de punta a punta (del video en bruto al exportado) con el paquete de edición instalado en ~/video-editor-maverick, Premiere Pro y HyperFrames, aplicando las decisiones de Adrie - formato Kallaway (gráfico animado arriba, su cara en caja abajo), medidas medidas, subtítulos, una canción por Reel, QA y exportar solo con su visto bueno. Usar al editar, cortar, subtitular, poner gráficos animados, música o exportar un Reel o Short. Gatillos - "edita este video", "terminar el reel", "pon los gráficos", "pon música", "exporta", "prototipo kallaway", "hyperframes".'
 ---
 
 # Pipeline de edición de Maverick

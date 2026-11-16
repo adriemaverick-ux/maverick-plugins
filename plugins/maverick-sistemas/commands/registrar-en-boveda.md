@@ -1,6 +1,6 @@
 ---
-description: Registra en la bóveda "Maverick MP" lo hecho en esta sesión (nota, frontmatter, enlace y entrada en Bitácora IA) sin pisar el trabajo de Codex.
-argument-hint: <resumen breve de lo que se hizo o ruta de la nota>
+description: 'Registra en la bóveda "Maverick MP" lo hecho en esta sesión (nota, frontmatter, enlace y entrada en Bitácora IA) sin pisar el trabajo de Codex.'
+argument-hint: '<resumen breve de lo que se hizo o ruta de la nota>'
 ---
 
 Registra en la bóveda `/Users/adriebustos/Downloads/Maverick MP` lo siguiente: $ARGUMENTS

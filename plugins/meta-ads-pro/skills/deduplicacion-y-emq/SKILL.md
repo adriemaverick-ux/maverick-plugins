@@ -1,6 +1,6 @@
 ---
 name: deduplicacion-y-emq
-description: Usar cuando hay compras duplicadas, deduplicación en 0, EMQ bajo o dudas sobre event_id y parámetros de cliente. Gatillos - "deduplicar eventos", "event_id", "Event Match Quality", "EMQ bajo", "subir EMQ", "duplicate events".
+description: 'Usar cuando hay compras duplicadas, deduplicación en 0, EMQ bajo o dudas sobre event_id y parámetros de cliente. Gatillos - "deduplicar eventos", "event_id", "Event Match Quality", "EMQ bajo", "subir EMQ", "duplicate events".'
 ---
 
 # Deduplicación y Event Match Quality (EMQ)

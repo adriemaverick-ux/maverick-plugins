@@ -1,6 +1,6 @@
 ---
 name: hooks-por-formato
-description: Plantillas de gancho adaptadas a cada formato - video corto, YouTube, título, texto de publicación, anuncio, primer mensaje de WhatsApp y asunto de email. Usar al llevar una misma idea a varios canales ajustando el corte. Gatillos - "hook para Reels", "gancho por canal", "primer mensaje", "asunto de email", "hook per format".
+description: 'Plantillas de gancho adaptadas a cada formato - video corto, YouTube, título, texto de publicación, anuncio, primer mensaje de WhatsApp y asunto de email. Usar al llevar una misma idea a varios canales ajustando el corte. Gatillos - "hook para Reels", "gancho por canal", "primer mensaje", "asunto de email", "hook per format".'
 ---
 
 # Ganchos por formato

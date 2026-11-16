@@ -1,6 +1,6 @@
 ---
 name: reglas-de-decision
-description: Reglas para decidir cuándo pausar, mantener o escalar anuncios y conjuntos de Meta Ads, con advertencias. Usar cuando pregunten "pausar o no este anuncio", "cuándo escalar", "kill rules", "scale rules", "el CPA subió", "frecuencia alta".
+description: 'Reglas para decidir cuándo pausar, mantener o escalar anuncios y conjuntos de Meta Ads, con advertencias. Usar cuando pregunten "pausar o no este anuncio", "cuándo escalar", "kill rules", "scale rules", "el CPA subió", "frecuencia alta".'
 ---
 
 # Reglas de decisión

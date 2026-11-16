@@ -1,6 +1,6 @@
 ---
 name: prosp-registro-anti-duplicados
-description: Úsalo al preparar una tanda, cuando Adrie dice "manda nuevos", o al actualizar estados de contacto, para no repetir mensajes a empresas ya contactadas. Gatillos: "manda nuevos", "nueva tanda", "ya le escribí", "evitar duplicados", "dedupe outreach log".
+description: 'Úsalo al preparar una tanda, cuando Adrie dice "manda nuevos", o al actualizar estados de contacto, para no repetir mensajes a empresas ya contactadas. Gatillos: "manda nuevos", "nueva tanda", "ya le escribí", "evitar duplicados", "dedupe outreach log".'
 ---
 
 # Registro anti-duplicados

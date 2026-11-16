@@ -1,6 +1,6 @@
 ---
 name: canales-threads-piloto
-description: Ejecuta y evalúa el piloto de Threads de 4 semanas (2026-10-12 a 2026-11-08) con textos breves y sesiones de 15 minutos. Usar con "Threads", "piloto Threads", "texto para Threads", "Threads pilot".
+description: 'Ejecuta y evalúa el piloto de Threads de 4 semanas (2026-10-12 a 2026-11-08) con textos breves y sesiones de 15 minutos. Usar con "Threads", "piloto Threads", "texto para Threads", "Threads pilot".'
 ---
 
 # Piloto de Threads

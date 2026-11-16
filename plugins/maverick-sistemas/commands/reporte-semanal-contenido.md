@@ -1,5 +1,5 @@
 ---
-description: Redacta el reporte semanal de contenido de Maverick a partir de las métricas que entregue Adrie (conversaciones calificadas por 1.000 alcanzadas, por canal y formato) con 3 aprendizajes y 3 acciones.
+description: 'Redacta el reporte semanal de contenido de Maverick a partir de las métricas que entregue Adrie (conversaciones calificadas por 1.000 alcanzadas, por canal y formato) con 3 aprendizajes y 3 acciones.'
 argument-hint: "[semana] [ruta de la hoja o métricas pegadas]"
 ---
 

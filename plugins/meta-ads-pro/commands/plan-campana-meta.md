@@ -1,6 +1,6 @@
 ---
-description: Genera un plan de campaña de Meta Ads (economía, estructura, testeo por fases) para aprobación
-argument-hint: [producto/negocio, objetivo, AOV, margen y presupuesto disponible]
+description: 'Genera un plan de campaña de Meta Ads (economía, estructura, testeo por fases) para aprobación'
+argument-hint: '[producto/negocio, objetivo, AOV, margen y presupuesto disponible]'
 ---
 
 Delega en el agente `estratega-meta` un plan de campaña de Meta Ads para: $ARGUMENTS

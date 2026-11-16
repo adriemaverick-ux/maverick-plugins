@@ -1,6 +1,6 @@
 ---
 name: analista-medicion-meta
-description: Analiza tracking, CAPI, atribución y salud técnica de cuentas de Meta Ads, y recomienda correcciones conformes a las políticas. Usar proactivamente para auditar eventos, deduplicación, EMQ, WhatsApp CTWA, protección de cuenta y apelaciones.
+description: 'Analiza tracking, CAPI, atribución y salud técnica de cuentas de Meta Ads, y recomienda correcciones conformes a las políticas. Usar proactivamente para auditar eventos, deduplicación, EMQ, WhatsApp CTWA, protección de cuenta y apelaciones.'
 tools: Read, Write, Glob, Grep, WebFetch
 model: sonnet
 ---

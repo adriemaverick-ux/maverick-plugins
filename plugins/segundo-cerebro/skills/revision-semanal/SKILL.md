@@ -1,6 +1,6 @@
 ---
 name: revision-semanal
-description: Revisión semanal de la bóveda y de los negocios - vaciar el inbox, ordenar pendientes, detectar lo estancado y fijar las 3 prioridades de la semana. Usar cada semana o cuando Adrie diga "revisión semanal", "qué pasó esta semana", "ordena mis pendientes".
+description: 'Revisión semanal de la bóveda y de los negocios - vaciar el inbox, ordenar pendientes, detectar lo estancado y fijar las 3 prioridades de la semana. Usar cada semana o cuando Adrie diga "revisión semanal", "qué pasó esta semana", "ordena mis pendientes".'
 ---
 
 # Revisión semanal

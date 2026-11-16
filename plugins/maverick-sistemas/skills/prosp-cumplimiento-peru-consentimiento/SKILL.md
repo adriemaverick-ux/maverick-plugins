@@ -1,6 +1,6 @@
 ---
 name: prosp-cumplimiento-peru-consentimiento
-description: Reglas de plataforma y buenas prácticas al contactar prospectos por WhatsApp o redes, sin frenar la prospección por leyes locales. Usar antes de una tanda de mensajes o de automatizar. Gatillos - "tanda", "mensajes a prospectos", "spam", "consentimiento", "WhatsApp frío".
+description: 'Reglas de plataforma y buenas prácticas al contactar prospectos por WhatsApp o redes, sin frenar la prospección por leyes locales. Usar antes de una tanda de mensajes o de automatizar. Gatillos - "tanda", "mensajes a prospectos", "spam", "consentimiento", "WhatsApp frío".'
 ---
 
 # Contactar prospectos: lo que sí importa

@@ -1,6 +1,6 @@
 ---
 name: anti-ai-slop-tipografia-copy-color
-description: Elimina el aspecto y el texto "de IA" en un diseño: tipografía por defecto, degradado índigo, tres tarjetas, copy genérico, iconos mezclados. Usar cuando digas "anti-slop", "AI slop", "suena a IA", "se ve genérico", "revisa fuentes/copy/color" o antes de entregar cualquier diseño.
+description: 'Elimina el aspecto y el texto "de IA" en un diseño: tipografía por defecto, degradado índigo, tres tarjetas, copy genérico, iconos mezclados. Usar cuando digas "anti-slop", "AI slop", "suena a IA", "se ve genérico", "revisa fuentes/copy/color" o antes de entregar cualquier diseño.'
 ---
 
 # Anti AI slop: tipografía, copy y color

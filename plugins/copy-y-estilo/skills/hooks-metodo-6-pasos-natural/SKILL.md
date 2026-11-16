@@ -1,6 +1,6 @@
 ---
 name: hooks-metodo-6-pasos-natural
-description: Convierte un gancho genérico o con jerga en uno natural, cálido y humano para dueños de taller o servicio técnico y para quien decora su casa. Usar al reescribir aperturas que suenan a robot o a Silicon Valley. Gatillos - "hazlo más natural", "reescribe el gancho", "suena robótico", "rewrite hook", "make it human".
+description: 'Convierte un gancho genérico o con jerga en uno natural, cálido y humano para dueños de taller o servicio técnico y para quien decora su casa. Usar al reescribir aperturas que suenan a robot o a Silicon Valley. Gatillos - "hazlo más natural", "reescribe el gancho", "suena robótico", "rewrite hook", "make it human".'
 ---
 
 # Método de 6 pasos: del gancho genérico al gancho natural

@@ -1,6 +1,6 @@
 ---
 name: diag-mapa-del-flujo-actual
-description: Úsalo después de la entrevista para dibujar cómo viaja hoy una consulta hasta la próxima visita (canal, responsable, registro, fuga) y contar dónde se pierde. Gatillos - "mapa del flujo", "cómo funciona hoy su proceso", "map current workflow", "recorrido consulta cotización visita".
+description: 'Úsalo después de la entrevista para dibujar cómo viaja hoy una consulta hasta la próxima visita (canal, responsable, registro, fuga) y contar dónde se pierde. Gatillos - "mapa del flujo", "cómo funciona hoy su proceso", "map current workflow", "recorrido consulta cotización visita".'
 ---
 
 # Mapa del flujo actual

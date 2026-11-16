@@ -1,6 +1,6 @@
 ---
 name: checklist-qa-visual
-description: Checklist de QA visual y funcional antes de entregar un diseño, web o app: cinco revisores especializados, glance test, móvil, accesibilidad, SEO y seguridad. Usar con "revisar diseño", "QA", "auditar", "antes de entregar", "accesibilidad", "responsive" o "glance test".
+description: 'Checklist de QA visual y funcional antes de entregar un diseño, web o app: cinco revisores especializados, glance test, móvil, accesibilidad, SEO y seguridad. Usar con "revisar diseño", "QA", "auditar", "antes de entregar", "accesibilidad", "responsive" o "glance test".'
 ---
 
 # Checklist de QA visual

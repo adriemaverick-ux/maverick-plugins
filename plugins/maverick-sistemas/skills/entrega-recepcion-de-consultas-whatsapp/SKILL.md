@@ -1,6 +1,6 @@
 ---
 name: entrega-recepcion-de-consultas-whatsapp
-description: Úsalo para construir la recepción de consultas por WhatsApp con registro compartido, respuesta inicial fuera de horario, captura de datos y derivación a una persona, usando GHL y n8n/Make con canal oficial. Gatillos - "recepción de consultas", "respuesta fuera de horario", "WhatsApp con GHL", "inbound WhatsApp intake", "capturar datos para cotizar".
+description: 'Úsalo para construir la recepción de consultas por WhatsApp con registro compartido, respuesta inicial fuera de horario, captura de datos y derivación a una persona, usando GHL y n8n/Make con canal oficial. Gatillos - "recepción de consultas", "respuesta fuera de horario", "WhatsApp con GHL", "inbound WhatsApp intake", "capturar datos para cotizar".'
 ---
 
 # Recepción de consultas por WhatsApp

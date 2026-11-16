@@ -1,6 +1,6 @@
 ---
 name: saas-cuando-meta-funciona
-description: Decide si Meta Ads encaja con un SaaS y cómo repartir entre Meta, Google, LinkedIn y TikTok. Usar cuando pregunten "¿Meta sirve para mi SaaS?", "Meta vs Google vs LinkedIn", "does Meta work for SaaS", "channel mix", "dónde invertir primero".
+description: 'Decide si Meta Ads encaja con un SaaS y cómo repartir entre Meta, Google, LinkedIn y TikTok. Usar cuando pregunten "¿Meta sirve para mi SaaS?", "Meta vs Google vs LinkedIn", "does Meta work for SaaS", "channel mix", "dónde invertir primero".'
 ---
 
 # SaaS: cuándo funciona Meta (matriz de canales)

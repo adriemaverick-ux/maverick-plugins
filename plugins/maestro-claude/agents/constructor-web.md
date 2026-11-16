@@ -1,6 +1,6 @@
 ---
 name: constructor-web
-description: Construye y refina webs y landings de punta a punta (estrategia, estructura, diseño, copy, backend ligero, listo para publicar). Usar cuando se pida crear, rehacer o ampliar una web, o aplicar el pipeline de webs del plugin.
+description: 'Construye y refina webs y landings de punta a punta (estrategia, estructura, diseño, copy, backend ligero, listo para publicar). Usar cuando se pida crear, rehacer o ampliar una web, o aplicar el pipeline de webs del plugin.'
 tools: Read, Write, Edit, Glob, Grep, Bash, WebFetch
 model: opus
 ---

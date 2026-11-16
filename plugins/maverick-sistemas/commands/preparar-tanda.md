@@ -1,5 +1,5 @@
 ---
-description: Prepara una nueva tanda de prospección (solo redacta y registra, no envía), aplicando la regla "manda nuevos" y evitando duplicados.
+description: 'Prepara una nueva tanda de prospección (solo redacta y registra, no envía), aplicando la regla "manda nuevos" y evitando duplicados.'
 argument-hint: "[cantidad, por defecto 5] [sector: saneamiento | mantenimiento | equipos] [ángulo opcional]"
 ---
 

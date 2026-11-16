@@ -1,6 +1,6 @@
 ---
 name: entrega-agenda-y-proxima-visita-recurrente
-description: Úsalo para programar visitas o trabajos, dejar constancia del resultado y recordar la próxima revisión o mantenimiento solo cuando el cliente lo acepta y el ciclo lo justifica. Gatillos - "próxima visita", "recordatorio de mantenimiento", "agenda de visitas", "recurring service reminder", "renovación del servicio".
+description: 'Úsalo para programar visitas o trabajos, dejar constancia del resultado y recordar la próxima revisión o mantenimiento solo cuando el cliente lo acepta y el ciclo lo justifica. Gatillos - "próxima visita", "recordatorio de mantenimiento", "agenda de visitas", "recurring service reminder", "renovación del servicio".'
 ---
 
 # Agenda y próxima visita recurrente

@@ -1,6 +1,6 @@
 ---
 name: anatomia-anuncio-ganador
-description: Usar cuando se deba diseñar, auditar o diagnosticar la estructura de un anuncio de Meta (hook, cuerpo, prueba, oferta, CTA) o leer hook rate / hold rate / CTR. Gatillos - "anatomía del anuncio", "por qué no convierte este creativo", "hook rate", "hold rate", "ad structure", "diagnose creative".
+description: 'Usar cuando se deba diseñar, auditar o diagnosticar la estructura de un anuncio de Meta (hook, cuerpo, prueba, oferta, CTA) o leer hook rate / hold rate / CTR. Gatillos - "anatomía del anuncio", "por qué no convierte este creativo", "hook rate", "hold rate", "ad structure", "diagnose creative".'
 ---
 
 # Anatomía de un anuncio ganador

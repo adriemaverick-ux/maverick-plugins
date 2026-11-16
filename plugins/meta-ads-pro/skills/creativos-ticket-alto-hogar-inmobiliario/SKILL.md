@@ -1,6 +1,6 @@
 ---
 name: creativos-ticket-alto-hogar-inmobiliario
-description: Usar al crear anuncios para mueble/hogar/lujo o inmobiliaria con destino WhatsApp o leads, donde importa filtrar curiosos y medir lead calificado. Gatillos - "ticket alto", "muebles", "inmobiliaria", "preventa", "Casa Soyer", "high ticket", "real estate ads", "categoría Vivienda".
+description: 'Usar al crear anuncios para mueble/hogar/lujo o inmobiliaria con destino WhatsApp o leads, donde importa filtrar curiosos y medir lead calificado. Gatillos - "ticket alto", "muebles", "inmobiliaria", "preventa", "Casa Soyer", "high ticket", "real estate ads", "categoría Vivienda".'
 ---
 
 # Creativos para ticket alto: hogar e inmobiliaria

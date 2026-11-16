@@ -1,6 +1,6 @@
 ---
 name: prop-cotizar-un-piloto
-description: Úsalo para calcular el precio de un piloto con marcadores y fórmulas, sin precios estándar, separando honorarios de costos de herramientas y verificando contra el valor que el dueño estima. Gatillos - "cotizar piloto", "cuánto cobrar", "precio del piloto", "price a pilot", "calcular honorarios".
+description: 'Úsalo para calcular el precio de un piloto con marcadores y fórmulas, sin precios estándar, separando honorarios de costos de herramientas y verificando contra el valor que el dueño estima. Gatillos - "cotizar piloto", "cuánto cobrar", "precio del piloto", "price a pilot", "calcular honorarios".'
 ---
 
 # Cotizar un piloto

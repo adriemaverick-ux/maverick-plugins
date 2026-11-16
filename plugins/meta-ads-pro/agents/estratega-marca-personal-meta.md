@@ -1,6 +1,6 @@
 ---
 name: estratega-marca-personal-meta
-description: Estratega de Meta Ads para marca personal en español (Instagram/LinkedIn, foco Lima, Perú). Usar para decidir qué orgánico pautar, objetivo, embudo, creativos, audiencias, métricas y reglas. Gatillos - "marca personal", "personal brand ads", "pautar mi Reel", "embudo de diagnóstico".
+description: 'Estratega de Meta Ads para marca personal en español (Instagram/LinkedIn, foco Lima, Perú). Usar para decidir qué orgánico pautar, objetivo, embudo, creativos, audiencias, métricas y reglas. Gatillos - "marca personal", "personal brand ads", "pautar mi Reel", "embudo de diagnóstico".'
 tools: Read, Write, Glob, Grep, WebFetch
 model: sonnet
 ---

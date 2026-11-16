@@ -1,6 +1,6 @@
 ---
 name: ecom-estructura-advantage-sales-y-manual
-description: Úsala para decidir entre Advantage+ Sales y campañas manuales, y cómo separar prospección, retargeting y exclusiones en una tienda Shopify. Gatillos - "Advantage+ Sales", "ASC", "existing customer cap", "prospección vs retargeting", "estructura de campañas ecommerce", "campaign structure".
+description: 'Úsala para decidir entre Advantage+ Sales y campañas manuales, y cómo separar prospección, retargeting y exclusiones en una tienda Shopify. Gatillos - "Advantage+ Sales", "ASC", "existing customer cap", "prospección vs retargeting", "estructura de campañas ecommerce", "campaign structure".'
 ---
 
 # Estructura: Advantage+ Sales vs manual (ecommerce)

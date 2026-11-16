@@ -1,6 +1,6 @@
 ---
 name: pixel-y-capi-setup
-description: Usar al implementar o revisar Pixel de Meta + Conversions API (CAPI) en una web o tienda Shopify, y para decidir el orden de implementación. Gatillos - "instalar pixel", "configurar CAPI", "conversions api setup", "server-side tracking", "Gateway vs GTM server".
+description: 'Usar al implementar o revisar Pixel de Meta + Conversions API (CAPI) en una web o tienda Shopify, y para decidir el orden de implementación. Gatillos - "instalar pixel", "configurar CAPI", "conversions api setup", "server-side tracking", "Gateway vs GTM server".'
 ---
 
 # Pixel + CAPI: orden de implementación

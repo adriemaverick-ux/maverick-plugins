@@ -1,6 +1,6 @@
 ---
 name: campana-meta-whatsapp
-description: Diseña campañas de Meta/Instagram Ads para piezas de ticket alto de Casa Soyer optimizadas por mensajes de WhatsApp (no por compra), con estructura, audiencias, presupuesto de prueba, creativos y reglas de corte. Usar cuando se pida armar, revisar o escalar pauta.
+description: 'Diseña campañas de Meta/Instagram Ads para piezas de ticket alto de Casa Soyer optimizadas por mensajes de WhatsApp (no por compra), con estructura, audiencias, presupuesto de prueba, creativos y reglas de corte. Usar cuando se pida armar, revisar o escalar pauta.'
 ---
 
 # Campaña Meta → WhatsApp

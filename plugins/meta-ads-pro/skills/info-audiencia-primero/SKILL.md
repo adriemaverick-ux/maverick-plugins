@@ -1,6 +1,6 @@
 ---
 name: info-audiencia-primero
-description: Explica por qué fallan los lanzamientos de infoproductos y cómo construir audiencia propia antes de pautar. Usar cuando se pregunte "por qué no vendió mi curso", "lanzamiento sin audiencia", "why course launches fail", "lista antes de pauta".
+description: 'Explica por qué fallan los lanzamientos de infoproductos y cómo construir audiencia propia antes de pautar. Usar cuando se pregunte "por qué no vendió mi curso", "lanzamiento sin audiencia", "why course launches fail", "lista antes de pauta".'
 ---
 
 # Audiencia primero: por qué fallan los lanzamientos

@@ -1,6 +1,6 @@
 ---
 name: copy-landing-y-paginas-de-servicio
-description: Escribe landing pages y páginas de servicio (Maverick) o de pieza (Casa Soyer) con un titular que responde "qué gano", un solo CTA y lenguaje sin jerga. Usar al crear o corregir una página web. Gatillos - "landing", "página de servicio", "titular de la web", "CTA", "landing page copy".
+description: 'Escribe landing pages y páginas de servicio (Maverick) o de pieza (Casa Soyer) con un titular que responde "qué gano", un solo CTA y lenguaje sin jerga. Usar al crear o corregir una página web. Gatillos - "landing", "página de servicio", "titular de la web", "CTA", "landing page copy".'
 ---
 
 # Landing y páginas de servicio

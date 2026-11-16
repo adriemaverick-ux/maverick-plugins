@@ -1,6 +1,6 @@
 ---
-description: Genera un plan de validación y estrategia de Meta Ads para un SaaS (economía, embudo, evento, techo) para aprobación
-argument-hint: [producto SaaS, precio/ARPA, margen, churn estimado, modelo de venta (autoservicio o demo) y presupuesto disponible]
+description: 'Genera un plan de validación y estrategia de Meta Ads para un SaaS (economía, embudo, evento, techo) para aprobación'
+argument-hint: '[producto SaaS, precio/ARPA, margen, churn estimado, modelo de venta (autoservicio o demo) y presupuesto disponible]'
 ---
 
 Delega en el agente `estratega-saas-meta` un plan de Meta Ads para este SaaS: $ARGUMENTS

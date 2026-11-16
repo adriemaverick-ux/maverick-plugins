@@ -1,6 +1,6 @@
 ---
 name: especialista-en-hooks
-description: Genera y mejora ganchos (video corto, título, anuncio, primer mensaje, asunto) en idioma del cliente, sin hipérbole, con variantes y prueba de oído. Usar para "dame hooks", "mejora este gancho", "títulos para este video".
+description: 'Genera y mejora ganchos (video corto, título, anuncio, primer mensaje, asunto) en idioma del cliente, sin hipérbole, con variantes y prueba de oído. Usar para "dame hooks", "mejora este gancho", "títulos para este video".'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

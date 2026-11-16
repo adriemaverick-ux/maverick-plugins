@@ -1,6 +1,6 @@
 ---
 name: claude-md-proyecto
-description: Crea o mejora el CLAUDE.md de un proyecto (stack, comandos, reglas, criterios de éxito verificables). Úsalo al iniciar un proyecto o cuando Claude repite errores. Triggers - CLAUDE.md, project rules, reglas del proyecto, setup, init, criterios de éxito.
+description: 'Crea o mejora el CLAUDE.md de un proyecto (stack, comandos, reglas, criterios de éxito verificables). Úsalo al iniciar un proyecto o cuando Claude repite errores. Triggers - CLAUDE.md, project rules, reglas del proyecto, setup, init, criterios de éxito.'
 ---
 
 # CLAUDE.md de proyecto

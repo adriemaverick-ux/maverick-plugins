@@ -1,6 +1,6 @@
 ---
 name: ecom-plan-90-dias-casa-soyer
-description: Úsala para armar el plan de 90 días de pauta de Casa Soyer - prerrequisitos de limpieza de catálogo, fases de prueba pequeñas y reglas de corte, sin montos de dinero fijos. Gatillos - "plan 90 días", "Casa Soyer", "primera campaña", "limpieza de catálogo", "prerrequisitos", "roadmap ecommerce".
+description: 'Úsala para armar el plan de 90 días de pauta de Casa Soyer - prerrequisitos de limpieza de catálogo, fases de prueba pequeñas y reglas de corte, sin montos de dinero fijos. Gatillos - "plan 90 días", "Casa Soyer", "primera campaña", "limpieza de catálogo", "prerrequisitos", "roadmap ecommerce".'
 ---
 
 # Plan de 90 días - Casa Soyer

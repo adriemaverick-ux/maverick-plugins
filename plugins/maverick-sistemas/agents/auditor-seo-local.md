@@ -1,6 +1,6 @@
 ---
 name: auditor-seo-local
-description: Audita la ficha de Google (Business Profile), la web y la presencia local de un cliente de servicios en Lima (saneamiento, HVAC, equipos de cocina) y entrega hallazgos priorizados y un plan de 30 días. Usar proactivamente al auditar SEO local. Solo recomienda; no edita fichas ni publica.
+description: 'Audita la ficha de Google (Business Profile), la web y la presencia local de un cliente de servicios en Lima (saneamiento, HVAC, equipos de cocina) y entrega hallazgos priorizados y un plan de 30 días. Usar proactivamente al auditar SEO local. Solo recomienda; no edita fichas ni publica.'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

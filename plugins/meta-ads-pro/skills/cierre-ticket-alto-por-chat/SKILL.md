@@ -1,6 +1,6 @@
 ---
 name: cierre-ticket-alto-por-chat
-description: Úsala para redactar guiones, mensajes de bienvenida, seguimientos y manejo de objeciones al cerrar ventas de ticket alto por WhatsApp (mueble, decoración, inmobiliario). Gatillos - "cerrar venta por WhatsApp", "seguimiento de cotización", "objeción de precio", "mensaje de bienvenida", "follow-up", "responder lead".
+description: 'Úsala para redactar guiones, mensajes de bienvenida, seguimientos y manejo de objeciones al cerrar ventas de ticket alto por WhatsApp (mueble, decoración, inmobiliario). Gatillos - "cerrar venta por WhatsApp", "seguimiento de cotización", "objeción de precio", "mensaje de bienvenida", "follow-up", "responder lead".'
 ---
 
 # Cierre de ticket alto por chat

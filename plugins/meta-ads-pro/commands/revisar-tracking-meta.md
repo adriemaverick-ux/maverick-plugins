@@ -1,5 +1,5 @@
 ---
-description: Revisa el tracking de Meta (Pixel, CAPI, deduplicación, EMQ, WhatsApp, atribución) y entrega hallazgos priorizados con acciones y verificación.
+description: 'Revisa el tracking de Meta (Pixel, CAPI, deduplicación, EMQ, WhatsApp, atribución) y entrega hallazgos priorizados con acciones y verificación.'
 argument-hint: "[sitio/dataset/ruta de exportes o capturas] [web | shopify | whatsapp]"
 ---
 

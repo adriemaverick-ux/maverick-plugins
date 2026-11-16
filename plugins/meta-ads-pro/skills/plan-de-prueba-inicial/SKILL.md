@@ -1,6 +1,6 @@
 ---
 name: plan-de-prueba-inicial
-description: Diseña un plan de prueba inicial de Meta Ads con presupuesto pequeño por fases. Usar cuando el usuario empiece desde cero o con poco presupuesto: "primera campaña", "plan de prueba", "test budget", "cuánto gastar para validar", "lanzar con poco dinero".
+description: 'Diseña un plan de prueba inicial de Meta Ads con presupuesto pequeño por fases. Usar cuando el usuario empiece desde cero o con poco presupuesto: "primera campaña", "plan de prueba", "test budget", "cuánto gastar para validar", "lanzar con poco dinero".'
 ---
 
 # Plan de prueba inicial (presupuesto pequeño)

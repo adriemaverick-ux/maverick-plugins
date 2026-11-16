@@ -1,6 +1,6 @@
 ---
 name: marca-plan-de-arranque
-description: Usar para armar el plan de arranque por fases pequeñas de pauta de una marca personal, sin montos fijos. Gatillos - "plan de 30 días", "cómo empiezo", "primera campaña marca personal", "fase de prueba", "start plan".
+description: 'Usar para armar el plan de arranque por fases pequeñas de pauta de una marca personal, sin montos fijos. Gatillos - "plan de 30 días", "cómo empiezo", "primera campaña marca personal", "fase de prueba", "start plan".'
 ---
 
 # Plan de arranque por fases (sin montos fijos)

@@ -1,6 +1,6 @@
 ---
 name: atribucion-y-medicion
-description: Usar para interpretar atribución de Meta tras los cambios de 2026, reconciliar Meta vs GA4 vs Shopify, calcular ROAS de equilibrio/MER y planear incrementalidad. Gatillos - "ventana de atribución", "7d_view", "Meta vs GA4", "ROAS de equilibrio", "incrementalidad", "conversion lift", "MER".
+description: 'Usar para interpretar atribución de Meta tras los cambios de 2026, reconciliar Meta vs GA4 vs Shopify, calcular ROAS de equilibrio/MER y planear incrementalidad. Gatillos - "ventana de atribución", "7d_view", "Meta vs GA4", "ROAS de equilibrio", "incrementalidad", "conversion lift", "MER".'
 ---
 
 # Atribución, métricas de negocio e incrementalidad

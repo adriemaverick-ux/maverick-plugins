@@ -1,6 +1,6 @@
 ---
 name: creativo-pieza
-description: Redacta copy y briefs de anuncio por pieza de ticket alto de Casa Soyer (ángulos, textos, CTA a WhatsApp, guion de foto/video).
+description: 'Redacta copy y briefs de anuncio por pieza de ticket alto de Casa Soyer (ángulos, textos, CTA a WhatsApp, guion de foto/video).'
 tools: Read, Write, Grep, Glob
 model: sonnet
 ---

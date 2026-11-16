@@ -1,6 +1,6 @@
 ---
 name: saas-peru-pagos-y-mercado
-description: Contexto de pagos y mercado en Perú para vender SaaS: Yape/billeteras vs tarjeta, pasarelas, impuestos a servicios digitales, mypes y precios. Usar con "cobrar en Perú", "Yape suscripción", "Culqi Niubiz recurrente", "SaaS Perú", "pagos recurrentes Perú".
+description: 'Contexto de pagos y mercado en Perú para vender SaaS: Yape/billeteras vs tarjeta, pasarelas, impuestos a servicios digitales, mypes y precios. Usar con "cobrar en Perú", "Yape suscripción", "Culqi Niubiz recurrente", "SaaS Perú", "pagos recurrentes Perú".'
 ---
 
 # SaaS: Perú, pagos y mercado

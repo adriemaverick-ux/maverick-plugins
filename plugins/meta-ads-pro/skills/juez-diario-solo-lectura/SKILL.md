@@ -1,6 +1,6 @@
 ---
 name: juez-diario-solo-lectura
-description: "El juez" de Meta Ads con Claude Code - revisión diaria del laboratorio que propone apagar, mantener, escalar o variar cada anuncio según CPA y gasto, registra aprendizajes y deja un reporte, en SOLO LECTURA (Adrie aprueba cada cambio). Incluye la estructura de campañas (laboratorio, escala, remarketing) y cuándo abrir cada una. Usar con "juez", "regla de apagado", "rutina diaria de ads", "piloto automático", "laboratorio", "qué apago hoy".
+description: '"El juez" de Meta Ads con Claude Code - revisión diaria del laboratorio que propone apagar, mantener, escalar o variar cada anuncio según CPA y gasto, registra aprendizajes y deja un reporte, en SOLO LECTURA (Adrie aprueba cada cambio). Incluye la estructura de campañas (laboratorio, escala, remarketing) y cuándo abrir cada una. Usar con "juez", "regla de apagado", "rutina diaria de ads", "piloto automático", "laboratorio", "qué apago hoy".'
 ---
 
 # El juez diario (solo lectura)

@@ -1,6 +1,6 @@
 ---
 name: casa-soyer-ecommerce
-description: Contexto base del negocio de ecommerce/pauta de Casa Soyer (casasoyer.com, marca de PRODUCTOS de Ana Teresa Vega Soyer, distinta de Studio Soyer que es servicios). Adrie corre pauta paga por comisión sobre margen bruto y cierra personalmente ventas de ticket alto. Usar siempre que se hable de ads, Meta/Google, tienda Shopify casasoyer-5595, comisión, Tiers de catálogo, importación o escalar Casa Soyer. NO usar para Studio Soyer (servicios).
+description: 'Contexto base del negocio de ecommerce/pauta de Casa Soyer (casasoyer.com, marca de PRODUCTOS de Ana Teresa Vega Soyer, distinta de Studio Soyer que es servicios). Adrie corre pauta paga por comisión sobre margen bruto y cierra personalmente ventas de ticket alto. Usar siempre que se hable de ads, Meta/Google, tienda Shopify casasoyer-5595, comisión, Tiers de catálogo, importación o escalar Casa Soyer. NO usar para Studio Soyer (servicios).'
 ---
 
 # Casa Soyer — Ecommerce (negocio paralelo de Adrie)

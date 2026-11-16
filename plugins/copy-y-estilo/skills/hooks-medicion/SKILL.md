@@ -1,6 +1,6 @@
 ---
 name: hooks-medicion
-description: Cómo medir si un gancho funciona - hook rate, hold rate, ThruPlay, retención de YouTube, clics en email y conversaciones calificadas por WhatsApp. Usar al revisar resultados de un video o anuncio o al comparar dos ganchos. Gatillos - "hook rate", "hold rate", "retención", "cómo mido el gancho", "thumbstop".
+description: 'Cómo medir si un gancho funciona - hook rate, hold rate, ThruPlay, retención de YouTube, clics en email y conversaciones calificadas por WhatsApp. Usar al revisar resultados de un video o anuncio o al comparar dos ganchos. Gatillos - "hook rate", "hold rate", "retención", "cómo mido el gancho", "thumbstop".'
 ---
 
 # Medición de ganchos

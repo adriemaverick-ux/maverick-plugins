@@ -1,6 +1,6 @@
 ---
 name: marca-metricas-y-atribucion
-description: Usar para medir una marca personal hasta la venta: costo por lead, cita y cliente, show rate, CAC, CAPI de citas y ventas, y atribución difusa. Gatillos - "costo por lead", "CAC", "show rate", "CAPI citas", "atribución", "cómo medir marca personal".
+description: 'Usar para medir una marca personal hasta la venta: costo por lead, cita y cliente, show rate, CAC, CAPI de citas y ventas, y atribución difusa. Gatillos - "costo por lead", "CAC", "show rate", "CAPI citas", "atribución", "cómo medir marca personal".'
 ---
 
 # Métricas y atribución para marca personal

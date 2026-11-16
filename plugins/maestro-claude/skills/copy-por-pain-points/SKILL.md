@@ -1,6 +1,6 @@
 ---
 name: copy-por-pain-points
-description: Usar al escribir o reescribir el copy de una web o landing a partir de dolores reales de una audiencia. Gatillos - "copy de la landing", "pain points", "reescribir textos", "hook", "propuesta de valor", "conversion copy".
+description: 'Usar al escribir o reescribir el copy de una web o landing a partir de dolores reales de una audiencia. Gatillos - "copy de la landing", "pain points", "reescribir textos", "hook", "propuesta de valor", "conversion copy".'
 ---
 
 # Copy por pain points

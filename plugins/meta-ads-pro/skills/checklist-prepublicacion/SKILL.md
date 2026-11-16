@@ -1,6 +1,6 @@
 ---
 name: checklist-prepublicacion
-description: Usar justo antes de publicar o subir creativos a Meta Ads para verificar estrategia, hook, ticket alto, políticas y medición. Gatillos - "checklist", "antes de publicar", "QA de anuncios", "pre-launch", "revisar antes de subir".
+description: 'Usar justo antes de publicar o subir creativos a Meta Ads para verificar estrategia, hook, ticket alto, políticas y medición. Gatillos - "checklist", "antes de publicar", "QA de anuncios", "pre-launch", "revisar antes de subir".'
 ---
 
 # Checklist de prepublicación

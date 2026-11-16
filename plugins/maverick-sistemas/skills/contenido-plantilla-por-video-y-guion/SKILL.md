@@ -1,6 +1,6 @@
 ---
 name: contenido-plantilla-por-video-y-guion
-description: Estructura y escribe el guion de un video en cámara de Maverick Sistemas (gancho, situación del dueño, un paso práctico, CTA). Usar al pedir "guion de video", "script", "estructura de Reel" o "video largo de YouTube".
+description: 'Estructura y escribe el guion de un video en cámara de Maverick Sistemas (gancho, situación del dueño, un paso práctico, CTA). Usar al pedir "guion de video", "script", "estructura de Reel" o "video largo de YouTube".'
 ---
 
 # Plantilla por video y guion

@@ -1,6 +1,6 @@
 ---
 name: idioma-del-icp-glosario
-description: Úsala para traducir jerga de software o marketing al idioma del dueño de taller, saneamiento, mantenimiento técnico o cliente de Casa Soyer. Gatillos - "sin jerga", "palabras del cliente", "glosario", "translate jargon", "plain language for owners".
+description: 'Úsala para traducir jerga de software o marketing al idioma del dueño de taller, saneamiento, mantenimiento técnico o cliente de Casa Soyer. Gatillos - "sin jerga", "palabras del cliente", "glosario", "translate jargon", "plain language for owners".'
 ---
 
 # Escribir en el idioma del cliente (glosario)

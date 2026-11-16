@@ -1,6 +1,6 @@
 ---
 name: crm-ghl-ia-y-mcp
-description: Úsalo para estimar costos de la IA de GHL, conectar Claude al CRM mediante el MCP oficial y manejar límites de API y tokens con seguridad. Gatillos: "GHL MCP", "Conversation AI costo", "rate limit GHL", "token privado", "connect Claude to HighLevel".
+description: 'Úsalo para estimar costos de la IA de GHL, conectar Claude al CRM mediante el MCP oficial y manejar límites de API y tokens con seguridad. Gatillos: "GHL MCP", "Conversation AI costo", "rate limit GHL", "token privado", "connect Claude to HighLevel".'
 ---
 
 # GHL: IA, MCP, API y seguridad de tokens

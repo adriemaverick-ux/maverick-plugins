@@ -1,6 +1,6 @@
 ---
 name: entrega-seguimiento-de-cotizaciones
-description: Úsalo para armar el registro de cotizaciones con estado, responsable, fecha de envío y próximo paso, y recordatorios al equipo sin insistencia automática indiscriminada. Gatillos - "seguimiento de cotizaciones", "cotizaciones sin respuesta", "quote follow-up", "pipeline de cotizaciones", "recordatorio al equipo".
+description: 'Úsalo para armar el registro de cotizaciones con estado, responsable, fecha de envío y próximo paso, y recordatorios al equipo sin insistencia automática indiscriminada. Gatillos - "seguimiento de cotizaciones", "cotizaciones sin respuesta", "quote follow-up", "pipeline de cotizaciones", "recordatorio al equipo".'
 ---
 
 # Seguimiento de cotizaciones

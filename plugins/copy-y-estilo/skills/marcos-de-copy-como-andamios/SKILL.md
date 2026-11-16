@@ -1,6 +1,6 @@
 ---
 name: marcos-de-copy-como-andamios
-description: Úsala cuando haya que estructurar un texto de venta (PAS, AIDA, BAB, StoryBrand, niveles de conciencia) y elegir por dónde empezar. Gatillos - "fórmula de copy", "PAS", "AIDA", "StoryBrand", "copywriting framework", "niveles de conciencia".
+description: 'Úsala cuando haya que estructurar un texto de venta (PAS, AIDA, BAB, StoryBrand, niveles de conciencia) y elegir por dónde empezar. Gatillos - "fórmula de copy", "PAS", "AIDA", "StoryBrand", "copywriting framework", "niveles de conciencia".'
 ---
 
 # Marcos de copy como andamios, no como reglas

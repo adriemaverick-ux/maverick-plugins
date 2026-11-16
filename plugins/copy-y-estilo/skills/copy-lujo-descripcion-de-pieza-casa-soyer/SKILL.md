@@ -1,6 +1,6 @@
 ---
 name: copy-lujo-descripcion-de-pieza-casa-soyer
-description: Redacta la descripción de una pieza de Casa Soyer en tono de galería curada, concreta y sin adjetivos vacíos - material, medidas, origen y estado. Usar al crear una ficha, un caption o un guion de una pieza única. Gatillos - "ficha de pieza", "descripción de mueble", "pieza única", "product description".
+description: 'Redacta la descripción de una pieza de Casa Soyer en tono de galería curada, concreta y sin adjetivos vacíos - material, medidas, origen y estado. Usar al crear una ficha, un caption o un guion de una pieza única. Gatillos - "ficha de pieza", "descripción de mueble", "pieza única", "product description".'
 ---
 
 # Descripción de pieza de lujo (Casa Soyer)

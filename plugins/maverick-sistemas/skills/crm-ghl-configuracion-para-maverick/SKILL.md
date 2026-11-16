@@ -1,6 +1,6 @@
 ---
 name: crm-ghl-configuracion-para-maverick
-description: Úsalo para decidir y configurar GoHighLevel (GHL) como CRM único de Maverick: plan, pipelines, WhatsApp, calendarios y workflows. Gatillos: "configurar GHL", "GoHighLevel", "elegir CRM", "plan Starter", "set up GHL pipeline".
+description: 'Úsalo para decidir y configurar GoHighLevel (GHL) como CRM único de Maverick: plan, pipelines, WhatsApp, calendarios y workflows. Gatillos: "configurar GHL", "GoHighLevel", "elegir CRM", "plan Starter", "set up GHL pipeline".'
 ---
 
 # GHL como CRM único: configuración

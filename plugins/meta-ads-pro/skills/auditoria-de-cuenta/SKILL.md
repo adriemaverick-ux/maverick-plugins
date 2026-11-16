@@ -1,6 +1,6 @@
 ---
 name: auditoria-de-cuenta
-description: Audita una cuenta de Meta Ads con checklist completa, puntaje y plan priorizado. Usar cuando se pida "auditar la cuenta", "audit my Meta Ads account", "revisión de cuenta", "por qué no rinde", "health check" o antes de reestructurar.
+description: 'Audita una cuenta de Meta Ads con checklist completa, puntaje y plan priorizado. Usar cuando se pida "auditar la cuenta", "audit my Meta Ads account", "revisión de cuenta", "por qué no rinde", "health check" o antes de reestructurar.'
 ---
 
 # Auditoría de cuenta

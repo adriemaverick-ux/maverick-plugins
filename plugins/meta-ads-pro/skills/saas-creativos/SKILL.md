@@ -1,6 +1,6 @@
 ---
 name: saas-creativos
-description: Guía de creativos para anuncios de SaaS en Meta: demos de pantalla, problema/solución, founder-led, comparativos, ganchos y diversidad para Andromeda. Usar con "creativos para SaaS", "guion de demo", "ganchos SaaS", "SaaS ad creative", "anuncio de software".
+description: 'Guía de creativos para anuncios de SaaS en Meta: demos de pantalla, problema/solución, founder-led, comparativos, ganchos y diversidad para Andromeda. Usar con "creativos para SaaS", "guion de demo", "ganchos SaaS", "SaaS ad creative", "anuncio de software".'
 ---
 
 # SaaS: creativos

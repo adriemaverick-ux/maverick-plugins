@@ -1,6 +1,6 @@
 ---
 name: estratega-meta
-description: Estratega senior de Meta Ads. Usar para diseñar estrategia, estructura, plan de testeo y escalado de una cuenta o campaña. Gatillos - "estrategia Meta Ads", "plan de campaña", "meta ads strategy", "cómo escalar".
+description: 'Estratega senior de Meta Ads. Usar para diseñar estrategia, estructura, plan de testeo y escalado de una cuenta o campaña. Gatillos - "estrategia Meta Ads", "plan de campaña", "meta ads strategy", "cómo escalar".'
 tools: Read, Write, Glob, Grep, WebFetch
 model: opus
 ---

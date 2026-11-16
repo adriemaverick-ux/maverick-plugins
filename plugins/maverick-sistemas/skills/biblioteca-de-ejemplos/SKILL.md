@@ -1,6 +1,6 @@
 ---
 name: biblioteca-de-ejemplos
-description: Biblioteca propia de Maverick de hooks, guiones, posts y anuncios que funcionan (en la bóveda de Obsidian), con fichas por ejemplo, fuentes donde buscar (TikTok Creative Center, Biblioteca de anuncios de Meta, posts de Threads/LinkedIn, Reels) y cómo investigar la Biblioteca de anuncios de Meta en Perú. Usar al escribir un guion, post o anuncio, al buscar inspiración, al agregar un ejemplo nuevo o al investigar qué anuncia la competencia. Gatillos - "biblioteca de ejemplos", "swipe file", "referencias de copy", "qué funciona hoy", "biblioteca de anuncios", "ejemplos de guiones", "agregar un ejemplo".
+description: 'Biblioteca propia de Maverick de hooks, guiones, posts y anuncios que funcionan (en la bóveda de Obsidian), con fichas por ejemplo, fuentes donde buscar (TikTok Creative Center, Biblioteca de anuncios de Meta, posts de Threads/LinkedIn, Reels) y cómo investigar la Biblioteca de anuncios de Meta en Perú. Usar al escribir un guion, post o anuncio, al buscar inspiración, al agregar un ejemplo nuevo o al investigar qué anuncia la competencia. Gatillos - "biblioteca de ejemplos", "swipe file", "referencias de copy", "qué funciona hoy", "biblioteca de anuncios", "ejemplos de guiones", "agregar un ejemplo".'
 ---
 
 # Biblioteca de ejemplos de Maverick

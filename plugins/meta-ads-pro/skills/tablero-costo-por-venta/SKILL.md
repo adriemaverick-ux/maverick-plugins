@@ -1,6 +1,6 @@
 ---
 name: tablero-costo-por-venta
-description: Diseño del tablero propio que junta el gasto de Meta por anuncio con las ventas reales (pasarela y GHL) para ver costo por venta, por lead calificado y por concepto, y decidir qué cortar o escalar. Usar al armar reportes de pauta, al decidir pausar o escalar, o con "tablero", "dashboard", "costo por venta por anuncio", "qué anuncio vende".
+description: 'Diseño del tablero propio que junta el gasto de Meta por anuncio con las ventas reales (pasarela y GHL) para ver costo por venta, por lead calificado y por concepto, y decidir qué cortar o escalar. Usar al armar reportes de pauta, al decidir pausar o escalar, o con "tablero", "dashboard", "costo por venta por anuncio", "qué anuncio vende".'
 ---
 
 # Tablero de costo por venta

@@ -1,6 +1,6 @@
 ---
 name: produccion-reutilizar-un-video-en-todos-los-canales
-description: Convierte un video en cámara en piezas para cada canal (transcripción, clips, subtítulos, títulos por plataforma) cumpliendo las reglas de contenido original y sin marcas de agua ajenas. Usar con "reutilizar video", "repurpose", "clips", "subtítulos", "paquete de publicación".
+description: 'Convierte un video en cámara en piezas para cada canal (transcripción, clips, subtítulos, títulos por plataforma) cumpliendo las reglas de contenido original y sin marcas de agua ajenas. Usar con "reutilizar video", "repurpose", "clips", "subtítulos", "paquete de publicación".'
 ---
 
 # Reutilizar un video en todos los canales

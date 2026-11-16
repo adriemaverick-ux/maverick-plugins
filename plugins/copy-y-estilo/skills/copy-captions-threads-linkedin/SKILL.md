@@ -1,6 +1,6 @@
 ---
 name: copy-captions-threads-linkedin
-description: Escribe captions de Instagram/Facebook, publicaciones de Threads y posts de LinkedIn con el gancho antes del corte de cada red. Usar al reutilizar un video o idea en texto. Gatillos - "caption", "Threads", "LinkedIn", "post de Instagram", "texto de publicación".
+description: 'Escribe captions de Instagram/Facebook, publicaciones de Threads y posts de LinkedIn con el gancho antes del corte de cada red. Usar al reutilizar un video o idea en texto. Gatillos - "caption", "Threads", "LinkedIn", "post de Instagram", "texto de publicación".'
 ---
 
 # Captions, Threads y LinkedIn

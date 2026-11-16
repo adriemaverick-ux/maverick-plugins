@@ -1,6 +1,6 @@
 ---
 name: metricas-de-negocio
-description: Calcula MER, nCAC, margen de contribución y ROAS de equilibrio con fórmulas y ejemplo numérico. Usar antes de fijar presupuesto o metas, o cuando pregunten "cuál es mi ROAS de equilibrio", "MER", "nCAC máximo", "break-even ROAS", "margen de contribución", "estoy ganando dinero con Meta".
+description: 'Calcula MER, nCAC, margen de contribución y ROAS de equilibrio con fórmulas y ejemplo numérico. Usar antes de fijar presupuesto o metas, o cuando pregunten "cuál es mi ROAS de equilibrio", "MER", "nCAC máximo", "break-even ROAS", "margen de contribución", "estoy ganando dinero con Meta".'
 ---
 
 # Métricas de negocio

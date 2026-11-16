@@ -1,6 +1,6 @@
 ---
 name: auto-que-permite-meta-y-que-no
-description: Usar antes de diseñar cualquier automatización de DMs o comentarios en Instagram, Messenger o Threads, o cuando alguien pregunte "¿se puede enviar DMs automáticos?", "ventana de 24 horas", "Human Agent", "can I automate Instagram DMs", "cold DM", "scraping". Define qué permite Meta y qué queda prohibido.
+description: 'Usar antes de diseñar cualquier automatización de DMs o comentarios en Instagram, Messenger o Threads, o cuando alguien pregunte "¿se puede enviar DMs automáticos?", "ventana de 24 horas", "Human Agent", "can I automate Instagram DMs", "cold DM", "scraping". Define qué permite Meta y qué queda prohibido.'
 ---
 
 # Qué permite Meta y qué no (automatización de mensajes)

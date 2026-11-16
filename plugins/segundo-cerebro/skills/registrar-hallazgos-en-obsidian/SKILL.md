@@ -1,6 +1,6 @@
 ---
 name: registrar-hallazgos-en-obsidian
-description: Guarda en la bóveda de Obsidian los hallazgos, decisiones, cambios y pendientes importantes de la conversación actual. Usar al terminar cualquier trabajo con resultados, cuando el hook de cierre lo pida, o cuando Adrie diga "guarda esto", "registra", "mete esto en Obsidian". Gatillos - "registrar", "guardar en Obsidian", "wrap-up", "bitácora", "save findings".
+description: 'Guarda en la bóveda de Obsidian los hallazgos, decisiones, cambios y pendientes importantes de la conversación actual. Usar al terminar cualquier trabajo con resultados, cuando el hook de cierre lo pida, o cuando Adrie diga "guarda esto", "registra", "mete esto en Obsidian". Gatillos - "registrar", "guardar en Obsidian", "wrap-up", "bitácora", "save findings".'
 ---
 
 # Registrar hallazgos en Obsidian

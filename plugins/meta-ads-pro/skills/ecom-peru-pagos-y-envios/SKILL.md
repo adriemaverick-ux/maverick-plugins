@@ -1,6 +1,6 @@
 ---
 name: ecom-peru-pagos-y-envios
-description: Úsala para decidir medios de pago (Yape/Plin, transferencia, contraentrega, cuotas), envíos de mueble y calendario de campañas en Perú. Gatillos - "Yape", "Plin", "contraentrega", "cuotas sin intereses", "CyberWow", "envío Olva", "pagos Perú".
+description: 'Úsala para decidir medios de pago (Yape/Plin, transferencia, contraentrega, cuotas), envíos de mueble y calendario de campañas en Perú. Gatillos - "Yape", "Plin", "contraentrega", "cuotas sin intereses", "CyberWow", "envío Olva", "pagos Perú".'
 ---
 
 # Perú: pagos y envíos para ticket alto

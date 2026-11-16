@@ -1,6 +1,6 @@
 ---
 name: filtro-decision-plugins
-description: Decide si un proceso debe ser un skill, un comando o un plugin completo mediante tres pruebas (repetición, cadena, traspaso). Úsalo antes de empaquetar algo para compartir; gatillos - ¿plugin o skill?, crear plugin, compartir con el equipo, empaquetar flujo, plugin.json.
+description: 'Decide si un proceso debe ser un skill, un comando o un plugin completo mediante tres pruebas (repetición, cadena, traspaso). Úsalo antes de empaquetar algo para compartir; gatillos - ¿plugin o skill?, crear plugin, compartir con el equipo, empaquetar flujo, plugin.json.'
 ---
 
 # Filtro de decisión: skill, comando o plugin

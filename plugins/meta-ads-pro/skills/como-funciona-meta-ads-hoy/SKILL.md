@@ -1,6 +1,6 @@
 ---
 name: como-funciona-meta-ads-hoy
-description: Explica cómo funciona Meta Ads en 2026 (subasta, Andromeda, GEM, Advantage+, atribución). Usar cuando el usuario pregunte "cómo funciona Meta Ads", "qué es Andromeda", "Advantage+ o manual", "why did my results drop", o necesite contexto antes de decidir estructura o creativos.
+description: 'Explica cómo funciona Meta Ads en 2026 (subasta, Andromeda, GEM, Advantage+, atribución). Usar cuando el usuario pregunte "cómo funciona Meta Ads", "qué es Andromeda", "Advantage+ o manual", "why did my results drop", o necesite contexto antes de decidir estructura o creativos.'
 ---
 
 # Cómo funciona Meta Ads hoy (2025-2026)

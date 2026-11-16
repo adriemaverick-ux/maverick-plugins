@@ -1,6 +1,6 @@
 ---
 name: arquitecto-de-automatizacion-social
-description: Diseña arquitecturas y flujos de automatización de DMs, comentarios y publicación para Maverick Sistemas (GHL, LLM) dentro de las reglas de Meta y de Perú. Usar proactivamente al planear o revisar cualquier automatización social. Solo produce diseños y borradores; nunca envía ni publica.
+description: 'Diseña arquitecturas y flujos de automatización de DMs, comentarios y publicación para Maverick Sistemas (GHL, LLM) dentro de las reglas de Meta y de Perú. Usar proactivamente al planear o revisar cualquier automatización social. Solo produce diseños y borradores; nunca envía ni publica.'
 tools: Read, Glob, Grep, Write, Edit
 model: opus
 ---

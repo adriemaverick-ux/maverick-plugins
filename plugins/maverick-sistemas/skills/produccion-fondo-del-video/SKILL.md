@@ -1,6 +1,6 @@
 ---
 name: produccion-fondo-del-video
-description: Fondo de los videos en cámara de Maverick - decisión final de Adrie (2026-10-13) - usar SU FONDO NORMAL tal como está. Esta skill queda como referencia opcional (luz, encuadre, y alternativa de fondo existente puesto al editar) solo si Adrie lo pide. Gatillos - "fondo", "background", "dónde grabo", "iluminación".
+description: 'Fondo de los videos en cámara de Maverick - decisión final de Adrie (2026-10-13) - usar SU FONDO NORMAL tal como está. Esta skill queda como referencia opcional (luz, encuadre, y alternativa de fondo existente puesto al editar) solo si Adrie lo pide. Gatillos - "fondo", "background", "dónde grabo", "iluminación".'
 ---
 
 # DECISIÓN FINAL: Adrie usa su fondo normal. No proponer cambiarlo, comprar nada ni generar fondos. El resto de esta skill es opcional y solo se usa si Adrie lo pide.

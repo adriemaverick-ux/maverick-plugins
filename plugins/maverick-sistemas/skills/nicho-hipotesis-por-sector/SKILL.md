@@ -1,6 +1,6 @@
 ---
 name: nicho-hipotesis-por-sector
-description: Úsalo para formular y probar hipótesis de dolor y oferta por sector (saneamiento ambiental, mantenimiento técnico, equipos de cocina), con preguntas de validación y qué evidencia las confirma. Gatillos: "hipótesis por sector", "qué preguntar a una empresa de saneamiento", "validate sector hypothesis", "entrevista de descubrimiento".
+description: 'Úsalo para formular y probar hipótesis de dolor y oferta por sector (saneamiento ambiental, mantenimiento técnico, equipos de cocina), con preguntas de validación y qué evidencia las confirma. Gatillos: "hipótesis por sector", "qué preguntar a una empresa de saneamiento", "validate sector hypothesis", "entrevista de descubrimiento".'
 ---
 
 # Hipótesis por sector

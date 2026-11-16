@@ -1,5 +1,5 @@
 ---
-description: Audita la estructura de protección de una cuenta de Meta Ads (portafolio, 2FA, verificación, pagos, escalado) y guía una apelación legítima si hay restricción.
+description: 'Audita la estructura de protección de una cuenta de Meta Ads (portafolio, 2FA, verificación, pagos, escalado) y guía una apelación legítima si hay restricción.'
 argument-hint: "[estado de la cuenta: nueva | activa | restringida] [activo afectado, si aplica]"
 ---
 

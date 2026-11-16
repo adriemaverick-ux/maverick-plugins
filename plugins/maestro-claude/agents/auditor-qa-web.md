@@ -1,6 +1,6 @@
 ---
 name: auditor-qa-web
-description: Audita una web o app antes de publicar (funcional, UI/UX, accesibilidad, SEO, seguridad básica) en modo lectura y pruebas, sin reescribir el producto. Usar tras construir o antes de desplegar, o cuando se pida QA, revisión de seguridad o auditoría.
+description: 'Audita una web o app antes de publicar (funcional, UI/UX, accesibilidad, SEO, seguridad básica) en modo lectura y pruebas, sin reescribir el producto. Usar tras construir o antes de desplegar, o cuando se pida QA, revisión de seguridad o auditoría.'
 tools: Read, Write, Edit, Glob, Grep, Bash, WebFetch
 model: sonnet
 ---

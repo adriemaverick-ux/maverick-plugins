@@ -1,6 +1,6 @@
 ---
 name: auditoria-catalogo
-description: Audita el catálogo Shopify de Casa Soyer para pauta - stock cero o negativo, duplicados, SKUs fantasma ($0 / stock 10), productos sin imagen, costos mal cargados, y clasifica piezas en Tiers 1/2/3. Usar antes de conectar o subir cualquier feed a Meta/Google, o cuando se pida "auditar la tienda".
+description: 'Audita el catálogo Shopify de Casa Soyer para pauta - stock cero o negativo, duplicados, SKUs fantasma ($0 / stock 10), productos sin imagen, costos mal cargados, y clasifica piezas en Tiers 1/2/3. Usar antes de conectar o subir cualquier feed a Meta/Google, o cuando se pida "auditar la tienda".'
 ---
 
 # Auditoría de catálogo

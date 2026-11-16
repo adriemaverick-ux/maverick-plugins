@@ -1,6 +1,6 @@
 ---
 name: tono-humano-calido-peru
-description: Úsala al escribir cualquier texto para clientes de Lima (WhatsApp, video en cámara, propuesta) que deba sonar natural, cálido y de persona, no robótico. Gatillos - "que suene humano", "más natural", "suena a robot", "warm Peruvian tone", "humanize".
+description: 'Úsala al escribir cualquier texto para clientes de Lima (WhatsApp, video en cámara, propuesta) que deba sonar natural, cálido y de persona, no robótico. Gatillos - "que suene humano", "más natural", "suena a robot", "warm Peruvian tone", "humanize".'
 ---
 
 # Tono humano y cálido, español de Perú

@@ -1,6 +1,6 @@
 ---
 name: creativos-con-ia
-description: Usar antes de emplear IA generativa en anuncios de Meta - qué sí y qué no, fidelidad del producto, etiqueta "AI info", divulgación y confianza del consumidor. Gatillos - "creativos con IA", "AI ads", "avatares IA", "Advantage+ creative", "etiqueta AI info", "imagen generada".
+description: 'Usar antes de emplear IA generativa en anuncios de Meta - qué sí y qué no, fidelidad del producto, etiqueta "AI info", divulgación y confianza del consumidor. Gatillos - "creativos con IA", "AI ads", "avatares IA", "Advantage+ creative", "etiqueta AI info", "imagen generada".'
 ---
 
 # Creativos con IA

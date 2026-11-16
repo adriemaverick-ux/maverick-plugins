@@ -1,6 +1,6 @@
 ---
 name: estilo-evaluar-fidelidad
-description: Úsala para medir si un texto suena a la persona o marca del perfil, con checklist y comparación ciega. Gatillos - "suena a mí", "evaluar estilo", "evaluate style fidelity", "blind comparison", "detector de IA".
+description: 'Úsala para medir si un texto suena a la persona o marca del perfil, con checklist y comparación ciega. Gatillos - "suena a mí", "evaluar estilo", "evaluate style fidelity", "blind comparison", "detector de IA".'
 ---
 
 # Evaluar la fidelidad de estilo

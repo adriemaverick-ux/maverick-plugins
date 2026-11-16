@@ -1,6 +1,6 @@
 ---
 name: produccion-qa-antes-de-publicar
-description: Lista de control de calidad y cumplimiento que un humano debe pasar antes de programar o publicar cualquier pieza de Maverick. Usar con "QA", "revisar antes de publicar", "checklist de publicación", "pre-publish check", "aprobar video".
+description: 'Lista de control de calidad y cumplimiento que un humano debe pasar antes de programar o publicar cualquier pieza de Maverick. Usar con "QA", "revisar antes de publicar", "checklist de publicación", "pre-publish check", "aprobar video".'
 ---
 
 # QA antes de publicar

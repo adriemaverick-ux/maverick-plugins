@@ -1,6 +1,6 @@
 ---
 name: app-dashboard-mock-primero
-description: Construye dashboards y apps (login, panel, formularios, pagos) empezando con datos mock y buen diseño, y conecta backend después. Usar con "dashboard", "app con login", "Supabase", "mock data", "SaaS", "Stripe en sandbox" o "panel admin".
+description: 'Construye dashboards y apps (login, panel, formularios, pagos) empezando con datos mock y buen diseño, y conecta backend después. Usar con "dashboard", "app con login", "Supabase", "mock data", "SaaS", "Stripe en sandbox" o "panel admin".'
 ---
 
 # Apps y dashboards: mock primero

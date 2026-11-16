@@ -1,6 +1,6 @@
 ---
 name: limpieza-catalogo
-description: Ejecuta el plan de limpieza de la tienda Shopify de Casa Soyer por fases (catálogo muerto, SKUs fantasma, stock negativo, duplicados, imágenes, costos) con dry-run y confirmación explícita. Usar solo cuando se pida corregir la tienda.
+description: 'Ejecuta el plan de limpieza de la tienda Shopify de Casa Soyer por fases (catálogo muerto, SKUs fantasma, stock negativo, duplicados, imágenes, costos) con dry-run y confirmación explícita. Usar solo cuando se pida corregir la tienda.'
 ---
 
 # Limpieza de catálogo (tienda de PRODUCCIÓN)

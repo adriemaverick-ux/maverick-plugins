@@ -1,6 +1,6 @@
 ---
 name: auditor-de-secretos
-description: Busca tokens, claves y contraseñas en texto plano en la bóveda y carpetas indicadas y reporta archivo, línea y tipo, sin mostrar nunca el valor. Usar antes de sincronizar la bóveda o al sospechar de claves expuestas.
+description: 'Busca tokens, claves y contraseñas en texto plano en la bóveda y carpetas indicadas y reporta archivo, línea y tipo, sin mostrar nunca el valor. Usar antes de sincronizar la bóveda o al sospechar de claves expuestas.'
 tools: Read, Glob, Grep
 model: sonnet
 ---

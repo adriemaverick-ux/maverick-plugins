@@ -1,6 +1,6 @@
 ---
 name: creador-de-contenido-maverick
-description: Prepara guiones, planes semanales, paquetes de reutilización por canal y borradores de reporte para el contenido en cámara de Maverick Sistemas. Usar cuando Adrie pida un guion, un plan de contenido o el paquete de un video. Nunca publica ni programa.
+description: 'Prepara guiones, planes semanales, paquetes de reutilización por canal y borradores de reporte para el contenido en cámara de Maverick Sistemas. Usar cuando Adrie pida un guion, un plan de contenido o el paquete de un video. Nunca publica ni programa.'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

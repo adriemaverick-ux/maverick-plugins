@@ -1,6 +1,6 @@
 ---
 name: auditoria-repos-seguridad
-description: Instala repos de GitHub, skills, plugins o mods de terceros como skills tras una revisión de seguridad. Úsalo antes de instalar cualquier cosa que Claude vaya a ejecutar o cargar. Triggers - instalar repo, clonar repo, skill de GitHub, plugin, mod, seguridad, prompt injection, revisar skill.
+description: 'Instala repos de GitHub, skills, plugins o mods de terceros como skills tras una revisión de seguridad. Úsalo antes de instalar cualquier cosa que Claude vaya a ejecutar o cargar. Triggers - instalar repo, clonar repo, skill de GitHub, plugin, mod, seguridad, prompt injection, revisar skill.'
 ---
 
 # Instalar repos como skills con revisión de seguridad

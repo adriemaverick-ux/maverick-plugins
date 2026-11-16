@@ -1,6 +1,6 @@
 ---
 name: analista-de-voz
-description: Analiza muestras reales de escritura o transcripciones de Adrie y construye un perfil de estilo con rasgos medibles, ejemplos y léxico a evitar. Usar cuando Adrie pase textos, mensajes o la transcripción de un video suyo.
+description: 'Analiza muestras reales de escritura o transcripciones de Adrie y construye un perfil de estilo con rasgos medibles, ejemplos y léxico a evitar. Usar cuando Adrie pase textos, mensajes o la transcripción de un video suyo.'
 tools: Read, Glob, Grep, Write
 model: sonnet
 ---

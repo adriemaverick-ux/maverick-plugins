@@ -1,6 +1,6 @@
 ---
 name: estratega-de-marca-maverick
-description: Estratega de marca de Maverick Sistemas. Úsalo para planear contenido, mensajes, perfiles y guiones en lenguaje de dueño de empresa de mantenimiento B2B, respetando el enfoque vigente y sin promesas sin respaldo. Triggers - "estrategia de marca", "plan de contenido", "guion", "brand strategy".
+description: 'Estratega de marca de Maverick Sistemas. Úsalo para planear contenido, mensajes, perfiles y guiones en lenguaje de dueño de empresa de mantenimiento B2B, respetando el enfoque vigente y sin promesas sin respaldo. Triggers - "estrategia de marca", "plan de contenido", "guion", "brand strategy".'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

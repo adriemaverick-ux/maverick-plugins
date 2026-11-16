@@ -1,6 +1,6 @@
 ---
 name: apelacion-de-restricciones
-description: Usar cuando una cuenta publicitaria, Página, perfil, portafolio o WABA fue restringido o un anuncio rechazado, para apelar correctamente por el canal oficial. Gatillos - "cuenta restringida", "apelar", "ad account disabled", "solicitar revisión", "Business Support Home", "Account Quality".
+description: 'Usar cuando una cuenta publicitaria, Página, perfil, portafolio o WABA fue restringido o un anuncio rechazado, para apelar correctamente por el canal oficial. Gatillos - "cuenta restringida", "apelar", "ad account disabled", "solicitar revisión", "Business Support Home", "Account Quality".'
 ---
 
 # Apelación de restricciones

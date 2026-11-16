@@ -1,6 +1,6 @@
 ---
 name: auto-conectar-llm-a-mensajeria
-description: Usar cuando se quiera conectar Claude, GPT o Codex a Instagram/Messenger/WhatsApp vía GHL, n8n o una función en la nube. Gatillos "conectar IA a Instagram", "chatbot con IA", "External Request timeout", "LLM en DMs", "connect Claude to Instagram".
+description: 'Usar cuando se quiera conectar Claude, GPT o Codex a Instagram/Messenger/WhatsApp vía GHL, n8n o una función en la nube. Gatillos "conectar IA a Instagram", "chatbot con IA", "External Request timeout", "LLM en DMs", "connect Claude to Instagram".'
 ---
 
 # Conectar un LLM a la mensajería (dentro de lo permitido)

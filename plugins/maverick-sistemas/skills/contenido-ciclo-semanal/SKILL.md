@@ -1,6 +1,6 @@
 ---
 name: contenido-ciclo-semanal
-description: Arma el ciclo semanal de contenido de Maverick Sistemas con Adrie en cámara (grabación en lote y reutilización en varios canales). Usar al planificar la semana, "plan semanal", "weekly content plan", "qué grabo esta semana" o cuando falta tiempo y hay que recortar.
+description: 'Arma el ciclo semanal de contenido de Maverick Sistemas con Adrie en cámara (grabación en lote y reutilización en varios canales). Usar al planificar la semana, "plan semanal", "weekly content plan", "qué grabo esta semana" o cuando falta tiempo y hay que recortar.'
 ---
 
 # Ciclo semanal de contenido en cámara

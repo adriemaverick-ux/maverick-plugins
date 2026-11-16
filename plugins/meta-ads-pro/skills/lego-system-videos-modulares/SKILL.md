@@ -1,6 +1,6 @@
 ---
 name: lego-system-videos-modulares
-description: Sistema de videos modulares para anuncios ("Lego System") - grabar de una vez varios ganchos, muchos cuerpos (una pieza de la oferta cada uno) y pocos CTA, cortarlos con Claude Code y combinarlos en anuncios de ~30 s, adaptado a Maverick (formato definitivo, un dolor por anuncio, sin IA). Usar al planear una grabación para anuncios o con "Lego System", "videos modulares", "ganchos y cuerpos", "combinar clips", "muchos anuncios de una grabación".
+description: 'Sistema de videos modulares para anuncios ("Lego System") - grabar de una vez varios ganchos, muchos cuerpos (una pieza de la oferta cada uno) y pocos CTA, cortarlos con Claude Code y combinarlos en anuncios de ~30 s, adaptado a Maverick (formato definitivo, un dolor por anuncio, sin IA). Usar al planear una grabación para anuncios o con "Lego System", "videos modulares", "ganchos y cuerpos", "combinar clips", "muchos anuncios de una grabación".'
 ---
 
 # Lego System: videos modulares para anuncios

@@ -1,6 +1,6 @@
 ---
 name: diag-dominio-y-dns-caido
-description: Diagnóstico de un dominio o web que no abre (NXDOMAIN, dominio sin registrar, dominio registrado con DNS sin zona) con host, dig y WHOIS, qué significa cada resultado y cómo se arregla. Usar cuando la web de un prospecto o cliente no carga. Gatillos - "web caída", "no abre", "DNS", "dominio", "NXDOMAIN", "whois".
+description: 'Diagnóstico de un dominio o web que no abre (NXDOMAIN, dominio sin registrar, dominio registrado con DNS sin zona) con host, dig y WHOIS, qué significa cada resultado y cómo se arregla. Usar cuando la web de un prospecto o cliente no carga. Gatillos - "web caída", "no abre", "DNS", "dominio", "NXDOMAIN", "whois".'
 ---
 
 # Diagnóstico de dominio y DNS caído

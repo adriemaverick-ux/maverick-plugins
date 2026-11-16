@@ -1,6 +1,6 @@
 ---
-description: Revisa una pieza de Maverick (guion, caption, bio, propuesta, mensaje) contra afirmaciones prohibidas, permisos de clientes y honestidad comercial.
-argument-hint: <ruta del archivo o texto de la pieza>
+description: 'Revisa una pieza de Maverick (guion, caption, bio, propuesta, mensaje) contra afirmaciones prohibidas, permisos de clientes y honestidad comercial.'
+argument-hint: '<ruta del archivo o texto de la pieza>'
 ---
 
 Revisa la siguiente pieza de Maverick Sistemas: $ARGUMENTS

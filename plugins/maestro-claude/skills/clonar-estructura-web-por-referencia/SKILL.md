@@ -1,6 +1,6 @@
 ---
 name: clonar-estructura-web-por-referencia
-description: Usar al replicar la estructura, ritmo y principios de conversión de un sitio de referencia, o generar variantes por negocio, sin copiar su contenido ni marca. Gatillos - "clonar web", "copiar estilo de", "replicar layout", "HTML de referencia", "design DNA", "variantes por cliente".
+description: 'Usar al replicar la estructura, ritmo y principios de conversión de un sitio de referencia, o generar variantes por negocio, sin copiar su contenido ni marca. Gatillos - "clonar web", "copiar estilo de", "replicar layout", "HTML de referencia", "design DNA", "variantes por cliente".'
 ---
 
 # Clonar estructura por referencia (sin copia literal)

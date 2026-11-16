@@ -1,6 +1,6 @@
 ---
 name: analisis-reels-con-gemini
-description: Estudia Reels de marcas personales con Gemini (que mira el video y lo describe en una ficha estructurada) y luego extrae de las fichas el estilo de edición, los hooks, el ritmo, los overlays y el sonido para adaptarlos a Maverick. Usar cuando Adrie quiera analizar videos de otros creadores o aprender su edición. Incluye el estudio en lote de una cuenta (grabar, analizar y medir colores, diseño y ritmo con scripts). Gatillos - "analizar reels", "estudiar esta cuenta", "cómo editan", "extraer hooks de estos videos", "medir el diseño", "Gemini video".
+description: 'Estudia Reels de marcas personales con Gemini (que mira el video y lo describe en una ficha estructurada) y luego extrae de las fichas el estilo de edición, los hooks, el ritmo, los overlays y el sonido para adaptarlos a Maverick. Usar cuando Adrie quiera analizar videos de otros creadores o aprender su edición. Incluye el estudio en lote de una cuenta (grabar, analizar y medir colores, diseño y ritmo con scripts). Gatillos - "analizar reels", "estudiar esta cuenta", "cómo editan", "extraer hooks de estos videos", "medir el diseño", "Gemini video".'
 ---
 
 # Análisis de Reels con Gemini

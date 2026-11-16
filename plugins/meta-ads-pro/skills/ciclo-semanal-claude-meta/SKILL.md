@@ -1,6 +1,6 @@
 ---
 name: ciclo-semanal-claude-meta
-description: El ritual semanal del sistema Claude + Meta Ads de Maverick - qué hace Claude, qué hace Adrie, qué necesita aprobación, cada día y cada mes. Usar al operar campañas activas, al planear la semana de pauta o con "ciclo semanal", "qué toca hoy en ads", "rutina de Meta Ads", "operación semanal".
+description: 'El ritual semanal del sistema Claude + Meta Ads de Maverick - qué hace Claude, qué hace Adrie, qué necesita aprobación, cada día y cada mes. Usar al operar campañas activas, al planear la semana de pauta o con "ciclo semanal", "qué toca hoy en ads", "rutina de Meta Ads", "operación semanal".'
 ---
 
 # Ciclo semanal Claude + Meta Ads

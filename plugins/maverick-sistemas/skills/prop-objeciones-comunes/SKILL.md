@@ -1,6 +1,6 @@
 ---
 name: prop-objeciones-comunes
-description: Úsalo para responder con honestidad las objeciones típicas de dueños de empresas de mantenimiento B2B (ya tengo menú automático, es caro, no tengo tiempo, no confío en un bot). Gatillos - "objeciones", "me dijo que está caro", "handle objection", "qué le respondo si", "ya tengo respuesta automática".
+description: 'Úsalo para responder con honestidad las objeciones típicas de dueños de empresas de mantenimiento B2B (ya tengo menú automático, es caro, no tengo tiempo, no confío en un bot). Gatillos - "objeciones", "me dijo que está caro", "handle objection", "qué le respondo si", "ya tengo respuesta automática".'
 ---
 
 # Objeciones comunes

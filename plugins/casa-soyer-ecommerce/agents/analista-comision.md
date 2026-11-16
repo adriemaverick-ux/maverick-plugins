@@ -1,6 +1,6 @@
 ---
 name: analista-comision
-description: Calcula y audita comisión sobre margen bruto y rentabilidad de pauta de Casa Soyer, marcando costos faltantes y exclusiones.
+description: 'Calcula y audita comisión sobre margen bruto y rentabilidad de pauta de Casa Soyer, marcando costos faltantes y exclusiones.'
 tools: Read, Write, Bash
 model: sonnet
 ---

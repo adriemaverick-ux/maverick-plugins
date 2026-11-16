@@ -1,6 +1,6 @@
 ---
 name: memoria-tres-niveles
-description: Diseña la memoria de Claude en tres niveles (quién soy, qué hago, qué pasó antes) para no depender del historial del chat. Úsalo al configurar o auditar memoria. Triggers - memoria, memory, wrap-up, Obsidian, Pinecone, RAG, contexto entre sesiones.
+description: 'Diseña la memoria de Claude en tres niveles (quién soy, qué hago, qué pasó antes) para no depender del historial del chat. Úsalo al configurar o auditar memoria. Triggers - memoria, memory, wrap-up, Obsidian, Pinecone, RAG, contexto entre sesiones.'
 ---
 
 # Memoria en tres niveles

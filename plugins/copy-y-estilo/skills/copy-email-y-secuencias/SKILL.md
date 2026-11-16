@@ -1,6 +1,6 @@
 ---
 name: copy-email-y-secuencias
-description: Escribe asuntos, vistas previas y secuencias de email para Casa Soyer y Maverick, con una idea por correo y baja visible. Usar al armar un email o una secuencia de bienvenida o de recurso. Gatillos - "email", "asunto", "secuencia", "newsletter", "email sequence".
+description: 'Escribe asuntos, vistas previas y secuencias de email para Casa Soyer y Maverick, con una idea por correo y baja visible. Usar al armar un email o una secuencia de bienvenida o de recurso. Gatillos - "email", "asunto", "secuencia", "newsletter", "email sequence".'
 ---
 
 # Email y secuencias

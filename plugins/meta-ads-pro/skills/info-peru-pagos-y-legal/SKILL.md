@@ -1,6 +1,6 @@
 ---
 name: info-peru-pagos-y-legal
-description: Pagos y requisitos legales para vender infoproductos en Perú: pasarelas, Yape, Libro de Reclamaciones, Indecopi, IGV de servicios digitales y reembolsos. Usar cuando se pregunte "cómo cobrar en Perú", "pasarela en Perú", "Libro de Reclamaciones curso", "Peru payments course".
+description: 'Pagos y requisitos legales para vender infoproductos en Perú: pasarelas, Yape, Libro de Reclamaciones, Indecopi, IGV de servicios digitales y reembolsos. Usar cuando se pregunte "cómo cobrar en Perú", "pasarela en Perú", "Libro de Reclamaciones curso", "Peru payments course".'
 ---
 
 # Pagos y legal en Perú para infoproductos

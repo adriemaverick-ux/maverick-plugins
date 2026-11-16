@@ -1,6 +1,6 @@
 ---
 name: canales-instagram-facebook-reels-y-dm-por-palabra-clave
-description: Reglas para publicar Reels en Instagram y Facebook y para el CTA de palabra clave que pasa a DM, sin automatizar respuestas. Usar con "Reel", "Instagram", "Facebook", "comenta la palabra", "DM por palabra clave", "keyword DM".
+description: 'Reglas para publicar Reels en Instagram y Facebook y para el CTA de palabra clave que pasa a DM, sin automatizar respuestas. Usar con "Reel", "Instagram", "Facebook", "comenta la palabra", "DM por palabra clave", "keyword DM".'
 ---
 
 # Instagram y Facebook: Reels y DM por palabra clave

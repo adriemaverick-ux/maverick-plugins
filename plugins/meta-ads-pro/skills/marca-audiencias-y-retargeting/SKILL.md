@@ -1,6 +1,6 @@
 ---
 name: marca-audiencias-y-retargeting
-description: Usar para definir audiencias amplias, retargeting por capas, listas y lookalikes en una marca personal en Perú. Gatillos - "audiencia", "retargeting", "lookalike", "quién vio mi video", "audiencias personalizadas", "advantage+".
+description: 'Usar para definir audiencias amplias, retargeting por capas, listas y lookalikes en una marca personal en Perú. Gatillos - "audiencia", "retargeting", "lookalike", "quién vio mi video", "audiencias personalizadas", "advantage+".'
 ---
 
 # Audiencias y retargeting para marca personal

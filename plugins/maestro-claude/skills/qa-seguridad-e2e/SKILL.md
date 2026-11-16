@@ -1,6 +1,6 @@
 ---
 name: qa-seguridad-e2e
-description: Usar antes de publicar o entregar una web o app, para probar de punta a punta y revisar seguridad con contexto limpio. Gatillos - "QA", "probar la web", "E2E", "revisión de seguridad", "checklist de lanzamiento", "pre-launch", "pruebas".
+description: 'Usar antes de publicar o entregar una web o app, para probar de punta a punta y revisar seguridad con contexto limpio. Gatillos - "QA", "probar la web", "E2E", "revisión de seguridad", "checklist de lanzamiento", "pre-launch", "pruebas".'
 ---
 
 # QA y seguridad E2E

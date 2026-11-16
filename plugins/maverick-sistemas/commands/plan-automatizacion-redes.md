@@ -1,5 +1,5 @@
 ---
-description: Genera el plan de automatización de redes de Maverick Sistemas (GHL, IA, programación de contenido) por fases, dentro de las reglas de Meta y de Perú, con costos marcados como verificados o no.
+description: 'Genera el plan de automatización de redes de Maverick Sistemas (GHL, IA, programación de contenido) por fases, dentro de las reglas de Meta y de Perú, con costos marcados como verificados o no.'
 argument-hint: "[horizonte en semanas, por defecto 4] [prioridad: dms|publicacion|ambos]"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: prosp-filtro-de-prospectos
-description: Úsalo para decidir si una empresa de mantenimiento B2B merece entrar a una tanda de contacto. Gatillos: "filtrar prospectos", "¿vale la pena esta empresa?", "armar lista", "prospect filter", "qualify lead before outreach".
+description: 'Úsalo para decidir si una empresa de mantenimiento B2B merece entrar a una tanda de contacto. Gatillos: "filtrar prospectos", "¿vale la pena esta empresa?", "armar lista", "prospect filter", "qualify lead before outreach".'
 ---
 
 # Filtro de prospectos

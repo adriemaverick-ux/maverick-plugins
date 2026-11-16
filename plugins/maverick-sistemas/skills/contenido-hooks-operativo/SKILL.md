@@ -1,6 +1,6 @@
 ---
 name: contenido-hooks-operativo
-description: Versión corta del método de ganchos para videos y mensajes de Maverick dirigidos a dueños de empresas de mantenimiento B2B. Usar al reescribir una apertura que suena técnica o genérica. Gatillos - "gancho", "hook", "primera frase", "suena robótico", "reescribe la apertura".
+description: 'Versión corta del método de ganchos para videos y mensajes de Maverick dirigidos a dueños de empresas de mantenimiento B2B. Usar al reescribir una apertura que suena técnica o genérica. Gatillos - "gancho", "hook", "primera frase", "suena robótico", "reescribe la apertura".'
 ---
 
 # Ganchos operativos para empresas de mantenimiento B2B

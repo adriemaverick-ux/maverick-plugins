@@ -1,6 +1,6 @@
 ---
 name: endurecimiento-y-backup-agente
-description: Endurece un agente que corre 24/7 en un servidor (VPS) o equipo propio y configura su respaldo automático sin secretos. Úsalo al desplegar o dejar un agente siempre activo; gatillos - VPS, SSH, firewall, hardening, servidor del agente, backup del agente, Railway, Telegram bot.
+description: 'Endurece un agente que corre 24/7 en un servidor (VPS) o equipo propio y configura su respaldo automático sin secretos. Úsalo al desplegar o dejar un agente siempre activo; gatillos - VPS, SSH, firewall, hardening, servidor del agente, backup del agente, Railway, Telegram bot.'
 ---
 
 # Endurecimiento básico y backup del agente

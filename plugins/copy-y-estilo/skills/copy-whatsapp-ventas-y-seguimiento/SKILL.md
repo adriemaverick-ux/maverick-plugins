@@ -1,6 +1,6 @@
 ---
 name: copy-whatsapp-ventas-y-seguimiento
-description: Redacta mensajes de WhatsApp de venta consultiva y seguimiento (primer mensaje, calificación, objeciones, cierre, reactivación) para Casa Soyer y Maverick, respetando las reglas de Meta/WhatsApp. Usar al responder un lead o armar un seguimiento. Gatillos - "mensaje de WhatsApp", "seguimiento", "responder lead", "objeción de precio", "follow-up".
+description: 'Redacta mensajes de WhatsApp de venta consultiva y seguimiento (primer mensaje, calificación, objeciones, cierre, reactivación) para Casa Soyer y Maverick, respetando las reglas de Meta/WhatsApp. Usar al responder un lead o armar un seguimiento. Gatillos - "mensaje de WhatsApp", "seguimiento", "responder lead", "objeción de precio", "follow-up".'
 ---
 
 # Copy de WhatsApp: ventas y seguimiento

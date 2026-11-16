@@ -1,6 +1,6 @@
 ---
 name: subagentes-vs-equipos
-description: Usar para decidir cómo paralelizar trabajo en Claude Code (un agente, subagentes o agent teams) y cuándo sumar otros modelos como revisores. Gatillos - "subagentes", "agent teams", "agentes en paralelo", "context rot", "revisión con otro modelo", "multi-agente".
+description: 'Usar para decidir cómo paralelizar trabajo en Claude Code (un agente, subagentes o agent teams) y cuándo sumar otros modelos como revisores. Gatillos - "subagentes", "agent teams", "agentes en paralelo", "context rot", "revisión con otro modelo", "multi-agente".'
 ---
 
 # Subagentes vs equipos de agentes

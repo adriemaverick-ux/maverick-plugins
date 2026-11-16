@@ -1,6 +1,6 @@
 ---
 name: pipeline-web-completo
-description: Usar al crear o rehacer una landing o web desde cero, de la estrategia a la publicación (moodboard, diseño, build, refinado, deploy). Gatillos - "crear una web", "landing page", "build a website", "pipeline web", "rediseñar sitio".
+description: 'Usar al crear o rehacer una landing o web desde cero, de la estrategia a la publicación (moodboard, diseño, build, refinado, deploy). Gatillos - "crear una web", "landing page", "build a website", "pipeline web", "rediseñar sitio".'
 ---
 
 # Pipeline web completo

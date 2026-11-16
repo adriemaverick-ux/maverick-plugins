@@ -1,5 +1,5 @@
 ---
-description: Publica una web con GitHub y Vercel tras un pre-vuelo y SIEMPRE con confirmación explícita antes de desplegar.
+description: 'Publica una web con GitHub y Vercel tras un pre-vuelo y SIEMPRE con confirmación explícita antes de desplegar.'
 argument-hint: "[carpeta del proyecto] [dominio opcional]"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: prosp-separar-respuestas-humanas-de-bots
-description: Úsalo al revisar respuestas recibidas de empresas de mantenimiento para distinguir personas de bots, mensajes de bienvenida y menús, y decidir qué cuenta como Respondió. Gatillos: "respondió una empresa", "es un bot", "respuesta automática", "clasificar respuestas", "human vs bot reply".
+description: 'Úsalo al revisar respuestas recibidas de empresas de mantenimiento para distinguir personas de bots, mensajes de bienvenida y menús, y decidir qué cuenta como Respondió. Gatillos: "respondió una empresa", "es un bot", "respuesta automática", "clasificar respuestas", "human vs bot reply".'
 ---
 
 # Separar respuestas humanas de bots

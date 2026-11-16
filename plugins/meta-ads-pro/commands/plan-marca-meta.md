@@ -1,6 +1,6 @@
 ---
-description: Genera un plan de pauta para marca personal (orgánico a pauta, objetivo, embudo, métricas, reglas) para aprobación humana
-argument-hint: [oferta, ticket, canal (Instagram/LinkedIn), orgánico que ya funciona, capacidad de citas]
+description: 'Genera un plan de pauta para marca personal (orgánico a pauta, objetivo, embudo, métricas, reglas) para aprobación humana'
+argument-hint: '[oferta, ticket, canal (Instagram/LinkedIn), orgánico que ya funciona, capacidad de citas]'
 ---
 
 Delega en el agente `estratega-marca-personal-meta` un plan de pauta para marca personal para: $ARGUMENTS

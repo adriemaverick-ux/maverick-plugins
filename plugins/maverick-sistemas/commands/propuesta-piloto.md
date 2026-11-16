@@ -1,5 +1,5 @@
 ---
-description: Redacta la propuesta visual de un piloto (borrador) con cálculo de cotización por marcadores, costos de herramientas, responsables, qué queda fuera y siguiente paso. No envía nada.
+description: 'Redacta la propuesta visual de un piloto (borrador) con cálculo de cotización por marcadores, costos de herramientas, responsables, qué queda fuera y siguiente paso. No envía nada.'
 argument-hint: "[negocio] [cuello de botella o ruta del diagnóstico]"
 ---
 

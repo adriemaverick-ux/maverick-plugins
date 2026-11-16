@@ -1,6 +1,6 @@
 ---
 name: diag-entrevista-de-descubrimiento
-description: Úsalo para preparar y conducir una entrevista de 20-25 minutos con el dueño de una empresa de mantenimiento B2B (saneamiento, mantenimiento técnico o equipos), y salir con datos para vender con precisión. Gatillos - "entrevista de descubrimiento", "preguntas para el dueño", "discovery call", "primera conversación con prospecto", "qué le pregunto a la empresa".
+description: 'Úsalo para preparar y conducir una entrevista de 20-25 minutos con el dueño de una empresa de mantenimiento B2B (saneamiento, mantenimiento técnico o equipos), y salir con datos para vender con precisión. Gatillos - "entrevista de descubrimiento", "preguntas para el dueño", "discovery call", "primera conversación con prospecto", "qué le pregunto a la empresa".'
 ---
 
 # Entrevista de descubrimiento (20-25 min)

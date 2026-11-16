@@ -1,6 +1,6 @@
 ---
 name: guion-9-bloques
-description: Plantilla oficial de guiones de Maverick (Formato C: pizarra estática larga que Adrie desliza, con su cara en una burbuja redonda) basada en el esqueleto de 9 bloques - gancho, punto de no retorno, bloque 1, gancho 2, bloque 2, gancho 3, bloque 3, cierre y CTA. El hook llama al ICP con su rubro y el punto de no retorno hace que el dueño se lo note. Usar al escribir cualquier guion de Reel, Short o video de Maverick. Gatillos - "guion", "script", "plantilla de guion", "9 bloques", "pieza", "hook".
+description: 'Plantilla oficial de guiones de Maverick (Formato C: pizarra estática larga que Adrie desliza, con su cara en una burbuja redonda) basada en el esqueleto de 9 bloques - gancho, punto de no retorno, bloque 1, gancho 2, bloque 2, gancho 3, bloque 3, cierre y CTA. El hook llama al ICP con su rubro y el punto de no retorno hace que el dueño se lo note. Usar al escribir cualquier guion de Reel, Short o video de Maverick. Gatillos - "guion", "script", "plantilla de guion", "9 bloques", "pieza", "hook".'
 ---
 
 # Guion de 9 bloques

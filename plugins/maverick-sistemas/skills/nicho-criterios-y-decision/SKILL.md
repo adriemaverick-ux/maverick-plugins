@@ -1,6 +1,6 @@
 ---
 name: nicho-criterios-y-decision
-description: Úsalo para comparar los sectores en exploración (saneamiento, mantenimiento técnico, equipos de cocina) y decidir dónde concentrar esfuerzo, sin declarar ganador antes de tener datos. Gatillos: "¿qué nicho elegir?", "validar nicho", "comparar sectores", "niche decision criteria".
+description: 'Úsalo para comparar los sectores en exploración (saneamiento, mantenimiento técnico, equipos de cocina) y decidir dónde concentrar esfuerzo, sin declarar ganador antes de tener datos. Gatillos: "¿qué nicho elegir?", "validar nicho", "comparar sectores", "niche decision criteria".'
 ---
 
 # Criterios y decisión de nicho

@@ -1,5 +1,5 @@
 ---
-description: Inicia un proyecto de Claude Code - entrevista, CLAUDE.md, memoria, política de modelos y permisos mínimos.
+description: 'Inicia un proyecto de Claude Code - entrevista, CLAUDE.md, memoria, política de modelos y permisos mínimos.'
 argument-hint: "[ruta-del-proyecto] [objetivo en una frase]"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: agentic-os-planificador-obrero-critico
-description: Monta un Agentic OS (panel local con contexto, memoria, skills, costes y revisión nocturna) y usa el patrón planificador-obrero-crítico para decisiones e investigación profunda. Úsalo para unificar tus agentes o para tareas largas que necesitan verificación; gatillos - Agentic OS, mission control, dreaming, triad, planner worker critic, /goal.
+description: 'Monta un Agentic OS (panel local con contexto, memoria, skills, costes y revisión nocturna) y usa el patrón planificador-obrero-crítico para decisiones e investigación profunda. Úsalo para unificar tus agentes o para tareas largas que necesitan verificación; gatillos - Agentic OS, mission control, dreaming, triad, planner worker critic, /goal.'
 ---
 
 # Agentic OS + patrón planificador-obrero-crítico

@@ -1,6 +1,6 @@
 ---
 name: estilo-extraer-perfil-de-voz
-description: Úsala cuando haya que sacar el perfil de voz de una persona o marca a partir de 3 a 5 muestras reales (mensajes, guiones, audios transcritos). Gatillos - "extraer perfil de voz", "cómo escribe", "mi estilo", "extract voice profile", "style guide from samples".
+description: 'Úsala cuando haya que sacar el perfil de voz de una persona o marca a partir de 3 a 5 muestras reales (mensajes, guiones, audios transcritos). Gatillos - "extraer perfil de voz", "cómo escribe", "mi estilo", "extract voice profile", "style guide from samples".'
 ---
 
 # Extraer un perfil de voz desde muestras reales

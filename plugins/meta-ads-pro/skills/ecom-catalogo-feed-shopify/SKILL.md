@@ -1,6 +1,6 @@
 ---
 name: ecom-catalogo-feed-shopify
-description: Úsala para conectar, auditar o arreglar el catálogo/feed de Shopify en Meta - IDs que no coinciden (variant ID), retirar piezas vendidas, sincronización y píxel+CAPI. Gatillos - "catálogo Meta", "feed Shopify", "variant ID", "content_id", "producto agotado", "Commerce Manager", "dynamic ads".
+description: 'Úsala para conectar, auditar o arreglar el catálogo/feed de Shopify en Meta - IDs que no coinciden (variant ID), retirar piezas vendidas, sincronización y píxel+CAPI. Gatillos - "catálogo Meta", "feed Shopify", "variant ID", "content_id", "producto agotado", "Commerce Manager", "dynamic ads".'
 ---
 
 # Catálogo y feed Shopify -> Meta

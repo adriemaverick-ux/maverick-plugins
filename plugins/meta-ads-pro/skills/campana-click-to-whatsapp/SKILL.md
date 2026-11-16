@@ -1,6 +1,6 @@
 ---
 name: campana-click-to-whatsapp
-description: Úsala para diseñar, revisar u optimizar una campaña Click-to-WhatsApp (CTWA) de ticket alto, optimizando por calidad (conversación calificada, venta) y no por conversación barata. Gatillos - "campaña a WhatsApp", "click to WhatsApp", "CTWA", "optimizar por conversaciones", "CAPI WhatsApp", "ctwa_clid".
+description: 'Úsala para diseñar, revisar u optimizar una campaña Click-to-WhatsApp (CTWA) de ticket alto, optimizando por calidad (conversación calificada, venta) y no por conversación barata. Gatillos - "campaña a WhatsApp", "click to WhatsApp", "CTWA", "optimizar por conversaciones", "CAPI WhatsApp", "ctwa_clid".'
 ---
 
 # Campaña Click-to-WhatsApp (estructura y optimización por calidad)

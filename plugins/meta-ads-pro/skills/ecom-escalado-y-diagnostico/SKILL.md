@@ -1,6 +1,6 @@
 ---
 name: ecom-escalado-y-diagnostico
-description: Úsala cuando el ROAS o las ventas caen, o cuando haya que decidir cómo escalar una tienda de ticket alto. Gatillos - "cayó el ROAS", "ROAS bajo", "escalar presupuesto", "fatiga creativa", "diagnóstico", "scaling", "Black Friday".
+description: 'Úsala cuando el ROAS o las ventas caen, o cuando haya que decidir cómo escalar una tienda de ticket alto. Gatillos - "cayó el ROAS", "ROAS bajo", "escalar presupuesto", "fatiga creativa", "diagnóstico", "scaling", "Black Friday".'
 ---
 
 # Escalado y diagnóstico cuando cae el ROAS

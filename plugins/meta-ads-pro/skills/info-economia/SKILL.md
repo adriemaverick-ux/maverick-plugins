@@ -1,6 +1,6 @@
 ---
 name: info-economia
-description: Calcula la economía de un infoproducto: margen neto, CPA máximo, ROAS de equilibrio, reembolsos y comisiones de plataforma o afiliados. Usar cuando se pregunte "cuánto puedo pagar por venta", "CAC aceptable", "ROAS de equilibrio", "break-even ROAS course".
+description: 'Calcula la economía de un infoproducto: margen neto, CPA máximo, ROAS de equilibrio, reembolsos y comisiones de plataforma o afiliados. Usar cuando se pregunte "cuánto puedo pagar por venta", "CAC aceptable", "ROAS de equilibrio", "break-even ROAS course".'
 ---
 
 # Economía del infoproducto

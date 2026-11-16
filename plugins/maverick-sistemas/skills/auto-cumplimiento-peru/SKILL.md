@@ -1,6 +1,6 @@
 ---
 name: auto-cumplimiento-peru
-description: Nota corta de riesgo sobre mensajería y datos en Perú, y qué reglas de plataforma sí se aplican en la práctica. Usar al diseñar flujos de mensajes o captación de datos. Gatillos - "cumplimiento Perú", "consentimiento", "spam", "datos personales", "Libro de Reclamaciones".
+description: 'Nota corta de riesgo sobre mensajería y datos en Perú, y qué reglas de plataforma sí se aplican en la práctica. Usar al diseñar flujos de mensajes o captación de datos. Gatillos - "cumplimiento Perú", "consentimiento", "spam", "datos personales", "Libro de Reclamaciones".'
 ---
 
 # Riesgo legal en Perú: nota corta

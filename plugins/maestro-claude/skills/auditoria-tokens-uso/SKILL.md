@@ -1,6 +1,6 @@
 ---
 name: auditoria-tokens-uso
-description: Audita y reduce el consumo de tokens y límites de uso de Claude/Claude Code (conectores, MCP, CLAUDE.md, skills, sesiones largas) y fija hábitos de ahorro. Úsalo cuando llegues a límites o las sesiones vayan lentas. Triggers - tokens, límite de uso, usage limit, ahorrar tokens, context bloat, /clear, /compact.
+description: 'Audita y reduce el consumo de tokens y límites de uso de Claude/Claude Code (conectores, MCP, CLAUDE.md, skills, sesiones largas) y fija hábitos de ahorro. Úsalo cuando llegues a límites o las sesiones vayan lentas. Triggers - tokens, límite de uso, usage limit, ahorrar tokens, context bloat, /clear, /compact.'
 ---
 
 # Auditoría de tokens y uso

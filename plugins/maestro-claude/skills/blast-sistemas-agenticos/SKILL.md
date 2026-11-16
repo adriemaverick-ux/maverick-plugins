@@ -1,6 +1,6 @@
 ---
 name: blast-sistemas-agenticos
-description: Usar al construir una app, dashboard o automatización que une varios servicios con Claude Code, en vez de armar workflows nodo a nodo. Gatillos - "BLAST", "blueprint", "sistema agéntico", "automatización con IA", "SOP antes del código", "build system".
+description: 'Usar al construir una app, dashboard o automatización que une varios servicios con Claude Code, en vez de armar workflows nodo a nodo. Gatillos - "BLAST", "blueprint", "sistema agéntico", "automatización con IA", "SOP antes del código", "build system".'
 ---
 
 # Método BLAST (Blueprint, Links, Architect, Stylize, Trigger)

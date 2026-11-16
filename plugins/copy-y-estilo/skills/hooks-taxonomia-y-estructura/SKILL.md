@@ -1,6 +1,6 @@
 ---
 name: hooks-taxonomia-y-estructura
-description: Clasifica y estructura ganchos (hooks) de apertura para video, texto y anuncio. Usar cuando haya que elegir el tipo de gancho, armar los primeros 3 segundos o revisar por qué una apertura no detiene a nadie. Gatillos - "hook", "gancho", "primeros segundos", "tipos de hook", "opening line".
+description: 'Clasifica y estructura ganchos (hooks) de apertura para video, texto y anuncio. Usar cuando haya que elegir el tipo de gancho, armar los primeros 3 segundos o revisar por qué una apertura no detiene a nadie. Gatillos - "hook", "gancho", "primeros segundos", "tipos de hook", "opening line".'
 ---
 
 # Taxonomía y estructura de un gancho

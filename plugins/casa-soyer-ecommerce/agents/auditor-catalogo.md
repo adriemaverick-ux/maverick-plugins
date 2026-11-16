@@ -1,6 +1,6 @@
 ---
 name: auditor-catalogo
-description: Audita en solo lectura el catálogo y el feed de Casa Soyer (stock, duplicados, fantasmas, imágenes, costos, Tiers). Usar proactivamente antes de cualquier campaña.
+description: 'Audita en solo lectura el catálogo y el feed de Casa Soyer (stock, duplicados, fantasmas, imágenes, costos, Tiers). Usar proactivamente antes de cualquier campaña.'
 tools: Read, Grep, Glob, WebFetch
 model: sonnet
 ---

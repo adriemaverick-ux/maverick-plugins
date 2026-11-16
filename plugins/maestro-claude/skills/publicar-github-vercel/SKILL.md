@@ -1,6 +1,6 @@
 ---
 name: publicar-github-vercel
-description: Usar para llevar una web a internet con repositorio GitHub y despliegue en Vercel, con dominio, variables de entorno, analítica y rollback. Gatillos - "publicar", "deploy", "subir a Vercel", "GitHub", "dominio", "poner online", "404 en producción".
+description: 'Usar para llevar una web a internet con repositorio GitHub y despliegue en Vercel, con dominio, variables de entorno, analítica y rollback. Gatillos - "publicar", "deploy", "subir a Vercel", "GitHub", "dominio", "poner online", "404 en producción".'
 ---
 
 # Publicar con GitHub + Vercel

@@ -1,6 +1,6 @@
 ---
 name: revisor-de-afirmaciones
-description: Revisa una pieza, bio, guion, propuesta o mensaje de Maverick Sistemas buscando afirmaciones prohibidas, cifras sin respaldo, clientes sin permiso y demos presentadas como sistemas instalados. Triggers - "revisa esta pieza", "review claims", "es seguro publicar".
+description: 'Revisa una pieza, bio, guion, propuesta o mensaje de Maverick Sistemas buscando afirmaciones prohibidas, cifras sin respaldo, clientes sin permiso y demos presentadas como sistemas instalados. Triggers - "revisa esta pieza", "review claims", "es seguro publicar".'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

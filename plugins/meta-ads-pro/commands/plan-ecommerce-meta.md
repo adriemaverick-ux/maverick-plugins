@@ -1,6 +1,6 @@
 ---
-description: Genera un plan de Meta Ads para ecommerce Shopify de ticket alto (economía, catálogo, estructura y fases de prueba) para aprobación
-argument-hint: [tienda/negocio, piezas o familias, precio y costo real, comisión pactada, objetivo]
+description: 'Genera un plan de Meta Ads para ecommerce Shopify de ticket alto (economía, catálogo, estructura y fases de prueba) para aprobación'
+argument-hint: '[tienda/negocio, piezas o familias, precio y costo real, comisión pactada, objetivo]'
 ---
 
 Delega en el agente `estratega-ecommerce-meta` un plan de Meta Ads para ecommerce de: $ARGUMENTS

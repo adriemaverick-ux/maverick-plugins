@@ -1,6 +1,6 @@
 ---
 name: diag-elegir-el-cuello-de-botella
-description: Úsalo cuando ya hay entrevista y mapa del flujo y toca decidir cuál ÚNICO paso conviene resolver primero con un piloto, o si conviene no empezar. Gatillos - "elegir cuello de botella", "qué automatizar primero", "matriz valor dificultad", "pick one bottleneck", "priorizar el piloto".
+description: 'Úsalo cuando ya hay entrevista y mapa del flujo y toca decidir cuál ÚNICO paso conviene resolver primero con un piloto, o si conviene no empezar. Gatillos - "elegir cuello de botella", "qué automatizar primero", "matriz valor dificultad", "pick one bottleneck", "priorizar el piloto".'
 ---
 
 # Elegir el cuello de botella

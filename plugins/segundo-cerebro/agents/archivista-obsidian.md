@@ -1,6 +1,6 @@
 ---
 name: archivista-obsidian
-description: Archivista de la bóveda de Obsidian de Adrie. Registra hallazgos, decisiones y pendientes de una sesión en la nota correcta, sin duplicar, sin pisar el trabajo de Codex y sin guardar secretos. Usar al cerrar un trabajo o cuando haya que ordenar notas.
+description: 'Archivista de la bóveda de Obsidian de Adrie. Registra hallazgos, decisiones y pendientes de una sesión en la nota correcta, sin duplicar, sin pisar el trabajo de Codex y sin guardar secretos. Usar al cerrar un trabajo o cuando haya que ordenar notas.'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

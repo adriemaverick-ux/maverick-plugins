@@ -1,6 +1,6 @@
 ---
 name: extraer-adn-diseno
-description: Extrae el "ADN de diseño" de un sitio, póster o pieza que admiras (tipografía, espaciado, color, estructura) y lo convierte en reglas y tokens reutilizables, sin copiarlo. Usar con "design DNA", "extraer estilo", "replicar este diseño", "comparar con referencia", "brecha de diseño" o "convertir en skill".
+description: 'Extrae el "ADN de diseño" de un sitio, póster o pieza que admiras (tipografía, espaciado, color, estructura) y lo convierte en reglas y tokens reutilizables, sin copiarlo. Usar con "design DNA", "extraer estilo", "replicar este diseño", "comparar con referencia", "brecha de diseño" o "convertir en skill".'
 ---
 
 # Extraer ADN de diseño

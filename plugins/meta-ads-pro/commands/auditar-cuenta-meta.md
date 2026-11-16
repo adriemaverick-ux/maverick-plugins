@@ -1,6 +1,6 @@
 ---
-description: Audita una cuenta de Meta Ads con checklist, puntaje y plan priorizado (solo lectura)
-argument-hint: [ruta a exports/capturas de la cuenta o breve descripción del negocio]
+description: 'Audita una cuenta de Meta Ads con checklist, puntaje y plan priorizado (solo lectura)'
+argument-hint: '[ruta a exports/capturas de la cuenta o breve descripción del negocio]'
 ---
 
 Delega en el agente `auditor-cuenta-meta` una auditoría de cuenta de Meta Ads con este insumo: $ARGUMENTS

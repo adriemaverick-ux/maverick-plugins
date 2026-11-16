@@ -1,6 +1,6 @@
 ---
 name: estructura-de-boveda
-description: Dónde va cada tipo de nota en la bóveda de Obsidian (Maverick MP y Casa Soyer), cómo nombrarla y enlazarla. Usar antes de crear o mover una nota. Gatillos - "dónde guardo esto", "estructura de la bóveda", "carpeta", "naming", "frontmatter".
+description: 'Dónde va cada tipo de nota en la bóveda de Obsidian (Maverick MP y Casa Soyer), cómo nombrarla y enlazarla. Usar antes de crear o mover una nota. Gatillos - "dónde guardo esto", "estructura de la bóveda", "carpeta", "naming", "frontmatter".'
 ---
 
 # Estructura de la bóveda

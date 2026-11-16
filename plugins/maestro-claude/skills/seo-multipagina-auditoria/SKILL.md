@@ -1,6 +1,6 @@
 ---
 name: seo-multipagina-auditoria
-description: Usar para añadir páginas internas, blog y SEO técnico a una web existente y auditarla (UI/UX, accesibilidad, SEO). Gatillos - "SEO", "multipágina", "blog", "sitemap", "JSON-LD", "auditoría SEO", "meta tags", "accessibility audit".
+description: 'Usar para añadir páginas internas, blog y SEO técnico a una web existente y auditarla (UI/UX, accesibilidad, SEO). Gatillos - "SEO", "multipágina", "blog", "sitemap", "JSON-LD", "auditoría SEO", "meta tags", "accessibility audit".'
 ---
 
 # SEO multipágina y auditoría

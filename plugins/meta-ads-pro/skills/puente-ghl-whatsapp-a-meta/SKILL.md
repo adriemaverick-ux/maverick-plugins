@@ -1,6 +1,6 @@
 ---
 name: puente-ghl-whatsapp-a-meta
-description: Cómo hacer que las ventas cerradas por WhatsApp en GoHighLevel (GHL) le lleguen a Meta con el ctwa_clid, usando un puente propio en Vercel, porque GHL no envía eventos de mensajería a la API de conversiones. Usar al conectar GHL con Meta Ads, al medir anuncios Click-to-WhatsApp vendidos en GHL o con "GHL Meta", "puente", "ctwa_clid GHL", "QualifiedLead desde GHL", "Compró en el pipeline".
+description: 'Cómo hacer que las ventas cerradas por WhatsApp en GoHighLevel (GHL) le lleguen a Meta con el ctwa_clid, usando un puente propio en Vercel, porque GHL no envía eventos de mensajería a la API de conversiones. Usar al conectar GHL con Meta Ads, al medir anuncios Click-to-WhatsApp vendidos en GHL o con "GHL Meta", "puente", "ctwa_clid GHL", "QualifiedLead desde GHL", "Compró en el pipeline".'
 ---
 
 # Puente GHL → Meta para ventas por WhatsApp

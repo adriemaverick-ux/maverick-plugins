@@ -1,6 +1,6 @@
 ---
 name: registro-en-boveda
-description: Usar al empezar y al terminar cualquier tarea de Maverick para registrarla en la bóveda de Obsidian "Maverick MP" sin pisar el trabajo de Codex. Triggers - "registrar en la bóveda", "bitácora", "guardar en Obsidian", "log this in the vault", "antes de terminar".
+description: 'Usar al empezar y al terminar cualquier tarea de Maverick para registrarla en la bóveda de Obsidian "Maverick MP" sin pisar el trabajo de Codex. Triggers - "registrar en la bóveda", "bitácora", "guardar en Obsidian", "log this in the vault", "antes de terminar".'
 ---
 
 # Registro en la bóveda

@@ -1,5 +1,5 @@
 ---
-description: Revisa el pipeline comercial y la comparación de nichos con datos de la bóveda (solo lectura) y propone acciones para aprobar.
+description: 'Revisa el pipeline comercial y la comparación de nichos con datos de la bóveda (solo lectura) y propone acciones para aprobar.'
 argument-hint: "[sector o empresa opcional para enfocar la revisión]"
 ---
 

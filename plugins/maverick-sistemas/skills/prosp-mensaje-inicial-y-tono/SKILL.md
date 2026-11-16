@@ -1,6 +1,6 @@
 ---
 name: prosp-mensaje-inicial-y-tono
-description: Úsalo para redactar el primer mensaje a una empresa de servicios técnicos y las respuestas siguientes, en tono breve y sin exclamaciones. Gatillos: "redacta el mensaje inicial", "primer mensaje", "tono del outreach", "draft first message", "cold message to workshop".
+description: 'Úsalo para redactar el primer mensaje a una empresa de servicios técnicos y las respuestas siguientes, en tono breve y sin exclamaciones. Gatillos: "redacta el mensaje inicial", "primer mensaje", "tono del outreach", "draft first message", "cold message to workshop".'
 ---
 
 # Mensaje inicial y tono

@@ -1,5 +1,5 @@
 ---
-description: Genera el plan de entrega de un piloto aceptado (recepción por WhatsApp, seguimiento de cotizaciones, agenda y próxima visita, panel del dueño, salida y mantenimiento) con pruebas, permisos y costos. No despliega nada.
+description: 'Genera el plan de entrega de un piloto aceptado (recepción por WhatsApp, seguimiento de cotizaciones, agenda y próxima visita, panel del dueño, salida y mantenimiento) con pruebas, permisos y costos. No despliega nada.'
 argument-hint: "[negocio o ruta de la propuesta aceptada]"
 ---
 

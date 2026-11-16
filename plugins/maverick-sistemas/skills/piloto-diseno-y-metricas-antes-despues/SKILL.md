@@ -1,6 +1,6 @@
 ---
 name: piloto-diseno-y-metricas-antes-despues
-description: Úsalo para diseñar el piloto de un cuello de botella con línea base obligatoria, métricas definidas con el dueño, criterio de éxito acordado antes de empezar y cierre con decisión. Gatillos - "diseñar piloto", "línea base", "métricas antes y después", "pilot baseline", "medir el piloto".
+description: 'Úsalo para diseñar el piloto de un cuello de botella con línea base obligatoria, métricas definidas con el dueño, criterio de éxito acordado antes de empezar y cierre con decisión. Gatillos - "diseñar piloto", "línea base", "métricas antes y después", "pilot baseline", "medir el piloto".'
 ---
 
 # Diseño del piloto y métricas antes/después

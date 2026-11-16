@@ -1,6 +1,6 @@
 ---
 name: portal-cambios-clientes
-description: Usar al entregar una web a un cliente y querer controlar sus peticiones de cambio con un formulario propio conectado a Notion u otra base, en vez de chats sueltos. Gatillos - "portal de cambios", "peticiones del cliente", "client requests", "mantenimiento de web", "retainer".
+description: 'Usar al entregar una web a un cliente y querer controlar sus peticiones de cambio con un formulario propio conectado a Notion u otra base, en vez de chats sueltos. Gatillos - "portal de cambios", "peticiones del cliente", "client requests", "mantenimiento de web", "retainer".'
 ---
 
 # Portal de cambios para clientes

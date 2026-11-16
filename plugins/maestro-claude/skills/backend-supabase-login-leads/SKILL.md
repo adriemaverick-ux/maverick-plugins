@@ -1,6 +1,6 @@
 ---
 name: backend-supabase-login-leads
-description: Usar para dar a una web login, dashboard, base de datos y captura de leads (Supabase, webhooks a CRM o email, Stripe en modo prueba). Gatillos - "Supabase", "login", "registro de usuarios", "dashboard con datos", "guardar leads", "webhook GoHighLevel", "RLS", "Stripe sandbox".
+description: 'Usar para dar a una web login, dashboard, base de datos y captura de leads (Supabase, webhooks a CRM o email, Stripe en modo prueba). Gatillos - "Supabase", "login", "registro de usuarios", "dashboard con datos", "guardar leads", "webhook GoHighLevel", "RLS", "Stripe sandbox".'
 ---
 
 # Backend Supabase: login, dashboard y leads

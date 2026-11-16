@@ -1,6 +1,6 @@
 ---
 name: nichos-evaluacion-y-volumen
-description: Cómo evaluar un nicho para Maverick (criterios, veredictos ya obtenidos, método para dimensionar volumen con fuentes y sus límites, y plan de 10 conversaciones de validación). Usar al comparar nichos, decidir a quién vender, estimar cuántos clientes hay o preparar conversaciones de diagnóstico. Gatillos - "nicho", "a quién le vendemos", "volumen", "cuántos hay", "validar", "home services", "dentistas".
+description: 'Cómo evaluar un nicho para Maverick (criterios, veredictos ya obtenidos, método para dimensionar volumen con fuentes y sus límites, y plan de 10 conversaciones de validación). Usar al comparar nichos, decidir a quién vender, estimar cuántos clientes hay o preparar conversaciones de diagnóstico. Gatillos - "nicho", "a quién le vendemos", "volumen", "cuántos hay", "validar", "home services", "dentistas".'
 ---
 
 # Evaluación de nichos y volumen

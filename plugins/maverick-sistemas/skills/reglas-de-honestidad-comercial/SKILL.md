@@ -1,6 +1,6 @@
 ---
 name: reglas-de-honestidad-comercial
-description: Usar al preparar demos, propuestas, mensajes o contenido de Maverick para no fingir que una demo es un sistema instalado y medir antes de prometer. Triggers - "demo", "propuesta", "prometer resultados", "honestidad comercial", "no exagerar", "línea base".
+description: 'Usar al preparar demos, propuestas, mensajes o contenido de Maverick para no fingir que una demo es un sistema instalado y medir antes de prometer. Triggers - "demo", "propuesta", "prometer resultados", "honestidad comercial", "no exagerar", "línea base".'
 ---
 
 # Reglas de honestidad comercial

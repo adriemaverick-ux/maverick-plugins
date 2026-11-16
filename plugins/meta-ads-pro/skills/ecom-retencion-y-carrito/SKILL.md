@@ -1,6 +1,6 @@
 ---
 name: ecom-retencion-y-carrito
-description: Úsala para recuperar carritos abandonados, post-compra, reseñas y recompra en ecommerce de ticket alto, priorizando contacto humano por WhatsApp. Gatillos - "carrito abandonado", "recompra", "post-compra", "reseñas", "email/WhatsApp flows", "abandoned cart", "retention".
+description: 'Úsala para recuperar carritos abandonados, post-compra, reseñas y recompra en ecommerce de ticket alto, priorizando contacto humano por WhatsApp. Gatillos - "carrito abandonado", "recompra", "post-compra", "reseñas", "email/WhatsApp flows", "abandoned cart", "retention".'
 ---
 
 # Retención y carrito en ticket alto

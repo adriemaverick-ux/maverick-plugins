@@ -1,6 +1,6 @@
 ---
 name: contexto-negocio-maverick
-description: Usar al inicio de cualquier tarea de Maverick Sistemas para tener el enfoque vigente, la oferta, los tres sectores sin ganador declarado y el estatus del historial "Diseño y obra". Triggers - "qué hace Maverick", "oferta", "a quién le vendemos", "contexto", "business context", "nicho".
+description: 'Usar al inicio de cualquier tarea de Maverick Sistemas para tener el enfoque vigente, la oferta, los tres sectores sin ganador declarado y el estatus del historial "Diseño y obra". Triggers - "qué hace Maverick", "oferta", "a quién le vendemos", "contexto", "business context", "nicho".'
 ---
 
 # Contexto del negocio

@@ -1,6 +1,6 @@
 ---
 name: guia-de-marca-un-archivo
-description: Genera una guía de marca estable en un solo archivo (paleta, tipografía, logo, voz, reglas) para adjuntar en cada proyecto con Claude. Usar con "guía de marca", "brand guidelines", "brand book", "identidad", "logo", "voz de marca" o "importar marca".
+description: 'Genera una guía de marca estable en un solo archivo (paleta, tipografía, logo, voz, reglas) para adjuntar en cada proyecto con Claude. Usar con "guía de marca", "brand guidelines", "brand book", "identidad", "logo", "voz de marca" o "importar marca".'
 ---
 
 # Guía de marca en un archivo

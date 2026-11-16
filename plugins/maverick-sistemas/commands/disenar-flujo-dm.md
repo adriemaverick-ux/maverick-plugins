@@ -1,5 +1,5 @@
 ---
-description: Diseña un flujo de DM (comentario con palabra clave, story o anuncio) con calificación, consentimiento y escalado a humano. Solo produce el diseño; no activa ni envía nada.
+description: 'Diseña un flujo de DM (comentario con palabra clave, story o anuncio) con calificación, consentimiento y escalado a humano. Solo produce el diseño; no activa ni envía nada.'
 argument-hint: "[nicho: saneamiento|mantenimiento|equipos] [disparador: comentario|story|anuncio] [recurso o palabra clave]"
 ---
 

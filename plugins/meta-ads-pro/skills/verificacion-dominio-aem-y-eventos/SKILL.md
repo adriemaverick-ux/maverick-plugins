@@ -1,6 +1,6 @@
 ---
 name: verificacion-dominio-aem-y-eventos
-description: Usar para verificar el dominio, decidir si aún aplica la priorización de eventos AEM y configurar eventos de valor y conversiones personalizadas. Gatillos - "verificar dominio", "AEM", "Aggregated Event Measurement", "priorizar 8 eventos", "domain verification", "optimización por valor".
+description: 'Usar para verificar el dominio, decidir si aún aplica la priorización de eventos AEM y configurar eventos de valor y conversiones personalizadas. Gatillos - "verificar dominio", "AEM", "Aggregated Event Measurement", "priorizar 8 eventos", "domain verification", "optimización por valor".'
 ---
 
 # Verificación de dominio, AEM y eventos

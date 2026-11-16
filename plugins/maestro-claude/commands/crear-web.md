@@ -1,5 +1,5 @@
 ---
-description: Crea una web o landing de punta a punta (estrategia, plan, diseño, copy, build local) con el pipeline del plugin. No publica.
+description: 'Crea una web o landing de punta a punta (estrategia, plan, diseño, copy, build local) con el pipeline del plugin. No publica.'
 argument-hint: "[negocio o idea] [objetivo: leads | ventas | reservas] [URL de referencia opcional]"
 ---
 

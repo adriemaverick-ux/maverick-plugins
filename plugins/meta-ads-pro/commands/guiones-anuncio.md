@@ -1,5 +1,5 @@
 ---
-description: Escribe guiones de video corto (UGC, demostración, recorrido inmobiliario, testimonio) y variaciones de hooks para Meta Ads
+description: 'Escribe guiones de video corto (UGC, demostración, recorrido inmobiliario, testimonio) y variaciones de hooks para Meta Ads'
 argument-hint: "[formato: ugc|demo|recorrido|testimonio|estatico] [producto o proyecto] [duración en segundos] [nº de variaciones]"
 ---
 

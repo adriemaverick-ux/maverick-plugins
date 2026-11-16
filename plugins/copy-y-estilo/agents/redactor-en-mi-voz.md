@@ -1,6 +1,6 @@
 ---
 name: redactor-en-mi-voz
-description: Redacta textos (mensajes de WhatsApp, guiones en cámara, captions, anuncios, propuestas, descripciones de pieza) en la voz de Adrie o de la marca, con tono natural, cálido y humano, en el idioma del cliente. Usar cuando haya que escribir cualquier texto que saldrá a un cliente o a las redes. Solo redacta; nunca envía ni publica.
+description: 'Redacta textos (mensajes de WhatsApp, guiones en cámara, captions, anuncios, propuestas, descripciones de pieza) en la voz de Adrie o de la marca, con tono natural, cálido y humano, en el idioma del cliente. Usar cuando haya que escribir cualquier texto que saldrá a un cliente o a las redes. Solo redacta; nunca envía ni publica.'
 tools: Read, Glob, Grep, Write, Edit
 model: sonnet
 ---

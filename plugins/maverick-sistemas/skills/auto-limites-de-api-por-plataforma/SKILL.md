@@ -1,6 +1,6 @@
 ---
 name: auto-limites-de-api-por-plataforma
-description: Usar cuando haya que consultar límites, cuotas, tokens o permisos de las APIs de Instagram, Facebook, Threads, YouTube, Google Business Profile, GHL o WhatsApp. Gatillos "límite de la API", "rate limit", "cuota", "API limits", "cuántos posts por día".
+description: 'Usar cuando haya que consultar límites, cuotas, tokens o permisos de las APIs de Instagram, Facebook, Threads, YouTube, Google Business Profile, GHL o WhatsApp. Gatillos "límite de la API", "rate limit", "cuota", "API limits", "cuántos posts por día".'
 ---
 
 # Límites de API por plataforma

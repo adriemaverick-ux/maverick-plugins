@@ -1,6 +1,6 @@
 ---
 name: perfiles-iniciales
-description: Úsala como router para elegir el perfil de voz correcto antes de escribir - Maverick Sistemas, Casa Soyer o Adrie en cámara (provisional). Gatillos - "qué perfil uso", "perfil Maverick", "perfil Casa Soyer", "voz de Adrie", "which style profile".
+description: 'Úsala como router para elegir el perfil de voz correcto antes de escribir - Maverick Sistemas, Casa Soyer o Adrie en cámara (provisional). Gatillos - "qué perfil uso", "perfil Maverick", "perfil Casa Soyer", "voz de Adrie", "which style profile".'
 ---
 
 # Router de perfiles iniciales

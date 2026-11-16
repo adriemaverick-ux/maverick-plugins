@@ -1,6 +1,6 @@
 ---
 name: enrutar-modelo-esfuerzo
-description: Decide qué modelo y nivel de esfuerzo usar por tarea, cuándo usar fan-out paralelo y cuándo pedir una segunda opinión de otro modelo. Úsalo al empezar una tarea o si el gasto es alto. Triggers - /model, effort, esfuerzo, Opus, Sonnet, Haiku, ultra code, subagentes, revisión cruzada.
+description: 'Decide qué modelo y nivel de esfuerzo usar por tarea, cuándo usar fan-out paralelo y cuándo pedir una segunda opinión de otro modelo. Úsalo al empezar una tarea o si el gasto es alto. Triggers - /model, effort, esfuerzo, Opus, Sonnet, Haiku, ultra code, subagentes, revisión cruzada.'
 ---
 
 # Enrutar modelo y esfuerzo por tarea

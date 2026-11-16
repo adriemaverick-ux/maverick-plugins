@@ -1,6 +1,6 @@
 ---
 name: saas-embudos
-description: Elige y estructura el embudo de un SaaS en Meta: prueba gratis, demo, lead magnet, webinar, WhatsApp y calificación de leads. Usar cuando pregunten "trial o demo", "embudo SaaS", "lead ads vs landing", "SaaS funnel", "calificar leads", "WhatsApp para SaaS".
+description: 'Elige y estructura el embudo de un SaaS en Meta: prueba gratis, demo, lead magnet, webinar, WhatsApp y calificación de leads. Usar cuando pregunten "trial o demo", "embudo SaaS", "lead ads vs landing", "SaaS funnel", "calificar leads", "WhatsApp para SaaS".'
 ---
 
 # SaaS: embudos (trial, demo, lead magnet, webinar, WhatsApp)

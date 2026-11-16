@@ -1,6 +1,6 @@
 ---
 name: b2b-duenos-mundo-hispano
-description: Cómo llegarle con Meta Ads a dueños de empresas de servicio técnico (control de plagas primero) en todo el mundo hispano con poco presupuesto - qué países juntar, CPM por país, idioma, segmentación amplia con el anuncio como filtro, precios en US$ y pagos por país. Usar al elegir países, al armar la segmentación o con "qué países", "CPM por país", "llegar a dueños", "B2B en Meta", "segmentar por idioma".
+description: 'Cómo llegarle con Meta Ads a dueños de empresas de servicio técnico (control de plagas primero) en todo el mundo hispano con poco presupuesto - qué países juntar, CPM por país, idioma, segmentación amplia con el anuncio como filtro, precios en US$ y pagos por país. Usar al elegir países, al armar la segmentación o con "qué países", "CPM por país", "llegar a dueños", "B2B en Meta", "segmentar por idioma".'
 ---
 
 # Dueños de empresas en el mundo hispano (B2B en Meta)

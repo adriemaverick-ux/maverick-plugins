@@ -1,6 +1,6 @@
 ---
 name: no-improvisar
-description: Regla permanente de Adrie (2026-10-13) - NUNCA improvisar. Antes de responder, escribir, decidir o construir algo, revisar bien lo que ya existe en los plugins (skills, comandos, agentes) y en las bóvedas de Obsidian (Maverick MP y Casa Soyer), usarlo tal cual y, si algo no se sabe, investigarlo con fuentes o preguntar; nunca inventar estructuras, frases, cifras, precios, nombres ni funciones de herramientas. Usar SIEMPRE, al empezar cualquier tarea y antes de entregarla. Gatillos - cualquier tarea, "guion", "hook", "plantilla", "formato", "decisión", "investiga", "arma", "crea".
+description: 'Regla permanente de Adrie (2026-10-13) - NUNCA improvisar. Antes de responder, escribir, decidir o construir algo, revisar bien lo que ya existe en los plugins (skills, comandos, agentes) y en las bóvedas de Obsidian (Maverick MP y Casa Soyer), usarlo tal cual y, si algo no se sabe, investigarlo con fuentes o preguntar; nunca inventar estructuras, frases, cifras, precios, nombres ni funciones de herramientas. Usar SIEMPRE, al empezar cualquier tarea y antes de entregarla. Gatillos - cualquier tarea, "guion", "hook", "plantilla", "formato", "decisión", "investiga", "arma", "crea".'
 ---
 
 # Nunca improvisar (regla número uno)

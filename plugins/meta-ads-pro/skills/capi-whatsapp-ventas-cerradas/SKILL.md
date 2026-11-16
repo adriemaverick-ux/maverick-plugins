@@ -1,6 +1,6 @@
 ---
 name: capi-whatsapp-ventas-cerradas
-description: Usar para medir y optimizar anuncios Click-to-WhatsApp (CTWA) enviando a Meta las conversiones reales (QualifiedLead, Purchase) desde tu CRM con ctwa_clid. Gatillos - "ctwa_clid", "CAPI WhatsApp", "ventas cerradas por WhatsApp", "business messaging", "enviar compra desde CRM".
+description: 'Usar para medir y optimizar anuncios Click-to-WhatsApp (CTWA) enviando a Meta las conversiones reales (QualifiedLead, Purchase) desde tu CRM con ctwa_clid. Gatillos - "ctwa_clid", "CAPI WhatsApp", "ventas cerradas por WhatsApp", "business messaging", "enviar compra desde CRM".'
 ---
 
 # CAPI para WhatsApp: ventas cerradas

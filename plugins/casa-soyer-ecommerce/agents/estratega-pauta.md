@@ -1,6 +1,6 @@
 ---
 name: estratega-pauta
-description: Define estrategia y estructura de pauta Meta/Google para Casa Soyer optimizando por WhatsApp, con presupuesto de prueba y criterios de corte.
+description: 'Define estrategia y estructura de pauta Meta/Google para Casa Soyer optimizando por WhatsApp, con presupuesto de prueba y criterios de corte.'
 tools: Read, Grep, Glob, WebSearch, WebFetch
 model: opus
 ---

@@ -1,6 +1,6 @@
 ---
 name: auto-flujo-comentario-a-dm-con-palabra-clave
-description: Usar para diseñar el flujo "comenta una palabra y te envío X" en Instagram (respuesta privada por comentario), con ejemplo para saneamiento, mantenimiento técnico y equipos. Gatillos "comentario a DM", "comment to DM", "palabra clave", "lead magnet por Instagram", "SISTEMA".
+description: 'Usar para diseñar el flujo "comenta una palabra y te envío X" en Instagram (respuesta privada por comentario), con ejemplo para saneamiento, mantenimiento técnico y equipos. Gatillos "comentario a DM", "comment to DM", "palabra clave", "lead magnet por Instagram", "SISTEMA".'
 ---
 
 # Flujo comentario a DM con palabra clave

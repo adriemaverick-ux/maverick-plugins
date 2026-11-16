@@ -1,6 +1,6 @@
 ---
 name: memoria-del-negocio
-description: Mantener al día la memoria del negocio en la bóveda - enfoque vigente, decisiones fechadas, reglas del dueño y estado de cada línea - para que cualquier sesión empiece con el contexto correcto. Usar cuando cambie una decisión, al inicio de proyectos o al detectar notas contradictorias. Gatillos - "enfoque vigente", "actualiza el inicio", "decisión", "contexto del negocio".
+description: 'Mantener al día la memoria del negocio en la bóveda - enfoque vigente, decisiones fechadas, reglas del dueño y estado de cada línea - para que cualquier sesión empiece con el contexto correcto. Usar cuando cambie una decisión, al inicio de proyectos o al detectar notas contradictorias. Gatillos - "enfoque vigente", "actualiza el inicio", "decisión", "contexto del negocio".'
 ---
 
 # Memoria del negocio

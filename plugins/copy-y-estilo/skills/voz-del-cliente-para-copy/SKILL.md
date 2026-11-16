@@ -1,6 +1,6 @@
 ---
 name: voz-del-cliente-para-copy
-description: Úsala para escribir copy con las palabras literales del cliente (chats, reseñas, entrevistas) y para etiquetar qué frases ya están validadas y cuáles son hipótesis. Gatillos - "voz del cliente", "sus palabras", "voice of customer", "frases del cliente", "entrevistas".
+description: 'Úsala para escribir copy con las palabras literales del cliente (chats, reseñas, entrevistas) y para etiquetar qué frases ya están validadas y cuáles son hipótesis. Gatillos - "voz del cliente", "sus palabras", "voice of customer", "frases del cliente", "entrevistas".'
 ---
 
 # Voz del cliente para copy

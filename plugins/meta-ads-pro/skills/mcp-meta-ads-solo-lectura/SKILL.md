@@ -1,6 +1,6 @@
 ---
 name: mcp-meta-ads-solo-lectura
-description: Úsala para elegir y conectar un MCP o CLI de Meta Ads con Claude (oficial, Pipeboard, Adspirer, Porter, claude-ads), con riesgos, y cómo empezar de forma segura en solo lectura. Gatillos - "conectar Meta Ads a Claude", "MCP de Meta", "Pipeboard", "Adspirer", "Porter", "solo lectura", "connect Meta Ads MCP".
+description: 'Úsala para elegir y conectar un MCP o CLI de Meta Ads con Claude (oficial, Pipeboard, Adspirer, Porter, claude-ads), con riesgos, y cómo empezar de forma segura en solo lectura. Gatillos - "conectar Meta Ads a Claude", "MCP de Meta", "Pipeboard", "Adspirer", "Porter", "solo lectura", "connect Meta Ads MCP".'
 ---
 
 # MCP de Meta Ads en solo lectura

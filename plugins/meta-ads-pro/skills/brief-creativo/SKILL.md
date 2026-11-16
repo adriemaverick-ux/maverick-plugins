@@ -1,6 +1,6 @@
 ---
 name: brief-creativo
-description: Usar para redactar el brief creativo de un anuncio o batería de anuncios de Meta, con objetivo, insight, concepto, hooks, prueba, oferta, CTA, specs y plan de prueba. Gatillos - "brief creativo", "creative brief", "preparar brief para el editor/creador", "brief de anuncio".
+description: 'Usar para redactar el brief creativo de un anuncio o batería de anuncios de Meta, con objetivo, insight, concepto, hooks, prueba, oferta, CTA, specs y plan de prueba. Gatillos - "brief creativo", "creative brief", "preparar brief para el editor/creador", "brief de anuncio".'
 ---
 
 # Brief creativo

@@ -1,6 +1,6 @@
 ---
 name: web-3d-scroll-animado
-description: Usar para webs con hero impactante - animación ligada al scroll (imagen inicial, final y video de transición) o un asset 3D (Spline). Gatillos - "hero animado", "scroll animation", "web 3D", "Spline", "start/end frame", "video en scroll".
+description: 'Usar para webs con hero impactante - animación ligada al scroll (imagen inicial, final y video de transición) o un asset 3D (Spline). Gatillos - "hero animado", "scroll animation", "web 3D", "Spline", "start/end frame", "video en scroll".'
 ---
 
 # Web 3D y hero con scroll animado

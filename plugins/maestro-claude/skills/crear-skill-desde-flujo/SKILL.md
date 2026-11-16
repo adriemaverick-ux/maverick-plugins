@@ -1,6 +1,6 @@
 ---
 name: crear-skill-desde-flujo
-description: Convierte un flujo que ya funcionó en un skill reutilizable usando skill-creator, con pruebas y bucle de mejora. Úsalo cuando repitas una tarea o termines algo bien hecho. Triggers - crear skill, skill creator, conviértelo en skill, SKILL.md, automatizar flujo, super skill.
+description: 'Convierte un flujo que ya funcionó en un skill reutilizable usando skill-creator, con pruebas y bucle de mejora. Úsalo cuando repitas una tarea o termines algo bien hecho. Triggers - crear skill, skill creator, conviértelo en skill, SKILL.md, automatizar flujo, super skill.'
 ---
 
 # Crear un skill desde un flujo probado

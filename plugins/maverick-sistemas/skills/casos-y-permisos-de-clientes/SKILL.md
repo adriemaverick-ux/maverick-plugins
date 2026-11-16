@@ -1,6 +1,6 @@
 ---
 name: casos-y-permisos-de-clientes
-description: Usar antes de mencionar o mostrar a un cliente (Galecc Service, El Profe Automotriz, MEC_MOTOR SAC, Casa Soyer u otro) en contenido, propuestas o bóveda. Define qué requiere autorización y qué se puede decir de forma descriptiva. Triggers - "caso de éxito", "mostrar cliente", "permiso", "testimonio", "case study", "usar logo".
+description: 'Usar antes de mencionar o mostrar a un cliente (Galecc Service, El Profe Automotriz, MEC_MOTOR SAC, Casa Soyer u otro) en contenido, propuestas o bóveda. Define qué requiere autorización y qué se puede decir de forma descriptiva. Triggers - "caso de éxito", "mostrar cliente", "permiso", "testimonio", "case study", "usar logo".'
 ---
 
 # Casos y permisos de clientes

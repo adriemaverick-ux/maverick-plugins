@@ -1,6 +1,6 @@
 ---
 name: formatos-trial-reels-y-colaboracion
-description: Formatos poco usados que ayudan a un anunciante chico - Trial Reels para probar hooks gratis con público frío, usar un Reel orgánico existente como anuncio, y anuncios de colaboración (partnership ads) con un socio del rubro. Usar con "Trial Reels", "prueba de reels", "usar publicación existente", "promocionar un Reel", "partnership ads", "anuncio de colaboración".
+description: 'Formatos poco usados que ayudan a un anunciante chico - Trial Reels para probar hooks gratis con público frío, usar un Reel orgánico existente como anuncio, y anuncios de colaboración (partnership ads) con un socio del rubro. Usar con "Trial Reels", "prueba de reels", "usar publicación existente", "promocionar un Reel", "partnership ads", "anuncio de colaboración".'
 ---
 
 # Trial Reels, publicación existente y colaboración

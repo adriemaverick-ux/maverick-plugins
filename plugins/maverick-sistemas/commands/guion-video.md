@@ -1,5 +1,5 @@
 ---
-description: Prepara el borrador de guion de un video en cámara de Maverick (gancho, situación del dueño, un paso práctico, CTA) con variantes de gancho y copy por canal.
+description: 'Prepara el borrador de guion de un video en cámara de Maverick (gancho, situación del dueño, un paso práctico, CTA) con variantes de gancho y copy por canal.'
 argument-hint: "[sector: saneamiento|mantenimiento|equipos] [problema] [formato: reel|largo]"
 ---
 

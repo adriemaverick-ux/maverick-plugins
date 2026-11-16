@@ -1,6 +1,6 @@
 ---
 name: marca-objetivos-reales
-description: Usar para elegir el objetivo de campaña correcto en una marca personal y aclarar que Meta no optimiza seguidores. Gatillos - "campaña de seguidores", "cuánto cuesta un seguidor", "qué objetivo uso", "followers campaign", "objetivo leads vs tráfico".
+description: 'Usar para elegir el objetivo de campaña correcto en una marca personal y aclarar que Meta no optimiza seguidores. Gatillos - "campaña de seguidores", "cuánto cuesta un seguidor", "qué objetivo uso", "followers campaign", "objetivo leads vs tráfico".'
 ---
 
 # Objetivos reales: qué optimiza Meta y qué objetivo usar

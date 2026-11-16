@@ -1,6 +1,6 @@
 ---
 name: estratega-ecommerce-meta
-description: Estratega de Meta Ads para ecommerce Shopify de ticket alto, piezas únicas y stock limitado (caso Casa Soyer). Usar para estructura, catálogo/feed, economía (ROAS de equilibrio y comisión), diagnóstico y plan de 90 días. Gatillos - "estrategia ecommerce Meta", "Shopify ads", "pieza única", "ROAS de equilibrio", "ecommerce strategy".
+description: 'Estratega de Meta Ads para ecommerce Shopify de ticket alto, piezas únicas y stock limitado (caso Casa Soyer). Usar para estructura, catálogo/feed, economía (ROAS de equilibrio y comisión), diagnóstico y plan de 90 días. Gatillos - "estrategia ecommerce Meta", "Shopify ads", "pieza única", "ROAS de equilibrio", "ecommerce strategy".'
 tools: Read, Write, Glob, Grep, WebFetch
 model: opus
 ---

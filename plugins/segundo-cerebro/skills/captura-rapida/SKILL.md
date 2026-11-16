@@ -1,6 +1,6 @@
 ---
 name: captura-rapida
-description: Captura rápida de una idea, dato o tarea suelta en la bóveda sin interrumpir el trabajo. Usar cuando Adrie diga "anota esto", "apunta", "para no olvidar", "idea". Gatillos - "captura", "inbox", "anota".
+description: 'Captura rápida de una idea, dato o tarea suelta en la bóveda sin interrumpir el trabajo. Usar cuando Adrie diga "anota esto", "apunta", "para no olvidar", "idea". Gatillos - "captura", "inbox", "anota".'
 ---
 
 # Captura rápida

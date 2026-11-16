@@ -1,6 +1,6 @@
 ---
 name: guion-video-corto
-description: Usar para escribir guiones de video corto (Reels/Stories) para Meta Ads en formatos UGC problema-solución, demostración de producto, recorrido inmobiliario, testimonio/founder y estático. Gatillos - "guion", "script", "video de 30 segundos", "Reels", "UGC script", "guion de recorrido".
+description: 'Usar para escribir guiones de video corto (Reels/Stories) para Meta Ads en formatos UGC problema-solución, demostración de producto, recorrido inmobiliario, testimonio/founder y estático. Gatillos - "guion", "script", "video de 30 segundos", "Reels", "UGC script", "guion de recorrido".'
 ---
 
 # Guion de video corto

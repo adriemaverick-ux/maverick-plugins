@@ -1,6 +1,6 @@
 ---
 name: produccion-estilo-split-animado
-description: Formato Kallaway de los Reels de Maverick - gráfico animado arriba (HyperFrames) y la cara de Adrie siempre en una caja rectangular abajo, con titular de dos pesos, cursor animado y subtítulo de una palabra; trae tres prototipos renderizables (crema y dark) con las medidas medidas de la referencia. Usar al crear o adaptar escenas animadas, al pedir "formato Kallaway", "estilo split", "pantalla dividida" o al convertir un guion en escenas animadas.
+description: 'Formato Kallaway de los Reels de Maverick - gráfico animado arriba (HyperFrames) y la cara de Adrie siempre en una caja rectangular abajo, con titular de dos pesos, cursor animado y subtítulo de una palabra; trae tres prototipos renderizables (crema y dark) con las medidas medidas de la referencia. Usar al crear o adaptar escenas animadas, al pedir "formato Kallaway", "estilo split", "pantalla dividida" o al convertir un guion en escenas animadas.'
 ---
 
 # Formato Kallaway (gráfico animado arriba, cara abajo)

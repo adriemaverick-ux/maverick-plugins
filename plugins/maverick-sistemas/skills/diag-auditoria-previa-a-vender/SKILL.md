@@ -1,6 +1,6 @@
 ---
 name: diag-auditoria-previa-a-vender
-description: Úsalo para decidir cuánto diagnóstico hacer antes de proponer (revisión ligera, mini-diagnóstico o auditoría corta) y qué prácticas de los videos de Jack Roberts se pueden adoptar con cautela. Gatillos - "auditoría previa", "diagnóstico pagado", "mini diagnóstico", "audit before selling", "piloto gratis sí o no".
+description: 'Úsalo para decidir cuánto diagnóstico hacer antes de proponer (revisión ligera, mini-diagnóstico o auditoría corta) y qué prácticas de los videos de Jack Roberts se pueden adoptar con cautela. Gatillos - "auditoría previa", "diagnóstico pagado", "mini diagnóstico", "audit before selling", "piloto gratis sí o no".'
 ---
 
 # Auditoría previa a vender

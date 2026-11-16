@@ -1,6 +1,6 @@
 ---
-description: Diseña y construye una web o landing con design system, anti-slop y QA, orquestando las skills de Claude Design.
-argument-hint: <descripción del negocio> [URL de referencia] [URL del sitio actual]
+description: 'Diseña y construye una web o landing con design system, anti-slop y QA, orquestando las skills de Claude Design.'
+argument-hint: '<descripción del negocio> [URL de referencia] [URL del sitio actual]'
 ---
 
 Usa el subagente `disenador-claude-design` para diseñar una web con este encargo: $ARGUMENTS

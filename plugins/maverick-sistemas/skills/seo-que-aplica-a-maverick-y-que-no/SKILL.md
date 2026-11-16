@@ -1,6 +1,6 @@
 ---
 name: seo-que-aplica-a-maverick-y-que-no
-description: Usar para decidir qué SEO y qué canales de Google aplican a la propia marca Maverick Sistemas (web y YouTube sí; ficha de Google Maps probablemente no). Gatillos "ficha de Google para Maverick", "SEO de Maverick", "¿puedo tener Google Maps?", "elegibilidad Google Business Profile", "SEO for a remote software company".
+description: 'Usar para decidir qué SEO y qué canales de Google aplican a la propia marca Maverick Sistemas (web y YouTube sí; ficha de Google Maps probablemente no). Gatillos "ficha de Google para Maverick", "SEO de Maverick", "¿puedo tener Google Maps?", "elegibilidad Google Business Profile", "SEO for a remote software company".'
 ---
 
 # SEO para Maverick: qué aplica y qué no

@@ -1,6 +1,6 @@
 ---
 name: saas-escala-y-techos
-description: Explica cuánto gasto absorbe Meta para un SaaS antes de saturar: los 4 limitantes en orden y el techo en Perú con supuestos explícitos. Usar con "cuánto puedo escalar", "techo de mercado Perú", "scale Meta ads SaaS", "saturación de audiencia", "cuándo subir presupuesto".
+description: 'Explica cuánto gasto absorbe Meta para un SaaS antes de saturar: los 4 limitantes en orden y el techo en Perú con supuestos explícitos. Usar con "cuánto puedo escalar", "techo de mercado Perú", "scale Meta ads SaaS", "saturación de audiencia", "cuándo subir presupuesto".'
 ---
 
 # SaaS: escala y techos

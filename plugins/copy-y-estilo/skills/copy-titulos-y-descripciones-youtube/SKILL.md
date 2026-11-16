@@ -1,6 +1,6 @@
 ---
 name: copy-titulos-y-descripciones-youtube
-description: Escribe títulos, texto de miniatura y descripciones de YouTube para videos de Maverick y Casa Soyer. Usar al publicar o renombrar un video. Gatillos - "título de YouTube", "descripción", "miniatura", "capítulos", "YouTube title".
+description: 'Escribe títulos, texto de miniatura y descripciones de YouTube para videos de Maverick y Casa Soyer. Usar al publicar o renombrar un video. Gatillos - "título de YouTube", "descripción", "miniatura", "capítulos", "YouTube title".'
 ---
 
 # Títulos y descripciones de YouTube

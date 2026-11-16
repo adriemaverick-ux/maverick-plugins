@@ -1,6 +1,6 @@
 ---
 name: saas-economia-cac-ltv-payback
-description: Calcula LTV, CAC objetivo, CAC payback, CPL máximo y ROAS de equilibrio para una suscripción SaaS, con ejemplo numérico y marcadores. Usar con "CAC LTV SaaS", "payback", "ROAS de equilibrio suscripción", "cuánto puedo pagar por cliente", "unit economics".
+description: 'Calcula LTV, CAC objetivo, CAC payback, CPL máximo y ROAS de equilibrio para una suscripción SaaS, con ejemplo numérico y marcadores. Usar con "CAC LTV SaaS", "payback", "ROAS de equilibrio suscripción", "cuánto puedo pagar por cliente", "unit economics".'
 ---
 
 # SaaS: economía (CAC, LTV, payback, ROAS de equilibrio)

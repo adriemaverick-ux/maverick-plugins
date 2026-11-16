@@ -1,6 +1,6 @@
 ---
 name: fabrica-de-anuncios
-description: Cómo pasar de un guion a varios anuncios listos para Meta con el sistema de edición de Maverick (HyperFrames + ffmpeg, formato definitivo de pantalla dividida) - un video por hook, versiones 9:16 y 4:5, zonas seguras de anuncios, final para anuncio, nombres y parámetros de URL. Usar al producir anuncios, o con "fábrica de anuncios", "versiones del anuncio", "exportar para ads", "zona segura", "4:5".
+description: 'Cómo pasar de un guion a varios anuncios listos para Meta con el sistema de edición de Maverick (HyperFrames + ffmpeg, formato definitivo de pantalla dividida) - un video por hook, versiones 9:16 y 4:5, zonas seguras de anuncios, final para anuncio, nombres y parámetros de URL. Usar al producir anuncios, o con "fábrica de anuncios", "versiones del anuncio", "exportar para ads", "zona segura", "4:5".'
 ---
 
 # Fábrica de anuncios

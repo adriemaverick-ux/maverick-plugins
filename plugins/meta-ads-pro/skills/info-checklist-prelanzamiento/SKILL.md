@@ -1,6 +1,6 @@
 ---
 name: info-checklist-prelanzamiento
-description: Checklist y prueba de 4 semanas antes y durante el lanzamiento de una campaña de infoproducto en Meta. Usar antes de publicar o cuando se pida "checklist de lanzamiento", "plan de 4 semanas", "pre-launch checklist course".
+description: 'Checklist y prueba de 4 semanas antes y durante el lanzamiento de una campaña de infoproducto en Meta. Usar antes de publicar o cuando se pida "checklist de lanzamiento", "plan de 4 semanas", "pre-launch checklist course".'
 ---
 
 # Checklist de prelanzamiento y prueba de 4 semanas

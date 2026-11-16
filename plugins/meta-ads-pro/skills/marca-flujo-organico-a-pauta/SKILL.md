@@ -1,6 +1,6 @@
 ---
 name: marca-flujo-organico-a-pauta
-description: Usar para decidir qué contenido orgánico de una marca personal merece pauta y cómo pasarlo a un embudo medido. Gatillos - "promocionar un Reel", "boost vs Ads Manager", "organic to paid", "qué post pautar", "amplificar contenido".
+description: 'Usar para decidir qué contenido orgánico de una marca personal merece pauta y cómo pasarlo a un embudo medido. Gatillos - "promocionar un Reel", "boost vs Ads Manager", "organic to paid", "qué post pautar", "amplificar contenido".'
 ---
 
 # Flujo: del orgánico que ya gana a la pauta y al embudo medido

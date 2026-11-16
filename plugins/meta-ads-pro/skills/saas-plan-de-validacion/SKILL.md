@@ -1,6 +1,6 @@
 ---
 name: saas-plan-de-validacion
-description: Diseña una prueba pequeña de 60-90 días para validar si Meta sirve a un SaaS antes de invertir en serio, sin montos fijos y con criterios de corte. Usar con "validar SaaS en Meta", "plan de prueba SaaS", "cómo empiezo sin casos", "test before scaling", "primer presupuesto de prueba".
+description: 'Diseña una prueba pequeña de 60-90 días para validar si Meta sirve a un SaaS antes de invertir en serio, sin montos fijos y con criterios de corte. Usar con "validar SaaS en Meta", "plan de prueba SaaS", "cómo empiezo sin casos", "test before scaling", "primer presupuesto de prueba".'
 ---
 
 # SaaS: plan de validación

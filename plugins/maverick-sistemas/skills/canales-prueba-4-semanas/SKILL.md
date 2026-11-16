@@ -1,6 +1,6 @@
 ---
 name: canales-prueba-4-semanas
-description: Diseña y evalúa la prueba de 4 semanas por canal y formato, midiendo conversaciones calificadas por 1.000 alcanzadas y siendo honesto sobre la significancia. Usar para "medir canales", "test de 4 semanas", "qué canal ganó", "reporte de prueba".
+description: 'Diseña y evalúa la prueba de 4 semanas por canal y formato, midiendo conversaciones calificadas por 1.000 alcanzadas y siendo honesto sobre la significancia. Usar para "medir canales", "test de 4 semanas", "qué canal ganó", "reporte de prueba".'
 ---
 
 # Prueba de 4 semanas por canal

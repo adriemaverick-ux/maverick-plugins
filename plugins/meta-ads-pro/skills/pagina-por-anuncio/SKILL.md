@@ -1,6 +1,6 @@
 ---
 name: pagina-por-anuncio
-description: Cómo hacer que la página de destino repita el gancho del anuncio (coherencia anuncio–página) de forma barata, con título dinámico por parámetro de URL y medición por anuncio con {{ad.id}}, y cuándo no vale la pena. Usar al crear landings para anuncios, o con "landing por anuncio", "message match", "página de destino", "parámetros de URL", "utm_content".
+description: 'Cómo hacer que la página de destino repita el gancho del anuncio (coherencia anuncio–página) de forma barata, con título dinámico por parámetro de URL y medición por anuncio con {{ad.id}}, y cuándo no vale la pena. Usar al crear landings para anuncios, o con "landing por anuncio", "message match", "página de destino", "parámetros de URL", "utm_content".'
 ---
 
 # Página por anuncio (coherencia anuncio–página)

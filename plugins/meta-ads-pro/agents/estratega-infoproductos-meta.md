@@ -1,6 +1,6 @@
 ---
 name: estratega-infoproductos-meta
-description: Estratega de Meta Ads para infoproductos (cursos, mentorías, comunidades, plantillas, cohortes) con foco en Perú. Usar para elegir embudo, economía, cumplimiento de políticas, CAPI y plan de prueba. Gatillos - "infoproducto", "curso online", "lanzamiento", "info product Meta Ads".
+description: 'Estratega de Meta Ads para infoproductos (cursos, mentorías, comunidades, plantillas, cohortes) con foco en Perú. Usar para elegir embudo, economía, cumplimiento de políticas, CAPI y plan de prueba. Gatillos - "infoproducto", "curso online", "lanzamiento", "info product Meta Ads".'
 tools: Read, Write, Glob, Grep, WebFetch
 model: sonnet
 ---

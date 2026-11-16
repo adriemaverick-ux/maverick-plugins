@@ -1,6 +1,6 @@
 ---
 name: auto-escalado-a-humano-y-calificacion
-description: Usar al definir cuándo el bot debe pasar la conversación a una persona y cómo calificar leads por DM o WhatsApp. Gatillos "escalar a humano", "handoff", "calificar leads", "lead calificado", "pausar bot", "human takeover".
+description: 'Usar al definir cuándo el bot debe pasar la conversación a una persona y cómo calificar leads por DM o WhatsApp. Gatillos "escalar a humano", "handoff", "calificar leads", "lead calificado", "pausar bot", "human takeover".'
 ---
 
 # Escalado a humano y calificación de leads

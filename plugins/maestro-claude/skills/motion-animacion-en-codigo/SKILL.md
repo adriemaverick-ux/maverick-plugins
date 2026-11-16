@@ -1,6 +1,6 @@
 ---
 name: motion-animacion-en-codigo
-description: Crea motion graphics, loops, animaciones de producto y video programático en código (HTML/CSS/JS, Remotion) con marca real. Usar con "animación", "motion", "loop", "Remotion", "subtítulos animados", "hero animado", "reel", "logo animado" o "micro-interacciones".
+description: 'Crea motion graphics, loops, animaciones de producto y video programático en código (HTML/CSS/JS, Remotion) con marca real. Usar con "animación", "motion", "loop", "Remotion", "subtítulos animados", "hero animado", "reel", "logo animado" o "micro-interacciones".'
 ---
 
 # Motion y animación en código

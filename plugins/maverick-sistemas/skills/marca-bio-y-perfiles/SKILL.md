@@ -1,6 +1,6 @@
 ---
 name: marca-bio-y-perfiles
-description: Usar para redactar, ajustar o verificar bios, nombres visibles, usuarios y descripciones de perfil de Maverick Sistemas en Instagram, Facebook, YouTube, Threads y web. Triggers - "bio", "perfil", "nombre de usuario", "@maverick.sistemas", "profile description", "portada".
+description: 'Usar para redactar, ajustar o verificar bios, nombres visibles, usuarios y descripciones de perfil de Maverick Sistemas en Instagram, Facebook, YouTube, Threads y web. Triggers - "bio", "perfil", "nombre de usuario", "@maverick.sistemas", "profile description", "portada".'
 ---
 
 # Bio y perfiles

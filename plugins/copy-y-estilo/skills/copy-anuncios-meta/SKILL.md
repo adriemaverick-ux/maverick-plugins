@@ -1,6 +1,6 @@
 ---
 name: copy-anuncios-meta
-description: Redacta texto principal, titular, descripción y CTA para anuncios de Meta con destino a WhatsApp, con lo esencial antes del corte de ~125 caracteres. Usar al escribir o revisar copy de un anuncio. Gatillos - "texto del anuncio", "titular", "copy de Meta Ads", "anuncio a WhatsApp", "ad copy".
+description: 'Redacta texto principal, titular, descripción y CTA para anuncios de Meta con destino a WhatsApp, con lo esencial antes del corte de ~125 caracteres. Usar al escribir o revisar copy de un anuncio. Gatillos - "texto del anuncio", "titular", "copy de Meta Ads", "anuncio a WhatsApp", "ad copy".'
 ---
 
 # Copy de anuncios de Meta

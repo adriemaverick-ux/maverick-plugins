@@ -1,6 +1,6 @@
 ---
 name: estratega-saas-meta
-description: Estratega de Meta Ads para software/SaaS (Perú/LatAm). Usar para decidir si Meta sirve a un SaaS, diseñar embudo, evento, economía y plan de validación. Gatillos - "Meta para SaaS", "SaaS en Meta Ads", "validar mi software", "SaaS Meta strategy".
+description: 'Estratega de Meta Ads para software/SaaS (Perú/LatAm). Usar para decidir si Meta sirve a un SaaS, diseñar embudo, evento, economía y plan de validación. Gatillos - "Meta para SaaS", "SaaS en Meta Ads", "validar mi software", "SaaS Meta strategy".'
 tools: Read, Write, Glob, Grep, WebFetch
 model: opus
 ---

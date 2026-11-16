@@ -1,6 +1,6 @@
 ---
 name: comision-margen
-description: Calcula la comisión de Adrie sobre margen bruto de Casa Soyer por venta, por pieza y por periodo, aplicando exclusiones (Adelantos, Falabella) y marcando costos faltantes. Usar al evaluar rentabilidad de pauta, cerrar el mes o negociar el % de comisión.
+description: 'Calcula la comisión de Adrie sobre margen bruto de Casa Soyer por venta, por pieza y por periodo, aplicando exclusiones (Adelantos, Falabella) y marcando costos faltantes. Usar al evaluar rentabilidad de pauta, cerrar el mes o negociar el % de comisión.'
 ---
 
 # Comisión sobre margen bruto

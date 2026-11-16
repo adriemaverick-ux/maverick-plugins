@@ -1,6 +1,6 @@
 ---
 name: seo-analisis-de-sitio-de-referencia
-description: Método para analizar la web y el SEO/SEM de una empresa de referencia y adaptarlo a un cliente (sitemap, robots, etiquetas de la cabecera, datos estructurados, etiquetas de Analytics y Ads, páginas por zona e industria, recursos y llamados a la acción), con sus límites. Usar al estudiar un competidor o modelo (por ejemplo Spectank) o al proponer una web a un cliente. Gatillos - "analiza su web", "SEO de", "copiar su sistema de captación", "sitemap", "Google Ads".
+description: 'Método para analizar la web y el SEO/SEM de una empresa de referencia y adaptarlo a un cliente (sitemap, robots, etiquetas de la cabecera, datos estructurados, etiquetas de Analytics y Ads, páginas por zona e industria, recursos y llamados a la acción), con sus límites. Usar al estudiar un competidor o modelo (por ejemplo Spectank) o al proponer una web a un cliente. Gatillos - "analiza su web", "SEO de", "copiar su sistema de captación", "sitemap", "Google Ads".'
 ---
 
 # Análisis de un sitio de referencia

@@ -1,6 +1,6 @@
 ---
 name: saas-eventos-y-optimizacion
-description: Define qué evento optimizar para un SaaS en Meta, cómo enviar CAPI desde backend/CRM y cómo manejar la regla de ~50 eventos por semana y los ciclos largos. Usar con "qué evento optimizar", "CAPI SaaS", "StartTrial Subscribe", "optimize for trial or paid", "ciclo de venta largo".
+description: 'Define qué evento optimizar para un SaaS en Meta, cómo enviar CAPI desde backend/CRM y cómo manejar la regla de ~50 eventos por semana y los ciclos largos. Usar con "qué evento optimizar", "CAPI SaaS", "StartTrial Subscribe", "optimize for trial or paid", "ciclo de venta largo".'
 ---
 
 # SaaS: eventos y optimización

@@ -1,6 +1,6 @@
 ---
 name: diagnostico-en-events-manager
-description: Usar para diagnosticar problemas de tracking en Events Manager y para correr el checklist de salud técnica de una cuenta. Gatillos - "revisar tracking", "Test Events", "eventos duplicados", "catálogo 0 matched", "checklist de salud técnica", "events manager diagnostics".
+description: 'Usar para diagnosticar problemas de tracking en Events Manager y para correr el checklist de salud técnica de una cuenta. Gatillos - "revisar tracking", "Test Events", "eventos duplicados", "catálogo 0 matched", "checklist de salud técnica", "events manager diagnostics".'
 ---
 
 # Diagnóstico en Events Manager y checklist de salud técnica
