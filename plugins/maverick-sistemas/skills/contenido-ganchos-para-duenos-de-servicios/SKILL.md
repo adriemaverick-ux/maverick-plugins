@@ -15,7 +15,7 @@ Abrir cada video con una situación que el dueño reconozca, hablando como dueñ
 4. Elegir uno; guardar los otros como variante para una prueba deliberada (cambiar **solo** el primer segundo).
 5. Registrar tipo de gancho en la hoja semanal y comparar por grupos de varias piezas, no por un video.
 
-## Plantillas listas (sin cifras, sin clientes reales)
+## Plantillas listas (sin clientes reales; cifras solo ilustrativas, con su cuenta; ver la regla de hooks agresivos de 2026-11-15 en `hooks-escalera-y-hook-del-icp`)
 **Dolor**
 - «Una cotización enviada no es un trabajo ganado ni perdido. Si nadie anota cuándo retomarla, se pierde en el chat.»
 - «El servicio terminó bien, pero nadie agendó la próxima visita.»

@@ -6,6 +6,13 @@ Plugin de Meta Ads construido sobre 11 informes de investigación (2026-10-11) e
 - Base (34): estrategia y auditoría · creativos · medición, Pixel/CAPI y protección de cuenta · WhatsApp, ticket alto, Perú y Claude+IA.
 - Por negocio (32): `ecom-*` (Casa Soyer / Shopify) · `saas-*` · `marca-*` (marca personal) · `info-*` (infoproductos).
 
+## Novedades 1.3.0 (2026-11-15)
+Del curso «Meta Ads con Claude» de Benjamín Cordero (oct-2026), adaptado a Maverick y siempre con la aprobación de Adrie:
+- Skills nuevas: `lego-system-videos-modulares` (una grabación → muchos anuncios, sin IA) y `juez-diario-solo-lectura` (propone apagar, escalar o variar; estructura laboratorio, escala y remarketing).
+- `ciclo-semanal-claude-meta` suma el juez diario.
+- `proteccion-de-cuenta` suma «nunca borrar, solo pausar».
+- `hooks-escalera-y-hook-del-icp`: regla vigente de hooks agresivos, no explicativos, con el dolor medible (cifras ilustrativas con su cuenta).
+
 ## Novedades 1.2.1 (2026-11-14)
 Se suman aprendizajes del tutorial de Meta Ads de Adrián Sáenz y Roger Viladrosa (jul-2024), filtrados contra lo vigente, a `tablero-costo-por-venta`, `ciclo-semanal-claude-meta` y `fabrica-de-anuncios`.
 

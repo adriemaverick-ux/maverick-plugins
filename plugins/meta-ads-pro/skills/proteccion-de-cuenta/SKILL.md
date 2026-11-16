@@ -29,6 +29,10 @@ Reducir el riesgo de restricciones manteniendo identidad, accesos, pagos y conte
 - Subir listas de clientes sin consentimiento o con datos sensibles [oficial].
 - Cambiar tarjeta/titular repetidamente, duplicar o multiplicar por 10 el gasto de un día a otro [analista].
 
+## Regla de Maverick (2026-11-15)
+- **Nunca borrar campañas, conjuntos ni anuncios: solo pausarlos.** Lo borrado no se recupera. Un experto (Benjamín Cordero, oct-2026) borró su campaña real por error.
+- Los creativos nuevos entran **de a pocos** (por ejemplo, 5 por semana) en una cuenta nueva: muchos anuncios por día acumulan revisiones y rechazos.
+
 ## Errores comunes
 - Un solo administrador o el perfil personal como único dueño.
 - Datos de negocio inconsistentes (nombre, dirección, dominio).

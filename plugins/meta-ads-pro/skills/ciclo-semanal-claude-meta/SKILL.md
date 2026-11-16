@@ -47,6 +47,8 @@ Editar con `fabrica-de-anuncios`: un video por hook, formatos 9:16 y 4:5, zonas 
 
 **Revisión mensual extra:** desglose por país, edad y dispositivo. Si un segmento convierte barato, se crean **ángulos para ese segmento** dentro de la misma estructura amplia, sin segmentar a mano.
 
+**Todos los días (Claude, opcional):** el `juez-diario-solo-lectura` revisa el laboratorio y **propone** qué apagar, mantener, escalar o variar. Adrie aprueba y Claude ejecuta solo lo aprobado. **Nunca se borra nada, solo se pausa.**
+
 ## Lo que nunca hace Claude sin aprobación escrita
 Crear, activar, pausar o borrar campañas, cambiar presupuestos, publicar anuncios o mandar mensajes a clientes.
 
