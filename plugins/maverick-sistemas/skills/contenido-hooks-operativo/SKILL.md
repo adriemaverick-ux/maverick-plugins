@@ -3,6 +3,8 @@ name: contenido-hooks-operativo
 description: 'Versión corta del método de ganchos para videos y mensajes de Maverick dirigidos a dueños de empresas de mantenimiento B2B. Usar al reescribir una apertura que suena técnica o genérica. Gatillos - "gancho", "hook", "primera frase", "suena robótico", "reescribe la apertura".'
 ---
 
+> **⭐ Regla de hooks vigente (Adrie, 2026-11-19):** el hook es **crudo, directo y resalta el dolor de forma creativa y medible** (rubro + «puede estar» + pérdida concreta con cuenta en el cuerpo). **Prohibido el hook de «cifra + pregunta»** («Cobras $100. ¿Cuánto te queda?»), también como texto en pantalla. Detalle y ejemplos: skill `hooks-escalera-y-hook-del-icp`.
+
 # Ganchos operativos para empresas de mantenimiento B2B
 
 ## Objetivo

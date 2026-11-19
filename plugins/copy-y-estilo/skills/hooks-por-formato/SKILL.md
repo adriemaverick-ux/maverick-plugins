@@ -3,6 +3,8 @@ name: hooks-por-formato
 description: 'Plantillas de gancho adaptadas a cada formato - video corto, YouTube, título, texto de publicación, anuncio, primer mensaje de WhatsApp y asunto de email. Usar al llevar una misma idea a varios canales ajustando el corte. Gatillos - "hook para Reels", "gancho por canal", "primer mensaje", "asunto de email", "hook per format".'
 ---
 
+> **⭐ Regla de hooks vigente (Adrie, 2026-11-19):** el hook es **crudo, directo y resalta el dolor de forma creativa y medible** (rubro + «puede estar» + pérdida concreta con cuenta en el cuerpo). **Prohibido el hook de «cifra + pregunta»** («Cobras $100. ¿Cuánto te queda?»), también como texto en pantalla. Detalle y ejemplos: skill `hooks-escalera-y-hook-del-icp`.
+
 # Ganchos por formato
 
 ## Objetivo

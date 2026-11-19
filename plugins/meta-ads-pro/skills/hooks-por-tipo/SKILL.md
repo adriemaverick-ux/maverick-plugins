@@ -3,6 +3,8 @@ name: hooks-por-tipo
 description: 'Usar cuando se necesiten ganchos (primeros 3 segundos o primera línea) para anuncios de Meta, por tipo psicológico y adaptados a mueble/hogar, inmobiliaria o genéricos. Gatillos - "hooks", "ganchos", "primeros 3 segundos", "ideas de apertura", "write hooks", "scroll stopper".'
 ---
 
+> **⭐ Regla de hooks vigente (Adrie, 2026-11-19):** el hook es **crudo, directo y resalta el dolor de forma creativa y medible** (rubro + «puede estar» + pérdida concreta con cuenta en el cuerpo). **Prohibido el hook de «cifra + pregunta»** («Cobras $100. ¿Cuánto te queda?»), también como texto en pantalla. Detalle y ejemplos: skill `hooks-escalera-y-hook-del-icp`.
+
 # Hooks por tipo
 
 ## Objetivo

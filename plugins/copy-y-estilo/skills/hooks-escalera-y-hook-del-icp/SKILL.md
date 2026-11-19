@@ -14,6 +14,7 @@ Fuente en la bóveda: `03 - Go-to-market/Sistema de hooks y guiones - índice`, 
 >   - «Cobras 100 por fumigar. Te quedan 12».
 > - **Se permiten cifras ilustrativas en el hook**, con dos condiciones: llevan «puede estar» delante y **una cuenta que las respalda dicha en el cuerpo** (por ejemplo, 3 técnicos × 4 repasos × 2 h ≈ 100 h al mes). Siguen prohibidas las cifras de resultados de clientes, las promesas de ganancia y los testimonios inventados.
 > - Se descartan los hooks suaves o descriptivos («el error común es…», «empezó a dudar»).
+> - **Prohibido (Adrie, 2026-11-19): el hook de «cifra + pregunta».** Por ejemplo «Cobras $100. ¿Cuánto te queda?»: es plano, no duele y suena a pregunta de curso. Esto aplica también al **texto del hook que sale en pantalla**. Nunca una pregunta ni una cuenta suelta: una **afirmación cruda en dos líneas** que clave la pérdida, con «puede estar» delante y la cifra en la segunda línea (en naranja). Ejemplo vigente: «TU EMPRESA DE PLAGAS PUEDE ESTAR / GANANDO SOLO $12 DE CADA $100». Si el hook se parece a «cuánto te queda», se descarta y se escribe otro.
 > - Sin preguntas personales («¿estás quebrado?»).
 > - Fuente: bóveda `03 - Go-to-market/Sistema de hooks y guiones - índice` y `Hooks tanda 1 anuncios - lluvia y elegidos - 2026-11-15` (v2).
 

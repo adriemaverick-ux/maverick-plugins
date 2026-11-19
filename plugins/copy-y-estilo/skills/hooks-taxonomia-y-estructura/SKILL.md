@@ -3,6 +3,8 @@ name: hooks-taxonomia-y-estructura
 description: 'Clasifica y estructura ganchos (hooks) de apertura para video, texto y anuncio. Usar cuando haya que elegir el tipo de gancho, armar los primeros 3 segundos o revisar por qué una apertura no detiene a nadie. Gatillos - "hook", "gancho", "primeros segundos", "tipos de hook", "opening line".'
 ---
 
+> **⭐ Regla de hooks vigente (Adrie, 2026-11-19):** el hook es **crudo, directo y resalta el dolor de forma creativa y medible** (rubro + «puede estar» + pérdida concreta con cuenta en el cuerpo). **Prohibido el hook de «cifra + pregunta»** («Cobras $100. ¿Cuánto te queda?»), también como texto en pantalla. Detalle y ejemplos: skill `hooks-escalera-y-hook-del-icp`.
+
 # Taxonomía y estructura de un gancho
 
 ## Objetivo

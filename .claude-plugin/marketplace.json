@@ -16,7 +16,7 @@
       "name": "copy-y-estilo",
       "source": "./plugins/copy-y-estilo",
       "description": "Copywriting con tu voz: perfiles de estilo personalizados, tono natural, cálido y humano en el idioma de tu cliente, hooks, copy por canal (WhatsApp, video en cámara, YouTube, anuncios, propuestas, lujo) y revisión anti-IA en español. Lo usan los demás plugins para escribir. Solo redacta; nunca envía ni publica.",
-      "version": "1.2.4"
+      "version": "1.2.5"
     },
     {
       "name": "maestro-claude",
@@ -28,13 +28,13 @@
       "name": "maverick-sistemas",
       "source": "./plugins/maverick-sistemas",
       "description": "Maverick Sistemas de punta a punta: marca y voz, contenido en cámara (YouTube, Instagram, Facebook, Threads), prospección, GHL como CRM, diagnóstico, propuestas y piloto, entrega, y automatización de redes con GHL e IA. 69 skills, 10 subagentes, 19 comandos. Basado en tu bóveda de Obsidian, 5 informes de investigación y 43 videos de Jack Roberts. Nada se envía ni publica sin tu confirmación.",
-      "version": "1.9.32"
+      "version": "1.9.33"
     },
     {
       "name": "meta-ads-pro",
       "source": "./plugins/meta-ads-pro",
       "description": "Meta Ads de punta a punta (investigación 2026-10-11, actualizada 2026-11-15): cómo funciona hoy, estrategia y auditoría, creativos, Pixel y API de Conversiones, protección de cuenta, WhatsApp y ticket alto, y el sistema Claude + Meta de Maverick (puente GHL→Meta, valor por lead, fábrica de anuncios, Lego System, juez diario, tablero y ciclo semanal). 81 skills, 9 subagentes, 12 comandos. Solo lectura por defecto; todo gasto o cambio pide aprobación humana.",
-      "version": "1.3.1"
+      "version": "1.3.2"
     },
     {
       "name": "segundo-cerebro",
