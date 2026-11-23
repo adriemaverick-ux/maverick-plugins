@@ -1,6 +1,6 @@
 ---
 name: reglas-guiones-marca-personal
-description: 'Regla permanente de Adrie (2026-11-23) para todos sus guiones de marca personal: sonar como una conversación real con un dueño de control de plagas, situaciones reconocibles, opiniones claras, sin dramatismo ni lenguaje de IA, sin venta ni tutorial en cada video, sin fingir experiencia operativa y sin repetir en voz el hook que ya va en pantalla, y posicionamiento de libertad empresarial para dueños de control de plagas (TOFU/MOFU/BOFU). Usar siempre al escribir o revisar un guion, yapping, caption o texto hablado en su voz.'
+description: 'Regla permanente de Adrie (2026-11-23) para todo guion de su marca personal: conversación real con un dueño de control de plagas, sin dramatismo ni tono de IA, sin tutorial ni venta en cada video, sin fingir experiencia, sin repetir el hook en voz, y posicionamiento de libertad empresarial (TOFU/MOFU/BOFU). Usar siempre al escribir o revisar guiones, yapping o textos hablados en su voz.'
 ---
 
 # Reglas permanentes para los guiones de la marca personal de Adrie
