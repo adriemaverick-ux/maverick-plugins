@@ -3,6 +3,8 @@ name: copy-guion-en-camara-oral
 description: 'Escribe guiones de video corto en cámara (30-60 s) en lenguaje oral, para que Adrie los diga natural. Usar al preparar un Reel, Short o parte de un video largo. Gatillos - "guion", "Reel", "video en cámara", "cómo lo digo", "script for camera".'
 ---
 
+> **⭐ Regla permanente (Adrie, 2026-11-23):** todo guion de su marca personal suena a **una conversación real entre personas**, no a texto hecho para sacar vistas: situaciones reconocibles, opiniones claras, sin dramatismo ni lenguaje de IA, sin tutorial ni venta en cada video, sin fingir experiencia operativa (escenas hipotéticas) y **sin repetir en voz el hook que ya va en pantalla**. Ver la skill `reglas-guiones-marca-personal`.
+
 # Guion en cámara, lenguaje oral
 
 ## Objetivo

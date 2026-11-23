@@ -3,6 +3,8 @@ name: guion-9-bloques
 description: 'Plantilla oficial de guiones de Maverick (Formato C: pizarra estática larga que Adrie desliza, con su cara en una burbuja redonda) basada en el esqueleto de 9 bloques - gancho, punto de no retorno, bloque 1, gancho 2, bloque 2, gancho 3, bloque 3, cierre y CTA. El hook llama al ICP con su rubro y el punto de no retorno hace que el dueño se lo note. Usar al escribir cualquier guion de Reel, Short o video de Maverick. Gatillos - "guion", "script", "plantilla de guion", "9 bloques", "pieza", "hook".'
 ---
 
+> **⭐ Regla permanente (Adrie, 2026-11-23):** todo guion de su marca personal suena a **una conversación real entre personas**, no a texto hecho para sacar vistas: situaciones reconocibles, opiniones claras, sin dramatismo ni lenguaje de IA, sin tutorial ni venta en cada video, sin fingir experiencia operativa (escenas hipotéticas) y **sin repetir en voz el hook que ya va en pantalla**. Ver la skill `reglas-guiones-marca-personal`.
+
 # Guion de 9 bloques
 
 Fuente de verdad en la bóveda: `03 - Go-to-market/Plantilla de guion de 9 bloques` (hoja en blanco, tabla de bloques y reglas) y `Biblioteca de ejemplos/Ejemplos/Reel - Franco Aguilar - Plantilla de guion de 9 bloques`. Primer uso: `Guion pieza 1 - Cotización sin seguimiento`. **Leer antes de escribir.**

@@ -3,6 +3,8 @@ name: marca-voz-y-lenguaje-del-dueno
 description: 'Usar al escribir o reescribir guiones, captions, textos de Threads, mensajes o propuestas de Maverick Sistemas para que suenen a alguien que construye y prueba sistemas, en lenguaje de dueño de empresa de mantenimiento B2B. Triggers - "voz de marca", "guion", "caption", "brand voice", "reescribe en lenguaje simple", "tono Maverick".'
 ---
 
+> **⭐ Regla permanente (Adrie, 2026-11-23):** todo guion de su marca personal suena a **una conversación real entre personas**, no a texto hecho para sacar vistas: situaciones reconocibles, opiniones claras, sin dramatismo ni lenguaje de IA, sin tutorial ni venta en cada video, sin fingir experiencia operativa (escenas hipotéticas) y **sin repetir en voz el hook que ya va en pantalla**. Ver la skill `reglas-guiones-marca-personal`.
+
 # Voz y lenguaje del dueño
 
 ## Objetivo

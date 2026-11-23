@@ -16,7 +16,7 @@
       "name": "copy-y-estilo",
       "source": "./plugins/copy-y-estilo",
       "description": "Copywriting con tu voz: perfiles de estilo personalizados, tono natural, cálido y humano en el idioma de tu cliente, hooks, copy por canal (WhatsApp, video en cámara, YouTube, anuncios, propuestas, lujo) y revisión anti-IA en español. Lo usan los demás plugins para escribir. Solo redacta; nunca envía ni publica.",
-      "version": "1.2.5"
+      "version": "1.2.6"
     },
     {
       "name": "maestro-claude",
@@ -28,7 +28,7 @@
       "name": "maverick-sistemas",
       "source": "./plugins/maverick-sistemas",
       "description": "Maverick Sistemas de punta a punta: marca y voz, contenido en cámara (YouTube, Instagram, Facebook, Threads), prospección, GHL como CRM, diagnóstico, propuestas y piloto, entrega, y automatización de redes con GHL e IA. 69 skills, 10 subagentes, 19 comandos. Basado en tu bóveda de Obsidian, 5 informes de investigación y 43 videos de Jack Roberts. Nada se envía ni publica sin tu confirmación.",
-      "version": "1.9.33"
+      "version": "1.9.34"
     },
     {
       "name": "meta-ads-pro",
